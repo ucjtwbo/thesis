@@ -1,0 +1,115 @@
+\contentsline {chapter}{List of Tables}{5}{chapter*.2}
+\contentsline {chapter}{List of Figures}{6}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{7}{chapter.1}
+\contentsline {subsubsection}{\numberline {1.0.0.1}Chapter outline}{7}{subsubsection.1.0.0.1}
+\contentsline {chapter}{\numberline {2}Background}{10}{chapter.2}
+\contentsline {subsubsection}{\numberline {2.0.0.1}Chapter outline}{10}{subsubsection.2.0.0.1}
+\contentsline {section}{\numberline {2.1}Data entry}{10}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}The perception stage}{11}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.1}Distributed cognition}{11}{subsubsection.2.1.1.1}
+\contentsline {subsubsection}{\numberline {2.1.1.2}External representations}{12}{subsubsection.2.1.1.2}
+\contentsline {subsubsection}{\numberline {2.1.1.3}Memorability of data}{12}{subsubsection.2.1.1.3}
+\contentsline {subsubsection}{\numberline {2.1.1.4}Presenting data in a disfluent manner}{13}{subsubsection.2.1.1.4}
+\contentsline {subsubsection}{\numberline {2.1.1.5}Summary}{14}{subsubsection.2.1.1.5}
+\contentsline {subsection}{\numberline {2.1.2}The encoding stage}{14}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.2.1}Information access cost}{15}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {2.1.2.2}The effect of writing versus typing on the level of encoding}{17}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {2.1.2.3}Summary}{18}{subsubsection.2.1.2.3}
+\contentsline {subsection}{\numberline {2.1.3}The execution stage}{18}{subsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.3.1}Text entry}{18}{subsubsection.2.1.3.1}
+\contentsline {subsubsection}{\numberline {2.1.3.2}Number entry}{19}{subsubsection.2.1.3.2}
+\contentsline {subsubsection}{\numberline {2.1.3.3}Summary}{21}{subsubsection.2.1.3.3}
+\contentsline {subsection}{\numberline {2.1.4}The checking stage}{21}{subsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Double data entry}{22}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}Visual checking}{22}{subsubsection.2.1.4.2}
+\contentsline {subsubsection}{\numberline {2.1.4.3}Lockouts}{23}{subsubsection.2.1.4.3}
+\contentsline {subsubsection}{\numberline {2.1.4.4}Incentives}{24}{subsubsection.2.1.4.4}
+\contentsline {subsubsection}{\numberline {2.1.4.5}Summary}{25}{subsubsection.2.1.4.5}
+\contentsline {section}{\numberline {2.2}Office work}{25}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Reducing information access costs: multiple and larger screens}{25}{subsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Summary}{28}{subsubsection.2.2.1.1}
+\contentsline {subsection}{\numberline {2.2.2}Managing information needs}{28}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Summary}{29}{subsubsection.2.2.2.1}
+\contentsline {section}{\numberline {2.3}Conclusion}{30}{section.2.3}
+\contentsline {chapter}{\numberline {3}Entering expenses in a financial setting}{31}{chapter.3}
+\contentsline {subsubsection}{\numberline {3.0.0.1}Chapter outline}{31}{subsubsection.3.0.0.1}
+\contentsline {section}{\numberline {3.1}Study 1: Understanding data entry work in a financial office}{31}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Introduction}{31}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Method}{33}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Participants}{33}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}Materials}{33}{subsubsection.3.1.2.2}
+\contentsline {subsubsection}{\numberline {3.1.2.3}Data recording}{33}{subsubsection.3.1.2.3}
+\contentsline {subsubsection}{\numberline {3.1.2.4}Interviewing procedure}{35}{subsubsection.3.1.2.4}
+\contentsline {subsubsection}{\numberline {3.1.2.5}Pilot interview}{35}{subsubsection.3.1.2.5}
+\contentsline {subsubsection}{\numberline {3.1.2.6}Ethical considerations}{36}{subsubsection.3.1.2.6}
+\contentsline {subsection}{\numberline {3.1.3}Results}{36}{subsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.3.1}Data analysis}{36}{subsubsection.3.1.3.1}
+\contentsline {subsubsection}{\numberline {3.1.3.2}Themes}{37}{subsubsection.3.1.3.2}
+\contentsline {subsubsection}{\numberline {3.1.3.3}Task}{40}{subsubsection.3.1.3.3}
+\contentsline {subsubsection}{\numberline {3.1.3.4}Checking}{41}{subsubsection.3.1.3.4}
+\contentsline {subsubsection}{\numberline {3.1.3.5}System}{43}{subsubsection.3.1.3.5}
+\contentsline {subsubsection}{\numberline {3.1.3.6}Environment}{44}{subsubsection.3.1.3.6}
+\contentsline {subsubsection}{\numberline {3.1.3.7}Data}{45}{subsubsection.3.1.3.7}
+\contentsline {subsubsection}{\numberline {3.1.3.8}Errors}{46}{subsubsection.3.1.3.8}
+\contentsline {subsubsection}{\numberline {3.1.3.9}Strategy}{48}{subsubsection.3.1.3.9}
+\contentsline {subsubsection}{\numberline {3.1.3.10}Importance of accuracy and paper trails}{50}{subsubsection.3.1.3.10}
+\contentsline {subsubsection}{\numberline {3.1.3.11}Other}{51}{subsubsection.3.1.3.11}
+\contentsline {subsection}{\numberline {3.1.4}Discussion}{52}{subsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.4.1}Information sources and access costs}{52}{subsubsection.3.1.4.1}
+\contentsline {subsubsection}{\numberline {3.1.4.2}Batching data entry tasks}{53}{subsubsection.3.1.4.2}
+\contentsline {subsubsection}{\numberline {3.1.4.3}Multiple checking stages}{54}{subsubsection.3.1.4.3}
+\contentsline {subsubsection}{\numberline {3.1.4.4}Summary}{55}{subsubsection.3.1.4.4}
+\contentsline {section}{\numberline {3.2}Study 2: Information sources for entering expenses}{56}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Introduction}{56}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Method}{57}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}Participants}{57}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Contextual inquiry}{57}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}Materials}{58}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}Pilot study}{58}{subsubsection.3.2.2.4}
+\contentsline {subsubsection}{\numberline {3.2.2.5}Ethical considerations}{59}{subsubsection.3.2.2.5}
+\contentsline {subsection}{\numberline {3.2.3}Data collection and analysis}{60}{subsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.3.1}Expected findings}{60}{subsubsection.3.2.3.1}
+\contentsline {subsubsection}{\numberline {3.2.3.2}Findings}{61}{subsubsection.3.2.3.2}
+\contentsline {subsubsection}{\numberline {3.2.3.3}Contribution}{61}{subsubsection.3.2.3.3}
+\contentsline {chapter}{\numberline {4}Understanding the effect of IAC on looking up information}{62}{chapter.4}
+\contentsline {subsubsection}{\numberline {4.0.0.1}Chapter outline}{62}{subsubsection.4.0.0.1}
+\contentsline {section}{\numberline {4.1}Study 3: Copying numbers from one source}{62}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Introduction}{62}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Method}{65}{subsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2.1}Participants}{65}{subsubsection.4.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.2.2}Design}{65}{subsubsection.4.1.2.2}
+\contentsline {subsubsection}{\numberline {4.1.2.3}Materials}{65}{subsubsection.4.1.2.3}
+\contentsline {subsubsection}{\numberline {4.1.2.4}Procedure}{68}{subsubsection.4.1.2.4}
+\contentsline {subsubsection}{\numberline {4.1.2.5}Ethical considerations}{68}{subsubsection.4.1.2.5}
+\contentsline {subsection}{\numberline {4.1.3}Results}{69}{subsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3.1}Task strategies}{69}{subsubsection.4.1.3.1}
+\contentsline {subsubsection}{\numberline {4.1.3.2}Number of visits to the target window}{69}{subsubsection.4.1.3.2}
+\contentsline {subsubsection}{\numberline {4.1.3.3}Duration of first visit to target window}{69}{subsubsection.4.1.3.3}
+\contentsline {subsubsection}{\numberline {4.1.3.4}Blocks placed after first visit}{71}{subsubsection.4.1.3.4}
+\contentsline {subsubsection}{\numberline {4.1.3.5}Global task performance}{72}{subsubsection.4.1.3.5}
+\contentsline {subsubsection}{\numberline {4.1.3.6}Number of incorrectly placed blocks}{73}{subsubsection.4.1.3.6}
+\contentsline {subsubsection}{\numberline {4.1.3.7}Number of incorrectly submitted trials}{74}{subsubsection.4.1.3.7}
+\contentsline {subsubsection}{\numberline {4.1.3.8}Trial time}{74}{subsubsection.4.1.3.8}
+\contentsline {subsubsection}{\numberline {4.1.3.9}Qualitative data}{74}{subsubsection.4.1.3.9}
+\contentsline {subsection}{\numberline {4.1.4}Discussion}{76}{subsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.4.1}The effect of block type on task strategies and performance}{76}{subsubsection.4.1.4.1}
+\contentsline {subsubsection}{\numberline {4.1.4.2}The effect of IAC on task strategies and performance}{77}{subsubsection.4.1.4.2}
+\contentsline {subsubsection}{\numberline {4.1.4.3}Summary}{78}{subsubsection.4.1.4.3}
+\contentsline {section}{\numberline {4.2}Study 4: Copying data from multiple sources}{79}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Introduction}{79}{subsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.1.1}Hypotheses}{80}{subsubsection.4.2.1.1}
+\contentsline {subsubsection}{\numberline {4.2.1.2}Contributions}{81}{subsubsection.4.2.1.2}
+\contentsline {chapter}{\numberline {5}Evaluating design changes to improve performance in data entry with varying IACs}{82}{chapter.5}
+\contentsline {subsubsection}{\numberline {5.0.0.1}Chapter outline}{82}{subsubsection.5.0.0.1}
+\contentsline {section}{\numberline {5.1}Introduction}{83}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Contributions}{83}{subsection.5.1.1}
+\contentsline {chapter}{References}{85}{chapter*.4}
+\contentsline {chapter}{Appendix \numberline {A}Information sheet}{93}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Consent form}{95}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Interview script}{97}{Appendix.a.C}
+\contentsline {subsubsection}{\numberline {C.0.0.1}Before the interview}{97}{subsubsection.a.C.0.0.1}
+\contentsline {subsubsection}{\numberline {C.0.0.2}Work}{97}{subsubsection.a.C.0.0.2}
+\contentsline {subsubsection}{\numberline {C.0.0.3}Number entry}{98}{subsubsection.a.C.0.0.3}
+\contentsline {subsubsection}{\numberline {C.0.0.4}Environment}{99}{subsubsection.a.C.0.0.4}
+\contentsline {subsubsection}{\numberline {C.0.0.5}Demonstration}{99}{subsubsection.a.C.0.0.5}
+\contentsline {subsubsection}{\numberline {C.0.0.6}After the interview}{100}{subsubsection.a.C.0.0.6}

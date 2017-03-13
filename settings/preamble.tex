@@ -1,0 +1,43 @@
+\documentclass[a4paper]{report}
+
+\usepackage[titletoc]{appendix} %Adds word 'Appendix' to appendix titles in TOC
+\usepackage{parskip} %Adds breaks between paragraphs
+\usepackage[utf8x]{inputenc} %Encoding
+\usepackage[T1]{fontenc} %Makes sure fonts and symbols
+\usepackage{apacite} %Workaround to make nice citations work with natbib
+\usepackage[longnamesfirst,sort]{natbib} %Adds citation style management
+\usepackage[nottoc]{tocbibind} %Adds bibliography to the table of contents
+\usepackage{color} %Adds the colour support, e.g. so I can add coloured comments 
+\usepackage{framed} %Adds the frame support
+\usepackage{setspace} %Adds line spacing control
+\usepackage{a4wide} %Adds smaller margins
+\usepackage{graphics,subcaption} %Pictures support; I CHANGED subfigure to subcaption for subfigures, check if everything still works.
+\usepackage{sectsty} %Adds control over headings' fonts
+\usepackage[framemethod=tikz]{mdframed} %Adds control over nice customisable text boxes
+\usepackage{enumitem} %Adds customisation of item lists
+\usepackage{pifont} %Adds access to special chars like the ones I use in the chapter summary boxes
+\usepackage[font=small,labelfont=bf,font=sf]{caption} %Adds control over the captions
+\usepackage{booktabs,array,ragged2e,multirow} %Adds more control over tables
+\usepackage{float} %Adds more control over floats (figures and tables)
+\usepackage{fancyhdr} %Adds control over the page headers
+\usepackage{pgfkeys} %Allows to define own names
+\usepackage{tikz} %Adds charts
+\usepackage[bottom = 3cm]{geometry} %Helps with diagrams in general + set up margins
+\usepackage{soul} %Adds strikethroughs
+\usepackage{mathtools} %Adds math stuff - I use it to get the chi and eta symbols
+\usepackage{lscape} %Adds vertical tables
+\usepackage{moresize} %Adds HUGE fonts
+
+\usepackage{pifont} %Adds checkmarks and crosses, which are defined in formatting.tex
+\newcommand{\cmark}{\ding{51}}%defines the checkmark
+\newcommand{\xmark}{\ding{55}}%defines the cross
+
+\usepackage{hyperref} %This package should be added last apparently
+\hypersetup{
+	pdftex,
+	colorlinks=false,
+	pdfpagemode=UseOutlines,
+	pdftitle={},
+	pdfauthor={ADD NAME}
+	}
+\usepackage{hypcap}

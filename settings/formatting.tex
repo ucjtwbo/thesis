@@ -1,0 +1,62 @@
+\setcounter{tocdepth}{4} %TOC depth
+
+\setlength{\parindent}{0cm} %No indentation
+\doublespacing %Double spacing between lines
+\setcounter{secnumdepth}{4} %Adds section numbering to subsub sections (default is 2)
+\allsectionsfont{\sffamily} %Turns headers into sans-serif font
+\interfootnotelinepenalty=10000 %Footers can't be split between pages
+
+%Page headers with a chapter name and page numbers
+\pagestyle{fancy} 
+\fancyhf{}
+\fancyhead[L]{\sffamily\nouppercase{\leftmark}}
+\fancyhead[R]{\thepage}
+
+\newlist{myitemlist}{itemize}{1} %Creates a new item list and defines the list styles for the chapter summary boxes
+\setlist[myitemlist,1]{label=\ding{118},before=\raggedright}
+
+\setitemize{partopsep=\topsep}
+\setitemize{topsep=0pt}
+
+%Defines borders for \fbox (which I sometimes use for figure borders)
+\setlength\fboxsep{0pt}
+\setlength\fboxrule{0.5pt}
+
+\usetikzlibrary{shadows} %Adds shadows to the chapter summary box
+\usetikzlibrary{arrows,decorations.pathmorphing,backgrounds,fit,positioning,shapes.symbols,chains, patterns} %Helps to draw diagrams
+
+%Allows to use \& within symbolic coords
+\let\OrgAmp\&
+\protected\def\&{%
+  \ifincsname
+    \string\&%
+  \else
+    \OrgAmp
+  \fi
+}
+
+%Create a new element - the chapter summary box
+\newmdenv[
+%shadow=true,
+%leftline=false,
+%rightline=false,
+linewidth=1pt,
+font={\fontfamily{cmss}\selectfont},
+%\setmainfont{Gill Sans MT},
+innertopmargin=10pt,
+innerbottommargin=20pt,
+innerrightmargin=20pt,
+]{mynote}
+
+%\newmdenv[
+%shadow=true,
+%font={\sffamily},
+%innertopmargin=10pt,
+%innerbottommargin=20pt,
+%innerrightmargin=20pt,
+%]{mynote} 
+
+%Table styles
+\renewcommand{\arraystretch}{1.5} %Adds spaces between rows to all tables
+\newcolumntype{P}[1]{>{\RaggedRight\hspace{0pt}}p{#1}} %Makes sure that things like p{3cm} are left-aligned
+\newcolumntype{C}[1]{>{\Centering\hspace{0pt}}p{#1}} %Makes sure that things like C{3cm} are centred
