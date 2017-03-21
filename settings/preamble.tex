@@ -1,4 +1,6 @@
 \documentclass[a4paper]{report}
+\setcounter{secnumdepth}{1} % only chapter and sections will be numbered
+\setcounter{tocdepth}{1}    % entries down to \subsubsections in the TOC
 
 \usepackage[titletoc]{appendix} %Adds word 'Appendix' to appendix titles in TOC
 \usepackage{parskip} %Adds breaks between paragraphs
@@ -27,6 +29,8 @@
 \usepackage{mathtools} %Adds math stuff - I use it to get the chi and eta symbols
 \usepackage{lscape} %Adds vertical tables
 \usepackage{moresize} %Adds HUGE fonts
+
+
 
 \usepackage{pifont} %Adds checkmarks and crosses, which are defined in formatting.tex
 \newcommand{\cmark}{\ding{51}}%defines the checkmark

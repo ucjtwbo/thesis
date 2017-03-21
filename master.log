@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  13 MAR 2017 17:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  13 MAR 2017 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1064,9 +1064,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 
 Package hyperref Warning: Option `pdftex' has already been used,
-(hyperref)                setting the option has no effect on input line 42.
+(hyperref)                setting the option has no effect on input line 46.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 42.
+Package hyperref Info: Option `colorlinks' set `false' on input line 46.
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/hypcap.sty
 Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
 )
@@ -1302,28 +1302,28 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 ...1.4.3}Lockouts}{23}{subsubsection.2.1.4.3}
+l.74 ... on looking up information}{62}{chapter.4}
                                                    [1
 
 
 
 
-] [2] [3])
+])
 \tf@toc=\write5
 \openout5 = `master.toc'.
 
- [4]
-(./master.lot)
+ [2] (./master.lot)
 \tf@lot=\write6
 \openout6 = `master.lot'.
 
- [5
+
+[3
 
 ] (./master.lof)
 \tf@lof=\write7
 \openout7 = `master.lof'.
 
- [6
+ [4
 
 ]
 
@@ -1354,10 +1354,6 @@ or  <return>  to continue without it.
 
 (./tex/ch12.tex
 Chapter 3.
-
-Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 3.
-
 [31
 
 
@@ -1373,21 +1369,21 @@ Underfull \hbox (badness 2103) in paragraph at lines 115--115
 \T1/cmr/m/n/10 cu-racy and pa-per
  []
 
-[37] [38] [39] <images/Study1/Task.png, id=579, 630.1944pt x 364.2408pt>
+[37] [38] [39] <images/Study1/Task.png, id=446, 630.1944pt x 364.2408pt>
 File: images/Study1/Task.png Graphic file (type png)
 
 <use images/Study1/Task.png>
 Package pdftex.def Info: images/Study1/Task.png used on input line 127.
 (pdftex.def)             Requested size: 418.25368pt x 241.74467pt.
  [40 <./images/Study1/Task.png>]
-<images/Study1/Checking.pdf, id=586, 555.64105pt x 280.76634pt>
+<images/Study1/Checking.pdf, id=453, 555.64105pt x 280.76634pt>
 File: images/Study1/Checking.pdf Graphic file (type pdf)
 
 <use images/Study1/Checking.pdf>
 Package pdftex.def Info: images/Study1/Checking.pdf used on input line 145.
 (pdftex.def)             Requested size: 418.25368pt x 211.34967pt.
  [41 <./images/Study1/Checking.pdf>] [42]
-<images/Study1/System.pdf, id=617, 511.85338pt x 311.77339pt>
+<images/Study1/System.pdf, id=483, 511.85338pt x 311.77339pt>
 File: images/Study1/System.pdf Graphic file (type pdf)
 
 <use images/Study1/System.pdf>
@@ -1396,7 +1392,7 @@ Package pdftex.def Info: images/Study1/System.pdf used on input line 206.
  [43
 
  <./images/Study1/System.pdf>]
-<images/Study1/Environment.pdf, id=642, 563.01633pt x 369.42365pt>
+<images/Study1/Environment.pdf, id=509, 563.01633pt x 369.42365pt>
 File: images/Study1/Environment.pdf Graphic file (type pdf)
 
 <use images/Study1/Environment.pdf>
@@ -1405,14 +1401,14 @@ Package pdftex.def Info: images/Study1/Environment.pdf used on input line 220.
  [44
 
  <./images/Study1/Environment.pdf>]
-<images/Study1/Data.pdf, id=668, 557.38672pt x 318.58151pt>
+<images/Study1/Data.pdf, id=535, 557.38672pt x 318.58151pt>
 File: images/Study1/Data.pdf Graphic file (type pdf)
 
 <use images/Study1/Data.pdf>
 Package pdftex.def Info: images/Study1/Data.pdf used on input line 238.
 (pdftex.def)             Requested size: 418.25368pt x 239.06192pt.
  [45 <./images/Study1/Data.pdf>]
-<images/Study1/Errors.pdf, id=693, 560.15346pt x 328.62674pt>
+<images/Study1/Errors.pdf, id=560, 560.15346pt x 328.62674pt>
 File: images/Study1/Errors.pdf Graphic file (type pdf)
 
 <use images/Study1/Errors.pdf>
@@ -1421,7 +1417,7 @@ Package pdftex.def Info: images/Study1/Errors.pdf used on input line 255.
  [46
 
  <./images/Study1/Errors.pdf>] [47]
-<images/Study1/Strategy.pdf, id=722, 510.12323pt x 260.26866pt>
+<images/Study1/Strategy.pdf, id=589, 510.12323pt x 260.26866pt>
 File: images/Study1/Strategy.pdf Graphic file (type pdf)
 
 <use images/Study1/Strategy.pdf>
@@ -1430,7 +1426,7 @@ Package pdftex.def Info: images/Study1/Strategy.pdf used on input line 328.
  [48
 
  <./images/Study1/Strategy.pdf>] [49]
-<images/Study1/Papertrail.pdf, id=753, 532.64217pt x 358.62852pt>
+<images/Study1/Papertrail.pdf, id=620, 532.64217pt x 358.62852pt>
 File: images/Study1/Papertrail.pdf Graphic file (type pdf)
 
 <use images/Study1/Papertrail.pdf>
@@ -1439,7 +1435,7 @@ Package pdftex.def Info: images/Study1/Papertrail.pdf used on input line 378.
  [50
 
  <./images/Study1/Papertrail.pdf>]
-<images/Study1/Other.pdf, id=779, 532.81671pt x 224.84pt>
+<images/Study1/Other.pdf, id=646, 532.81671pt x 224.84pt>
 File: images/Study1/Other.pdf Graphic file (type pdf)
 
 <use images/Study1/Other.pdf>
@@ -1564,17 +1560,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
 (./tex/ch34.aux) (./tex/ch56.aux) (./tex/appendix/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
-Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 45B09032624353D0CFAAE53E2F70F816;3223.
 
+
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master.out':
+(rerunfilecheck)             Before: EEA463C77B8BA7627FDE355E14A10234;2916
+(rerunfilecheck)             After:  BB8DFCF51B1C70AE0643CD97AD2C40C0;889.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30662 strings out of 493014
- 595189 string characters out of 6133351
- 643950 words of memory out of 5000000
+ 30613 strings out of 493014
+ 593564 string characters out of 6133351
+ 643719 words of memory out of 5000000
  33330 multiletter control sequences out of 15000+600000
  21628 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1618,24 +1620,6 @@ replaced by a fixed one
 pdfTeX warning (dest): name{table.4.1} has been referenced but does not exist, 
 replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.a.C.0.0.6} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.a.C.0.0.5} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.a.C.0.0.4} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.a.C.0.0.3} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.a.C.0.0.2} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.a.C.0.0.1} has been referenced but do
-es not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{Appendix.a.C} has been referenced but does not exis
 t, replaced by a fixed one
 
@@ -1651,17 +1635,8 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.5.0.0.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
 replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.2.1.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.2.1.1} has been referenced but does
- not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{subsection.4.2.1} has been referenced but does not 
 exist, replaced by a fixed one
@@ -1669,62 +1644,11 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{section.4.2} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.4.1.4.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.4.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.4.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{subsection.4.1.4} has been referenced but does not 
 exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.4.1.3.9} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.8} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.7} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.6} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.5} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.4} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.3.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{subsection.4.1.3} has been referenced but does not 
 exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.2.5} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.2.4} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.2.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.2.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.4.1.2.1} has been referenced but does
- not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{subsection.4.1.2} has been referenced but does not 
 exist, replaced by a fixed one
@@ -1735,23 +1659,14 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.4.0.0.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
 replaced by a fixed one
 
 pdfTeX warning (dest): name{section.2.3} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.2.2.2.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{subsection.2.2.2} has been referenced but does not 
 exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.2.1.1} has been referenced but does
- not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{subsection.2.2.1} has been referenced but does not 
 exist, replaced by a fixed one
@@ -1759,62 +1674,14 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{section.2.2} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.2.1.4.5} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.4.4} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.4.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.4.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.4.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{subsection.2.1.4} has been referenced but does not 
 exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.3.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.3.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.3.1} has been referenced but does
- not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{subsection.2.1.3} has been referenced but does not 
 exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.2.1.2.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.2.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.2.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{subsection.2.1.2} has been referenced but does not 
 exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.1.5} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.1.4} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.1.3} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.1.2} has been referenced but does
- not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.2.1.1.1} has been referenced but does
- not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{subsection.2.1.1} has been referenced but does not 
 exist, replaced by a fixed one
@@ -1822,14 +1689,8 @@ exist, replaced by a fixed one
 pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
 , replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.2.0.0.1} has been referenced but does
- not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{chapter.2} has been referenced but does not exist, 
 replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.1.0.0.1} has been referenced but does
- not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{chapter.1} has been referenced but does not exist, 
 replaced by a fixed one
@@ -1850,10 +1711,10 @@ ve/2016/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive
 texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on master.pdf (46 pages, 699866 bytes).
+Output written on master.pdf (44 pages, 692861 bytes).
 PDF statistics:
- 1140 PDF objects out of 1200 (max. 8388607)
- 1005 compressed objects within 11 object streams
- 279 named destinations out of 1000 (max. 500000)
+ 997 PDF objects out of 1000 (max. 8388607)
+ 866 compressed objects within 9 object streams
+ 230 named destinations out of 1000 (max. 500000)
  503 words of extra memory for PDF output out of 10000 (max. 10000000)
 
