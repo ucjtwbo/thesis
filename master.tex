@@ -1,13 +1,12 @@
 \include{./settings/preamble} %document settings
-\includeonly{./settings/preamble, ./settings/title, ./settings/formatting, ./tex/ch34} %If I only want to compile certain chapters.
+%\includeonly{./settings/preamble, ./settings/title, ./settings/formatting, ./tex/ch12} %If I only want to compile certain chapters.
 
 \begin{document}
-	
 \include{./settings/title} %title page
 
 \include{./settings/formatting} %formatting settings
 
-%\include{abstract}
+\include{./tex/abstract}
 %\include{./tex/publications}
 %\include{acknowledgments}
 
@@ -27,9 +26,8 @@
 %\include{./tex/finaldiscussion} %Discussion chapter
 %\include{./tex/conclusions} %Final conclusions
 
-
 \bibliographystyle{apacite}
-\bibliography{./bibliography/thesis}
+\bibliography{master}
 
 
 \begin{appendices}\label{ch:appendix}
