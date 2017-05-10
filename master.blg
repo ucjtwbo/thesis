@@ -3,6 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master.aux
 A level-1 auxiliary file: ./settings/title.aux
 A level-1 auxiliary file: ./settings/formatting.aux
+A level-1 auxiliary file: ./tex/abstract.aux
 A level-1 auxiliary file: ./tex/introduction.aux
 A level-1 auxiliary file: ./tex/background.aux
 A level-1 auxiliary file: ./tex/ch12.aux
@@ -20,47 +21,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: master.bib
-Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Morgan2014"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 78 entries,
+You've used 80 entries,
             6951 wiz_defined-function locations,
-            1842 strings with 27391 characters,
-and the built_in function-call counts, 173488 in all, are:
-= -- 22057
-> -- 1493
-< -- 8388
-+ -- 8826
-- -- 158
-* -- 10978
-:= -- 30943
-add.period$ -- 374
-call.type$ -- 78
-change.case$ -- 1364
+            1860 strings with 29920 characters,
+and the built_in function-call counts, 177369 in all, are:
+= -- 22560
+> -- 1521
+< -- 8579
++ -- 8990
+- -- 162
+* -- 11219
+:= -- 31681
+add.period$ -- 384
+call.type$ -- 80
+change.case$ -- 1397
 chr.to.int$ -- 0
-cite$ -- 156
-duplicate$ -- 4661
-empty$ -- 6357
-format.name$ -- 2380
-if$ -- 33006
+cite$ -- 160
+duplicate$ -- 4735
+empty$ -- 6498
+format.name$ -- 2420
+if$ -- 33758
 int.to.chr$ -- 0
-int.to.str$ -- 234
+int.to.str$ -- 240
 missing$ -- 0
-newline$ -- 2098
-num.names$ -- 636
-pop$ -- 3111
+newline$ -- 2145
+num.names$ -- 652
+pop$ -- 3189
 preamble$ -- 1
-purify$ -- 320
+purify$ -- 326
 quote$ -- 0
-skip$ -- 11220
+skip$ -- 11488
 stack$ -- 0
-substring$ -- 9819
-swap$ -- 2697
-text.length$ -- 328
+substring$ -- 10002
+swap$ -- 2753
+text.length$ -- 336
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 8288
+type$ -- 8512
 warning$ -- 0
-while$ -- 846
+while$ -- 854
 width$ -- 0
-write$ -- 2670
+write$ -- 2726
 (There was 1 warning)

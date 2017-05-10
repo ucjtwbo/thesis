@@ -1,8 +1,11 @@
 \documentclass[a4paper]{report}
 \usepackage{gillius}
+\usepackage{helvet}
+\usepackage{palatino}
+\usepackage{newtxsf}
 %\usepackage{fontspec}
-%\renewcommand{\sfdefault}{Gillius ADF No2} %doesnt work
-%\renewcommand{\familydefault}{\sfdefault} %works
+%\renewcommand{\sfdefault}{Helvetica Neue} %doesnt work
+\renewcommand{\familydefault}{ppl} %changes font, put in comments to go back to default font.
 
 \setcounter{secnumdepth}{1} % only chapter and sections will be numbered
 \setcounter{tocdepth}{1}    % entries down to \subsubsections in the TOC
@@ -40,12 +43,13 @@
 \newcommand{\cmark}{\ding{51}}%defines the checkmark
 \newcommand{\xmark}{\ding{55}}%defines the cross
 
-\usepackage{hyperref} %This package should be added last apparently
-\hypersetup{
-	pdftex,
-	colorlinks=false,
-	pdfpagemode=UseOutlines,
-	pdftitle={},
-	pdfauthor={ADD NAME}
-	}
+\usepackage[hidelinks]{hyperref}
+%\usepackage{hyperref} %This package should be added last apparently
+%%\hypersetup{
+%	pdftex,
+%	colorlinks=false,
+%	pdfpagemode=UseOutlines,
+%	pdftitle={},
+%	pdfauthor={ADD NAME}
+%	}
 \usepackage{hypcap}

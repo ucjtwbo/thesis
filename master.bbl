@@ -542,6 +542,37 @@ DeLuca2010}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Dearman%
+\ \BBA {} Pierce%
+}{%
+Dearman%
+\ \BBA {} Pierce%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Dearman2008}
+\APACinsertmetastar {%
+Dearman2008}%
+\begin{APACrefauthors}%
+Dearman, D.%
+\BCBT {}\ \BBA {} Pierce, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{It's on my other computer!: computing with multiple
+  devices}} {{It's on my other computer!: computing with multiple
+  devices}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems} {Proceedings of the sigchi conference on human factors in
+  computing systems}\ (\BPGS\ 767--776).
+\newblock
+\begin{APACrefDOI} \doi{10.1145/1357054.1357177} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Diemand-Yauman%
 , Oppenheimer%
 \BCBL {}\ \BBA {} Vaughan%
@@ -597,6 +628,33 @@ Evans, A\BPBI C.%
 \BIn{} \APACrefbtitle {{CHI'12}} {{CHI'12}}\ (\BPGS\ 1947--1956).
 \newblock
 \APACaddressPublisher{Austin, Texas, USA}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Furniss%
+\ \BBA {} Blandford%
+}{%
+Furniss%
+\ \BBA {} Blandford%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+Furniss2006}
+\APACinsertmetastar {%
+Furniss2006}%
+\begin{APACrefauthors}%
+Furniss, D.%
+\BCBT {}\ \BBA {} Blandford, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Understanding Emergency Medical Dispatch in terms of
+  Distributed Cognition: a case study}} {{Understanding Emergency Medical
+  Dispatch in terms of Distributed Cognition: a case study}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ergonomics}{49}{12 \& 13}{1174 -- 1203}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -658,40 +716,6 @@ Gould, S\BPBI J\BPBI J.%
 \BIn{} \APACrefbtitle {{CHI 2015 Extended Abstracts, Republic of Korea, April
   18 - 23, 2015}} {{CHI 2015 Extended Abstracts, Republic of Korea, April 18 -
   23, 2015}}\ (\BPGS\ 1785--1790).
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Gould%
-, Cox%
-\BCBL {}\ \BBA {} Brumby%
-}{%
-Gould%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2016}}%
-}]{%
-Gould2016}
-\APACinsertmetastar {%
-Gould2016}%
-\begin{APACrefauthors}%
-Gould, S\BPBI J\BPBI J.%
-, Cox, A\BPBI L.%
-\BCBL {}\ \BBA {} Brumby, D\BPBI P.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{{\APACmonth{06}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Diminished {Control} in {Crowdsourcing}: {An}
-  {Investigation} of {Crowdworker} {Multitasking} {Behavior}} {Diminished
-  {Control} in {Crowdsourcing}: {An} {Investigation} of {Crowdworker}
-  {Multitasking} {Behavior}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{ACM Trans. Comput.-Hum. Interact.}{23}{3}{19:1--19:29}.
-\newblock
-\begin{APACrefURL} [{2016-07-04}]\url{https://dl.acm.org/authorize?N16948}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1145/2928269} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1379,40 +1403,6 @@ Miller, G\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Monk%
-, Trafton%
-\BCBL {}\ \BBA {} Boehm-Davis%
-}{%
-Monk%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2008}}%
-}]{%
-Monk2008}
-\APACinsertmetastar {%
-Monk2008}%
-\begin{APACrefauthors}%
-Monk, C\BPBI A.%
-, Trafton, J\BPBI G.%
-\BCBL {}\ \BBA {} Boehm-Davis, D\BPBI A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{The effect of interruption duration and demand on
-  resuming suspended goals.}} {{The effect of interruption duration and demand
-  on resuming suspended goals.}}{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Experimental Psychology:
-  Applied}{14}{4}{299--313}.
-\newblock
-\begin{APACrefURL} \url{http://doi.apa.org/getdoi.cfm?doi=10.1037/a0014402}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1037/a0014402} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Morgan%
 \ \BBA {} Patrick%
 }{%
@@ -1699,6 +1689,34 @@ Olsen, K\BPBI A.%
 \newblock
 \BIn{} \APACrefbtitle {{Proceedings of Norsk Informatikkonferanse}.}
   {{Proceedings of Norsk Informatikkonferanse}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Onwuegbuzie%
+\ \BBA {} Dickinson%
+}{%
+Onwuegbuzie%
+\ \BBA {} Dickinson%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Onwuegbuzie2008}
+\APACinsertmetastar {%
+Onwuegbuzie2008}%
+\begin{APACrefauthors}%
+Onwuegbuzie, A\BPBI J.%
+\BCBT {}\ \BBA {} Dickinson, W\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Mixed Methods Analysis and Information Visualization:
+  Graphical Display for Effective Communication of Research Results}} {{Mixed
+  Methods Analysis and Information Visualization: Graphical Display for
+  Effective Communication of Research Results}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Qualitative Report}{13}{2}{204--225}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2057,6 +2075,40 @@ Sohn, T.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1145/1357054.1357125} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Su%
+, Brdiczka%
+\BCBL {}\ \BBA {} Begole%
+}{%
+Su%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Su2013}
+\APACinsertmetastar {%
+Su2013}%
+\begin{APACrefauthors}%
+Su, N\BPBI M.%
+, Brdiczka, O.%
+\BCBL {}\ \BBA {} Begole, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Routineness of Routines: Measuring Rhythms of Media
+  Interaction}} {{The Routineness of Routines: Measuring Rhythms of Media
+  Interaction}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Human?Computer Interaction}{28}{4}{287--334}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.tandfonline.com/doi/abs/10.1080/07370024.2012.697026}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/07370024.2012.697026} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
