@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  9 MAY 2017 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  11 MAY 2017 17:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1289,18 +1289,6 @@ LaTeX Warning: Label `fig:ch12_physmodroom' multiply defined.
 LaTeX Warning: Label `pgfid1' multiply defined.
 
 
-LaTeX Warning: Label `fig:gull' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:gull' multiply defined.
-
-
-LaTeX Warning: Label `fig:tiger' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:tiger' multiply defined.
-
-
 LaTeX Warning: Label `fig:mouse' multiply defined.
 
 
@@ -1311,15 +1299,6 @@ LaTeX Warning: Label `fig:mouse' multiply defined.
 
 
 LaTeX Warning: Label `sub@fig:mouse' multiply defined.
-
-
-LaTeX Warning: Label `fig:mouse' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:mouse' multiply defined.
-
-
-LaTeX Warning: Label `fig:animals' multiply defined.
 
 ) (./tex/ch56.aux) (./tex/appendix/appendix.aux))
 \openout1 = `master.aux'.
@@ -1658,7 +1637,7 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 68.
 
-<images/Study2/ch4_numbers.png, id=387, 1908.12875pt x 1034.86626pt>
+<images/Study2/ch4_numbers.png, id=391, 1908.12875pt x 1034.86626pt>
 File: images/Study2/ch4_numbers.png Graphic file (type png)
 
 <use images/Study2/ch4_numbers.png>
@@ -1667,7 +1646,7 @@ Package pdftex.def Info: images/Study2/ch4_numbers.png used on input line 72.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 73.
 
-<images/Study2/ch4_colours.png, id=389, 1910.13625pt x 1033.8625pt>
+<images/Study2/ch4_colours.png, id=393, 1910.13625pt x 1033.8625pt>
 File: images/Study2/ch4_colours.png Graphic file (type png)
 
 <use images/Study2/ch4_colours.png>
@@ -1699,7 +1678,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<images/Study2/ch4_noVisits-bargraph.pdf, id=422, 401.07188pt x 343.1461pt>
+<images/Study2/ch4_noVisits-bargraph.pdf, id=426, 401.07188pt x 343.1461pt>
 File: images/Study2/ch4_noVisits-bargraph.pdf Graphic file (type pdf)
 
 <use images/Study2/ch4_noVisits-bargraph.pdf>
@@ -1707,7 +1686,7 @@ Package pdftex.def Info: images/Study2/ch4_noVisits-bargraph.pdf used on input
 line 163.
 (pdftex.def)             Requested size: 418.25368pt x 357.85313pt.
 
-<images/Study2/ch4_firstVisitDuration-bargraph.pdf, id=424, 401.42302pt x 342.2
+<images/Study2/ch4_firstVisitDuration-bargraph.pdf, id=428, 401.42302pt x 342.2
 2766pt>
 File: images/Study2/ch4_firstVisitDuration-bargraph.pdf Graphic file (type pdf)
 
@@ -1716,7 +1695,7 @@ Package pdftex.def Info: images/Study2/ch4_firstVisitDuration-bargraph.pdf used
  on input line 174.
 (pdftex.def)             Requested size: 418.25368pt x 356.58722pt.
  [62] [63]
-<images/Study2/ch4_firstCorrectBlocks-bargraph.pdf, id=439, 400.97583pt x 341.5
+<images/Study2/ch4_firstCorrectBlocks-bargraph.pdf, id=443, 400.97583pt x 341.5
 7341pt>
 File: images/Study2/ch4_firstCorrectBlocks-bargraph.pdf Graphic file (type pdf)
 
@@ -1727,7 +1706,7 @@ Package pdftex.def Info: images/Study2/ch4_firstCorrectBlocks-bargraph.pdf used
  [64 <./images/Study2/ch4_noVisits-bargraph.pdf>] [65 <./images/Study2/ch4_firs
 tVisitDuration-bargraph.pdf>] [66 <./images/Study2/ch4_firstCorrectBlocks-bargr
 aph.pdf>]
-<images/Study2/ch4_placeholders.pdf, id=524, 534.99875pt x 547.04375pt>
+<images/Study2/ch4_placeholders.pdf, id=528, 534.99875pt x 547.04375pt>
 File: images/Study2/ch4_placeholders.pdf Graphic file (type pdf)
 
 <use images/Study2/ch4_placeholders.pdf>
@@ -1742,149 +1721,142 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 ) [68]
 [69]
 Runaway argument?
-{enumerate] 
-./tex/ch34.tex:312: Paragraph ended before \end was complete.
+{itemize] 
+./tex/ch34.tex:306: Paragraph ended before \end was complete.
 <to be read again> 
                    \par 
-l.312 
+l.306 
       
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-[70]
-
-LaTeX Warning: Reference `fig:ch34_tasklayout' on page 71 undefined on input li
-ne 323.
-
-[71] <images/Study4/ch34_4-step1nrd.png, id=605, 2535.4725pt x 924.45375pt>
+[70] [71]
+<images/Study4/ch34_4-step1nrd.png, id=628, 2535.4725pt x 924.45375pt>
 File: images/Study4/ch34_4-step1nrd.png Graphic file (type png)
 
 <use images/Study4/ch34_4-step1nrd.png>
 Package pdftex.def Info: images/Study4/ch34_4-step1nrd.png used on input line 3
-38.
+48.
 (pdftex.def)             Requested size: 334.60422pt x 121.98877pt.
 
-<images/Study4/ch34_4-step2.png, id=606, 2533.465pt x 925.4575pt>
+<images/Study4/ch34_4-step2.png, id=629, 2533.465pt x 925.4575pt>
 File: images/Study4/ch34_4-step2.png Graphic file (type png)
 
 <use images/Study4/ch34_4-step2.png>
-Package pdftex.def Info: images/Study4/ch34_4-step2.png used on input line 345.
+Package pdftex.def Info: images/Study4/ch34_4-step2.png used on input line 355.
 
 (pdftex.def)             Requested size: 334.60422pt x 122.22008pt.
 
-<images/Study4/ch34_4-step3.png, id=607, 2540.49126pt x 926.46124pt>
+<images/Study4/ch34_4-step3.png, id=630, 2540.49126pt x 926.46124pt>
 File: images/Study4/ch34_4-step3.png Graphic file (type png)
 
 <use images/Study4/ch34_4-step3.png>
-Package pdftex.def Info: images/Study4/ch34_4-step3.png used on input line 352.
+Package pdftex.def Info: images/Study4/ch34_4-step3.png used on input line 362.
 
 (pdftex.def)             Requested size: 334.60422pt x 122.01335pt.
  [72 <./images/Study4/ch34_4-step1nrd.png> <./images/Study4/ch34_4-step2.png> <
 ./images/Study4/ch34_4-step3.png>] [73]
-<images/Study4/ch34_4-roworderstr.png, id=626, 2540.49126pt x 935.495pt>
+<images/Study4/ch34_4-roworderstr.png, id=648, 2540.49126pt x 935.495pt>
 File: images/Study4/ch34_4-roworderstr.png Graphic file (type png)
 
 <use images/Study4/ch34_4-roworderstr.png>
 Package pdftex.def Info: images/Study4/ch34_4-roworderstr.png used on input lin
-e 409.
+e 410.
 (pdftex.def)             Requested size: 209.12683pt x 76.99657pt.
 
-<images/Study4/ch34_4-columnorderstr.png, id=627, 2538.48375pt x 956.57375pt>
+<images/Study4/ch34_4-columnorderstr.png, id=649, 2538.48375pt x 956.57375pt>
 File: images/Study4/ch34_4-columnorderstr.png Graphic file (type png)
 
 <use images/Study4/ch34_4-columnorderstr.png>
 Package pdftex.def Info: images/Study4/ch34_4-columnorderstr.png used on input 
-line 416.
+line 417.
 (pdftex.def)             Requested size: 209.12683pt x 78.80446pt.
  [74] [75 <./images/Study4/ch34_4-roworderstr.png> <./images/Study4/ch34_4-colu
 mnorderstr.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 471.
+               Default added (so using `tbp') on input line 468.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 486.
+               Default added (so using `tbp') on input line 483.
 
-<images/Study4/ch34_4-groupstr.png, id=649, 389.7762pt x 353.6412pt>
+<images/Study4/ch34_4-groupstr.png, id=673, 389.7762pt x 353.6412pt>
 File: images/Study4/ch34_4-groupstr.png Graphic file (type png)
 
 <use images/Study4/ch34_4-groupstr.png>
 Package pdftex.def Info: images/Study4/ch34_4-groupstr.png used on input line 5
-17.
+14.
 (pdftex.def)             Requested size: 209.12683pt x 189.74387pt.
- [76] [77 <./images/Study4/ch34_4-groupstr.png>]
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 522.
+
+[76] [77 <./images/Study4/ch34_4-groupstr.png>]
 
 Package natbib Warning: Citation `Morgan2014' on page 78 undefined on input lin
-e 551.
+e 560.
 
-[78] [79] <images/Study4/ch34_5-step1.png, id=678, 1422.81563pt x 553.06625pt>
+[78] [79] <images/Study4/ch34_5-step1.png, id=703, 1422.81563pt x 553.06625pt>
 File: images/Study4/ch34_5-step1.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step1.png>
-Package pdftex.def Info: images/Study4/ch34_5-step1.png used on input line 604.
+Package pdftex.def Info: images/Study4/ch34_5-step1.png used on input line 616.
 
 (pdftex.def)             Requested size: 188.21288pt x 73.15855pt.
 
-<images/Study4/ch34_5-step2.png, id=679, 1422.7554pt x 540.5796pt>
+<images/Study4/ch34_5-step2.png, id=704, 1422.7554pt x 540.5796pt>
 File: images/Study4/ch34_5-step2.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step2.png>
-Package pdftex.def Info: images/Study4/ch34_5-step2.png used on input line 611.
+Package pdftex.def Info: images/Study4/ch34_5-step2.png used on input line 623.
 
 (pdftex.def)             Requested size: 188.21288pt x 71.50685pt.
 
-<images/Study4/ch34_5-step3.png, id=680, 2526.43875pt x 953.5625pt>
+<images/Study4/ch34_5-step3.png, id=705, 2526.43875pt x 953.5625pt>
 File: images/Study4/ch34_5-step3.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step3.png>
-Package pdftex.def Info: images/Study4/ch34_5-step3.png used on input line 618.
+Package pdftex.def Info: images/Study4/ch34_5-step3.png used on input line 630.
 
 (pdftex.def)             Requested size: 188.21288pt x 71.03394pt.
 
-<images/Study4/ch34_5-step4.png, id=681, 2526.43875pt x 923.45pt>
+<images/Study4/ch34_5-step4.png, id=706, 2526.43875pt x 923.45pt>
 File: images/Study4/ch34_5-step4.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step4.png>
-Package pdftex.def Info: images/Study4/ch34_5-step4.png used on input line 623.
+Package pdftex.def Info: images/Study4/ch34_5-step4.png used on input line 635.
 
 (pdftex.def)             Requested size: 188.21288pt x 68.79076pt.
 
-<images/Study4/ch34_5-step5.png, id=682, 2538.48375pt x 933.4875pt>
+<images/Study4/ch34_5-step5.png, id=707, 2538.48375pt x 933.4875pt>
 File: images/Study4/ch34_5-step5.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step5.png>
-Package pdftex.def Info: images/Study4/ch34_5-step5.png used on input line 628.
+Package pdftex.def Info: images/Study4/ch34_5-step5.png used on input line 640.
 
 (pdftex.def)             Requested size: 188.21288pt x 69.21088pt.
- [80 <./images/Study4/ch34_5-step1.png> <./images/Study4/ch34_5-step2.png> <./i
-mages/Study4/ch34_5-step3.png> <./images/Study4/ch34_5-step4.png> <./images/Stu
-dy4/ch34_5-step5.png>]
+ [80]
 
-Package caption Warning: \label without proper reference on input line 679.
+Package caption Warning: \label without proper reference on input line 691.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `table:ch34_Study5dvs' on page 81 undefined on input l
-ine 675.
+ine 687.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 677.
+               Default added (so using `tbp') on input line 689.
 
-
-Package caption Warning: \label without proper reference on input line 700.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `table:ch34_Study5interleavingfreqtbl' on page 81 unde
-fined on input line 694.
-
-[81]
+[81 <./images/Study4/ch34_5-step1.png> <./images/Study4/ch34_5-step2.png> <./im
+ages/Study4/ch34_5-step3.png> <./images/Study4/ch34_5-step4.png> <./images/Stud
+y4/ch34_5-step5.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 698.
+               Default added (so using `tbp') on input line 713.
 
 [82] [83]) [84] (./master.bbl
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 202.
@@ -1936,9 +1908,9 @@ l.1346
 age.83}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1847 Rule2015}
-                 [83]
-Underfull \hbox (badness 1308) in paragraph at lines 2093--2113
+l.1849 
+        [83]
+Underfull \hbox (badness 1308) in paragraph at lines 2221--2241
 \T1/ppl/m/n/10 sur-ing Rhythms of Me-dia In-ter-ac-tion.  \T1/ppl/m/it/10 Hu-ma
 n?Computer In-ter-ac-tion\T1/ppl/m/n/10 , \T1/ppl/m/it/10 28\T1/ppl/m/n/10 (4),
  287--
@@ -1948,14 +1920,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.84}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.2322 
-        [84]) [85]
+l.2342 Waldron2007}
+                    [84]) [85]
 
 Package natbib Warning: There were undefined citations.
 
 
-./master.tex:37: LaTeX Error: \begin{enumerate} on input line 307 ended by \end
-{document}.
+./master.tex:37: LaTeX Error: \begin{itemize} on input line 301 ended by \end{d
+ocument}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1976,7 +1948,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 1D4653C6F405ADAC7A8240C6C174CC87;1329.
+(rerunfilecheck)             Checksum: C6F580878C247F0A10E6E808C7C23946;1329.
 
 
 LaTeX Warning: There were undefined references.
@@ -1987,13 +1959,13 @@ LaTeX Warning: There were multiply-defined labels.
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 307 (\begingroup)
+### semi simple group (level 1) entered at line 301 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 32570 strings out of 493014
- 622383 string characters out of 6133351
- 667105 words of memory out of 5000000
- 35141 multiletter control sequences out of 15000+600000
+ 32598 strings out of 493014
+ 622911 string characters out of 6133351
+ 668118 words of memory out of 5000000
+ 35168 multiletter control sequences out of 15000+600000
  63457 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,15n,96p,10499b,901s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2180,10 +2152,10 @@ atino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/u
 plri8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmi
 -reg.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmia-
 reg.pfb>
-Output written on master.pdf (39 pages, 1052407 bytes).
+Output written on master.pdf (39 pages, 1055514 bytes).
 PDF statistics:
- 934 PDF objects out of 1000 (max. 8388607)
- 809 compressed objects within 9 object streams
- 265 named destinations out of 1000 (max. 500000)
+ 961 PDF objects out of 1000 (max. 8388607)
+ 836 compressed objects within 9 object streams
+ 266 named destinations out of 1000 (max. 500000)
  359 words of extra memory for PDF output out of 10000 (max. 10000000)
 

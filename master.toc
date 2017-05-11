@@ -109,38 +109,37 @@
 \contentsline {subsection}{\numberline {4.2.2}Method}{71}{subsection.4.2.2}
 \contentsline {subsubsection}{Participants}{71}{section*.22}
 \contentsline {subsubsection}{Task}{71}{section*.23}
-\contentsline {subsubsection}{Materials}{71}{section*.24}
-\contentsline {subsubsection}{Design}{72}{section*.25}
+\contentsline {subsubsection}{Materials}{72}{section*.24}
+\contentsline {subsubsection}{Design}{73}{section*.25}
 \contentsline {subsubsection}{Procedure}{73}{section*.26}
 \contentsline {subsubsection}{Pilot study}{73}{section*.27}
-\contentsline {subsubsection}{Hypotheses}{73}{section*.28}
-\contentsline {subsubsection}{Analysis}{74}{section*.29}
+\contentsline {subsubsection}{Analysis}{74}{section*.28}
 \contentsline {subsection}{\numberline {4.2.3}Results}{74}{subsection.4.2.3}
-\contentsline {subsubsection}{Ordering strategies}{74}{section*.30}
-\contentsline {subsubsection}{Grouping strategies}{75}{section*.31}
-\contentsline {subsubsection}{Performance measures: errors and speed}{77}{section*.32}
-\contentsline {subsubsection}{Qualitative findings}{77}{section*.33}
+\contentsline {subsubsection}{Ordering strategies}{74}{section*.29}
+\contentsline {subsubsection}{Grouping strategies}{75}{section*.30}
+\contentsline {subsubsection}{Performance measures: errors and speed}{77}{section*.31}
+\contentsline {subsubsection}{Qualitative findings}{78}{section*.32}
 \contentsline {subsection}{\numberline {4.2.4}Discussion}{78}{subsection.4.2.4}
-\contentsline {subsubsection}{Strategies}{78}{section*.34}
-\contentsline {subsubsection}{Contributions}{78}{section*.35}
-\contentsline {subsubsection}{Conclusion}{79}{section*.36}
+\contentsline {subsubsection}{Strategies}{78}{section*.33}
+\contentsline {subsubsection}{Contributions}{79}{section*.34}
+\contentsline {subsubsection}{Conclusion}{79}{section*.35}
 \contentsline {section}{\numberline {4.3}Study 5: Interleaving between data entry tasks}{79}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Introduction}{79}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Method}{80}{subsection.4.3.2}
-\contentsline {subsubsection}{Participants}{80}{section*.37}
-\contentsline {subsubsection}{Materials}{80}{section*.38}
-\contentsline {subsubsection}{Design}{80}{section*.39}
-\contentsline {subsubsection}{Procedure}{81}{section*.40}
+\contentsline {subsubsection}{Participants}{80}{section*.36}
+\contentsline {subsubsection}{Materials}{80}{section*.37}
+\contentsline {subsubsection}{Design}{80}{section*.38}
+\contentsline {subsubsection}{Procedure}{80}{section*.39}
 \contentsline {subsection}{\numberline {4.3.3}Results}{81}{subsection.4.3.3}
-\contentsline {subsubsection}{Interleaving strategies}{81}{section*.41}
-\contentsline {subsubsection}{Speed and errors}{82}{section*.42}
-\contentsline {subsection}{\numberline {4.3.4}Discussion}{82}{subsection.4.3.4}
+\contentsline {subsubsection}{Interleaving strategies}{82}{section*.40}
+\contentsline {subsubsection}{Speed and errors}{82}{section*.41}
+\contentsline {subsection}{\numberline {4.3.4}Discussion}{83}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Conclusion}{83}{subsection.4.3.5}
 \contentsline {chapter}{\numberline {5}Evaluating design changes to improve performance in data entry with varying IACs}{78}{chapter.5}
 \contentsline {subsubsection}{Chapter outline}{78}{section*.95}
 \contentsline {section}{\numberline {5.1}Introduction}{78}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Contributions}{79}{subsection.5.1.1}
-\contentsline {chapter}{References}{80}{chapter*.43}
+\contentsline {chapter}{References}{80}{chapter*.42}
 \contentsline {chapter}{Appendix \numberline {A}Information sheet}{86}{Appendix.a.A}
 \contentsline {chapter}{Appendix \numberline {B}Consent form}{88}{Appendix.a.B}
 \contentsline {chapter}{Appendix \numberline {C}Interview script}{90}{Appendix.a.C}

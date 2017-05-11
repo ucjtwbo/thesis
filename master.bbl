@@ -1403,6 +1403,40 @@ Miller, G\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Monk%
+, Trafton%
+\BCBL {}\ \BBA {} Boehm-Davis%
+}{%
+Monk%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+Monk2008}
+\APACinsertmetastar {%
+Monk2008}%
+\begin{APACrefauthors}%
+Monk, C\BPBI A.%
+, Trafton, J\BPBI G.%
+\BCBL {}\ \BBA {} Boehm-Davis, D\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The effect of interruption duration and demand on
+  resuming suspended goals.}} {{The effect of interruption duration and demand
+  on resuming suspended goals.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Experimental Psychology:
+  Applied}{14}{4}{299--313}.
+\newblock
+\begin{APACrefURL} \url{http://doi.apa.org/getdoi.cfm?doi=10.1037/a0014402}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1037/a0014402} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Morgan%
 \ \BBA {} Patrick%
 }{%
@@ -1535,6 +1569,36 @@ Mueller, P\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Murphy%
+, Chen%
+\BCBL {}\ \BBA {} Cossutta%
+}{%
+Murphy%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Murphy2016}
+\APACinsertmetastar {%
+Murphy2016}%
+\begin{APACrefauthors}%
+Murphy, H\BPBI C.%
+, Chen, M\BHBI M.%
+\BCBL {}\ \BBA {} Cossutta, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{An investigation of multiple devices and information
+  sources used in the hotel booking process}} {{An investigation of multiple
+  devices and information sources used in the hotel booking process}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Tourism Management}{52}{}{44--51}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.tourman.2015.06.004} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Nakata%
 }{%
 Nakata%
@@ -1606,6 +1670,38 @@ Norman, D\BPBI A.%
 \APACrefbtitle {The Design of Everyday Things} {The design of everyday things}.
 \newblock
 \APACaddressPublisher{New York, NY, USA}{Basic Books, Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+O'Hara%
+\ \BBA {} Payne%
+}{%
+O'Hara%
+\ \BBA {} Payne%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+OHara1998}
+\APACinsertmetastar {%
+OHara1998}%
+\begin{APACrefauthors}%
+O'Hara, K\BPBI P.%
+\BCBT {}\ \BBA {} Payne, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The effects of operator implementation cost on
+  planfulness of problem solving and learning.}} {{The effects of operator
+  implementation cost on planfulness of problem solving and learning.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognitive psychology}{35}{1}{34--70}.
+\newblock
+\begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/9520317}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1006/cogp.1997.0676} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1717,6 +1813,38 @@ Onwuegbuzie, A\BPBI J.%
   Effective Communication of Research Results}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Qualitative Report}{13}{2}{204--225}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Patrick%
+, Morgan%
+, Tiley%
+, Smy%
+\BCBL {}\ \BBA {} Seeby%
+}{%
+Patrick%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Patrick2014}
+\APACinsertmetastar {%
+Patrick2014}%
+\begin{APACrefauthors}%
+Patrick, J.%
+, Morgan, P\BPBI L.%
+, Tiley, L.%
+, Smy, V.%
+\BCBL {}\ \BBA {} Seeby, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Designing the Interface to Encourage More Cognitive
+  Processing}} {{Designing the Interface to Encourage More Cognitive
+  Processing}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {HCI} {Hci}\ (\BVOL~23, \BPGS\ 255--264).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
