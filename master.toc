@@ -1,6 +1,6 @@
 \contentsline {chapter}{Abstract}{1}{chapter*.1}
-\contentsline {chapter}{List of Tables}{4}{chapter*.2}
-\contentsline {chapter}{List of Figures}{5}{chapter*.3}
+\contentsline {chapter}{List of Tables}{4}{chapter*.3}
+\contentsline {chapter}{List of Figures}{5}{chapter*.4}
 \contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}
 \contentsline {subsubsection}{Chapter outline}{6}{section*.5}
 \contentsline {chapter}{\numberline {2}Background}{8}{chapter.2}
@@ -33,119 +33,121 @@
 \contentsline {subsubsection}{Summary}{21}{section*.24}
 \contentsline {section}{\numberline {2.3}Conclusion}{21}{section.2.3}
 \contentsline {chapter}{\numberline {3}Entering expenses in a financial setting}{22}{chapter.3}
-\contentsline {subsubsection}{Chapter outline}{22}{section*.4}
+\contentsline {subsubsection}{Chapter outline}{22}{section*.25}
 \contentsline {section}{\numberline {3.1}Study 1: Understanding data entry work in a financial office}{22}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Introduction}{22}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Method}{23}{subsection.3.1.2}
-\contentsline {subsubsection}{Participants}{23}{section*.5}
-\contentsline {subsubsection}{Materials}{23}{section*.6}
-\contentsline {subsubsection}{Data recording}{23}{section*.7}
-\contentsline {subsubsection}{Interviewing procedure}{25}{section*.8}
-\contentsline {subsubsection}{Pilot interview}{25}{section*.9}
-\contentsline {subsubsection}{Ethical considerations}{26}{section*.10}
+\contentsline {subsubsection}{Participants}{23}{section*.26}
+\contentsline {subsubsection}{Materials}{23}{section*.27}
+\contentsline {subsubsection}{Data recording}{23}{section*.28}
+\contentsline {subsubsection}{Interviewing procedure}{25}{section*.29}
+\contentsline {subsubsection}{Pilot interview}{25}{section*.30}
+\contentsline {subsubsection}{Ethical considerations}{26}{section*.31}
 \contentsline {subsection}{\numberline {3.1.3}Results}{26}{subsection.3.1.3}
-\contentsline {subsubsection}{Data analysis}{26}{section*.11}
-\contentsline {subsubsection}{Themes}{26}{section*.12}
-\contentsline {subsubsection}{Task}{29}{section*.13}
-\contentsline {subsubsection}{Checking}{30}{section*.14}
-\contentsline {subsubsection}{System}{32}{section*.15}
-\contentsline {subsubsection}{Environment}{33}{section*.16}
-\contentsline {subsubsection}{Data}{34}{section*.17}
-\contentsline {subsubsection}{Errors}{35}{section*.18}
-\contentsline {subsubsection}{Strategy}{37}{section*.19}
-\contentsline {subsubsection}{Importance of accuracy and paper trails}{39}{section*.20}
-\contentsline {subsubsection}{Other}{40}{section*.21}
+\contentsline {subsubsection}{Data analysis}{26}{section*.32}
+\contentsline {subsubsection}{Themes}{26}{section*.33}
+\contentsline {subsubsection}{Task}{29}{section*.34}
+\contentsline {subsubsection}{Checking}{30}{section*.35}
+\contentsline {subsubsection}{System}{32}{section*.36}
+\contentsline {subsubsection}{Environment}{33}{section*.37}
+\contentsline {subsubsection}{Data}{34}{section*.38}
+\contentsline {subsubsection}{Errors}{35}{section*.39}
+\contentsline {subsubsection}{Strategy}{37}{section*.40}
+\contentsline {subsubsection}{Importance of accuracy and paper trails}{39}{section*.41}
+\contentsline {subsubsection}{Other}{40}{section*.42}
 \contentsline {subsection}{\numberline {3.1.4}Discussion}{41}{subsection.3.1.4}
-\contentsline {subsubsection}{Information sources and access costs}{41}{section*.22}
-\contentsline {subsubsection}{Batching data entry tasks}{42}{section*.23}
-\contentsline {subsubsection}{Multiple checking stages}{42}{section*.24}
-\contentsline {subsubsection}{Summary}{43}{section*.25}
+\contentsline {subsubsection}{Information sources and access costs}{41}{section*.43}
+\contentsline {subsubsection}{Batching data entry tasks}{42}{section*.44}
+\contentsline {subsubsection}{Multiple checking stages}{42}{section*.45}
+\contentsline {subsubsection}{Summary}{43}{section*.46}
 \contentsline {section}{\numberline {3.2}Study 2: Information sources for entering expenses}{43}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Introduction}{43}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Method}{44}{subsection.3.2.2}
-\contentsline {subsubsection}{Participants}{44}{section*.26}
-\contentsline {subsubsection}{Site setting}{44}{section*.27}
-\contentsline {subsubsection}{Contextual inquiry}{44}{section*.28}
-\contentsline {subsubsection}{Pilot study}{45}{section*.29}
-\contentsline {subsubsection}{Ethical considerations}{46}{section*.30}
-\contentsline {subsubsection}{Data collection and analysis}{46}{section*.31}
+\contentsline {subsubsection}{Participants}{44}{section*.47}
+\contentsline {subsubsection}{Site setting}{44}{section*.48}
+\contentsline {subsubsection}{Contextual inquiry}{44}{section*.49}
+\contentsline {subsubsection}{Pilot study}{45}{section*.50}
+\contentsline {subsubsection}{Ethical considerations}{46}{section*.51}
+\contentsline {subsubsection}{Data collection and analysis}{46}{section*.52}
 \contentsline {subsection}{\numberline {3.2.3}Findings}{47}{subsection.3.2.3}
-\contentsline {subsubsection}{Physical model}{47}{section*.32}
-\contentsline {subsubsection}{Artefact model}{50}{section*.33}
-\contentsline {subsubsection}{Information flow model}{51}{section*.34}
-\contentsline {subsubsection}{Task strategies}{52}{section*.35}
+\contentsline {subsubsection}{Physical model}{47}{section*.53}
+\contentsline {subsubsection}{Artefact model}{50}{section*.54}
+\contentsline {subsubsection}{Information flow model}{51}{section*.55}
+\contentsline {subsubsection}{Task strategies}{52}{section*.56}
 \contentsline {subsection}{\numberline {3.2.4}Discussion}{54}{subsection.3.2.4}
-\contentsline {subsubsection}{Information sources}{54}{section*.36}
-\contentsline {subsubsection}{Information strategies}{55}{section*.37}
-\contentsline {subsubsection}{Other issues}{55}{section*.38}
-\contentsline {subsubsection}{Contribution}{55}{section*.39}
-\contentsline {subsubsection}{Limitations}{56}{section*.40}
+\contentsline {subsubsection}{Information sources}{54}{section*.57}
+\contentsline {subsubsection}{Information strategies}{55}{section*.58}
+\contentsline {subsubsection}{Other issues}{55}{section*.59}
+\contentsline {subsubsection}{Contribution}{55}{section*.60}
+\contentsline {subsubsection}{Limitations}{56}{section*.61}
 \contentsline {chapter}{\numberline {4}Understanding the effect of IAC on looking up information}{57}{chapter.4}
-\contentsline {subsubsection}{Chapter outline}{57}{section*.4}
+\contentsline {subsubsection}{Chapter outline}{57}{section*.62}
 \contentsline {section}{\numberline {4.1}Study 3: Copying numbers from one source}{57}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Introduction}{57}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Method}{59}{subsection.4.1.2}
-\contentsline {subsubsection}{Participants}{59}{section*.5}
-\contentsline {subsubsection}{Design}{59}{section*.6}
-\contentsline {subsubsection}{Materials}{61}{section*.7}
-\contentsline {subsubsection}{Procedure}{61}{section*.8}
-\contentsline {subsubsection}{Ethical considerations}{61}{section*.9}
+\contentsline {subsubsection}{Participants}{59}{section*.63}
+\contentsline {subsubsection}{Design}{59}{section*.64}
+\contentsline {subsubsection}{Materials}{61}{section*.65}
+\contentsline {subsubsection}{Procedure}{61}{section*.66}
+\contentsline {subsubsection}{Ethical considerations}{61}{section*.67}
 \contentsline {subsection}{\numberline {4.1.3}Results}{62}{subsection.4.1.3}
-\contentsline {subsubsection}{Task strategies}{62}{section*.10}
-\contentsline {subsubsection}{Number of visits to the target window}{62}{section*.11}
-\contentsline {subsubsection}{Duration of first visit to target window}{62}{section*.12}
-\contentsline {subsubsection}{Blocks placed after first visit}{64}{section*.13}
-\contentsline {subsubsection}{Global task performance}{64}{section*.14}
-\contentsline {subsubsection}{Number of incorrectly placed blocks}{65}{section*.15}
-\contentsline {subsubsection}{Number of incorrectly submitted trials}{65}{section*.16}
-\contentsline {subsubsection}{Trial time}{66}{section*.17}
-\contentsline {subsubsection}{Qualitative data}{66}{section*.18}
+\contentsline {subsubsection}{Task strategies}{62}{section*.68}
+\contentsline {subsubsection}{Number of visits to the target window}{62}{section*.69}
+\contentsline {subsubsection}{Duration of first visit to target window}{62}{section*.70}
+\contentsline {subsubsection}{Blocks placed after first visit}{64}{section*.71}
+\contentsline {subsubsection}{Global task performance}{64}{section*.72}
+\contentsline {subsubsection}{Number of incorrectly placed blocks}{65}{section*.73}
+\contentsline {subsubsection}{Number of incorrectly submitted trials}{65}{section*.74}
+\contentsline {subsubsection}{Trial time}{66}{section*.75}
+\contentsline {subsubsection}{Qualitative data}{66}{section*.76}
 \contentsline {subsection}{\numberline {4.1.4}Discussion}{68}{subsection.4.1.4}
-\contentsline {subsubsection}{The effect of block type on task strategies and performance}{68}{section*.19}
-\contentsline {subsubsection}{The effect of IAC on task strategies and performance}{68}{section*.20}
-\contentsline {subsubsection}{Summary}{69}{section*.21}
+\contentsline {subsubsection}{The effect of block type on task strategies and performance}{68}{section*.77}
+\contentsline {subsubsection}{The effect of IAC on task strategies and performance}{68}{section*.78}
+\contentsline {subsubsection}{Summary}{69}{section*.79}
 \contentsline {section}{\numberline {4.2}Study 4: Copying data from multiple sources}{70}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Introduction}{70}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Method}{71}{subsection.4.2.2}
-\contentsline {subsubsection}{Participants}{71}{section*.22}
-\contentsline {subsubsection}{Task}{71}{section*.23}
-\contentsline {subsubsection}{Materials}{72}{section*.24}
-\contentsline {subsubsection}{Design}{73}{section*.25}
-\contentsline {subsubsection}{Procedure}{73}{section*.26}
-\contentsline {subsubsection}{Pilot study}{73}{section*.27}
-\contentsline {subsubsection}{Analysis}{74}{section*.28}
+\contentsline {subsubsection}{Participants}{71}{section*.80}
+\contentsline {subsubsection}{Task}{71}{section*.81}
+\contentsline {subsubsection}{Materials}{72}{section*.82}
+\contentsline {subsubsection}{Design}{73}{section*.83}
+\contentsline {subsubsection}{Procedure}{73}{section*.84}
+\contentsline {subsubsection}{Pilot study}{73}{section*.85}
+\contentsline {subsubsection}{Analysis}{74}{section*.86}
 \contentsline {subsection}{\numberline {4.2.3}Results}{74}{subsection.4.2.3}
-\contentsline {subsubsection}{Ordering strategies}{74}{section*.29}
-\contentsline {subsubsection}{Grouping strategies}{75}{section*.30}
-\contentsline {subsubsection}{Performance measures: errors and speed}{77}{section*.31}
-\contentsline {subsubsection}{Qualitative findings}{78}{section*.32}
+\contentsline {subsubsection}{Ordering strategies}{74}{section*.87}
+\contentsline {subsubsection}{Grouping strategies}{75}{section*.88}
+\contentsline {subsubsection}{Performance measures: errors and speed}{77}{section*.89}
+\contentsline {subsubsection}{Qualitative findings}{77}{section*.90}
 \contentsline {subsection}{\numberline {4.2.4}Discussion}{78}{subsection.4.2.4}
-\contentsline {subsubsection}{Strategies}{78}{section*.33}
-\contentsline {subsubsection}{Contributions}{79}{section*.34}
-\contentsline {subsubsection}{Conclusion}{79}{section*.35}
-\contentsline {section}{\numberline {4.3}Study 5: Interleaving between data entry tasks}{79}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Introduction}{79}{subsection.4.3.1}
+\contentsline {subsubsection}{Ordering strategies}{78}{section*.91}
+\contentsline {subsubsection}{Grouping strategies}{79}{section*.92}
+\contentsline {subsubsection}{Performance}{79}{section*.93}
+\contentsline {subsubsection}{Grouping strategies}{79}{section*.94}
+\contentsline {subsubsection}{Conclusion}{79}{section*.95}
+\contentsline {section}{\numberline {4.3}Study 5: Interleaving between data entry tasks}{80}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Introduction}{80}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Method}{80}{subsection.4.3.2}
-\contentsline {subsubsection}{Participants}{80}{section*.36}
-\contentsline {subsubsection}{Materials}{80}{section*.37}
-\contentsline {subsubsection}{Design}{80}{section*.38}
-\contentsline {subsubsection}{Procedure}{80}{section*.39}
+\contentsline {subsubsection}{Participants}{80}{section*.96}
+\contentsline {subsubsection}{Materials}{80}{section*.97}
+\contentsline {subsubsection}{Design}{80}{section*.98}
+\contentsline {subsubsection}{Procedure}{80}{section*.99}
 \contentsline {subsection}{\numberline {4.3.3}Results}{81}{subsection.4.3.3}
-\contentsline {subsubsection}{Interleaving strategies}{82}{section*.40}
-\contentsline {subsubsection}{Speed and errors}{82}{section*.41}
+\contentsline {subsubsection}{Interleaving strategies}{81}{section*.100}
+\contentsline {subsubsection}{Speed and errors}{82}{section*.101}
 \contentsline {subsection}{\numberline {4.3.4}Discussion}{83}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Conclusion}{83}{subsection.4.3.5}
-\contentsline {chapter}{\numberline {5}Evaluating design changes to improve performance in data entry with varying IACs}{78}{chapter.5}
-\contentsline {subsubsection}{Chapter outline}{78}{section*.95}
-\contentsline {section}{\numberline {5.1}Introduction}{78}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Contributions}{79}{subsection.5.1.1}
-\contentsline {chapter}{References}{80}{chapter*.42}
-\contentsline {chapter}{Appendix \numberline {A}Information sheet}{86}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Consent form}{88}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Interview script}{90}{Appendix.a.C}
-\contentsline {subsubsection}{Before the interview}{90}{section*.97}
-\contentsline {subsubsection}{Work}{90}{section*.98}
-\contentsline {subsubsection}{Number entry}{90}{section*.99}
-\contentsline {subsubsection}{Environment}{91}{section*.100}
-\contentsline {subsubsection}{Demonstration}{91}{section*.101}
-\contentsline {subsubsection}{After the interview}{92}{section*.102}
+\contentsline {chapter}{\numberline {5}Evaluating design changes to improve performance in data entry with varying IACs}{85}{chapter.5}
+\contentsline {subsubsection}{Chapter outline}{85}{section*.102}
+\contentsline {section}{\numberline {5.1}Introduction}{85}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Contributions}{86}{subsection.5.1.1}
+\contentsline {chapter}{References}{87}{chapter*.103}
+\contentsline {chapter}{Appendix \numberline {A}Information sheet}{93}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Consent form}{95}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Interview script}{97}{Appendix.a.C}
+\contentsline {subsubsection}{Before the interview}{97}{section*.104}
+\contentsline {subsubsection}{Work}{97}{section*.105}
+\contentsline {subsubsection}{Number entry}{97}{section*.106}
+\contentsline {subsubsection}{Environment}{98}{section*.107}
+\contentsline {subsubsection}{Demonstration}{98}{section*.108}
+\contentsline {subsubsection}{After the interview}{99}{section*.109}

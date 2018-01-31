@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  11 MAY 2017 17:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  21 JUN 2017 09:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1571,22 +1571,33 @@ File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
 s.code.tex
 File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
 )))
+\openout2 = `./tex/abstract.aux'.
+
+ (./tex/abstract.tex
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 13.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 13.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1phv.fd
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 1.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 13.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.9 \include{./tex/abstract}
+                             [1
 
-(./master.toc
+
+
+
+
+] (./master.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
  [2
-
-
-
 
 
 ])
@@ -1599,17 +1610,24 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
 
  [4
 
-] (./master.lof)
+]
+(./master.lof
+Overfull \hbox (11.97235pt too wide) in paragraph at lines 25--25
+ [][] [][]\T1/ppl/m/n/10 The or-der strate-gies. (a) If peo-ple en-tered Amount
+1 and then Ac-count1 (or Amount2 
+ []
+
+)
 \tf@lof=\write7
 \openout7 = `master.lof'.
 
  [5
 
 ]
-\openout2 = `./tex/ch34.aux'.
+\openout2 = `./tex/introduction.aux'.
 
- (./tex/ch34.tex
-Chapter 4.
+ (./tex/introduction.tex
+Chapter 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
@@ -1620,15 +1638,419 @@ File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 4.
+ [6
+
+
+]) [7]
+\openout2 = `./tex/background.aux'.
+
+
+(./tex/background.tex
+Chapter 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 13.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 10.
+<images/HIP.pdf, id=373, 487.8225pt x 137.51375pt>
+File: images/HIP.pdf Graphic file (type pdf)
+ <use images/HIP.pdf>
+Package pdftex.def Info: images/HIP.pdf used on input line 15.
+(pdftex.def)             Requested size: 334.60422pt x 94.32224pt.
+
+[8
+
+
+
+ <./images/HIP.pdf>]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 14.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 14.
- [57
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 25.
+ [9] [10] [11] [12] [13] [14]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 122.
+
+<images/numberpad.pdf, id=566, 156.585pt x 109.40875pt>
+File: images/numberpad.pdf Graphic file (type pdf)
+
+<use images/numberpad.pdf>
+Package pdftex.def Info: images/numberpad.pdf used on input line 126.
+(pdftex.def)             Requested size: 125.26816pt x 87.5271pt.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 127.
+
+<images/incremental.pdf, id=567, 204.765pt x 43.16125pt>
+File: images/incremental.pdf Graphic file (type pdf)
+
+<use images/incremental.pdf>
+Package pdftex.def Info: images/incremental.pdf used on input line 132.
+(pdftex.def)             Requested size: 102.38223pt x 21.58057pt.
+ [15 <./images/numberpad.pdf> <./images/incremental.pdf>] [16] [17] [18] [19] [
+20]) [21]
+\openout2 = `./tex/ch12.aux'.
+
+ (./tex/ch12.tex
+Chapter 3.
+[22
 
 
+
+] [23] [24] [25]
+Underfull \hbox (badness 3179) in paragraph at lines 115--115
+[]|\T1/ppl/m/n/10 People de-scribed sit-u-a-tions where er-rors were
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 115--115
+[]|\T1/ppl/m/n/10 Importance of ac-
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 115--115
+\T1/ppl/m/n/10 cu-racy and pa-per
+ []
+
+[26] [27] [28] <images/Study1/Task.png, id=838, 630.1944pt x 364.2408pt>
+File: images/Study1/Task.png Graphic file (type png)
+
+<use images/Study1/Task.png>
+Package pdftex.def Info: images/Study1/Task.png used on input line 127.
+(pdftex.def)             Requested size: 418.25368pt x 241.74467pt.
+ [29 <./images/Study1/Task.png>]
+<images/Study1/Checking.pdf, id=847, 555.64105pt x 280.76634pt>
+File: images/Study1/Checking.pdf Graphic file (type pdf)
+
+<use images/Study1/Checking.pdf>
+Package pdftex.def Info: images/Study1/Checking.pdf used on input line 145.
+(pdftex.def)             Requested size: 418.25368pt x 211.34967pt.
+ [30 <./images/Study1/Checking.pdf>] [31]
+<images/Study1/System.pdf, id=878, 511.85338pt x 311.77339pt>
+File: images/Study1/System.pdf Graphic file (type pdf)
+
+<use images/Study1/System.pdf>
+Package pdftex.def Info: images/Study1/System.pdf used on input line 206.
+(pdftex.def)             Requested size: 418.25368pt x 254.76144pt.
+ [32
+
+ <./images/Study1/System.pdf>]
+<images/Study1/Environment.pdf, id=904, 563.01633pt x 369.42365pt>
+File: images/Study1/Environment.pdf Graphic file (type pdf)
+
+<use images/Study1/Environment.pdf>
+Package pdftex.def Info: images/Study1/Environment.pdf used on input line 220.
+(pdftex.def)             Requested size: 418.25368pt x 274.44023pt.
+ [33
+
+ <./images/Study1/Environment.pdf>]
+<images/Study1/Data.pdf, id=930, 557.38672pt x 318.58151pt>
+File: images/Study1/Data.pdf Graphic file (type pdf)
+
+<use images/Study1/Data.pdf>
+Package pdftex.def Info: images/Study1/Data.pdf used on input line 238.
+(pdftex.def)             Requested size: 418.25368pt x 239.06192pt.
+ [34 <./images/Study1/Data.pdf>]
+<images/Study1/Errors.pdf, id=956, 560.15346pt x 328.62674pt>
+File: images/Study1/Errors.pdf Graphic file (type pdf)
+
+<use images/Study1/Errors.pdf>
+Package pdftex.def Info: images/Study1/Errors.pdf used on input line 255.
+(pdftex.def)             Requested size: 418.25368pt x 245.38632pt.
+ [35
+
+ <./images/Study1/Errors.pdf>] [36]
+<images/Study1/Strategy.pdf, id=988, 510.12323pt x 260.26866pt>
+File: images/Study1/Strategy.pdf Graphic file (type pdf)
+
+<use images/Study1/Strategy.pdf>
+Package pdftex.def Info: images/Study1/Strategy.pdf used on input line 328.
+(pdftex.def)             Requested size: 418.25368pt x 213.40579pt.
+ [37
+
+ <./images/Study1/Strategy.pdf>] [38]
+<images/Study1/Papertrail.pdf, id=1019, 532.64217pt x 358.62852pt>
+File: images/Study1/Papertrail.pdf Graphic file (type pdf)
+
+<use images/Study1/Papertrail.pdf>
+Package pdftex.def Info: images/Study1/Papertrail.pdf used on input line 378.
+(pdftex.def)             Requested size: 418.25368pt x 281.61705pt.
+ [39
+
+ <./images/Study1/Papertrail.pdf>]
+<images/Study1/Other.pdf, id=1045, 532.81671pt x 224.84pt>
+File: images/Study1/Other.pdf Graphic file (type pdf)
+
+<use images/Study1/Other.pdf>
+Package pdftex.def Info: images/Study1/Other.pdf used on input line 394.
+(pdftex.def)             Requested size: 418.25368pt x 176.49635pt.
+ [40 <./images/Study1/Other.pdf>]
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 422.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+Overfull \hbox (0.83255pt too wide) in paragraph at lines 426--427
+[]\T1/ppl/m/n/10 data en-try er-rors are com-mon, and the cur-rent so-lu-tion i
+s to have data en-tered and checked
+ []
+
+[41] [42] [43]
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+) [44]
+[45] [46]
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@enditemize ->\enit@after 
+                               \endlist \ifx \enit@series \relax \else \ifnu...
+l.611 \end{itemize}
+                   
+? s
+OK, entering \scrollmode...
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@enditemize ...x \else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.611 \end{itemize}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.611 \end{itemize}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./tex/ch12.tex:611: Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.611 \end{itemize}
+                   
+I'm forgetting what you said and using zero instead.
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@enditemize ...ist \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.611 \end{itemize}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.611 \end{itemize}
+                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.611 \end{itemize}
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./tex/ch12.tex:611: You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.611 \end{itemize}
+                   
+I'm forgetting what you said and using zero instead.
+
+
+./tex/ch12.tex:611: LaTeX Error: \begin{document} ended by \end{itemize}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.611 \end{itemize}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./tex/ch12.tex:611: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.611 \end{itemize}
+                   
+Things are pretty mixed up, but I think the worst is over.
+
+<images/Study3/ch12_physmodroom.pdf, id=1182, 518.93875pt x 614.295pt>
+File: images/Study3/ch12_physmodroom.pdf Graphic file (type pdf)
+
+<use images/Study3/ch12_physmodroom.pdf>
+Package pdftex.def Info: images/Study3/ch12_physmodroom.pdf used on input line 
+619.
+(pdftex.def)             Requested size: 125.47737pt x 148.53049pt.
+
+<images/Study3/ch12_physmoddesk.pdf, id=1183, 429.605pt x 223.0707pt>
+File: images/Study3/ch12_physmoddesk.pdf Graphic file (type pdf)
+
+<use images/Study3/ch12_physmoddesk.pdf>
+Package pdftex.def Info: images/Study3/ch12_physmoddesk.pdf used on input line 
+627.
+(pdftex.def)             Requested size: 125.47737pt x 65.15175pt.
+ [47 <./images/Study3/ch12_physmodroom.pdf> <./images/Study3/ch12_physmoddesk.p
+df>] [48] [49]
+Underfull \hbox (badness 10000) in paragraph at lines 715--718
+
+ []
+
+
+LaTeX Warning: Reference `table:ch12_infsources' on page 50 undefined on input 
+line 727.
+
+[50] <images/Study3/ch12_infmodel.pdf, id=1237, 370.38374pt x 356.33125pt>
+File: images/Study3/ch12_infmodel.pdf Graphic file (type pdf)
+
+<use images/Study3/ch12_infmodel.pdf>
+Package pdftex.def Info: images/Study3/ch12_infmodel.pdf used on input line 758
+.
+(pdftex.def)             Requested size: 125.47737pt x 120.71603pt.
+ [51 <./images/Study3/ch12_infmodel.pdf>]
+[52]
+./tex/ch12.tex:802: Misplaced alignment tab character &.
+l.802 ... screen to look up information (e.g. Bi &
+                                                   Balakrishnan, 2009; Grudi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[53] [54]
+
+Package natbib Warning: Citation `Dearman' on page 55 undefined on input line 8
+48.
+
+[55]) [56]
+\openout2 = `./tex/ch34.aux'.
+
+ (./tex/ch34.tex
+Chapter 4.
+[57
 
 
 
@@ -1637,16 +2059,14 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 68.
 
-<images/Study2/ch4_numbers.png, id=391, 1908.12875pt x 1034.86626pt>
+<images/Study2/ch4_numbers.png, id=1351, 1908.12875pt x 1034.86626pt>
 File: images/Study2/ch4_numbers.png Graphic file (type png)
 
 <use images/Study2/ch4_numbers.png>
 Package pdftex.def Info: images/Study2/ch4_numbers.png used on input line 72.
 (pdftex.def)             Requested size: 438.86038pt x 238.01422pt.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 73.
 
-<images/Study2/ch4_colours.png, id=393, 1910.13625pt x 1033.8625pt>
+<images/Study2/ch4_colours.png, id=1352, 1910.13625pt x 1033.8625pt>
 File: images/Study2/ch4_colours.png Graphic file (type png)
 
 <use images/Study2/ch4_colours.png>
@@ -1657,8 +2077,12 @@ Package pdftex.def Info: images/Study2/ch4_colours.png used on input line 78.
 ./tex/ch34.tex:115: Undefined control sequence.
 l.115 \ra
          {1.3}
-? s
-OK, entering \scrollmode...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 
 Overfull \hbox (2.9416pt too wide) in paragraph at lines 115--152
  [] 
@@ -1678,7 +2102,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<images/Study2/ch4_noVisits-bargraph.pdf, id=426, 401.07188pt x 343.1461pt>
+<images/Study2/ch4_noVisits-bargraph.pdf, id=1385, 401.07188pt x 343.1461pt>
 File: images/Study2/ch4_noVisits-bargraph.pdf Graphic file (type pdf)
 
 <use images/Study2/ch4_noVisits-bargraph.pdf>
@@ -1686,8 +2110,8 @@ Package pdftex.def Info: images/Study2/ch4_noVisits-bargraph.pdf used on input
 line 163.
 (pdftex.def)             Requested size: 418.25368pt x 357.85313pt.
 
-<images/Study2/ch4_firstVisitDuration-bargraph.pdf, id=428, 401.42302pt x 342.2
-2766pt>
+<images/Study2/ch4_firstVisitDuration-bargraph.pdf, id=1387, 401.42302pt x 342.
+22766pt>
 File: images/Study2/ch4_firstVisitDuration-bargraph.pdf Graphic file (type pdf)
 
  <use images/Study2/ch4_firstVisitDuration-bargraph.pdf>
@@ -1695,8 +2119,8 @@ Package pdftex.def Info: images/Study2/ch4_firstVisitDuration-bargraph.pdf used
  on input line 174.
 (pdftex.def)             Requested size: 418.25368pt x 356.58722pt.
  [62] [63]
-<images/Study2/ch4_firstCorrectBlocks-bargraph.pdf, id=443, 400.97583pt x 341.5
-7341pt>
+<images/Study2/ch4_firstCorrectBlocks-bargraph.pdf, id=1402, 400.97583pt x 341.
+57341pt>
 File: images/Study2/ch4_firstCorrectBlocks-bargraph.pdf Graphic file (type pdf)
 
  <use images/Study2/ch4_firstCorrectBlocks-bargraph.pdf>
@@ -1706,20 +2130,14 @@ Package pdftex.def Info: images/Study2/ch4_firstCorrectBlocks-bargraph.pdf used
  [64 <./images/Study2/ch4_noVisits-bargraph.pdf>] [65 <./images/Study2/ch4_firs
 tVisitDuration-bargraph.pdf>] [66 <./images/Study2/ch4_firstCorrectBlocks-bargr
 aph.pdf>]
-<images/Study2/ch4_placeholders.pdf, id=528, 534.99875pt x 547.04375pt>
+<images/Study2/ch4_placeholders.pdf, id=1487, 534.99875pt x 547.04375pt>
 File: images/Study2/ch4_placeholders.pdf Graphic file (type pdf)
 
 <use images/Study2/ch4_placeholders.pdf>
 Package pdftex.def Info: images/Study2/ch4_placeholders.pdf used on input line 
 213.
 (pdftex.def)             Requested size: 160.50085pt x 164.11438pt.
- [67 <./images/Study2/ch4_placeholders.pdf>]
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 233.
-
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ppl.fd
-File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [68]
-[69]
+ [67 <./images/Study2/ch4_placeholders.pdf>] [68] [69]
 Runaway argument?
 {itemize] 
 ./tex/ch34.tex:306: Paragraph ended before \end was complete.
@@ -1732,7 +2150,7 @@ control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
 [70] [71]
-<images/Study4/ch34_4-step1nrd.png, id=628, 2535.4725pt x 924.45375pt>
+<images/Study4/ch34_4-step1nrd.png, id=1582, 2535.4725pt x 924.45375pt>
 File: images/Study4/ch34_4-step1nrd.png Graphic file (type png)
 
 <use images/Study4/ch34_4-step1nrd.png>
@@ -1740,7 +2158,7 @@ Package pdftex.def Info: images/Study4/ch34_4-step1nrd.png used on input line 3
 48.
 (pdftex.def)             Requested size: 334.60422pt x 121.98877pt.
 
-<images/Study4/ch34_4-step2.png, id=629, 2533.465pt x 925.4575pt>
+<images/Study4/ch34_4-step2.png, id=1583, 2533.465pt x 925.4575pt>
 File: images/Study4/ch34_4-step2.png Graphic file (type png)
 
 <use images/Study4/ch34_4-step2.png>
@@ -1748,7 +2166,7 @@ Package pdftex.def Info: images/Study4/ch34_4-step2.png used on input line 355.
 
 (pdftex.def)             Requested size: 334.60422pt x 122.22008pt.
 
-<images/Study4/ch34_4-step3.png, id=630, 2540.49126pt x 926.46124pt>
+<images/Study4/ch34_4-step3.png, id=1584, 2540.49126pt x 926.46124pt>
 File: images/Study4/ch34_4-step3.png Graphic file (type png)
 
 <use images/Study4/ch34_4-step3.png>
@@ -1757,7 +2175,7 @@ Package pdftex.def Info: images/Study4/ch34_4-step3.png used on input line 362.
 (pdftex.def)             Requested size: 334.60422pt x 122.01335pt.
  [72 <./images/Study4/ch34_4-step1nrd.png> <./images/Study4/ch34_4-step2.png> <
 ./images/Study4/ch34_4-step3.png>] [73]
-<images/Study4/ch34_4-roworderstr.png, id=648, 2540.49126pt x 935.495pt>
+<images/Study4/ch34_4-roworderstr.png, id=1604, 2540.49126pt x 935.495pt>
 File: images/Study4/ch34_4-roworderstr.png Graphic file (type png)
 
 <use images/Study4/ch34_4-roworderstr.png>
@@ -1765,7 +2183,7 @@ Package pdftex.def Info: images/Study4/ch34_4-roworderstr.png used on input lin
 e 410.
 (pdftex.def)             Requested size: 209.12683pt x 76.99657pt.
 
-<images/Study4/ch34_4-columnorderstr.png, id=649, 2538.48375pt x 956.57375pt>
+<images/Study4/ch34_4-columnorderstr.png, id=1605, 2538.48375pt x 956.57375pt>
 File: images/Study4/ch34_4-columnorderstr.png Graphic file (type png)
 
 <use images/Study4/ch34_4-columnorderstr.png>
@@ -1776,89 +2194,99 @@ line 417.
 mnorderstr.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 468.
+               Default added (so using `tbp') on input line 469.
 
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 483.
-
-<images/Study4/ch34_4-groupstr.png, id=673, 389.7762pt x 353.6412pt>
+<images/Study4/ch34_4-groupstr.png, id=1626, 389.7762pt x 353.6412pt>
 File: images/Study4/ch34_4-groupstr.png Graphic file (type png)
 
 <use images/Study4/ch34_4-groupstr.png>
-Package pdftex.def Info: images/Study4/ch34_4-groupstr.png used on input line 5
-14.
+Package pdftex.def Info: images/Study4/ch34_4-groupstr.png used on input line 4
+99.
 (pdftex.def)             Requested size: 209.12683pt x 189.74387pt.
 
+Overfull \hbox (1.8316pt too wide) in paragraph at lines 506--507
+[][][][][][][] 
+ []
+
+[76 <./images/Study4/ch34_4-groupstr.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 522.
+               Default added (so using `tbp') on input line 526.
 
-[76] [77 <./images/Study4/ch34_4-groupstr.png>]
+[77] [78]
 
-Package natbib Warning: Citation `Morgan2014' on page 78 undefined on input lin
-e 560.
+Package natbib Warning: Citation `Morgan2014' on page 79 undefined on input lin
+e 587.
 
-[78] [79] <images/Study4/ch34_5-step1.png, id=703, 1422.81563pt x 553.06625pt>
+[79] <images/Study4/ch34_5-step1.png, id=1665, 1422.81563pt x 553.06625pt>
 File: images/Study4/ch34_5-step1.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step1.png>
-Package pdftex.def Info: images/Study4/ch34_5-step1.png used on input line 616.
+Package pdftex.def Info: images/Study4/ch34_5-step1.png used on input line 637.
 
 (pdftex.def)             Requested size: 188.21288pt x 73.15855pt.
 
-<images/Study4/ch34_5-step2.png, id=704, 1422.7554pt x 540.5796pt>
+<images/Study4/ch34_5-step2.png, id=1666, 1422.7554pt x 540.5796pt>
 File: images/Study4/ch34_5-step2.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step2.png>
-Package pdftex.def Info: images/Study4/ch34_5-step2.png used on input line 623.
+Package pdftex.def Info: images/Study4/ch34_5-step2.png used on input line 644.
 
 (pdftex.def)             Requested size: 188.21288pt x 71.50685pt.
 
-<images/Study4/ch34_5-step3.png, id=705, 2526.43875pt x 953.5625pt>
+<images/Study4/ch34_5-step3.png, id=1667, 2526.43875pt x 953.5625pt>
 File: images/Study4/ch34_5-step3.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step3.png>
-Package pdftex.def Info: images/Study4/ch34_5-step3.png used on input line 630.
+Package pdftex.def Info: images/Study4/ch34_5-step3.png used on input line 651.
 
 (pdftex.def)             Requested size: 188.21288pt x 71.03394pt.
 
-<images/Study4/ch34_5-step4.png, id=706, 2526.43875pt x 923.45pt>
+<images/Study4/ch34_5-step4.png, id=1668, 2526.43875pt x 923.45pt>
 File: images/Study4/ch34_5-step4.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step4.png>
-Package pdftex.def Info: images/Study4/ch34_5-step4.png used on input line 635.
+Package pdftex.def Info: images/Study4/ch34_5-step4.png used on input line 656.
 
 (pdftex.def)             Requested size: 188.21288pt x 68.79076pt.
 
-<images/Study4/ch34_5-step5.png, id=707, 2538.48375pt x 933.4875pt>
+<images/Study4/ch34_5-step5.png, id=1669, 2538.48375pt x 933.4875pt>
 File: images/Study4/ch34_5-step5.png Graphic file (type png)
 
 <use images/Study4/ch34_5-step5.png>
-Package pdftex.def Info: images/Study4/ch34_5-step5.png used on input line 640.
+Package pdftex.def Info: images/Study4/ch34_5-step5.png used on input line 661.
 
 (pdftex.def)             Requested size: 188.21288pt x 69.21088pt.
  [80]
 
-Package caption Warning: \label without proper reference on input line 691.
+Package caption Warning: \label without proper reference on input line 712.
 See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `table:ch34_Study5dvs' on page 81 undefined on input l
-ine 687.
+ine 708.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 689.
+               Default added (so using `tbp') on input line 710.
 
 [81 <./images/Study4/ch34_5-step1.png> <./images/Study4/ch34_5-step2.png> <./im
 ages/Study4/ch34_5-step3.png> <./images/Study4/ch34_5-step4.png> <./images/Stud
 y4/ch34_5-step5.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 713.
+               Default added (so using `tbp') on input line 734.
 
-[82] [83]) [84] (./master.bbl
+[82] [83]) [84]
+\openout2 = `./tex/ch56.aux'.
+
+ (./tex/ch56.tex
+Chapter 5.
+[85
+
+
+
+]) [86] (./master.bbl
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 202.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
@@ -1879,13 +2307,7 @@ tion / doi / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ
 it/10 ÇÜÇââÜÜ$[]
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.80}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.390 
-       [80
-
+[87
 
 
 ]
@@ -1894,34 +2316,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 492--513
 interact\U/ntxsfmia/m/it/10 ÉÅÅÑ []
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.81}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.845 
-       [81]pdfTeX warning (ext4): destination with the same identifier (name{pa
-ge.82}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1346 
-        [82]pdfTeX warning (ext4): destination with the same identifier (name{p
-age.83}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1849 
-        [83]
+[88] [89] [90]
 Underfull \hbox (badness 1308) in paragraph at lines 2221--2241
 \T1/ppl/m/n/10 sur-ing Rhythms of Me-dia In-ter-ac-tion.  \T1/ppl/m/it/10 Hu-ma
 n?Computer In-ter-ac-tion\T1/ppl/m/n/10 , \T1/ppl/m/it/10 28\T1/ppl/m/n/10 (4),
  287--
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.84}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.2342 Waldron2007}
-                    [84]) [85]
+[91]) [92]
+\openout2 = `./tex/appendix/appendix.aux'.
+
+ (./tex/appendix/appendix.tex
+Appendix A.
+<images/Informationsheet.pdf, id=1777, 597.23125pt x 844.15375pt>
+File: images/Informationsheet.pdf Graphic file (type pdf)
+
+<use images/Informationsheet.pdf>
+Package pdftex.def Info: images/Informationsheet.pdf used on input line 6.
+(pdftex.def)             Requested size: 418.25368pt x 591.18698pt.
+ [93
+
+
+] [94 <./images/Informationsheet.pdf>]
+Appendix B.
+<images/Consentform.pdf, id=1818, 597.23125pt x 844.15375pt>
+File: images/Consentform.pdf Graphic file (type pdf)
+
+<use images/Consentform.pdf>
+Package pdftex.def Info: images/Consentform.pdf used on input line 15.
+(pdftex.def)             Requested size: 418.25368pt x 591.18698pt.
+ [95
+
+] [96 <./images/Consentform.pdf>]
+Appendix C.
+[97
+
+] [98]) [99]
 
 Package natbib Warning: There were undefined citations.
 
@@ -1947,9 +2377,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
 ))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
-Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: C6F580878C247F0A10E6E808C7C23946;1329.
 
+
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master.out':
+(rerunfilecheck)             Before: F5D890802D5A565CBB466372E5CD4CF8;1329
+(rerunfilecheck)             After:  B7B995D321D5C1748D9A1AE24489A8D3;3335.
 
 LaTeX Warning: There were undefined references.
 
@@ -1962,183 +2398,15 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 301 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 32598 strings out of 493014
- 622911 string characters out of 6133351
- 668118 words of memory out of 5000000
- 35168 multiletter control sequences out of 15000+600000
+ 33180 strings out of 493014
+ 630851 string characters out of 6133351
+ 671372 words of memory out of 5000000
+ 35566 multiletter control sequences out of 15000+600000
  63457 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,15n,96p,10499b,901s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{figure.a.B.1} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.a.A.1} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.12} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.11} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.10} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.9} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.8} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.7} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.6} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.4} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.3} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.2} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.3.1} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.2.2} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.2.1} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.13} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.12} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.11} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.10} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.9} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.8} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.7} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.6} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.5} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.4} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.3} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.2} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{table.3.1} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{Appendix.a.C} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Appendix.a.B} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Appendix.a.A} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.5.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.5.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.3.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.3} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.2.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.2.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.2} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.1.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.1.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.1.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.2.1.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.2.1} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.2} has been referenced but does not exist, 
-replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter.1} has been referenced but does not exist, 
-replaced by a fixed one
+ 76i,15n,96p,10499b,1033s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{chapter*.44} has been referenced bu
+t does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
 live/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texli
@@ -2152,10 +2420,10 @@ atino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/u
 plri8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmi
 -reg.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmia-
 reg.pfb>
-Output written on master.pdf (39 pages, 1055514 bytes).
+Output written on master.pdf (100 pages, 1717144 bytes).
 PDF statistics:
- 961 PDF objects out of 1000 (max. 8388607)
- 836 compressed objects within 9 object streams
- 266 named destinations out of 1000 (max. 500000)
- 359 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2007 PDF objects out of 2073 (max. 8388607)
+ 1727 compressed objects within 18 object streams
+ 416 named destinations out of 1000 (max. 500000)
+ 444 words of extra memory for PDF output out of 10000 (max. 10000000)
 

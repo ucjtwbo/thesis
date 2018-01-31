@@ -310,7 +310,7 @@ The soft constraints hypothesis predicts that people choose and adapt their task
 As IAC increases, people will try to group and memorise multiple items to minimise visits.
 \end{itemize}
 
-In \citet{OHara1998}'s study on the effect of IAC on problem solving tasks, participants in Low-IAC and High-IAC conditions initially performed the same type of strategies. However, over time participants in a High-IAC condition  learnt more efficient strategies, whilst participants in a Low-IAC condition continued to use the same strategy. Prior work has also shown that people who are exposed to High-IAC situations will adopt and continue to use a certain strategy, even in situations where the cost to access information is no longer high \citep{Patrick2014}. It is therefore expected that once participants learn it is more efficient to group high-IAC items, they may adopt this strategy for low-IAC items as well. In Study 2 of this thesis, people tried to enter items that were nearby in the environment first, and postponed looking up other information until later. Based on these findings, the following hypothesis is made: 
+In \citet{OHara1998}'s study on the effect of IAC on problem solving tasks, participants in Low-IAC and High-IAC conditions initially performed the same type of strategies. However, over time participants in a High-IAC condition  learnt more efficient strategies, whilst participants in a Low-IAC condition continued to use the same strategy. Prior work has also shown that people who are exposed to High-IAC situations will continue to use the strategy they learnt to be the most efficient, even in situations where the cost to access information is no longer high \citep{Patrick2014}. It is therefore expected that once participants learn it is more efficient to group High-IAC items, they may adopt this strategy for Low-IAC items as well. In Study 2 of this thesis, people tried to enter items that were nearby in the environment first, and postponed looking up other information until later. Based on these findings, the following hypothesis is made: 
 \begin{itemize}
 \item [H2.]
 As the experiment progresses and people become aware how costly it is to access certain sources, they will learn and choose to enter all the Low-IAC items first, in a batch, and then the High-IAC items second, also in a batch, rather than looking up each item as they need it. 
@@ -338,8 +338,8 @@ Thirty-three participants (12 male) with a mean age of 26 years (SD= 8) took par
 \subsubsection{Task}
 The experimental data entry task was framed around the expenses task from Studies 1 and 2. For this task, the user has to complete a number of data entries regarding incurred expenses in order to claim back the money. They enter this into a claim form, which looks similar to a spreadsheet. Users can choose to either fill in multiple expenses in one sheet, in which each row corresponds to one expense, or have separate spreadsheets for each expense. The current experiment will use the scenario where users enter multiple expenses in one sheet.
 
-The experimental task can be viewed in Figure \ref{fig:ch34_tasklayout}. Participants had to switch between five computer windows on the computer screen. One window contained the data entry form, in which the data for two expenses had to be entered (see Figure \ref{fig:ch34_4-step1nrd}). For each expense, they had to enter a financial amount to specify the expense that was made, and an account code to determine from which account to claim back the expense. 
-The four data items had to be retrieved from four separate windows (see Figure \ref{fig:ch34_4-step2}), and entered in the corresponding fields on the data entry form (see Figure \ref{fig:ch34_4-step3}). A window was revealed by clicking on the corresponding name in the horizontal menu, at the top of the screen. Only one window could be viewed at a time and one window covered the full screen. 
+The experimental task can be viewed in Figure \ref{fig:ch34_tasklayout}. Participants had to switch between five web pages on the computer screen. One page contained the data entry form, in which the data for two expenses had to be entered (see Figure \ref{fig:ch34_4-step1nrd}). One row in the form corresponded to one expense. For each expense, they had to enter a financial amount (Am1) to specify the expense that was made, and an account code (Acc1) to determine from which account to claim back the expense. 
+The four data items had to be retrieved from four separate pages (see Figure \ref{fig:ch34_4-step2}), and entered in the corresponding fields on the data entry form (see Figure \ref{fig:ch34_4-step3}). The participant could go to a page by clicking on the corresponding name in the horizontal menu at the top of the screen. Only one page could be viewed at a time and covered the full screen. 
 
 %The names of computer windows with an increased IAC were underlined, to make it easier to see which windows had an increased time cost to open.
 \begin{figure}
@@ -371,14 +371,14 @@ The four data items had to be retrieved from four separate windows (see Figure \
 %Because the focus of this study was on the time cost to retrieve the data to be entered, and not on different type of data items per se, the participants only had to fill in two type of data items. 
 
 \subsubsection{Materials}
-The data items were designed to look similar to the numbers seen in Studies 1 and 2. People usually worked with the same 20 or 30 account codes. They were aware they worked with the same set, but still had to look them up each time they needed them. The codes had a length of six digits, and the string was random with no pattern. 
+The data items were designed to look similar to the numbers seen in Studies 1 and 2. Office workers in these studies usually worked with the same 20 or 30 account codes. They were aware they worked with the same set of codes, but still had to look a code up each time they needed to enter it. The codes had a length of six digits, and the string was random with no pattern. 
 
-An experimental session consisted of 50 trials, divided into 5 blocks of 10 trials.  Each trial consisted of four data entries, so in total participants made 200 entries. For each block, a set of 20 different amounts and 20 different account codes were used. These sets were re-used for every block, so in total, each number was presented five times throughout a session. There were two practice trials before the experiment began. The numbers used in the practice trials were not used for the experimental trials. The data items always had the same length: the amounts consisted of two digits on the integer part and two digits on the fraction part (e.g. 11.94), and the account codes were six digits (e.g. 654273).
+An experimental session consisted of 50 trials, divided into 5 blocks of 10 trials.  Each trial consisted of four data entries, so in total a participant made 200 entries. For each block, a set of 20 different amounts and 20 different account codes were used. These sets were re-used for every block, so in total, each number was presented five times throughout a session. There were two practice trials before the experiment began. The numbers used in the practice trials were not used for the experimental trials. The data items always had the same length: the amounts consisted of two digits on the integer part and two digits on the fraction part (e.g. 11.94), and the account codes were six digits (e.g. 654273).
 
-The experiment was conducted in a web browser, on a desktop computer with a 24-inch monitor with a resolution of 2048 x 1152 pixels. People used a computer mouse and number pad to view and enter the numbers, and the option to copy and paste information was disabled. The cursor stayed in the same cell of the data entry form if the participant switched to other windows and back. The task interface was developed in HTML, CSS, Javascript and PHP. The browser window was maximised to avoid distractions. All mouse clicks, keypresses and their timestamps were recorded using Javascript. 
+The experiment was conducted in a web browser, on a desktop computer with a 24-inch monitor with a resolution of 2048 x 1152 pixels. People used a computer mouse and number pad, and the option to copy and paste information was disabled. If the participant switched from the data entry form to another page and back, the cursor stayed in the same cell of the data entry form. The task interface was developed in HTML, CSS, Javascript and PHP. The browser window was maximised to avoid distractions. All mouse clicks, keypresses and their timestamps were recorded using Javascript. 
 
 \subsubsection{Design}
-The experiment was a between-subjects design with one independent variable, the IAC of the information source windows. In the control condition, there were no delays in opening the windows. In the other two conditions, there was a two-second delay before two of the four windows were revealed. In the High-Account condition, there was a delay for viewing the two account codes, whereas in the High-Amount condition there was a delay for viewing the two amounts. All window switches and key presses were logged to determine the order and grouping of visits and entries. Other dependent variables were trial completion time, number of visits to information sources, and data entry errors.
+The experiment was a between-subjects design with one independent variable, the IAC of the four information source pages. In the control condition, there were no delays in opening the pages. In the other two conditions, there was a two-second delay before two of the four pages were revealed. In the High-Account condition, there was a delay for viewing the two account codes, whereas in the High-Amount condition there was a delay for viewing the two amounts. All page switches and key presses were logged to determine the order and grouping strategies of visits and entries. Other dependent variables were trial completion time, number of visits to information sources, and data entry errors.
 
 \subsubsection{Procedure}
 The experiment took place in a closed quiet room. Participants were welcomed and briefed verbally about the study. They were instructed to complete the task as fast and accurately as possible, but other than this instruction, it was emphasised they were free to use whichever strategy they wished. Examples of possible strategies were demonstrated: they could enter it per row, per column, and could go back to the information sources as often as they wished. After reading an information sheet and signing a consent form, participants completed two practice trials. After this they completed 50 experimental trials. After every 10 trials, there was the opportunity to take a break. A prompt appeared on the computer screen and time stopped. Participants were free to choose the length of each break, and continued the experiment by pressing a 'Next' button on the screen. The experiment took approximately 30 minutes.
@@ -391,13 +391,13 @@ During the pilot studies, there was a scheduled break after every 5 trials. Both
 For the real experiments, the breaks were reduced to happen after every 10 trials. In addition, the names of information sources with an increased IAC were underlined in the horizontal menu. This visual feature was added to help users see which windows had an increased time cost to open.
 
 \subsubsection{Analysis}
-In order to analyse if there was a significant difference in ordering and grouping strategies, a bottom-up approach was taken to manually categorise people's strategies into different strategy categories.
+In order to analyse if there was a significant difference in ordering and grouping strategies, a bottom-up approach was taken to manually code people's strategies.
 
-All window switches and key presses were recorded and saved in a spreadsheet. This spreadsheet showed the order of actions for each participant and trial. There were eight different possible actions: viewing the first amount (V-Am1), viewing the second amount (V-Am2), viewing the first account code (V-Acc1), viewing the second account code (V-Acc2), entering the first amount (E-Am1), entering the second amount (E-Am2), entering the first account code (E-Acc1), and entering the second account code (E-Acc2).
+All mouse click events to switch to a different page and key press events to enter data were recorded and saved in a spreadsheet. For each trial, the order of actions was considered and the trial was either grouped under a new strategy group for this order, or the trial was grouped under an existing strategy group. There were eight different possible actions: viewing the first amount (V-Am1), viewing the second amount (V-Am2), viewing the first account code (V-Acc1), viewing the second account code (V-Acc2), entering the first amount (E-Am1), entering the second amount (E-Am2), entering the first account code (E-Acc1), and entering the second account code (E-Acc2).
 
-There were 33 participants who each completed 50 trials, so in total there were 1650 trials to be categorised. Each instance was first categorised according to the order in which items were entered: per row, column, or another order. This was to determine whether people grouped and entered data per type of data item (Amount and Account code), if they entered data in the sequence in which it was presented on the form (Claim1 and Claim2), or if they grouped according to the IAC (Low-IAC and High-IAC). The instances were then categorised according to whether the participants grouped multiple data items in one visit, or if data items were viewed and then entered one by one. 
+The first iteration of grouping the trials resulted in 17 different strategy groups. For the second iteration, the strategy groups were categorised into two larger Ordering categories, according to the order in which items were entered: per row or per column. This categorisation was to determine whether people entered data per type of data item (Amount and Account code), and if they entered items in the order of IAC (Low-IAC and High-IAC), or if they entered data in the sequence in which it was presented on the form (Claim1 and Claim2). The 17 strategy groups were also categorised into two Grouping categories. For this categorisation, it was considered whether a participant grouped multiple data items in one visit, or if data items were viewed and then entered one by one. 
 
-The occurrences of each strategy type was calculated for each condition and summarised in a frequency table. One-way ANOVAs were used to determine if there were significant differences between conditions in frequency of strategies, number of visits to the information sources, trial completion time, and errors. 
+For each participant, the number of trials on which a particular strategy was done was calculated and saved in a spreadsheet. One-way ANOVAs were used to determine if there were significant differences between conditions in frequency of strategies, number of visits to the information sources, trial completion time, and errors. 
 
 %At the start of each experiment, some participants tried out different strategies. After several trials, most participants chose and stuck with the same strategy. Some participants used the same strategy for all trials. Therefore, the number of trials on which a certain strategy was chosen was more a categorical than continuous variable: people used it on zero or more than thirty trials. 
 
@@ -420,7 +420,7 @@ The occurrences of each strategy type was calculated for each condition and summ
     \end{subfigure}
     ~ %add desired spacing between images, e. g. ~, \quad, \qquad, \hfill etc. 
     %(or a blank line to force the subfigure onto a new line)
-    \caption{The order strategies. (a)  If people entered Amount 1 and then Account1 (or Amount2 and then Account2), this was categorised as a 'Row' strategy. (b) If people entered Amount 1 and then Amount2 (or Account1 and then Account2), this was categorised as a 'Column' strategy.}\label{fig:ch34_4-orderstr}
+    \caption{The order strategies. (a)  If people entered Amount1 and then Account1 (or Amount2 and then Account2), this was categorised as a 'Row' strategy. (b) If people entered Amount 1 and then Amount2 (or Account1 and then Account2), this was categorised as a 'Column' strategy.}\label{fig:ch34_4-orderstr}
 \end{figure}
 
 
@@ -438,29 +438,30 @@ Total        & 54.06\% {\footnotesize (892)} & 44.91\% {\footnotesize (741)} & 1
 \caption{The rates (and frequencies) of ordering strategies per condition.}\label{table:ch34_4-str-order}
 \end{table}
 
-Table \ref{table:ch34_4-str-order} shows the number of trials where people grouped per row, per column and where they had another order. The Row strategy meant that the participant first entered Amount1 and Account1, and then Amount2 and Account2, or the other way around (Figure \ref{fig:ch34_4-roworderstr}). The Column strategy meant that the participant first entered Amount1 and Amount2, and then Account1 and Account2, or the other way around (Figure \ref{fig:columnorderstr}). 
+Table \ref{table:ch34_4-str-order} shows the number of trials where people grouped per row, per column and where they had another order. The Row strategy meant that the participant first entered Amount1 and Account1, and then Amount2 and Account2, or the other way around (Figure \ref{fig:ch34_4-roworderstr}). The Column strategy meant that the participant first entered Amount1 and Amount2, and then Account1 and Account2, or the other way around (Figure \ref{fig:columnorderstr}). There were seventeen trials in total that did not fall into either one of these categories. An example is a trial where the participant first entered Amount1, then Account2, and then submitted the trial before completing all entries.
 
-There was a significant difference in choice of strategy, F(2,30) = 3.32, p = 0.04. People most often entered data in the order in which they were presented, per row. In the High-Amount and Control condition, this strategy was chosen on 64.73\% and 64.18\% of the trials, respectively. In the High-Account condition, the strategy was chosen 33.27\% of the time, and people more often entered items per column. In the 741 trials where people adopted a Column strategy, they predominantly entered the amounts first, even in the High-Amounts condition. There were only fifteen trials where account codes were entered first, and these were by the same person in the High-Amounts condition.
+There was a significant difference in choice of Ordering strategy, F(2,30) = 3.32, p = 0.04. People most often entered data in the order in which they were presented, per row. In the High-Amount and Control condition, this strategy was chosen on 64.73\% and 64.18\% of the trials, respectively. In the High-Account condition, the strategy was chosen 33.27\% of the time, and people more often entered items per column. In the 741 trials where people adopted a Column strategy, they predominantly entered the amounts first, even in the High-Amounts condition. There were only fifteen trials where account codes were entered first, and these were by the same person in the High-Amounts condition.
 
 \subsubsection{Grouping strategies}
 %TOTAL grouping strategies. 
 \begin{table}[!ht]
 \centering
-\begin{tabular}{|l|l|l|l|}
+\begin{tabular}{|l|l|l|l|l|}
 \hline
-Condition    & Grouped       & One-by-one     & Total      \\ \hline
-High-Account & 37.52\% {\footnotesize (206)} & 62.48\% {\footnotesize (343)}  & 100 {\footnotesize (549)}  \\ \hline
-High-Amount  & 55.70\%{\footnotesize  (303)} & 44.30\% {\footnotesize (241)}  & 100 {\footnotesize (544)}  \\ \hline
-Control      & 67.78\% {\footnotesize (366)} & 32.22\% {\footnotesize (174)}  & 100 {\footnotesize (540)}  \\ \hline
-Total        & 53.58\% {\footnotesize (875)} & 46.42\% {\footnotesize (758)} & 100 {\footnotesize (1633)} \\ \hline
+Condition    & Grouped       & One-by-one   & Other  & Total      \\ \hline
+High-Account & 37.52\% {\footnotesize (206)} & 62.48\% {\footnotesize (343)}  & 0.18\% {\footnotesize(1)}  &  100\% {\footnotesize (550)}  \\ \hline
+High-Amount  & 55.70\%{\footnotesize  (303)} & 44.30\% {\footnotesize (241)}  & 1.09\% {\footnotesize(6)}  & 100\% {\footnotesize (550)}  \\ \hline
+Control      & 67.78\% {\footnotesize (366)} & 32.22\% {\footnotesize (174)}  & 1.82\% {\footnotesize(10)}  & 100\% {\footnotesize (550)}  \\ \hline
+Total        & 53.58\% {\footnotesize (875)} & 46.42\% {\footnotesize (758)} & 1.03\% {\footnotesize(17)} & 100\% {\footnotesize (1650)} \\ \hline
 \end{tabular}
 \caption{The rates (and frequencies) of grouping strategies per condition.}\label{table:ch34_group-total}
 \end{table}
 
-There was no significant difference between conditions on total number of visits to information sources, F(2,30) = 2.71, p = 0.08. On average people needed five visits to the sources per trial.
 To see if people tried to reduce number of visits by viewing multiple data items before entering them, strategies were categorised into so-called 'Grouped' and 'One-by-one' strategies. If participants grouped visits and made multiple visits before entering them, they were placed in the 'Grouped' category. If they visited and then entered each item one by one, they were placed in the 'One-by-one' category.
 
-Overall, there was an even distribution of trials where participants tried to group items (53.58\%) and trials where they entered them one by one (46.42\%) and this did not differ significantly between conditions, F(2,30) = 0.39, p = 0.68. (see Table \ref{table:ch34_group-total}). However, looking at the trials where people did group per column, in Table \ref{table:ch34_group-column} it can be seen that in the High-Amount condition, people more often tried to group items. A chi-square test showed that looking at trials where people ordered per column, grouping strategy was significantly associated with condition, $\chi^2$ (2) = 95.55, p < 0.05. 
+Overall, there was an even distribution of trials where participants tried to group items (53.58\%) and trials where they entered them one by one (46.42\%) and this did not differ significantly between conditions, F(2,30) = 0.39, p = 0.68. (see Table \ref{table:ch34_group-total}). There was also no significant difference between conditions on mean number of visits to information sources, F(2,30) = 2.71, p = 0.08. On average people made five visits per trial.
+
+However, looking at the trials where people entered items per column, in Table \ref{table:ch34_group-column} it can be seen that in the High-Amount condition, people more often tried to group items. A chi-square test showed that looking at trials where people ordered per column, grouping strategy was significantly associated with condition, $\chi^2$ (2) = 95.55, p < 0.05. 
 
 %If IAC was increased, people thus tried to group more before returning but this was only the case if the amounts were high. If account codes were high, people were more likely to visit and enter items one by one. 
  
@@ -479,19 +480,30 @@ Total        & 41.43\% {\footnotesize (307)} & 58.57\% {\footnotesize (434)} & 1
 \end{table}
 
 %ROW grouping strategies. 
-Finally, for the trials where people decided to enter items row by row, they most often entered them one by one and did not group them, as can be seen in Table \ref{table:ch34_group-row}:
-\begin{table}[]
-\centering
-\begin{tabular}{|l|l|l|l|}
-\hline
-Condition    & Grouped       & One-by-one    & Total     \\ \hline
-High-Account & 26.78\% {\footnotesize (49)}  & 73.22\% {\footnotesize (134)} & 100 {\footnotesize (183)} \\ \hline
-High-Amount  & 24.44\% {\footnotesize (87)}  & 75.56\% {\footnotesize (269)} & 100 {\footnotesize (356)} \\ \hline
-Control      & 13.88\% {\footnotesize (49)}  & 86.12\% {\footnotesize (304)} & 100 {\footnotesize (353)} \\ \hline
-Total        & 20.74\% {\footnotesize (185)} & 79.26\% {\footnotesize (707)} & 100 {\footnotesize (892)} \\ \hline
-\end{tabular}
-\caption{The rates (and frequencies) of grouping strategies for trials where people entered items in row order.}\label{table:ch34_group-row}
-\end{table}
+%Finally, perhaps unsurprisingly, for the trials where people decided to enter items row by row, they most often entered them one by one and did not group them, as can be seen in Table \ref{table:ch34_group-row}:
+%\begin{table}[]
+%\centering
+%\begin{tabular}{|l|l|l|l|}
+%\hline
+%Condition    & Grouped       & One-by-one    & Total     \\ \hline
+%High-Account & 26.78\% {\footnotesize (49)}  & 73.22\% {\footnotesize (134)} & 100 {\footnotesize (183)} \\ \hline
+%High-Amount  & 24.44\% {\footnotesize (87)}  & 75.56\% {\footnotesize (269)} & 100 {\footnotesize (356)} \\ \hline
+%Control      & 13.88\% {\footnotesize (49)}  & 86.12\% {\footnotesize (304)} & 100 {\footnotesize (353)} \\ \hline
+%Total        & 20.74\% {\footnotesize (185)} & 79.26\% {\footnotesize (707)} & 100 {\footnotesize (892)} \\ \hline
+%\end{tabular}
+%\caption{The rates (and frequencies) of grouping strategies for trials where people entered items in row order.}\label{table:ch34_group-row}
+%\end{table}
+
+\begin{figure}[!ht]
+  \centering
+    \includegraphics[width=0.5\textwidth]{images/Study4/ch34_4-groupstr.png}
+      \caption{The sequence of the most common grouping strategies. V = visit to the data source, E = entry of the data item. For example, in Strategy (a) a participant first viewed Amount1 and Account1, and then entered Amount1 and Account1. He/she then viewed Amount2 and entered it, and then viewed Account2 and entered it.}
+          \label{fig:ch34_4-groupstr}
+\end{figure}
+
+Figure \ref{fig:ch34_4-groupstr} illustrates the most common Grouping strategies. People most often chunked items into three groups (Strategies (a) and (c) in Figure \ref{fig:ch34_4-groupstr}). For example, they first visited Amount1 and Amount2, and then entered Amount1 and Amount2. They then viewed Account1 and entered it, before they viewed Account2 and entered it. Table \ref{tbl:ch34_4-groupstr} shows the frequency with which these strategies were chosen per condition.
+
+ \colorbox{yellow}{still to do: double-check frequencies in Table 4.6, do not seem to add up with other tables.}
 
 \begin{table}[!ht]
 \centering
@@ -509,14 +521,6 @@ Total        & 20.74\% {\footnotesize (185)} & 79.26\% {\footnotesize (707)} & 1
 \caption{The most common grouping strategy was to chunk the items into three groups. The strategies are shown graphically in Figure \ref{fig:ch34_4-groupstr}.}\label{tbl:ch34_4-groupstr}
 \end{table}
 
-\begin{figure}[!ht]
-  \centering
-    \includegraphics[width=0.5\textwidth]{images/Study4/ch34_4-groupstr.png}
-      \caption{The sequence of the most common grouping strategies. V = visit to the data source, E = entry of the data item. For example, in Strategy (a) a participant first viewed Amount1 and Account1, and then entered Amount1 and Account1. He/she then viewed Amount2 and entered it, and then viewed Account2 and entered it.}
-          \label{fig:ch34_4-groupstr}
-\end{figure}
-
-Figure \ref{fig:ch34_4-groupstr} illustrates the most common Grouping strategies. People most often chunked items into three groups (Strategies (a) and (c) in Figure \ref{fig:ch34_4-groupstr}). For example, they first visited Amount1 and Amount2, and then entered Amount1 and Amount2. They then viewed Account1 and entered it, before they viewed Account2 and entered it. Table \ref{tbl:ch34_4-groupstr} shows the frequency with which these strategies were chosen per condition. 
 
 \subsubsection{Performance measures: errors and speed}
 \begin{table}[]
@@ -524,34 +528,57 @@ Figure \ref{fig:ch34_4-groupstr} illustrates the most common Grouping strategies
 \begin{tabular}{lll}
 \hline
 Condition    & \begin{tabular}[c]{@{}l@{}}Error rate \\ M (SD)\end{tabular} & \begin{tabular}[c]{@{}l@{}}Trial completion time (s)\\ M (SD)\end{tabular} \\ \hline
-High-Account & 4.82 (3.56)                                                  & 29.23 (7.44)                                                              \\
-High-Amount  & 3.68 (2.73)                                                  & 28.88 (6.92)                                                              \\
-Control      & 7.75 (9.81)                                                  & 29.99 (10.94)                                                             \\ \hline
+High-Account & 4.82\% (3.56)                                                  & 29.23 (7.44)                                                              \\
+High-Amount  & 3.68\% (2.73)                                                  & 28.88 (6.92)                                                              \\
+Control      & 7.75\% (9.81)                                                  & 29.99 (10.94)                                                             \\ \hline
 \end{tabular}
-\caption{The means (and standard deviations) of error rate and trial completion time the three conditions. The rates are percentages calculated as the ratio of occurrences to the number of opportunities.}
+\caption{The means (and standard deviations) of error rate and trial completion time the three conditions. Error rates were calculated as the number of errors divided by the number of entries.}
 \label{table:ch34_4-errorspeedtbl}
 \end{table}
 
 There was no significant difference in the time it took to complete a trial, F(2, 30) = 0.05, p =0.9). On average, participants took about 29 seconds per trial across conditions.
 
-There were 200 data entries, so in total there were 200 opportunities for a participant to make a data entry error. The error rates were calculated as the number of errors divided by the number of entries. In total, 101 errors were made in the High-Account condition, 82 in the High-Amount condition, and 160 errors in the Control condition. The mean error rates were 4.82\%, 3.68 \%, and 7.75\%, respectively. Despite the differences in means, due to high sample variance no significant difference was found in errors, F(2,30) = 1.25, p = 0.3. .
+There were 200 data entries, so in total there were 200 opportunities for a participant to make a data entry error. The error rates were calculated as the number of errors divided by the number of entries. In total, 114 errors were made in the High-Account condition, 83 in the High-Amount condition, and 191 errors in the Control condition. The mean error rates were 5.7\%, 4.15 \%, and 9.55\%, respectively. Despite the differences in means, due to high sample variance no significant difference was found in errors, F(2,30) = 1.47, p = 0.25.
 
-An alternative error rate was calculated based on the number of erroneous trials. If a participant made a mistake on all four entries of a trial, this rate would consider it as one error, rather than four errors. Looking at the number of trials on which an error was made, there was no significant difference either, F(2, 30) = 0.96, p = 0.4. In total, there were 87 erroneous trials in the High-Account condition, 41 trials in the High-Amount condition, and 65 trials in the Control condition. In other words, errors were made on 14.91\%, 9.76\% and 22.91\% of the trials, respectively. 
+An alternative error rate was calculated based on the number of erroneous trials. If a participant made a mistake on all four entries of a trial, this rate would consider it as one error, rather than four errors. Looking at the number of trials on which an error was made, there was no significant difference either, F(2, 30) = 1.61, p = 0.22. In total, there were 79 erroneous trials in the High-Account condition, 53 trials in the High-Amount condition, and 117 trials in the Control condition. In other words, errors were made on 14.36\%, 9.64\% and 21.27\% of the trials, respectively. 
 
 \subsubsection{Qualitative findings}
-Participants mentioned adapting their strategy several times throughout the experiment, in order to find the quickest way to complete the task. Because amounts were shorter and easier to remember, several participants mentioned they tried to first view all amounts before entering them. They tried this strategy with account codes as well, but these were longer and therefore it was more difficult to memorise two at a time. As. a result, most participants ended up viewing and entering each account code one by one.
+After the experiment had ended, participants were debriefed and the purpose of the study was explained. Some participants recalled their strategies and gave additional explanations behind them.
+
+x participants adapted their strategy several times throughout the experiment, in order to find the quickest way to complete the task. Because amounts were shorter and easier to remember, several participants mentioned they tried to first view all amounts before entering them. They tried this strategy with account codes as well, but these were longer and therefore it was more difficult to memorise two at a time. As. a result, most participants ended up viewing and entering each account code one by one.
 
 Several participants noticed that numbers re-occurred throughout the experiment. They felt it was easier to memorise a number that had already occurred earlier in the experiment, so when a trial contained a number they had entered before, they would use the 'Grouped' strategy: they viewed another window and item before returning to the entry form. Furthermore, some participants started a trial by not viewing any other windows, but re-entering the data items of the previous trial in the data entry form. They would then visit the information source windows to check if the items were the same, or if they needed to change some of the items.
 
 \subsection{Discussion}
 %Summary
-The aim of this study was to investigate the effect of IAC on how people manage subtasks to look up information from multiple information sources with varying IACs. IAC influenced the order in which people entered data and whether and how they chunked data items.
+The aim of this study was to investigate the effect of IAC on how people manage subtasks to look up information from multiple information sources with varying IACs. IAC influenced the order in which people entered data and whether and how they chunked data items. 
 
-%Strategies
-\subsubsection{Strategies}
+%ORDERING STRATEGIES
+\subsubsection{Ordering strategies}
+%\item[RQ2.] \textit{How does IAC affect the order of visits to look up information from multiple sources with different IACs?}
+%\item [H2.]As the experiment progresses and people become aware how costly it is to access certain sources, they will learn and choose to enter all the Low-IAC items first, in a batch, and then the High-IAC items second, also in a batch, rather than looking up each item as they need it. 
+
 IAC had an effect on people's ordering strategies, but only in the condition where the IAC was increased for accessing account codes. People first looked up and entered the low IAC items, the amounts, before they entered the high IAC items, the account codes. However, if the cost to access the amounts was increased, people entered items row by row, as participants did in the control condition.
-%explain
 
+In \citet{OHara1998}'s study on the effect of IAC on problem solving tasks, participants in Low-IAC and High-IAC conditions initially performed the same type of strategies. However, over time participants in a High-IAC condition  learnt more efficient strategies, whilst participants in a Low-IAC condition continued to use the same strategy. Prior work has also shown that people who are exposed to High-IAC situations will adopt and continue to use a certain strategy, even in situations where the cost to access information is no longer high \citep{Patrick2014}. It is therefore expected that once participants learn it is more efficient to group high-IAC items, they may adopt this strategy for low-IAC items as well. In Study 2 of this thesis, people tried to enter items that were nearby in the environment first, and postponed looking up other information until later. Based on these findings, the following hypothesis is made: 
+
+In previous studies, people would postpone or not address information needs if there was a high time cost associated with it \citep{Sohn2008}. This was also found in Study 2. People initially tried to do tasks as they needed it, but if it took too long, they would put it aside.
+
+In the current study, this was also found but the cost to memorise an item overrode the cost to access it: people would first enter the amounts, even if the cost to access them was higher.
+If the cost was high, they would try and memorise them both before entering them. This shows people try to minimise interleaving between viewing and entering information. 
+
+%GROUPING STRATEGIES
+\subsubsection{Grouping strategies}
+%\item[RQ1.] \textit{How does IAC affect the number of visits to look up information from multiple sources with different IACs?}
+%\item[H1.]As IAC increases, people will try to group and memorise multiple items to minimise visits.
+
+The soft constraints hypothesis predicts that people choose and adapt their task strategies in order to minimise time \citep{Gray2006}. Study 3 found that the longer it takes to access information, the more items people try to memorise in one visit. Based on these findings, the following hypothesis is made: 
+
+%GROUPING STRATEGIES
+\subsubsection{Performance}
+%\item[RQ3.] \textit{Do the number and order of visits affect data entry accuracy and speed?}
+
+\subsubsection{Grouping strategies}
 IAC also had an effect on how often people switched between visiting and entering information. In the conditions where the amounts were low, people often visited multiple items before returning to the entry interface. Though there was no difference in errors in the current study, it can be imagined this strategy is more risky as people are away for longer so resuming a task is more difficult, and they are storing more information in memory, so people may misremember information.
 
 In the condition where the IAC for amounts was high, this strategy was not used as frequently. 
@@ -563,28 +590,22 @@ IAC made people changes strategies even if only two of the four information sour
 %ORDERING STRATEGIES
 %People did not always enter low items first, but they did enter 'easy' items first: the amounts. The account codes were harder to memorise so these were left until the end.
 %Delaying high IAC items
-In previous studies, people would postpone or not address information needs if there was a high time cost associated with it \citep{Sohn2008}. This was also found in Study 2. People initially tried to do tasks as they needed it, but if it took too long, they would put it aside.
-
-In the current study, this was also found but the cost to memorise an item overrode the cost to access it: people would first enter the amounts, even if the cost to access them was higher.
-If the cost was high, they would try and memorise them both before entering them. This shows people try to minimise interleaving between viewing and entering information. 
-
-
 %Performance measures
-People made more visits to information sources in the control condition. However, as opposed to Study 3, this did not improve accuracy: on the contrary, people made significantly more errors in the control condition than when one of the sources had an increased IAC. Differences in IAC can thus help people be more efficient and effective in scheduling subtasks of looking up information, and reduce the number of visits they need to make. 
+%People made more visits to information sources in the control condition. However, as opposed to Study 3, this did not improve accuracy: on the contrary, people made significantly more errors in the control condition than when one of the sources had an increased IAC. Differences in IAC can thus help people be more efficient and effective in scheduling subtasks of looking up information, and reduce the number of visits they need to make. 
 
 %Next study
 
-\subsubsection{Contributions}
-Demonstration that:
-\begin{itemize}
-
-\item   
-IAC also affects people's strategies of switching between entering and looking at the target source when multiple sources are involved.
-\item
-IAC affects how people manage subtasks of looking up information in a data entry task.
-\item
-Depending on users' experience and awareness of how costly it is to access information, they optimise costs by processing all the low-IAC tasks first, in a batch, and then the high-IAC tasks second, also in a batch, rather than switching between the two different types of task.  
-\end{itemize}
+%\subsubsection{Contributions}
+%Demonstration that:
+%\begin{itemize}
+%
+%\item   
+%IAC also affects people's strategies of switching between entering and looking at the target source when multiple sources are involved.
+%\item
+%IAC affects how people manage subtasks of looking up information in a data entry task.
+%\item
+%Depending on users' experience and awareness of how costly it is to access information, they optimise costs by processing all the low-IAC tasks first, in a batch, and then the high-IAC tasks second, also in a batch, rather than switching between the two different types of task.  
+%\end{itemize}
 
 \subsubsection{Conclusion}
 This study investigated the effect of IAC on looking up information from multiple sources, and showed that, if all information has the same IAC it is better if this is low, differences in IAC between sources can make people schedule their subtasks more efficiently and effectively. People needed less visits and made fewer errors. 
@@ -684,7 +705,7 @@ P28 and P23 made at least one error on every trial. They made 118 and 153 errors
 
 These three participants were considered outliers and removed from the data. Data of the remaining 29 participants was taken into the data analysis.
 
-Table \ref{table:ch34_Study5dvs} shows a summary of the results of all three conditions for the dependent variables. Kruskal-Wallis tests were carried out to test if there were significant differences between the conditions.
+Table \ref{table:ch34_Study5dvs} shows a summary of the results of all three conditions for the dependent variables. One-way ANOVAs were carried out to test if there were significant differences between the conditions.
 
 \begin{table}[]
 \centering
@@ -704,7 +725,7 @@ Control    & 40.88 (4.03)                                                       
 Participants' data entry strategies were categorised in one of two categories: they either interleaved between the two data entry forms (e.g. entering amount on Form1, followed by entering the amount in Form 2), or they filled the forms in sequential order (entering amount and account code on Form1, followed by entering the amount and account code on Form2).
 
 Table \ref{table:ch34_Study5interleavingfreqtbl} shows the frequency of strategies per condition. In total, the strategy was chosen on 333 trials in the High-Account condition, 427 trials in the High-Amount condition, and 184 trials in the Control condition. In other words, the strategy was chosen on 66.6\%, 85.4\% and 40.88\% of the trials, respectively.  There was a significant difference in interleaving behaviour,
-F(2,30) = 4.41, p = .02. A post-hoc comparison showed people interleaved significantly more often in the High-IAC conditions than the Control condition  (U = 138, p = 0.02) . There was no significant difference between the High-Account and High-Amount condition (U = 32, p = 0.18).
+F(2,30) = 4.41, p = .02. A post-hoc comparison showed people interleaved significantly more often in the High-IAC conditions than the Control condition  (p = 0.02) . There was no significant difference between the High-Account and High-Amount condition (p = 0.18).
 
 %A Kruskal-Wallis test shows there is a significant difference between the different conditions,  $\chi^2$ (2, N = 29) = 6.68, p = 0.035. Mann-Whitney U tests were used to get further insight in pairwise differences between conditions. Participants interleaved significantly more often in the High-IAC conditions than the Control condition  (U = 138, p = 0.02) . There is no significant difference between the High-Account and High-Amount condition (U = 32, p = 0.18).
 
@@ -727,11 +748,11 @@ Total             & 65.1\% (944)          & 34.9\% (506)             & 100\% (14
 There were 200 data entries, so in total there were 200 opportunities for a participant to make a data entry error. The error rates were calculated as the number of errors divided by the number of entries. 
 
 In total, 130 errors were made in the High-Account condition, 58 in the High-Amount condition, and 88 errors in the Control condition. The mean error rate was 6.5\%, 2.9\% and 4.9\%, respectively. 
-Looking at the total number of data entries, there was no significant difference in errors, $\chi^2$ (2, N = 29) =  0.95, p = 0.62.
+Looking at the total number of data entries, there was no significant difference in errors, F(2,30) = 0.93, p = 0.41.
 
-An alternative error rate was calculated based on the number of erroneous trials. If a participant made a mistake on all four entries of a trial, this rate would consider it as one error, rather than four errors. Looking at the number of trials on which an error was made, there was no significant difference either, $\chi^2$ (2, N = 29) =  0.80, p = 0.67. In total, there were 87 erroneous trials in the High-Account condition, 41 trials in the High-Amount condition, and 65 trials in the Control condition. In other words, errors were made on 17.4\%, 8.2\% and 14.4\% of the trials, respectively. 
+An alternative error rate was calculated based on the number of erroneous trials. If a participant made a mistake on all four entries of a trial, this rate would consider it as one error, rather than four errors. Looking at the number of trials on which an error was made, there was no significant difference either, F(2,30) = 0.87, p = 0.43. In total, there were 87 erroneous trials in the High-Account condition, 41 trials in the High-Amount condition, and 65 trials in the Control condition. In other words, errors were made on 17.4\%, 8.2\% and 14.4\% of the trials, respectively. 
 
-There was a significant difference in the time it took participants to complete a trial, Kruskal-Wallis chi-squared = 7.087, df = 2, p-value = 0.02891. Mann-Whitney U tests show participants took longer in the High-IAC conditions than the control condition  (U = 145, p = 0.008) . There is no significant difference between the High-Account and High-Amount conditions (U = 57, p = 0.63).
+There was a significant difference in the time it took participants to complete a trial, F(2,30) = 3.05, p-value = 0.03. Participants took longer in the High-IAC conditions than the control condition  (p = 0.008) . There is no significant difference between the High-Account and High-Amount conditions (p = 0.63).
 
 \subsection{Discussion}
 The aim of this study was to see if an increase in IAC makes people interleave more between data entry tasks. In contrast with \citet{Back2012}, who found that an increase in IAC made people less likely to interleave between two data entry tasks, participants in the current experiment interleaved more as IAC increased.
