@@ -1,14 +1,14 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master.aux
 A level-1 auxiliary file: ./settings/title.aux
 A level-1 auxiliary file: ./settings/formatting.aux
 A level-1 auxiliary file: ./tex/abstract.aux
-A level-1 auxiliary file: ./tex/introduction.aux
+A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: ./tex/background.aux
-A level-1 auxiliary file: ./tex/ch12.aux
-A level-1 auxiliary file: ./tex/ch34.aux
+A level-1 auxiliary file: ./tex/designs.aux
 A level-1 auxiliary file: ./tex/ch56.aux
+A level-1 auxiliary file: ./tex/finaldiscussion.aux
 The style file: apacite.bst
 A level-1 auxiliary file: ./tex/appendix/appendix.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
@@ -21,49 +21,65 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: master.bib
-Warning--I didn't find a database entry for "Dearman"
-Warning--I didn't find a database entry for "Morgan2014"
-Warning--I didn't find a database entry for ""
+Repeated entry---line 2993 of file master.bib
+ : @article{Li2015
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3872 of file master.bib
+ : @article{Olsen2008
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Cangiano2009"
+Warning--I didn't find a database entry for "Soboczenski2013"
+Warning--I didn't find a database entry for "Payne2013"
+Warning--I didn't find a database entry for "Back2013b"
+Warning--I didn't find a database entry for "Wiseman2014"
+Warning--I didn't find a database entry for "Kohn2000"
+Warning--I didn't find a database entry for "Reason1990"
+Warning--I didn't find a database entry for "Wiseman2013b"
+Warning--I didn't find a database entry for "Card1983"
+Warning--I didn't find a database entry for "Norman2002"
+Warning--I didn't find a database entry for "Kim2017"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 84 entries,
+You've used 55 entries,
             6951 wiz_defined-function locations,
-            1891 strings with 30830 characters,
-and the built_in function-call counts, 186592 in all, are:
-= -- 23705
-> -- 1607
-< -- 9038
-+ -- 9492
-- -- 170
-* -- 11835
-:= -- 33346
-add.period$ -- 402
-call.type$ -- 84
-change.case$ -- 1466
+            1736 strings with 29059 characters,
+and the built_in function-call counts, 128922 in all, are:
+= -- 16323
+> -- 1098
+< -- 6352
++ -- 6765
+- -- 112
+* -- 8321
+:= -- 23090
+add.period$ -- 272
+call.type$ -- 55
+change.case$ -- 979
 chr.to.int$ -- 0
-cite$ -- 168
-duplicate$ -- 4997
-empty$ -- 6827
-format.name$ -- 2558
-if$ -- 35482
+cite$ -- 110
+duplicate$ -- 3464
+empty$ -- 4662
+format.name$ -- 1762
+if$ -- 24278
 int.to.chr$ -- 0
-int.to.str$ -- 252
+int.to.str$ -- 165
 missing$ -- 0
-newline$ -- 2262
-num.names$ -- 684
-pop$ -- 3333
+newline$ -- 1568
+num.names$ -- 446
+pop$ -- 2294
 preamble$ -- 1
-purify$ -- 342
+purify$ -- 238
 quote$ -- 0
-skip$ -- 12046
+skip$ -- 8178
 stack$ -- 0
-substring$ -- 10557
-swap$ -- 2905
-text.length$ -- 353
+substring$ -- 7475
+swap$ -- 1979
+text.length$ -- 243
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 8896
+type$ -- 6064
 warning$ -- 0
-while$ -- 903
+while$ -- 630
 width$ -- 0
-write$ -- 2880
-(There were 3 warnings)
+write$ -- 1997
+(There were 2 error messages)
