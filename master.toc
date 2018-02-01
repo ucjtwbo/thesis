@@ -15,23 +15,23 @@
 \contentsline {section}{\numberline {2.2}Data entry}{13}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}The perception stage}{14}{subsection.2.2.1}
 \contentsline {subsubsection}{Distributed cognition}{14}{section*.8}
-\contentsline {subsubsection}{External representations}{15}{section*.9}
+\contentsline {subsubsection}{External representations}{14}{section*.9}
 \contentsline {subsubsection}{Memorability of data}{15}{section*.10}
-\contentsline {subsubsection}{Presenting data in a disfluent manner}{16}{section*.11}
+\contentsline {subsubsection}{Presenting data in a disfluent manner}{15}{section*.11}
 \contentsline {subsubsection}{Summary}{16}{section*.12}
 \contentsline {subsection}{\numberline {2.2.2}The encoding stage}{16}{subsection.2.2.2}
-\contentsline {subsubsection}{Information access cost}{17}{section*.13}
+\contentsline {subsubsection}{Information access cost}{16}{section*.13}
 \contentsline {subsubsection}{The effect of writing versus typing on the level of encoding}{18}{section*.14}
-\contentsline {subsubsection}{Summary}{19}{section*.15}
-\contentsline {subsection}{\numberline {2.2.3}The execution stage}{19}{subsection.2.2.3}
+\contentsline {subsubsection}{Summary}{18}{section*.15}
+\contentsline {subsection}{\numberline {2.2.3}The execution stage}{18}{subsection.2.2.3}
 \contentsline {subsubsection}{Text entry}{19}{section*.16}
 \contentsline {subsubsection}{Number entry}{19}{section*.17}
-\contentsline {subsubsection}{Summary}{21}{section*.18}
+\contentsline {subsubsection}{Summary}{20}{section*.18}
 \contentsline {subsection}{\numberline {2.2.4}The checking stage}{21}{subsection.2.2.4}
 \contentsline {subsubsection}{Double data entry}{21}{section*.19}
-\contentsline {subsubsection}{Visual checking}{22}{section*.20}
+\contentsline {subsubsection}{Visual checking}{21}{section*.20}
 \contentsline {subsubsection}{Lockouts}{22}{section*.21}
-\contentsline {subsubsection}{Incentives}{23}{section*.22}
+\contentsline {subsubsection}{Incentives}{22}{section*.22}
 \contentsline {subsubsection}{Summary}{23}{section*.23}
 \contentsline {section}{\numberline {2.3}Conclusion}{23}{section.2.3}
 \contentsline {chapter}{\numberline {3}Design considerations}{24}{chapter.3}

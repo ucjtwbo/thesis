@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.1)  31 JAN 2018 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.1)  1 FEB 2018 17:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1747,12 +1747,12 @@ ine 15.
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 41.
- <images/ThesisOverview.pdf, id=349, 538.85924pt x 723.76361pt>
+ <images/ThesisOverview.pdf, id=349, 597.50829pt x 845.0471pt>
 File: images/ThesisOverview.pdf Graphic file (type pdf)
 
 <use images/ThesisOverview.pdf>
 Package pdftex.def Info: images/ThesisOverview.pdf used on input line 45.
-(pdftex.def)             Requested size: 418.25368pt x 561.78346pt.
+(pdftex.def)             Requested size: 418.25368pt x 591.52895pt.
 ) [8] [9 <./images/ThesisOverview.pdf>]
 \openout2 = `./tex/background.aux'.
 
@@ -1789,29 +1789,18 @@ t line 21.
 Package natbib Warning: Citation `Cangiano2009' on page 12 undefined on input l
 ine 37.
 
-[12]
+[12] <images/background/HIP.pdf, id=478, 487.8225pt x 137.51375pt>
+File: images/background/HIP.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `images/HIP.pdf' not found on input line 62.
+<use images/background/HIP.pdf>
+Package pdftex.def Info: images/background/HIP.pdf used on input line 62.
+(pdftex.def)             Requested size: 334.60422pt x 94.32224pt.
+ [13]
 
-
-! Package pdftex.def Error: File `images/HIP.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 ...phics[width=0.8\textwidth]{images/HIP.pdf}
-                                                  
-? s
-OK, entering \scrollmode...
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 62.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-) [13] [14]
-
-Package natbib Warning: Citation `Payne2013' on page 15 undefined on input line
+Package natbib Warning: Citation `Payne2013' on page 14 undefined on input line
  81.
 
+[14 <./images/background/HIP.pdf>]
 
 Package natbib Warning: Citation `Back2013b' on page 15 undefined on input line
  88.
@@ -1820,74 +1809,58 @@ Package natbib Warning: Citation `Back2013b' on page 15 undefined on input line
 Package natbib Warning: Citation `Wiseman2014' on page 15 undefined on input li
 ne 92.
 
-[15]
 
-Package natbib Warning: Citation `Soboczenski2013' on page 16 undefined on inpu
+Package natbib Warning: Citation `Soboczenski2013' on page 15 undefined on inpu
 t line 105.
 
-[16]
+[15]
 
-Package natbib Warning: Citation `Kohn2000' on page 17 undefined on input line 
+Package natbib Warning: Citation `Kohn2000' on page 16 undefined on input line 
 119.
 
-[17] [18]
+[16] [17]
 
-Package natbib Warning: Citation `Reason1990' on page 19 undefined on input lin
+Package natbib Warning: Citation `Reason1990' on page 18 undefined on input lin
 e 152.
 
-[19]
+[18]
 
-Package natbib Warning: Citation `Wiseman2013b' on page 20 undefined on input l
+Package natbib Warning: Citation `Wiseman2013b' on page 19 undefined on input l
 ine 162.
 
+[19]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 169.
 
+<images/background/numberpad.pdf, id=644, 156.585pt x 109.40875pt>
+File: images/background/numberpad.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `images/numberpad.pdf' not found on input line 173.
-
-
-! Package pdftex.def Error: File `images/numberpad.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.173 ...raphics[scale=0.8]{images/numberpad.pdf}}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use images/background/numberpad.pdf>
+Package pdftex.def Info: images/background/numberpad.pdf used on input line 173
+.
+(pdftex.def)             Requested size: 125.26816pt x 87.5271pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 174.
 
-LaTeX Warning: File `images/incremental.pdf' not found on input line 179.
+<images/background/incremental.pdf, id=645, 204.765pt x 43.16125pt>
+File: images/background/incremental.pdf Graphic file (type pdf)
 
+<use images/background/incremental.pdf>
+Package pdftex.def Info: images/background/incremental.pdf used on input line 1
+79.
+(pdftex.def)             Requested size: 102.38223pt x 21.58057pt.
+ [20 <./images/background/numberpad.pdf> <./images/background/incremental.pdf>]
 
-! Package pdftex.def Error: File `images/incremental.pdf' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.179 ...phics[scale=0.5]{images/incremental.pdf}}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[20]
 
 Package natbib Warning: Citation `Card1983' on page 21 undefined on input line 
 200.
 
-[21]
 
-Package natbib Warning: Citation `Norman2002' on page 22 undefined on input lin
+Package natbib Warning: Citation `Norman2002' on page 21 undefined on input lin
 e 211.
 
+[21]
 
 Package natbib Warning: Citation `Norman2002' on page 22 undefined on input lin
 e 221.
@@ -1900,13 +1873,9 @@ Chapter 3.
 ! Misplaced alignment tab character &.
 l.10 ...ffordances of physical artefacts (Sellen &
                                                    Harper, 2003), and it is ...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
+? s
+OK, entering \scrollmode...
 ! Misplaced alignment tab character &.
 l.10 ... in the wrong fields (Brumby, Cox, Back, &
                                                    Gould, 2013; Monk, Trafto...
@@ -2141,14 +2110,14 @@ might try typing `S' now just to see what is salvageable.
 
 
 
-] [29] [30] <images/ch56/ch56-Table1.pdf, id=774, 531.76033pt x 94.96228pt>
+] [29] [30] <images/ch56/ch56-Table1.pdf, id=803, 531.76033pt x 94.96228pt>
 File: images/ch56/ch56-Table1.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-Table1.pdf>
 Package pdftex.def Info: images/ch56/ch56-Table1.pdf used on input line 56.
 (pdftex.def)             Requested size: 376.42575pt x 67.22226pt.
 
-<images/ch56/ch56-Figure2.pdf, id=775, 289.08pt x 433.62pt>
+<images/ch56/ch56-Figure2.pdf, id=804, 289.08pt x 433.62pt>
 File: images/ch56/ch56-Figure2.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-Figure2.pdf>
@@ -2241,6 +2210,11 @@ Chapter 5.
 
 
 ] (./master.bbl
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 118.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
 Underfull \hbox (badness 1052) in paragraph at lines 203--225
 \T1/ppl/m/it/10 ence on hu-man fac-tors in com-put-ing sys-tems (chi '09) \T1/p
 pl/m/n/10 (pp.[] 1005--1014).  Re-trieved from
@@ -2290,7 +2264,7 @@ it/10 PloS one\T1/ppl/m/n/10 , \T1/ppl/m/it/10 4\T1/ppl/m/n/10 (8), e6513.  Re-
 
  (./tex/appendix/appendix.tex
 Appendix A.
-<images/Informationsheet.pdf, id=897, 597.23125pt x 844.15375pt>
+<images/Informationsheet.pdf, id=927, 597.23125pt x 844.15375pt>
 File: images/Informationsheet.pdf Graphic file (type pdf)
 
 <use images/Informationsheet.pdf>
@@ -2301,7 +2275,7 @@ Package pdftex.def Info: images/Informationsheet.pdf used on input line 6.
 
 ] [41 <./images/Informationsheet.pdf>]
 Appendix B.
-<images/Consentform.pdf, id=937, 597.23125pt x 844.15375pt>
+<images/Consentform.pdf, id=967, 597.23125pt x 844.15375pt>
 File: images/Consentform.pdf Graphic file (type pdf)
 
 <use images/Consentform.pdf>
@@ -2333,10 +2307,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 36595 strings out of 493089
- 721416 string characters out of 6134842
- 795506 words of memory out of 5000000
- 39101 multiletter control sequences out of 15000+600000
+ 36608 strings out of 493089
+ 721859 string characters out of 6134842
+ 795588 words of memory out of 5000000
+ 39113 multiletter control sequences out of 15000+600000
  58591 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,12n,103p,10525b,895s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2350,10 +2324,10 @@ ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
 1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/p
 alatino/uplri8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/newt
 xsf/zsfmia-reg.pfb>
-Output written on master.pdf (47 pages, 387920 bytes).
+Output written on master.pdf (47 pages, 492854 bytes).
 PDF statistics:
- 1075 PDF objects out of 1200 (max. 8388607)
- 957 compressed objects within 10 object streams
+ 1105 PDF objects out of 1200 (max. 8388607)
+ 972 compressed objects within 10 object streams
  200 named destinations out of 1000 (max. 500000)
- 523 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 538 words of extra memory for PDF output out of 10000 (max. 10000000)
 
