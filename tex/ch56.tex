@@ -45,6 +45,8 @@ The study was advertised online with a brief description and a website link to s
 Participants first read an online consent form on the website, and were not able to continue to the experiment until they had agreed to the consent form. Participants in the notification condition received an additional dialog box to enable notifications in their browser, and had to click 'OK' to continue. Participants were instructed to have both their email and data entry window open on the same device, and to keep both windows maximised at all time, to ensure they had to switch back and forth between the two windows. Participants who made no recorded switches would be excluded from the dataset. 
 After completing all experimental trials, participants were shown a page of debriefing information, explaining the purpose of the study. An email address was included as a point of contact if participants had any further questions. Participants took between 10 and 20 minutes to complete the experiment.
 
+\subsubsection{Pilot study}
+
 \subsection{Results}
 Table \ref{tbl:ch56-Table1} summarises the results of the conditions in terms of the four dependent variables. The number of switches, length of switches and the error rate were not normally distributed, so non-parametric Mann-Whitney tests were used to analyse effects of a notification on these dependent variables. A Shapiro-Wilk test suggested that the trial completion times were normally distributed, W = 0.94, p = 0.05, so an independent t-test was used to analyse the effect on trial times. 
 Figure \ref{fig:ch56-Figure2} shows the variability of duration of switches for the two conditions. Results show that switches were significantly shorter among participants who had a notification (M=4.51s, SD=1.80s) than among those without a notification (M=7.11s, SD=3.14s), U(17, 15) = 186, p = 0.01. There was no significant difference in number of switches, U(17, 15) = 80, p = 0.1.
@@ -83,10 +85,11 @@ The results of our experiment indicate that showing people how long they switch 
 
 \subsection{Introduction}
 %BRIDGE FROM LAST STUDY
-Study 6 aims to evaluate the design recommendations in a finance office with workers, to see how appropriate and feasible the proposed recommendations would be in the context for which they are developed. Depending on what the design recommendations will be, I will take them through a prototype, which can be a paper prototype, storyboard, or digital mockup, and if possible I will ask them to perform the task with and without the proposed changes. 
+%Study 6 aims to evaluate the design recommendations in a finance office with workers, to see how appropriate and feasible the proposed recommendations would be in the context for which they are developed. Depending on what the design recommendations will be, I will take them through a prototype, which can be a paper prototype, storyboard, or digital mockup, and if possible I will ask them to perform the task with and without the proposed changes. 
 
-In order to understand whether the notification will work in a less controlled setting, the study will be replicated with data entry workers doing expenses work. They will be asked to install the plug-in in their browser and use it when they are processing expenses. Participants can use the add-in to select the browser page which shows the expenses system as the 'main task page'. Every time they switch away from this page, or if the page is inactive for more than x seconds, a JavaScript event will be triggered to log the timestamp. This event will be triggered again when the user returns to the page. The timestamps will be used (and stored in an online spreadsheet?) to determine the number and duration of interruptions.
-To observe the effect of time feedback, the participants will be divided into a control and experimental group. 
+In order to understand whether the notification would have the same effect on a naturalistic task, Study 6 was replicated with data entry workers doing expenses work. They were asked to install the plug-in in their browser and use it when they are processing expenses. Participants received a notification every time they switched away from the browser window in which they did their expenses.
+
+To observe the effect of time feedback, the participants were divided into a control and experimental group. 
 The experimental group will be asked to install the plug-in and will receive a notification. If the main task page is not in focus, either because participants have switched to another page or if it has been inactive for x seconds, they will receive a notification with a warning message. Upon returning to the expenses page, they will receive a notification indicating how long they were away from the page. The control group will be asked to install the plug-in, but will receive no notifications. It is explained that the purpose of the study is to log people's switching behaviour, and participants will be able to see their data at the end of the study.
 Participants will be asked to use the add-in for one week in which they have to do a substantial amount of expenses work, and keep a diary of their experiences. Within a week of finishing the diary, a follow-up interview will be scheduled to gather more detailed explanations of participants' experiences of using the add-in.
 
@@ -94,11 +97,12 @@ The study aims to address the following research question: does feedback on inte
 
 \subsection{Method}
 \subsubsection{Participants}
-Ten participants took part in the study. They were recruited via the same recruitment methods as Study 1 and 2: they were invited via email.
-Participants were reimbursed with a \pound20 Amazon voucher.
+Ten participants (three male) took part in the study. They were recruited via the same recruitment methods as Study 1 and 2. Invitations were sent to opt-in mailing lists of Finance departments, and forwarded by contact persons and people who had already participated. None of the participants had taken part before in any of the studies reported in this thesis.
+Participants were reimbursed with a \pounds 20 Amazon voucher.
 
 \subsubsection{Materials}
-ManicTime was used to measure people's switching behaviour. This is an application that allows users to reflect on their application and web usage. 
+The browser notification was implemented as a Google Chrome extension, using HTML, JavaScript and CSS. Participants could download the extension and install it as an add-in to their Google Chrome browser. To use the add-in, participants had to navigate to the finance system in their Google Chrome browser and click on the icon of the add-in. A pop-up appeared saying that the finance system was now the main task page. Every time participants switched away from this page, they received a notification. Participants could stop the notifications by refreshing or closing the page. 
+The main difference in notification behaviour with respect to Study 5 was that participants received the notification every time they switched away from their task window. They only received it when they switched away from their task window, but not upon any subsequent switches. Furthermore, due to security issues the extension did not store any data. Instead, the application ManicTime was used to measure people's switching behaviour. 
 
 \subsubsection{Procedure}
 Participants were asked to install ManicTime on their work computer for two weeks. They were told the purpose of the study was to see how people switch between applications, documents and computer windows for expenses tasks. In the first week, they were told that they were free to choose if, when and how often to look at the information, but that it was important to complete at least one expenses task.
@@ -109,12 +113,27 @@ After two weeks, participants were interviewed about their experience of using t
 
 The interviews took about 40 minutes and were audio recorded.
 
+\subsubsection{Pilot study}
+
+
+\subsubsection{Ethical considerations}
+Participants were informed before undertaking the study what data ManicTime recorded, and that Focus did not store any data. They were given instructions on how to pause the application from running and how to delete certain parts of the data. They were offered assistance to help further change the database into a state they were comfortable sharing, for example by removing any or all of the application names. 
+Participants were still able to take part, if they did not wish to share their database.
+
 \subsubsection{Data analysis}
+Not all participants were able to install ManicTime on their work computer due to firewall restrictions. Furthermore, some participants opted out of using Focus as they used a browser different from Google Chrome for work purposes. 
+Therefore, ManicTime data of the remaining participants were used , but it was not used as previously planned for quantitative comparison.
+
+Four participants successfully installed and used ManicTime, and two participants used Focus. 
 The ManicTime database of each participant was used to analyse people's switching behaviour. 
+The interviews were analysed using thematic analysis. 
 
 \subsection{Findings}
 
 \subsection{Discussion}
+
+\subsection{Limitations}
+
 
 \subsection{Contributions}
 \begin{itemize}

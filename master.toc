@@ -34,49 +34,99 @@
 \contentsline {subsubsection}{Incentives}{22}{section*.22}
 \contentsline {subsubsection}{Summary}{23}{section*.23}
 \contentsline {section}{\numberline {2.3}Conclusion}{23}{section.2.3}
-\contentsline {chapter}{\numberline {3}Design considerations}{24}{chapter.3}
+\contentsline {chapter}{\numberline {3}Data entry in an office setting}{24}{chapter.3}
 \contentsline {subsubsection}{Chapter outline}{24}{section*.24}
-\contentsline {section}{\numberline {3.1}Introduction}{24}{section.3.1}
-\contentsline {section}{\numberline {3.2}Related work}{25}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Task and information management}{25}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Information search}{25}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Interruptions and delayed intentions}{26}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Documents at hand}{26}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Type of activity}{27}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Summary}{27}{subsection.3.2.6}
-\contentsline {section}{\numberline {3.3}DESIGN CONSIDERATIONS}{27}{section.3.3}
-\contentsline {section}{\numberline {3.4}Design alternatives}{27}{section.3.4}
-\contentsline {chapter}{\numberline {4}Evaluating a time feedback notification to manage information interruptions}{28}{chapter.4}
-\contentsline {subsubsection}{Chapter outline}{28}{section*.25}
-\contentsline {section}{\numberline {4.1}Study 6: Looking up information in email during an online data entry task}{28}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Introduction}{28}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Method}{29}{subsection.4.1.2}
-\contentsline {subsubsection}{Participants}{29}{section*.26}
-\contentsline {subsubsection}{Design}{29}{section*.27}
-\contentsline {subsubsection}{Materials}{29}{section*.28}
-\contentsline {subsubsection}{Procedure}{30}{section*.29}
-\contentsline {subsection}{\numberline {4.1.3}Results}{30}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Discussion}{31}{subsection.4.1.4}
-\contentsline {section}{\numberline {4.2}Study 7: Looking up information for expenses}{32}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Introduction}{32}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Method}{33}{subsection.4.2.2}
-\contentsline {subsubsection}{Participants}{33}{section*.30}
-\contentsline {subsubsection}{Procedure}{33}{section*.31}
-\contentsline {subsection}{\numberline {4.2.3}Findings}{33}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Discussion}{33}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Contributions}{33}{subsection.4.2.5}
-\contentsline {chapter}{\numberline {5}General Discussion}{34}{chapter.5}
-\contentsline {subsubsection}{Chapter outline}{34}{section*.32}
-\contentsline {section}{\numberline {5.1}Summary of findings}{34}{section.5.1}
-\contentsline {section}{\numberline {5.2}Contributions}{34}{section.5.2}
-\contentsline {section}{\numberline {5.3}Limitations and Future work}{34}{section.5.3}
-\contentsline {chapter}{References}{35}{chapter*.33}
-\contentsline {chapter}{Appendix \numberline {A}Information sheet}{40}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Consent form}{42}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Interview script}{44}{Appendix.a.C}
-\contentsline {subsubsection}{Before the interview}{44}{section*.34}
-\contentsline {subsubsection}{Work}{44}{section*.35}
-\contentsline {subsubsection}{Number entry}{44}{section*.36}
-\contentsline {subsubsection}{Environment}{45}{section*.37}
-\contentsline {subsubsection}{Demonstration}{45}{section*.38}
-\contentsline {subsubsection}{After the interview}{46}{section*.39}
+\contentsline {section}{\numberline {3.1}Study 1: Understanding data entry work in a financial office}{24}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Introduction}{24}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Method}{25}{subsection.3.1.2}
+\contentsline {subsubsection}{Participants}{25}{section*.25}
+\contentsline {subsubsection}{Materials}{25}{section*.26}
+\contentsline {subsubsection}{Data recording}{25}{section*.27}
+\contentsline {subsubsection}{Interviewing procedure}{27}{section*.28}
+\contentsline {subsubsection}{Pilot interview}{27}{section*.29}
+\contentsline {subsubsection}{Ethical considerations}{28}{section*.30}
+\contentsline {subsection}{\numberline {3.1.3}Results}{28}{subsection.3.1.3}
+\contentsline {subsubsection}{Data analysis}{28}{section*.31}
+\contentsline {subsubsection}{Themes}{28}{section*.32}
+\contentsline {subsubsection}{Task}{31}{section*.33}
+\contentsline {subsubsection}{Checking}{33}{section*.34}
+\contentsline {subsubsection}{System}{35}{section*.35}
+\contentsline {subsubsection}{Environment}{36}{section*.36}
+\contentsline {subsubsection}{Data}{37}{section*.37}
+\contentsline {subsubsection}{Errors}{39}{section*.38}
+\contentsline {subsubsection}{Strategy}{42}{section*.39}
+\contentsline {subsubsection}{Importance of accuracy and paper trails}{44}{section*.40}
+\contentsline {subsubsection}{Other}{45}{section*.41}
+\contentsline {subsection}{\numberline {3.1.4}Discussion}{46}{subsection.3.1.4}
+\contentsline {subsubsection}{Information sources and access costs}{46}{section*.42}
+\contentsline {subsubsection}{Batching data entry tasks}{47}{section*.43}
+\contentsline {subsubsection}{Multiple checking stages}{47}{section*.44}
+\contentsline {subsubsection}{Summary}{48}{section*.45}
+\contentsline {section}{\numberline {3.2}Study 2: Information sources for entering expenses}{48}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Introduction}{48}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Method}{49}{subsection.3.2.2}
+\contentsline {subsubsection}{Participants}{49}{section*.46}
+\contentsline {subsubsection}{Site setting}{49}{section*.47}
+\contentsline {subsubsection}{Contextual inquiry}{50}{section*.48}
+\contentsline {subsubsection}{Pilot study}{50}{section*.49}
+\contentsline {subsubsection}{Ethical considerations}{51}{section*.50}
+\contentsline {subsubsection}{Data collection and analysis}{51}{section*.51}
+\contentsline {subsection}{\numberline {3.2.3}Findings}{52}{subsection.3.2.3}
+\contentsline {subsubsection}{Physical model}{52}{section*.52}
+\contentsline {subsubsection}{Artefact model}{55}{section*.53}
+\contentsline {subsubsection}{Information flow model}{56}{section*.54}
+\contentsline {subsubsection}{Task strategies}{58}{section*.55}
+\contentsline {subsection}{\numberline {3.2.4}Discussion}{59}{subsection.3.2.4}
+\contentsline {subsubsection}{Information sources}{59}{section*.56}
+\contentsline {subsubsection}{Information strategies}{60}{section*.57}
+\contentsline {subsubsection}{Other issues}{61}{section*.58}
+\contentsline {subsubsection}{Contribution}{61}{section*.59}
+\contentsline {subsubsection}{Limitations}{61}{section*.60}
+\contentsline {chapter}{\numberline {4}Design considerations}{62}{chapter.4}
+\contentsline {subsubsection}{Chapter outline}{62}{section*.61}
+\contentsline {section}{\numberline {4.1}Introduction}{62}{section.4.1}
+\contentsline {section}{\numberline {4.2}Related work}{63}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Task and information management}{63}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Information search}{63}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Interruptions and delayed intentions}{64}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Documents at hand}{64}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Type of activity}{65}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Summary}{65}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}DESIGN CONSIDERATIONS}{65}{section.4.3}
+\contentsline {section}{\numberline {4.4}Design alternatives}{65}{section.4.4}
+\contentsline {chapter}{\numberline {5}Evaluating a time feedback notification to manage information interruptions}{66}{chapter.5}
+\contentsline {subsubsection}{Chapter outline}{66}{section*.62}
+\contentsline {section}{\numberline {5.1}Study 6: Looking up information in email during an online data entry task}{66}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Introduction}{66}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Method}{67}{subsection.5.1.2}
+\contentsline {subsubsection}{Participants}{67}{section*.63}
+\contentsline {subsubsection}{Design}{67}{section*.64}
+\contentsline {subsubsection}{Materials}{67}{section*.65}
+\contentsline {subsubsection}{Procedure}{68}{section*.66}
+\contentsline {subsection}{\numberline {5.1.3}Results}{68}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Discussion}{69}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Study 7: Looking up information for expenses}{70}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Introduction}{70}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Method}{71}{subsection.5.2.2}
+\contentsline {subsubsection}{Participants}{71}{section*.67}
+\contentsline {subsubsection}{Materials}{71}{section*.68}
+\contentsline {subsubsection}{Procedure}{71}{section*.69}
+\contentsline {subsubsection}{Data analysis}{72}{section*.70}
+\contentsline {subsection}{\numberline {5.2.3}Findings}{72}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Discussion}{72}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Contributions}{72}{subsection.5.2.5}
+\contentsline {chapter}{\numberline {6}General Discussion}{73}{chapter.6}
+\contentsline {subsubsection}{Chapter outline}{73}{section*.71}
+\contentsline {section}{\numberline {6.1}Summary of findings}{73}{section.6.1}
+\contentsline {section}{\numberline {6.2}Contributions}{73}{section.6.2}
+\contentsline {section}{\numberline {6.3}Limitations and Future work}{73}{section.6.3}
+\contentsline {chapter}{References}{74}{chapter*.72}
+\contentsline {chapter}{Appendix \numberline {A}Information sheet}{79}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Consent form}{81}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Interview script}{83}{Appendix.a.C}
+\contentsline {subsubsection}{Before the interview}{83}{section*.73}
+\contentsline {subsubsection}{Work}{83}{section*.74}
+\contentsline {subsubsection}{Number entry}{83}{section*.75}
+\contentsline {subsubsection}{Environment}{84}{section*.76}
+\contentsline {subsubsection}{Demonstration}{84}{section*.77}
+\contentsline {subsubsection}{After the interview}{85}{section*.78}
