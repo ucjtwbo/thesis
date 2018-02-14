@@ -5,7 +5,9 @@ A level-1 auxiliary file: ./settings/title.aux
 A level-1 auxiliary file: ./settings/formatting.aux
 A level-1 auxiliary file: ./tex/abstract.aux
 A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: ./tex/introduction.aux
 A level-1 auxiliary file: ./tex/background.aux
+A level-1 auxiliary file: ./tex/ch12.aux
 A level-1 auxiliary file: ./tex/designs.aux
 A level-1 auxiliary file: ./tex/ch56.aux
 A level-1 auxiliary file: ./tex/finaldiscussion.aux
@@ -21,13 +23,13 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: master.bib
-Repeated entry---line 2993 of file master.bib
- : @article{Li2015
- :                ,
+Repeated entry---line 1511 of file master.bib
+ : @inproceedings{Olsen2008
+ :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3872 of file master.bib
- : @article{Olsen2008
- :                   ,
+Repeated entry---line 2750 of file master.bib
+ : @inproceedings{Li2015
+ :                      ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Cangiano2009"
 Warning--I didn't find a database entry for "Soboczenski2013"
@@ -39,47 +41,51 @@ Warning--I didn't find a database entry for "Reason1990"
 Warning--I didn't find a database entry for "Wiseman2013b"
 Warning--I didn't find a database entry for "Card1983"
 Warning--I didn't find a database entry for "Norman2002"
-Warning--I didn't find a database entry for "Kim2017"
+Warning--I didn't find a database entry for "Onwuegbuzie2008"
+Warning--I didn't find a database entry for "Beyer1998"
+Warning--I didn't find a database entry for "Dearman"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 55 entries,
+Warning--No institution in Rzeszotarski2013
+Warning--No address in Rzeszotarski2013
+You've used 77 entries,
             6951 wiz_defined-function locations,
-            1736 strings with 29059 characters,
-and the built_in function-call counts, 128922 in all, are:
-= -- 16323
-> -- 1098
-< -- 6352
-+ -- 6765
-- -- 112
-* -- 8321
-:= -- 23090
-add.period$ -- 272
-call.type$ -- 55
-change.case$ -- 979
+            1900 strings with 37255 characters,
+and the built_in function-call counts, 179033 in all, are:
+= -- 22694
+> -- 1553
+< -- 8753
++ -- 9319
+- -- 156
+* -- 11545
+:= -- 31951
+add.period$ -- 379
+call.type$ -- 77
+change.case$ -- 1351
 chr.to.int$ -- 0
-cite$ -- 110
-duplicate$ -- 3464
-empty$ -- 4662
-format.name$ -- 1762
-if$ -- 24278
+cite$ -- 156
+duplicate$ -- 4839
+empty$ -- 6486
+format.name$ -- 2460
+if$ -- 33844
 int.to.chr$ -- 0
-int.to.str$ -- 165
+int.to.str$ -- 231
 missing$ -- 0
-newline$ -- 1568
-num.names$ -- 446
-pop$ -- 2294
+newline$ -- 2186
+num.names$ -- 624
+pop$ -- 3183
 preamble$ -- 1
-purify$ -- 238
+purify$ -- 327
 quote$ -- 0
-skip$ -- 8178
+skip$ -- 11336
 stack$ -- 0
-substring$ -- 7475
-swap$ -- 1979
-text.length$ -- 243
+substring$ -- 10365
+swap$ -- 2792
+text.length$ -- 357
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 6064
-warning$ -- 0
-while$ -- 630
+type$ -- 8400
+warning$ -- 2
+while$ -- 872
 width$ -- 0
-write$ -- 1997
+write$ -- 2793
 (There were 2 error messages)
