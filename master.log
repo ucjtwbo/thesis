@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  15 FEB 2018 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  22 FEB 2018 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2083,169 +2083,704 @@ Package natbib Warning: Citation `Dearman' on page 56 undefined on input line 8
 58.
 
 [56]) [57]
-\openout2 = `./tex/designs.aux'.
+\openout2 = `./tex/ch34.aux'.
 
- (./tex/designs.tex
+ (./tex/ch34.tex
 Chapter 4.
-
-Package natbib Warning: Citation `Dumais2003' on page 58 undefined on input lin
-e 12.
-
-
-Package natbib Warning: Citation `Trullemans2016' on page 58 undefined on input
- line 12.
-
 [58
 
 
 
-] [59]
-Overfull \hbox (7.53261pt too wide) in paragraph at lines 31--33
-\T1/ppl/m/n/10 Bondarenko & Janssen (2005) com-pared how in-for-ma-tion work-er
-s store pa-per and dig-i-tal sources.
+]
+
+Package natbib Warning: Citation `Soboczenski2013' on page 59 undefined on inpu
+t line 24.
+
+
+Package natbib Warning: Citation `Soboczenski2013' on page 59 undefined on inpu
+t line 26.
+
+[59]
+
+LaTeX Warning: Reference `table:ch4_dvs' on page 60 undefined on input line 42.
+
+
+
+Package natbib Warning: Citation `Janssen2012' on page 60 undefined on input li
+ne 42.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 68.
+
+
+LaTeX Warning: File `images/Study2/ch4_numbers.png' not found on input line 72.
+
+
+
+! Package pdftex.def Error: File `images/Study2/ch4_numbers.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 ...cale=0.23]{images/Study2/ch4_numbers.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 72.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+
+LaTeX Warning: File `images/Study2/ch4_colours.png' not found on input line 78.
+
+
+
+! Package pdftex.def Error: File `images/Study2/ch4_colours.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 ...cale=0.23]{images/Study2/ch4_colours.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `fig:ch4_taskparadigm' on page 60 undefined on input l
+ine 87.
+
+[60] [61]
+
+LaTeX Warning: Reference `table:ch4_IACmeans' on page 62 undefined on input lin
+e 109.
+
+! Undefined control sequence.
+l.115 \ra
+         {1.3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (2.9416pt too wide) in paragraph at lines 115--152
+ [] 
  []
 
-[60] [61]) [62]
+
+! LaTeX Error: \begin{table*} on input line 114 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 \end{table}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Reference `fig:ch4_noVisits' on page 62 undefined on input line 
+159.
+
+
+LaTeX Warning: File `images/Study2/ch4_noVisits-bargraph.pdf' not found on inpu
+t line 163.
+
+
+! Package pdftex.def Error: File `images/Study2/ch4_noVisits-bargraph.pdf' not 
+found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.163 ...{images/Study2/ch4_noVisits-bargraph.pdf}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `fig:ch4_firstVisitDuration' on page 62 undefined on i
+nput line 170.
+
+[62] [63]
+
+LaTeX Warning: File `images/Study2/ch4_firstVisitDuration-bargraph.pdf' not fou
+nd on input line 174.
+
+
+! Package pdftex.def Error: File `images/Study2/ch4_firstVisitDuration-bargraph
+.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.174 ...udy2/ch4_firstVisitDuration-bargraph.pdf}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `fig:ch4_firstCorrectBlocks' on page 64 undefined on i
+nput line 181.
+
+[64]
+
+LaTeX Warning: File `images/Study2/ch4_firstCorrectBlocks-bargraph.pdf' not fou
+nd on input line 185.
+
+
+! Package pdftex.def Error: File `images/Study2/ch4_firstCorrectBlocks-bargraph
+.pdf' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 ...udy2/ch4_firstCorrectBlocks-bargraph.pdf}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[65] [66]
+
+LaTeX Warning: File `images/Study2/ch4_placeholders.pdf' not found on input lin
+e 213.
+
+
+! Package pdftex.def Error: File `images/Study2/ch4_placeholders.pdf' not found
+.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.213 ...=0.3]{images/Study2/ch4_placeholders.pdf}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `fig:ch4_placeholders' on page 67 undefined on input l
+ine 221.
+
+[67] [68]
+
+Package natbib Warning: Citation `Baddeley1986' on page 69 undefined on input l
+ine 243.
+
+
+Package natbib Warning: Citation `Chincotta1999' on page 69 undefined on input 
+line 243.
+
+
+Package natbib Warning: Citation `Miller1956' on page 69 undefined on input lin
+e 250.
+
+[69]
+
+Package natbib Warning: Citation `Soboczenski2013' on page 70 undefined on inpu
+t line 252.
+
+
+Package natbib Warning: Citation `Soboczenski2013' on page 70 undefined on inpu
+t line 253.
+
+[70]
+
+Package natbib Warning: Citation `Cangiano2009' on page 71 undefined on input l
+ine 288.
+
+
+Package natbib Warning: Citation `Murphy2016' on page 71 undefined on input lin
+e 288.
+
+
+Package natbib Warning: Citation `Su2013' on page 71 undefined on input line 28
+8.
+
+Runaway argument?
+{itemize] 
+! Paragraph ended before \end was complete.
+<to be read again> 
+                   \par 
+l.306 
+      
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+[71]
+
+Package natbib Warning: Citation `OHara1998' on page 72 undefined on input line
+ 313.
+
+
+Package natbib Warning: Citation `Patrick2014' on page 72 undefined on input li
+ne 313.
+
+
+LaTeX Warning: Reference `fig:ch34_tasklayout' on page 72 undefined on input li
+ne 341.
+
+
+LaTeX Warning: Reference `fig:ch34_4-step1nrd' on page 72 undefined on input li
+ne 341.
+
+
+LaTeX Warning: Reference `fig:ch34_4-step2' on page 72 undefined on input line 
+342.
+
+
+LaTeX Warning: Reference `fig:ch34_4-step3' on page 72 undefined on input line 
+342.
+
+[72]
+
+LaTeX Warning: File `images/Study4/ch34_4-step1nrd.png' not found on input line
+ 348.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_4-step1nrd.png' not found.
+
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.348 ...width]{images/Study4/ch34_4-step1nrd.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Study4/ch34_4-step2.png' not found on input line 35
+5.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_4-step2.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.355 ...extwidth]{images/Study4/ch34_4-step2.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Study4/ch34_4-step3.png' not found on input line 36
+2.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_4-step3.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.362 ...extwidth]{images/Study4/ch34_4-step3.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Float too large for page by 432.8073pt on input line 367.
+
+[73] [74]
+
+LaTeX Warning: File `images/Study4/ch34_4-roworderstr.png' not found on input l
+ine 410.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_4-roworderstr.png' not fou
+nd.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.410 ...th]{images/Study4/ch34_4-roworderstr.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Study4/ch34_4-columnorderstr.png' not found on inpu
+t line 417.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_4-columnorderstr.png' not 
+found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.417 ...{images/Study4/ch34_4-columnorderstr.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `table:ch34_4-str-order' on page 75 undefined on input
+ line 441.
+
+
+LaTeX Warning: Reference `fig:ch34_4-roworderstr' on page 75 undefined on input
+ line 441.
+
+
+LaTeX Warning: Reference `fig:columnorderstr' on page 75 undefined on input lin
+e 441.
+
+[75]
+
+LaTeX Warning: Text page 76 contains only floats.
+
+
+Overfull \vbox (2.99644pt too high) has occurred while \output is active []
+
+
+[76]
+
+LaTeX Warning: Reference `table:ch34_group-total' on page 77 undefined on input
+ line 462.
+
+
+LaTeX Warning: Reference `table:ch34_group-column' on page 77 undefined on inpu
+t line 464.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 469.
+
+
+LaTeX Warning: File `images/Study4/ch34_4-groupstr.png' not found on input line
+ 499.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_4-groupstr.png' not found.
+
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.499 ...width]{images/Study4/ch34_4-groupstr.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Reference `fig:ch34_4-groupstr' on page 77 undefined on input li
+ne 504.
+
+
+LaTeX Warning: Reference `fig:ch34_4-groupstr' on page 77 undefined on input li
+ne 504.
+
+
+LaTeX Warning: Reference `tbl:ch34_4-groupstr' on page 77 undefined on input li
+ne 504.
+
+[77]
+Overfull \hbox (1.8316pt too wide) in paragraph at lines 506--507
+[][][][][][][] 
+ []
+
+
+LaTeX Warning: Reference `fig:ch34_4-groupstr' on page 78 undefined on input li
+ne 521.
+
+
+LaTeX Warning: Reference `fig:ch34_4-groupstr' on page 78 undefined on input li
+ne 521.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 526.
+
+[78] [79]
+
+Package natbib Warning: Citation `OHara1998' on page 80 undefined on input line
+ 563.
+
+
+Package natbib Warning: Citation `Patrick2014' on page 80 undefined on input li
+ne 563.
+
+[80]
+
+Package natbib Warning: Citation `Morgan2014' on page 81 undefined on input lin
+e 587.
+
+[81]
+
+LaTeX Warning: File `images/Study4/ch34_5-step1.png' not found on input line 63
+7.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_5-step1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.637 ...extwidth]{images/Study4/ch34_5-step1.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Study4/ch34_5-step2.png' not found on input line 64
+4.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_5-step2.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.644 ...extwidth]{images/Study4/ch34_5-step2.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Study4/ch34_5-step3.png' not found on input line 65
+1.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_5-step3.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.651 ...extwidth]{images/Study4/ch34_5-step3.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Study4/ch34_5-step4.png' not found on input line 65
+6.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_5-step4.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.656 ...extwidth]{images/Study4/ch34_5-step4.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `images/Study4/ch34_5-step5.png' not found on input line 66
+1.
+
+
+! Package pdftex.def Error: File `images/Study4/ch34_5-step5.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.661 ...extwidth]{images/Study4/ch34_5-step5.png}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: Float too large for page by 5.388pt on input line 666.
+
+
+LaTeX Warning: Reference `table:ch34_Study5dvs' on page 82 undefined on input l
+ine 708.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 710.
+
+[82] [83]
+
+LaTeX Warning: Reference `table:ch34_Study5interleavingfreqtbl' on page 84 unde
+fined on input line 727.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 734.
+
+[84] [85]) [86]
+\openout2 = `./tex/designs.aux'.
+
+ (./tex/designs.tex
+Chapter 5.
+
+Package natbib Warning: Citation `Dumais2003' on page 87 undefined on input lin
+e 12.
+
+
+Package natbib Warning: Citation `Trullemans2016' on page 87 undefined on input
+ line 12.
+
+[87
+
+
+
+] [88] [89] [90]) [91]
 \openout2 = `./tex/ch56.aux'.
 
  (./tex/ch56.tex
-Chapter 5.
-[63
+Chapter 6.
+[92
 
 
 
-] Excluding 'comment' comment. [64]
-<images/ch56/ch56-taskinterface.pdf, id=1501, 1977.1145pt x 584.89163pt>
+] Excluding 'comment' comment. [93]
+<images/ch56/ch56-taskinterface.pdf, id=1777, 1977.1145pt x 584.89163pt>
 File: images/ch56/ch56-taskinterface.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-taskinterface.pdf>
 Package pdftex.def Info: images/ch56/ch56-taskinterface.pdf used on input line 
 71.
 (pdftex.def)             Requested size: 418.25368pt x 123.73225pt.
- [65 <./images/ch56/ch56-taskinterface.pdf>] <images/ch56/ch56-descstats.pdf, i
-d=1539, 531.76033pt x 94.96228pt>
+ [94]
+<images/ch56/ch56-descstats.pdf, id=1787, 531.76033pt x 94.96228pt>
 File: images/ch56/ch56-descstats.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-descstats.pdf>
 Package pdftex.def Info: images/ch56/ch56-descstats.pdf used on input line 92.
 (pdftex.def)             Requested size: 376.42575pt x 67.22226pt.
 
-<images/ch56/ch56-Figure2.pdf, id=1540, 289.08pt x 433.62pt>
+<images/ch56/ch56-Figure2.pdf, id=1788, 289.08pt x 433.62pt>
 File: images/ch56/ch56-Figure2.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-Figure2.pdf>
 Package pdftex.def Info: images/ch56/ch56-Figure2.pdf used on input line 99.
 (pdftex.def)             Requested size: 83.64944pt x 125.46869pt.
- [66 <./images/ch56/ch56-descstats.pdf>]
-[67 <./images/ch56/ch56-Figure2.pdf>]
-Overfull \hbox (11.93167pt too wide) in paragraph at lines 131--132
-\T1/ppl/m/n/10 The browser no-ti-fi-ca-tion was im-ple-mented as a Google Chrom
-e ex-ten-sion, us-ing HTML, Javascript
- []
-
-[68] [69] [70] [71]) [72]
+ [95 <./images/ch56/ch56-taskinterface.pdf>]
+[96 <./images/ch56/ch56-descstats.pdf> <./images/ch56/ch56-Figure2.pdf>]
+[97] [98] [99] [100] [101]) [102]
 \openout2 = `./tex/finaldiscussion.aux'.
 
  (./tex/finaldiscussion.tex
-Chapter 6.
-) [73
+Chapter 7.
+) [103
 
 
 
 ] (./master.bbl
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 148.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Underfull \hbox (badness 1052) in paragraph at lines 233--255
-\T1/ppl/m/it/10 ence on hu-man fac-tors in com-put-ing sys-tems (chi '09) \T1/p
-pl/m/n/10 (pp.[] 1005--1014).  Re-trieved from
+Underfull \hbox (badness 1122) in paragraph at lines 233--255
+[]\T1/ppl/m/n/10 Bi, X., & Bal-akr-ish-nan, R.  (2009).  Com-par-ing us-age of 
+a large high-resolution
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--255
-[]$\T1/pcr/m/n/10 http :// dl [] .acm [] .org / citation [] .cfm [] ?doid = \U/
-ntxsfmia/m/it/10 ÇÜÇâàÅÇ [] \T1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 ÇÜÇââÜÜ\T1/pcr/
-m/n/10 {%}\U/ntxsfmia/m/it/10 Ü\T1/pcr/m/n/10 Cnpapers\U/ntxsfmia/m/it/10 É \T1
-/pcr/m/n/10 ://
+Underfull \hbox (badness 6691) in paragraph at lines 233--255
+\T1/ppl/m/n/10 dis-play to sin-gle or dual desk-top dis-plays for daily work.  
+In \T1/ppl/m/it/10 Pro-ceed-
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 303--321
-[]\T1/ppl/m/n/10 Braun, V., & Clarke, V.  (2006).  Us-ing the-matic anal-y-sis 
-in psy-chol-ogy.  \T1/ppl/m/it/10 Qual-i-ta-
+Underfull \hbox (badness 1769) in paragraph at lines 233--255
+\T1/ppl/m/it/10 ings of the sigchi con-fer-ence on hu-man fac-tors in com-put-i
+ng sys-tems (chi '09) \T1/ppl/m/n/10 (pp.[]
  []
 
-
-Underfull \hbox (badness 1331) in paragraph at lines 303--321
-\T1/ppl/m/it/10 tive Re-search in Psy-chol-ogy\T1/ppl/m/n/10 , \T1/ppl/m/it/10 
-3\T1/ppl/m/n/10 (2), 77--101.  Re-trieved from []$\T1/pcr/m/n/10 http :// eprin
-ts [] .uwe [] .ac []
- []
-
-[74
+[104
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 456--477
+\T1/pcr/m/n/10 .com / en [] -us / um / redmond / groups / cue / publications / 
+interact\U/ntxsfmia/m/it/10 ÉÅÅÑ []
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 673--694
+\T1/ppl/m/n/10 ness": Man-ag-ing Mul-ti-ple Work-ing Spheres.  In \T1/ppl/m/it/
+10 Pro-ceed-ings of the sigchi con-fer-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 673--694
-\T1/pcr/m/n/10 .acm [] .org / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/pcr/m/n/10 .\U/ntxs
-fmia/m/it/10 ÇÇÖÜ \T1/pcr/m/n/10 / \U/ntxsfmia/m/it/10 ääÅÅÅÅ \T1/pcr/m/n/10 / 
-\U/ntxsfmia/m/it/10 äâÜàÅà \T1/pcr/m/n/10 / p\U/ntxsfmia/m/it/10 ÇÇÑ [] \T1/pcr
-/m/n/10 -gonzalez [] .pdf [] ?key\U/ntxsfmia/m/it/10 Ç \T1/pcr/m/n/10 = \U/ntxs
-fmia/m/it/10 äâÜàÅà\T1/pcr/m/n/10 {&}key\U/ntxsfmia/m/it/10 É \T1/pcr/m/n/10 =
+\T1/ppl/m/n/10 tria.  Re-trieved from []$\T1/pcr/m/n/10 http :// delivery [] .a
+cm [] .org / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ
+ \T1/pcr/m/n/10 / \U/ntxsfmia/m/it/10 ääÅÅÅÅ \T1/pcr/m/n/10 / \U/ntxsfmia/m/it/
+10 äâÜàÅà \T1/pcr/m/n/10 /
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 708--730
-[]\T1/ppl/m/n/10 Gould, S. J., Cox, A. L., & Brumby, D. P.  (2016).  Di-min-ish
-ed Con-trol in Crowd-
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 708--730
-\T1/ppl/m/n/10 sourc-ing: An In-ves-ti-ga-tion of Crowd-worker Mul-ti-task-ing 
-Be-hav-ior.  \T1/ppl/m/it/10 ACM Trans-
- []
-
-
-Underfull \hbox (badness 7433) in paragraph at lines 708--730
-\T1/ppl/m/it/10 ac-tions on Computer-Human In-ter-ac-tion\T1/ppl/m/n/10 , \T1/p
-pl/m/it/10 23\T1/ppl/m/n/10 (3), 1--27.  Re-trieved from []$\T1/pcr/m/n/10 mess
-age :
+Underfull \hbox (badness 10000) in paragraph at lines 673--694
+\T1/pcr/m/n/10 p\U/ntxsfmia/m/it/10 ÇÇÑ [] \T1/pcr/m/n/10 -gonzalez [] .pdf [] 
+?key\U/ntxsfmia/m/it/10 Ç \T1/pcr/m/n/10 = \U/ntxsfmia/m/it/10 äâÜàÅà\T1/pcr/m/
+n/10 {&}key\U/ntxsfmia/m/it/10 É \T1/pcr/m/n/10 = \U/ntxsfmia/m/it/10 äàÅäÑâÜÇÇ
+Ç\T1/pcr/m/n/10 {&}coll = GUIDE{&}dl =
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 708--730
-\T1/pcr/m/n/10 {%}\U/ntxsfmia/m/it/10 Ñ\T1/pcr/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1
-/pcr/m/n/10 DF\U/ntxsfmia/m/it/10 àÅàÅ\T1/pcr/m/n/10 D [] -\U/ntxsfmia/m/it/10 
-äÉ\T1/pcr/m/n/10 E\U/ntxsfmia/m/it/10 Ö [] \T1/pcr/m/n/10 -\U/ntxsfmia/m/it/10 
-ÖÅÅ\T1/pcr/m/n/10 F [] -B\U/ntxsfmia/m/it/10 Éââ [] \T1/pcr/m/n/10 -C\U/ntxsfmi
-a/m/it/10 àÇ\T1/pcr/m/n/10 BA\U/ntxsfmia/m/it/10 ÉÜ\T1/pcr/m/n/10 CC\U/ntxsfmia
-/m/it/10 âÑä \T1/pcr/m/n/10 @ ucl [] .ac [] .uk{%}\U/ntxsfmia/m/it/10 Ñ\T1/pcr/
-m/n/10 Epapers\U/ntxsfmia/m/it/10 Ñ \T1/pcr/m/n/10 ://
- []
-
-[75]
-Underfull \hbox (badness 1019) in paragraph at lines 913--933
-[]\T1/ppl/m/n/10 Hanrahan, B. V., & PÈrez-Qu, M. A.  (2015).  Lost in Email: Pu
-lling Users Down a
+\T1/pcr/m/n/10 -\U/ntxsfmia/m/it/10 äÉ\T1/pcr/m/n/10 E\U/ntxsfmia/m/it/10 Ö [] 
+\T1/pcr/m/n/10 -\U/ntxsfmia/m/it/10 ÖÅÅ\T1/pcr/m/n/10 F [] -B\U/ntxsfmia/m/it/1
+0 Éââ [] \T1/pcr/m/n/10 -C\U/ntxsfmia/m/it/10 àÇ\T1/pcr/m/n/10 BA\U/ntxsfmia/m/
+it/10 ÉÜ\T1/pcr/m/n/10 CC\U/ntxsfmia/m/it/10 âÑä \T1/pcr/m/n/10 @ ucl [] .ac []
+ .uk{%}\U/ntxsfmia/m/it/10 Ñ\T1/pcr/m/n/10 Epapers\U/ntxsfmia/m/it/10 Ñ \T1/pcr
+/m/n/10 :// publication /
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 913--933
-\T1/ppl/m/n/10 Path of In-ter-ac-tion.  In \T1/ppl/m/it/10 Chi'15 \T1/ppl/m/n/1
-0 (pp.[] 3981--3984).  Re-trieved from []$\T1/pcr/m/n/10 http :// delivery []
+Underfull \hbox (badness 1721) in paragraph at lines 745--767
+\T1/ppl/m/it/10 Hu-man Com-pu-ta-tion\T1/ppl/m/n/10 , 45--67.  Re-trieved from 
+[]$\T1/pcr/m/n/10 http :// discovery [] .ucl [] .ac [] .uk /
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 745--767
+\U/ntxsfmia/m/it/10 ÇÖàÅÑÖÉ \T1/pcr/m/n/10 / \U/ntxsfmia/m/it/10 Ç \T1/pcr/m/n/
+10 / Gouldetal [] . [] -\U/ntxsfmia/m/it/10 ÉÅÇÜ [] \T1/pcr/m/n/10 -HomeisWhere
+theLabisAComparisonofOnlinea []
+ []
+
+[105]
 Underfull \hbox (badness 10000) in paragraph at lines 913--933
-\T1/pcr/m/n/10 .acm [] .org / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/pcr/m/n/10 .\U/ntxs
-fmia/m/it/10 ÇÇÖÜ \T1/pcr/m/n/10 / \U/ntxsfmia/m/it/10 ÉàÇÅÅÅÅ \T1/pcr/m/n/10 /
- \U/ntxsfmia/m/it/10 ÉàÅÉÑÜÇ \T1/pcr/m/n/10 / p\U/ntxsfmia/m/it/10 ÑäâÇ [] \T1/
-pcr/m/n/10 -hanrahan [] .pdf [] ?ip = \U/ntxsfmia/m/it/10 ÇÉâ [] \T1/pcr/m/n/10
- .\U/ntxsfmia/m/it/10 Çá [] \T1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 Ü [] \T1/pcr/m/
-n/10 .\U/ntxsfmia/m/it/10 Ü\T1/pcr/m/n/10 {&}id =
+\U/ntxsfmia/m/it/10 ÇÅ [] \T1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/pcr/m/n/
+10 / \U/ntxsfmia/m/it/10 ÉàÇÅÅÅÅ \T1/pcr/m/n/10 / \U/ntxsfmia/m/it/10 ÉàÅÉÑÜÇ \
+T1/pcr/m/n/10 / p\U/ntxsfmia/m/it/10 ÑäâÇ [] \T1/pcr/m/n/10 -hanrahan [] .pdf [
+] ?ip = \U/ntxsfmia/m/it/10 ÇÉâ [] \T1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 Çá [] \T
+1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 Ü [] \T1/pcr/m/n/10 .\U/ntxsfmia/m/it/10 Ü\T1
+/pcr/m/n/10 {&}id =
  []
 
 
@@ -2269,7 +2804,7 @@ m/n/10 B\U/ntxsfmia/m/it/10 Å\T1/pcr/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/pcr/m/n/1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 913--933
+Underfull \hbox (badness 4673) in paragraph at lines 913--933
 \U/ntxsfmia/m/it/10 ÖÖÜÑÖÇÇÜ\T1/pcr/m/n/10 {&}{[][]}{[][]}acm{[][]}{[][]} = \U/
 ntxsfmia/m/it/10 ÇÜÇÑàâÉàÉÇ\T1/pcr/m/n/10 {[][]}\U/ntxsfmia/m/it/10 äÖÅÅà\T1/pc
 r/m/n/10 b\U/ntxsfmia/m/it/10 à\T1/pcr/m/n/10 bb\U/ntxsfmia/m/it/10 ÅÅâ$[]   \T
@@ -2277,97 +2812,200 @@ r/m/n/10 b\U/ntxsfmia/m/it/10 à\T1/pcr/m/n/10 bb\U/ntxsfmia/m/it/10 ÅÅâ$[]   \T
 0 ÇÇÖÜ \T1/ppl/m/n/10 /
  []
 
-[76]
+[106]
+Underfull \hbox (badness 1137) in paragraph at lines 1464--1484
+\T1/ppl/m/n/10 of writ-ing.  In M. H. Zadeh (Ed.[]), \T1/ppl/m/it/10 Ad-vances 
+in hap-tics \T1/ppl/m/n/10 (pp.[] 385--402).  In-Tech.
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1464--1484
-[]$\T1/pcr/m/n/10 http :// www [] .intechopen [] .com / books / export / citati
-on / BibTex / advances [] -in []
+\T1/ppl/m/n/10 Re-trieved from []$\T1/pcr/m/n/10 http :// www [] .intechopen []
+ .com / books / export / citation /
  []
 
-[77] [78]
-Underfull \hbox (badness 4647) in paragraph at lines 2438--2457
+
+Underfull \hbox (badness 10000) in paragraph at lines 1464--1484
+\T1/pcr/m/n/10 BibTex / advances [] -in [] -haptics / digitizing [] -literacy [
+] -reflections [] -on []
+ []
+
+[107] [108]
+Underfull \hbox (badness 1454) in paragraph at lines 2148--2169
+[]\T1/ppl/m/n/10 Smith, M. R., Lewis, R. L., Howes, A., Chu, A., & Green, C.  (
+2008).  More
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 2148--2169
+\T1/ppl/m/n/10 than 8,192 ways to skin a cat: Mod-el-ing be-hav-ior in mul-ti-d
+i-men-sional strat-
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 2438--2457
 []\T1/ppl/m/n/10 Zhang, J., & Wang, H.  (2009, jan).  An ex-plo-ration of the r
-e-la-tions be-tween
+e-la-tions be-
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 2438--2457
-\T1/ppl/m/n/10 ex-ter-nal rep-re-sen-ta-tions and work-ing mem-ory.  \T1/ppl/m/
-it/10 PloS one\T1/ppl/m/n/10 , \T1/ppl/m/it/10 4\T1/ppl/m/n/10 (8), e6513.  Re-
-
+Underfull \hbox (badness 2903) in paragraph at lines 2438--2457
+\T1/ppl/m/n/10 tween ex-ter-nal rep-re-sen-ta-tions and work-ing mem-ory.  \T1/
+ppl/m/it/10 PloS one\T1/ppl/m/n/10 , \T1/ppl/m/it/10 4\T1/ppl/m/n/10 (8), e6513
+.
  []
 
-) [79]
+
+Underfull \hbox (badness 1845) in paragraph at lines 2438--2457
+\T1/ppl/m/n/10 Re-trieved from []$\T1/pcr/m/n/10 http :// www [] .pubmedcentral
+ [] .nih [] .gov / articlerender [] .fcgi []
+ []
+
+) [109]
 \openout2 = `./tex/appendix/appendix.aux'.
 
  (./tex/appendix/appendix.tex
 Appendix A.
-<images/Informationsheet.pdf, id=1749, 597.23125pt x 844.15375pt>
+<images/Informationsheet.pdf, id=2058, 597.23125pt x 844.15375pt>
 File: images/Informationsheet.pdf Graphic file (type pdf)
 
 <use images/Informationsheet.pdf>
 Package pdftex.def Info: images/Informationsheet.pdf used on input line 6.
 (pdftex.def)             Requested size: 418.25368pt x 591.18698pt.
- [80
+ [110
 
 
-] [81 <./images/Informationsheet.pdf>]
+] [111 <./images/Informationsheet.pdf>]
 Appendix B.
-<images/Consentform.pdf, id=1789, 597.23125pt x 844.15375pt>
+<images/Consentform.pdf, id=2099, 597.23125pt x 844.15375pt>
 File: images/Consentform.pdf Graphic file (type pdf)
 
 <use images/Consentform.pdf>
 Package pdftex.def Info: images/Consentform.pdf used on input line 15.
 (pdftex.def)             Requested size: 418.25368pt x 591.18698pt.
- [82
+ [112
 
-] [83 <./images/Consentform.pdf>]
+] [113 <./images/Consentform.pdf>]
 Appendix C.
-[84
+[114
 
-] [85]) [86]
+] [115]) [116]
 
 Package natbib Warning: There were undefined citations.
+
+
+! LaTeX Error: \begin{itemize} on input line 301 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
 (./master.aux (./settings/title.aux) (./settings/formatting.aux)
 (./tex/abstract.aux) (./acknowledgements.aux) (./tex/introduction.aux)
-(./tex/background.aux) (./tex/ch12.aux) (./tex/designs.aux) (./tex/ch56.aux)
-(./tex/finaldiscussion.aux) (./tex/appendix/appendix.aux))
+(./tex/background.aux) (./tex/ch12.aux) (./tex/ch34.aux) (./tex/designs.aux)
+(./tex/ch56.aux) (./tex/finaldiscussion.aux) (./tex/appendix/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 38.
-Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 630288D18CE278AFF7A4D75844BFD5F9;4414.
 
+
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master.out':
+(rerunfilecheck)             Before: F2799BA88B0360DD64BF38861408E0B0;4414
+(rerunfilecheck)             After:  33C81A46F2E56D8CE7886BE3DD98B7D2;5595.
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 301 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 38524 strings out of 493014
- 761697 string characters out of 6133351
- 836869 words of memory out of 5000000
- 40888 multiletter control sequences out of 15000+600000
- 68289 words of font info for 112 fonts, out of 8000000 for 9000
+ 38753 strings out of 493014
+ 764778 string characters out of 6133351
+ 840986 words of memory out of 5000000
+ 40948 multiletter control sequences out of 15000+600000
+ 72340 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,12n,103p,10587b,899s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/p
-alatino/uplri8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newt
-xsf/zsfmia-reg.pfb>
-Output written on master.pdf (87 pages, 1381452 bytes).
+ 67i,15n,103p,10587b,1050s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{figure.5.2} has been referenced but
+ does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.5.1} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{table.5.1} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.87} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.5.3.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.4.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.8} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.4.2.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/tex
+live/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/pal
+atino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/u
+plri8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmi
+-reg.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmia-
+reg.pfb>
+Output written on master.pdf (117 pages, 1469209 bytes).
 PDF statistics:
- 1962 PDF objects out of 2073 (max. 8388607)
- 1699 compressed objects within 17 object streams
- 366 named destinations out of 1000 (max. 500000)
+ 2307 PDF objects out of 2487 (max. 8388607)
+ 2008 compressed objects within 21 object streams
+ 502 named destinations out of 1000 (max. 500000)
  784 words of extra memory for PDF output out of 10000 (max. 10000000)
 
