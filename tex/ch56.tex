@@ -82,9 +82,33 @@ After completing all experimental trials, participants were shown a page of debr
 \subsubsection{Pilot study}
 
 \subsection{Results}
-Table \ref{tbl:ch56-Table1} summarises the results of the conditions in terms of the four dependent variables. The number of switches, length of switches and the error rate were not normally distributed, so non-parametric Mann-Whitney tests were used to analyse effects of a notification on these dependent variables. A Shapiro-Wilk test suggested that the trial completion times were normally distributed, W = 0.94, p = 0.05, so an independent t-test was used to analyse the effect on trial times. 
-Figure \ref{fig:ch56-Figure2} shows the variability of duration of switches for the two conditions. Results show that switches were significantly shorter among participants who had a notification (M=4.51s, SD=1.80s) than among those without a notification (M=7.11s, SD=3.14s), U(17, 15) = 186, p = 0.01. There was no significant difference in number of switches, U(17, 15) = 80, p = 0.1.
-Error rates were calculated by dividing the number of data entry errors divided by error opportunities. The error rates were significantly lower for participants with a notification (M=2\%, SD=2\%) compared to participants who had no notification (M=6\%, SD=6\%), U(17, 15) = 190, p < .01. Participants with a notification were also faster in completing trials (M=94.98s, SD=17.69s) compared to participants without a notification (M=122.90s, SD=35.43s), t(30) = 2.96, p < .01.
+Table \ref{tbl:ch56-Table1} summarises the results of the conditions in terms of the four dependent variables. The number of switches, length of switches and the error rate were not normally distributed, so non-parametric Mann-Whitney tests were used to analyse effects of a notification on these dependent variables. A Shapiro-Wilk test suggested that the trial completion times were normally distributed, \textit{W} = 0.97, \textit{p} = 0.22, so an independent t-test was used to analyse the effect on trial times. 
+
+\subsubsection{Number and duration of switches}
+Figure \ref{fig:ch56-Figure2} shows the variability of duration of switches for the two conditions. Results show that switches were significantly shorter among participants who had a notification (\textit{M} = 4.76s, \textit{SD} = 1.65s) than among those without a notification (\textit{M}=7.13s, \textit{SD}=3.05s), \textit{U} = 406, \textit{p} < 0.01, \textit{r}=.44. Participants switched once for every code entered (i.e., ten times per trial), and there was no significant difference in number of switches between conditions, \textit{U} = 243, \textit{p} = 0.6.
+
+The distribution of switching durations was positively skewed with a long tail: switches up to 11 seconds made up 90\% of switches, but the longest switch was greater than seven minutes. The distribution of the top 10 \% of longest switches is illustrated in Figure \ref{fig:ch56-histswitches}. 
+Table \ref{fig:ch56-tblswitches} shows the count of extremely long switches per condition.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{images/ch56/ch56-histswitches.pdf}
+\caption{Distribution of the top 10\% longest window switches, that is switches that were longer than 11.82 seconds.}
+%\vspace{-3pt}
+\label{fig:ch56-histswitches}
+\end{figure}
+
+\begin{table}
+\caption{Total number of switches at different percentiles for each condition.}
+\centering
+\includegraphics[width=0.7\textwidth]{images/ch56/ch56-longswitches.pdf}
+\vspace{-3pt}
+\label{tbl:ch56-tblswitches}
+\end{table}
+
+
+\subsubsection{Task performance}
+Error rates were calculated by dividing the number of data entry errors divided by error opportunities. The error rates were significantly lower for participants with a notification (\textit{M }= 2\%, \textit{SD} = 2\%) compared to participants who had no notification (\textit{M} = 5\%, \textit{SD }= 5\%), \textit{U} = 403, \textit{p} < .01, \textit{r} = .44. Participants with a notification were also faster in completing trials (\textit{M} = 107.61s, \textit{SD} = 31.15s) compared to participants without a notification (\textit{M} = 126.27s, \textit{SD} = 32.61), \textit{t}(45) = 1.98, \textit{p} < .05, \textit{d} = .59.
 
 \begin{table}
 \caption{Means and standard deviations of dependent variables for each condition.}
@@ -96,11 +120,32 @@ Error rates were calculated by dividing the number of data entry errors divided 
 
 \begin{figure}
 \centering
-\includegraphics[width=0.2\textwidth]{images/ch56/ch56-Figure2.pdf}
+\includegraphics[width=0.2\textwidth]{images/ch56/ch56-boxplot.pdf}
 \caption{Boxplot of duration of switches away from the data entry interface in each condition.}
 %\vspace{-3pt}
 \label{fig:ch56-Figure2}
 \end{figure}
+
+\subsubsection{Interkey intervals}
+The primary measure to analyse switching behaviour were focus and blur events. These measures include any switch from the task window to another computer window, but task switches outside the device, with the task window still in focus, were not captured. Therefore, inter-keystroke interval (IKI) data was analysed to look for large intervals. The IKI data presented here does not make a distinction between moments when participants were inside or outside the task window, and longer intervals may have also been moments were participants had briefly paused for thought. However, extremely large intervals between two keystrokes might point to moments where participants had switched to doing something else. 
+
+Figure \ref{fig:ch56-histikis} shows the distribution of IKIs. Table \ref{fig:ch56-tblswitches} shows the count of extremely long IKIs per condition.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{images/ch56/ch56-histikis.pdf}
+\caption{Distribution of the top 10\% longest IKIs, that is IKIs that were longer than 6.21 seconds.}
+%\vspace{-3pt}
+\label{fig:ch56-histikis}
+\end{figure}
+
+\begin{table}
+\caption{Total number of IKIs  at different percentiles for each condition.}
+\centering
+\includegraphics[width=0.7\textwidth]{images/ch56/ch56-longIKIs.pdf}
+\vspace{-3pt}
+\label{tbl:ch56-tblIKIs}
+\end{table}
 
 \subsection{Discussion}
 The aim of this study was to see whether showing people how long they switch on average reduces the number and length of their switches. The results show that people can benefit from receiving feedback on the length of their switches: participants made shorter switches, were faster to complete the task, and made fewer errors. These findings suggest that shorter switches can lead to better task performance, and are in line with previous studies connecting the duration of an interruption to its disruptiveness \citep{Altmann2017, Monk2008}.
