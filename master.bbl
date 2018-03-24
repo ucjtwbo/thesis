@@ -254,40 +254,6 @@ Bi, X.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Borghouts%
-, Brumby%
-\BCBL {}\ \BBA {} Cox%
-}{%
-Borghouts%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2017}}%
-}]{%
-Borghouts2017}
-\APACinsertmetastar {%
-Borghouts2017}%
-\begin{APACrefauthors}%
-Borghouts, J.%
-, Brumby, D\BPBI P.%
-\BCBL {}\ \BBA {} Cox, A\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2017}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Batching, Error Checking and Data Collecting:
-  Understanding Data Entry in a Financial Office}} {{Batching, Error Checking
-  and Data Collecting: Understanding Data Entry in a Financial Office}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Proceedings of 15th European Conference on
-  Computer-Supported Cooperative Work.} {Proceedings of 15th european
-  conference on computer-supported cooperative work.}
-\newblock
-\APACaddressPublisher{Sheffield, UK}{}.
-\newblock
-\begin{APACrefDOI} \doi{10.18420/ecscw2017-4} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Braun%
 \ \BBA {} Clarke%
 }{%
@@ -377,6 +343,40 @@ Byrne, M\BPBI D.%
   {{A Working Memory Model of a Common Procedural Error}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Cognitive Science}{21}{1}{31--61}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chincotta%
+, Underwood%
+, Ghani%
+, Papadopoulou%
+\BCBL {}\ \BBA {} Wresinski%
+}{%
+Chincotta%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1999}}%
+}]{%
+Chincotta1999}
+\APACinsertmetastar {%
+Chincotta1999}%
+\begin{APACrefauthors}%
+Chincotta, D.%
+, Underwood, G.%
+, Ghani, K\BPBI A.%
+, Papadopoulou, E.%
+\BCBL {}\ \BBA {} Wresinski, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Memory Span for Arabic Numerals and Digit Words:
+  Evidence for a Limited-capacity, Visuo-spatial Storage System}} {{Memory Span
+  for Arabic Numerals and Digit Words: Evidence for a Limited-capacity,
+  Visuo-spatial Storage System}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Quarterly Journal of Experimental
+  Psychology}{52}{2}{325--352}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -573,6 +573,41 @@ Diemand-Yauman, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Dumais%
+\ \protect \BOthers {.}}{%
+Dumais%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+Dumais2003}
+\APACinsertmetastar {%
+Dumais2003}%
+\begin{APACrefauthors}%
+Dumais, S.%
+, Cutrell, E.%
+, Cadiz, J.%
+, Jancke, G.%
+, Sarin, R.%
+\BCBL {}\ \BBA {} Robbins, D\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Stuff I've Seen: A System for Personal Information
+  Retrieval and Re-Use}} {{Stuff I've Seen: A System for Personal Information
+  Retrieval and Re-Use}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {SIGIR '03.} {Sigir '03.}
+\newblock
+\APACaddressPublisher{Toronto, Canada}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.microsoft.com/en-us/research/wp-content/uploads/2003/01/siscore-sigir2003-final.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Evans%
 \ \BBA {} Wobbrock%
 }{%
@@ -655,41 +690,6 @@ Gong, Y.%
 \BIn{} \APACrefbtitle {Human Interface and the Management of Information.
   Information and Interaction} {Human interface and the management of
   information. information and interaction}\ (\BPGS\ 503--512).
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Gonzalez%
-\ \BBA {} Mark%
-}{%
-Gonzalez%
-\ \BBA {} Mark%
-}{%
-{\protect \APACyear {2004}}%
-}]{%
-Gonzalez2004}
-\APACinsertmetastar {%
-Gonzalez2004}%
-\begin{APACrefauthors}%
-Gonzalez, V\BPBI M.%
-\BCBT {}\ \BBA {} Mark, G.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2004}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{"Constant, Constant, Multi-tasking Craziness": Managing
-  Multiple Working Spheres}} {{"Constant, Constant, Multi-tasking Craziness":
-  Managing Multiple Working Spheres}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '04)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '04)}\ (\BPGS\ 113--120).
-\newblock
-\APACaddressPublisher{Vienna, Austria}{}.
-\newblock
-\begin{APACrefURL}
-  \url{http://delivery.acm.org/10.1145/990000/985707/p113-gonzalez.pdf?key1=985707{\&}key2=9709385111{\&}coll=GUIDE{\&}dl=GUIDE{\&}CFID=44938518{\&}CFTOKEN=14011566}
-  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -999,6 +999,32 @@ Hollan, J\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Holtzblatt%
+\ \BBA {} Beyer%
+}{%
+Holtzblatt%
+\ \BBA {} Beyer%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Holtzblatt2014}
+\APACinsertmetastar {%
+Holtzblatt2014}%
+\begin{APACrefauthors}%
+Holtzblatt, K.%
+\BCBT {}\ \BBA {} Beyer, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {{Contextual Design: Evolved}} {{Contextual Design: Evolved}}\
+  (J\BPBI M.~Carroll, \BED{}).
+\newblock
+\APACaddressPublisher{}{Morgan {\&} Claypool Publishers}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hutchins%
 }{%
 Hutchins%
@@ -1061,30 +1087,35 @@ Iqbal, S\BPBI T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Jin%
-\ \BBA {} Dabbish%
+Janssen%
+\ \BBA {} Gray%
 }{%
-Jin%
-\ \BBA {} Dabbish%
+Janssen%
+\ \BBA {} Gray%
 }{%
-{\protect \APACyear {2009}}%
+{\protect \APACyear {2012}}%
 }]{%
-Jin2009}
+Janssen2012}
 \APACinsertmetastar {%
-Jin2009}%
+Janssen2012}%
 \begin{APACrefauthors}%
-Jin, J.%
-\BCBT {}\ \BBA {} Dabbish, L\BPBI A.%
+Janssen, C\BPBI P.%
+\BCBT {}\ \BBA {} Gray, W\BPBI D.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2009}{}{}.
+\APACrefYearMonthDay{2012}{mar}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Self-Interruption on the Computer: A Typology of
-  Discretionary Task Interleaving}} {{Self-Interruption on the Computer: A
-  Typology of Discretionary Task Interleaving}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{When, what, and how much to reward in reinforcement
+  learning-based models of cognition.}} {{When, what, and how much to reward in
+  reinforcement learning-based models of cognition.}}{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'09} {Chi'09}\ (\BPGS\ 1799--1808).
+\APACjournalVolNumPages{Cognitive science}{36}{2}{333--58}.
+\newblock
+\begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/22257174}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1551-6709.2011.01222.x} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1152,40 +1183,6 @@ Kawado, M.%
 \APACjournalVolNumPages{Controlled Clinical Trials}{24}{}{560--569}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/S0197-2456(03)00089-8} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Kim%
-, Cho%
-\BCBL {}\ \BBA {} Lee%
-}{%
-Kim%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2017}}%
-}]{%
-Kim2017}
-\APACinsertmetastar {%
-Kim2017}%
-\begin{APACrefauthors}%
-Kim, J.%
-, Cho, K\BPBI C.%
-\BCBL {}\ \BBA {} Lee, K\BPBI U.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2017}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Technology Supported Behavior Restriction for
-  Mitigating Self-Interruptions in Multi-device Environments}} {{Technology
-  Supported Behavior Restriction for Mitigating Self-Interruptions in
-  Multi-device Environments}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Proc. ACM Interact. Mob. Wearable Ubiquitous
-  Technol}{1}{21}{}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.1145/3130932} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1145/3130932} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1722,6 +1719,36 @@ Mueller, P\BPBI a.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Murphy%
+, Chen%
+\BCBL {}\ \BBA {} Cossutta%
+}{%
+Murphy%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Murphy2016}
+\APACinsertmetastar {%
+Murphy2016}%
+\begin{APACrefauthors}%
+Murphy, H\BPBI C.%
+, Chen, M\BHBI M.%
+\BCBL {}\ \BBA {} Cossutta, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{An investigation of multiple devices and information
+  sources used in the hotel booking process}} {{An investigation of multiple
+  devices and information sources used in the hotel booking process}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Tourism Management}{52}{}{44--51}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.tourman.2015.06.004} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Nakata%
 }{%
 Nakata%
@@ -1773,6 +1800,38 @@ Norman, D\BPBI A.%
 \APACjournalVolNumPages{Cognitive Science}{17}{}{1--6}.
 \newblock
 \begin{APACrefDOI} \doi{10.1207/s15516709cog1701} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+O'Hara%
+\ \BBA {} Payne%
+}{%
+O'Hara%
+\ \BBA {} Payne%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+OHara1998}
+\APACinsertmetastar {%
+OHara1998}%
+\begin{APACrefauthors}%
+O'Hara, K\BPBI P.%
+\BCBT {}\ \BBA {} Payne, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The effects of operator implementation cost on
+  planfulness of problem solving and learning.}} {{The effects of operator
+  implementation cost on planfulness of problem solving and learning.}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognitive psychology}{35}{1}{34--70}.
+\newblock
+\begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/9520317}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1006/cogp.1997.0676} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1862,6 +1921,38 @@ Olsen, K\BPBI A.%
 \APACjournalVolNumPages{Computer}{41}{}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.1109/MC.2008.135} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Patrick%
+, Morgan%
+, Tiley%
+, Smy%
+\BCBL {}\ \BBA {} Seeby%
+}{%
+Patrick%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Patrick2014}
+\APACinsertmetastar {%
+Patrick2014}%
+\begin{APACrefauthors}%
+Patrick, J.%
+, Morgan, P\BPBI L.%
+, Tiley, L.%
+, Smy, V.%
+\BCBL {}\ \BBA {} Seeby, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Designing the Interface to Encourage More Cognitive
+  Processing}} {{Designing the Interface to Encourage More Cognitive
+  Processing}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {HCI} {Hci}\ (\BVOL~23, \BPGS\ 255--264).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2203,6 +2294,40 @@ Sohn, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Su%
+, Brdiczka%
+\BCBL {}\ \BBA {} Begole%
+}{%
+Su%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Su2013}
+\APACinsertmetastar {%
+Su2013}%
+\begin{APACrefauthors}%
+Su, N\BPBI M.%
+, Brdiczka, O.%
+\BCBL {}\ \BBA {} Begole, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Routineness of Routines: Measuring Rhythms of Media
+  Interaction}} {{The Routineness of Routines: Measuring Rhythms of Media
+  Interaction}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Human–Computer Interaction}{28}{4}{287--334}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.tandfonline.com/doi/abs/10.1080/07370024.2012.697026}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1080/07370024.2012.697026} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Thimbleby%
 }{%
 Thimbleby%
@@ -2226,6 +2351,45 @@ Thimbleby, H.%
   International Conference on Interfaces and Human Computer Interaction}
   {Proceedings of the iadis international conference on interfaces and human
   computer interaction}\ (\BPGS\ 1--9).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Trullemans%
+, Sanctorum%
+\BCBL {}\ \BBA {} Signer%
+}{%
+Trullemans%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Trullemans2016}
+\APACinsertmetastar {%
+Trullemans2016}%
+\begin{APACrefauthors}%
+Trullemans, S.%
+, Sanctorum, A.%
+\BCBL {}\ \BBA {} Signer, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{PimVis: Exploring and Re-finding Documents in
+  Cross-Media Information Spaces}} {{PimVis: Exploring and Re-finding Documents
+  in Cross-Media Information Spaces}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the International Working Conference on
+  Advanced Visual Interfaces - AVI '16} {Proceedings of the international
+  working conference on advanced visual interfaces - avi '16}\ (\BPGS\
+  176--183).
+\newblock
+\APACaddressPublisher{Bari, Italy}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.academia.edu/24295450/PimVis{\_}Exploring{\_}and{\_}Re-finding{\_}Documents{\_}in{\_}Cross-Media{\_}Information{\_}Spaces{\%}5Cnhttp://dl.acm.org/citation.cfm?doid=2909132.2909261}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2909132.2909261} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
