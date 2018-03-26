@@ -1,81 +1,82 @@
 \BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
-\BOOKMARK [0][-]{chapter*.3}{List of Tables}{}% 2
-\BOOKMARK [0][-]{chapter*.4}{List of Figures}{}% 3
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
-\BOOKMARK [1][-]{section.1.1}{Thesis outline}{chapter.1}% 5
-\BOOKMARK [0][-]{chapter.2}{Background}{}% 6
-\BOOKMARK [1][-]{section.2.1}{Disruptive environments}{chapter.2}% 7
-\BOOKMARK [2][-]{subsection.2.1.1}{Interruptions at the workplace}{section.2.1}% 8
-\BOOKMARK [2][-]{subsection.2.1.2}{Reducing interruptions: time focus applications}{section.2.1}% 9
-\BOOKMARK [2][-]{subsection.2.1.3}{Reducing information access costs: multiple and larger screens}{section.2.1}% 10
-\BOOKMARK [2][-]{subsection.2.1.4}{Managing information needs}{section.2.1}% 11
-\BOOKMARK [1][-]{section.2.2}{Data entry}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.2.1}{The perception stage}{section.2.2}% 13
-\BOOKMARK [2][-]{subsection.2.2.2}{The encoding stage}{section.2.2}% 14
-\BOOKMARK [2][-]{subsection.2.2.3}{The execution stage}{section.2.2}% 15
-\BOOKMARK [2][-]{subsection.2.2.4}{The checking stage}{section.2.2}% 16
-\BOOKMARK [1][-]{section.2.3}{Conclusion}{chapter.2}% 17
-\BOOKMARK [0][-]{chapter.3}{Data entry in an office setting}{}% 18
-\BOOKMARK [1][-]{section.3.1}{Study 1: Understanding data entry work in a financial office}{chapter.3}% 19
-\BOOKMARK [2][-]{subsection.3.1.1}{Introduction}{section.3.1}% 20
-\BOOKMARK [2][-]{subsection.3.1.2}{Method}{section.3.1}% 21
-\BOOKMARK [2][-]{subsection.3.1.3}{Results}{section.3.1}% 22
-\BOOKMARK [2][-]{subsection.3.1.4}{Discussion}{section.3.1}% 23
-\BOOKMARK [1][-]{section.3.2}{Study 2: Information sources for entering expenses}{chapter.3}% 24
-\BOOKMARK [2][-]{subsection.3.2.1}{Introduction}{section.3.2}% 25
-\BOOKMARK [2][-]{subsection.3.2.2}{Method}{section.3.2}% 26
-\BOOKMARK [2][-]{subsection.3.2.3}{Findings}{section.3.2}% 27
-\BOOKMARK [2][-]{subsection.3.2.4}{Discussion}{section.3.2}% 28
-\BOOKMARK [0][-]{chapter.4}{Understanding the effect of IAC on looking up information}{}% 29
-\BOOKMARK [1][-]{section.4.1}{Study 3: Copying numbers from one source}{chapter.4}% 30
-\BOOKMARK [2][-]{subsection.4.1.1}{Introduction}{section.4.1}% 31
-\BOOKMARK [2][-]{subsection.4.1.2}{Method}{section.4.1}% 32
-\BOOKMARK [2][-]{subsection.4.1.3}{Results}{section.4.1}% 33
-\BOOKMARK [2][-]{subsection.4.1.4}{Discussion}{section.4.1}% 34
-\BOOKMARK [1][-]{section.4.2}{Study 4: Copying data from multiple sources}{chapter.4}% 35
-\BOOKMARK [2][-]{subsection.4.2.1}{Introduction}{section.4.2}% 36
-\BOOKMARK [2][-]{subsection.4.2.2}{Method}{section.4.2}% 37
-\BOOKMARK [2][-]{subsection.4.2.3}{Results}{section.4.2}% 38
-\BOOKMARK [2][-]{subsection.4.2.4}{Discussion}{section.4.2}% 39
-\BOOKMARK [1][-]{section.4.3}{Study 5: Interleaving between data entry tasks}{chapter.4}% 40
-\BOOKMARK [2][-]{subsection.4.3.1}{Introduction}{section.4.3}% 41
-\BOOKMARK [2][-]{subsection.4.3.2}{Method}{section.4.3}% 42
-\BOOKMARK [2][-]{subsection.4.3.3}{Results}{section.4.3}% 43
-\BOOKMARK [2][-]{subsection.4.3.4}{Discussion}{section.4.3}% 44
-\BOOKMARK [2][-]{subsection.4.3.5}{Conclusion}{section.4.3}% 45
-\BOOKMARK [0][-]{chapter.5}{Design considerations}{}% 46
-\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 47
-\BOOKMARK [1][-]{section.5.2}{Related work}{chapter.5}% 48
-\BOOKMARK [2][-]{subsection.5.2.1}{Task and information management}{section.5.2}% 49
-\BOOKMARK [2][-]{subsection.5.2.2}{Information search}{section.5.2}% 50
-\BOOKMARK [2][-]{subsection.5.2.3}{Interruptions and delayed intentions}{section.5.2}% 51
-\BOOKMARK [2][-]{subsection.5.2.4}{Documents at hand}{section.5.2}% 52
-\BOOKMARK [2][-]{subsection.5.2.5}{Type of activity}{section.5.2}% 53
-\BOOKMARK [2][-]{subsection.5.2.6}{Time management applications}{section.5.2}% 54
-\BOOKMARK [2][-]{subsection.5.2.7}{Interruptions}{section.5.2}% 55
-\BOOKMARK [2][-]{subsection.5.2.8}{Summary}{section.5.2}% 56
-\BOOKMARK [1][-]{section.5.3}{DESIGN CONSIDERATIONS}{chapter.5}% 57
-\BOOKMARK [1][-]{section.5.4}{Design alternatives}{chapter.5}% 58
-\BOOKMARK [0][-]{chapter.6}{Evaluating a time notification on interruptions}{}% 59
-\BOOKMARK [1][-]{section.6.1}{Chapter introduction}{chapter.6}% 60
-\BOOKMARK [1][-]{section.6.2}{Study 6: Looking up information in email during an online experiment}{chapter.6}% 61
-\BOOKMARK [2][-]{subsection.6.2.1}{Introduction}{section.6.2}% 62
-\BOOKMARK [2][-]{subsection.6.2.2}{Method}{section.6.2}% 63
-\BOOKMARK [2][-]{subsection.6.2.3}{Results}{section.6.2}% 64
-\BOOKMARK [2][-]{subsection.6.2.4}{Discussion}{section.6.2}% 65
-\BOOKMARK [1][-]{section.6.3}{Study 7: Looking up information for expenses in an office setting}{chapter.6}% 66
-\BOOKMARK [2][-]{subsection.6.3.1}{Introduction}{section.6.3}% 67
-\BOOKMARK [2][-]{subsection.6.3.2}{Focus, a browser extension}{section.6.3}% 68
-\BOOKMARK [2][-]{subsection.6.3.3}{Method}{section.6.3}% 69
-\BOOKMARK [2][-]{subsection.6.3.4}{Findings}{section.6.3}% 70
-\BOOKMARK [2][-]{subsection.6.3.5}{Discussion}{section.6.3}% 71
-\BOOKMARK [2][-]{subsection.6.3.6}{Limitations}{section.6.3}% 72
-\BOOKMARK [2][-]{subsection.6.3.7}{Contributions}{section.6.3}% 73
-\BOOKMARK [0][-]{chapter.7}{General Discussion}{}% 74
-\BOOKMARK [1][-]{section.7.1}{Summary of findings}{chapter.7}% 75
-\BOOKMARK [1][-]{section.7.2}{Contributions}{chapter.7}% 76
-\BOOKMARK [1][-]{section.7.3}{Limitations and Future work}{chapter.7}% 77
-\BOOKMARK [0][-]{chapter*.130}{References}{}% 78
-\BOOKMARK [0][-]{Appendix.a.A}{Appendix Information sheet}{}% 79
-\BOOKMARK [0][-]{Appendix.a.B}{Appendix Consent form}{}% 80
-\BOOKMARK [0][-]{Appendix.a.C}{Appendix Interview script}{}% 81
+\BOOKMARK [0][-]{chapter*.2}{Impact statement}{}% 2
+\BOOKMARK [0][-]{chapter*.4}{List of Tables}{}% 3
+\BOOKMARK [0][-]{chapter*.5}{List of Figures}{}% 4
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 5
+\BOOKMARK [1][-]{section.1.1}{Thesis outline}{chapter.1}% 6
+\BOOKMARK [0][-]{chapter.2}{Background}{}% 7
+\BOOKMARK [1][-]{section.2.1}{Disruptive environments}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.1.1}{Interruptions at the workplace}{section.2.1}% 9
+\BOOKMARK [2][-]{subsection.2.1.2}{Reducing interruptions: time focus applications}{section.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.1.3}{Reducing information access costs: multiple and larger screens}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.4}{Managing information needs}{section.2.1}% 12
+\BOOKMARK [1][-]{section.2.2}{Data entry}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.2.1}{The perception stage}{section.2.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.2}{The encoding stage}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.3}{The execution stage}{section.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.2.4}{The checking stage}{section.2.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Conclusion}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{Data entry in an office setting}{}% 19
+\BOOKMARK [1][-]{section.3.1}{Study 1: Understanding data entry work in a financial office}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.1.1}{Introduction}{section.3.1}% 21
+\BOOKMARK [2][-]{subsection.3.1.2}{Method}{section.3.1}% 22
+\BOOKMARK [2][-]{subsection.3.1.3}{Results}{section.3.1}% 23
+\BOOKMARK [2][-]{subsection.3.1.4}{Discussion}{section.3.1}% 24
+\BOOKMARK [1][-]{section.3.2}{Study 2: Information sources for entering expenses}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.2.1}{Introduction}{section.3.2}% 26
+\BOOKMARK [2][-]{subsection.3.2.2}{Method}{section.3.2}% 27
+\BOOKMARK [2][-]{subsection.3.2.3}{Findings}{section.3.2}% 28
+\BOOKMARK [2][-]{subsection.3.2.4}{Discussion}{section.3.2}% 29
+\BOOKMARK [0][-]{chapter.4}{Understanding the effect of IAC on looking up information}{}% 30
+\BOOKMARK [1][-]{section.4.1}{Study 3: Copying numbers from one source}{chapter.4}% 31
+\BOOKMARK [2][-]{subsection.4.1.1}{Introduction}{section.4.1}% 32
+\BOOKMARK [2][-]{subsection.4.1.2}{Method}{section.4.1}% 33
+\BOOKMARK [2][-]{subsection.4.1.3}{Results}{section.4.1}% 34
+\BOOKMARK [2][-]{subsection.4.1.4}{Discussion}{section.4.1}% 35
+\BOOKMARK [1][-]{section.4.2}{Study 4: Copying data from multiple sources}{chapter.4}% 36
+\BOOKMARK [2][-]{subsection.4.2.1}{Introduction}{section.4.2}% 37
+\BOOKMARK [2][-]{subsection.4.2.2}{Method}{section.4.2}% 38
+\BOOKMARK [2][-]{subsection.4.2.3}{Results}{section.4.2}% 39
+\BOOKMARK [2][-]{subsection.4.2.4}{Discussion}{section.4.2}% 40
+\BOOKMARK [1][-]{section.4.3}{Study 5: Interleaving between data entry tasks}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.3.1}{Introduction}{section.4.3}% 42
+\BOOKMARK [2][-]{subsection.4.3.2}{Method}{section.4.3}% 43
+\BOOKMARK [2][-]{subsection.4.3.3}{Results}{section.4.3}% 44
+\BOOKMARK [2][-]{subsection.4.3.4}{Discussion}{section.4.3}% 45
+\BOOKMARK [2][-]{subsection.4.3.5}{Conclusion}{section.4.3}% 46
+\BOOKMARK [0][-]{chapter.5}{Design considerations}{}% 47
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 48
+\BOOKMARK [1][-]{section.5.2}{Related work}{chapter.5}% 49
+\BOOKMARK [2][-]{subsection.5.2.1}{Task and information management}{section.5.2}% 50
+\BOOKMARK [2][-]{subsection.5.2.2}{Information search}{section.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.2.3}{Interruptions and delayed intentions}{section.5.2}% 52
+\BOOKMARK [2][-]{subsection.5.2.4}{Documents at hand}{section.5.2}% 53
+\BOOKMARK [2][-]{subsection.5.2.5}{Type of activity}{section.5.2}% 54
+\BOOKMARK [2][-]{subsection.5.2.6}{Time management applications}{section.5.2}% 55
+\BOOKMARK [2][-]{subsection.5.2.7}{Interruptions}{section.5.2}% 56
+\BOOKMARK [2][-]{subsection.5.2.8}{Summary}{section.5.2}% 57
+\BOOKMARK [1][-]{section.5.3}{DESIGN CONSIDERATIONS}{chapter.5}% 58
+\BOOKMARK [1][-]{section.5.4}{Design alternatives}{chapter.5}% 59
+\BOOKMARK [0][-]{chapter.6}{Evaluating a time notification on interruptions}{}% 60
+\BOOKMARK [1][-]{section.6.1}{Chapter introduction}{chapter.6}% 61
+\BOOKMARK [1][-]{section.6.2}{Study 6: Looking up information in email during an online experiment}{chapter.6}% 62
+\BOOKMARK [2][-]{subsection.6.2.1}{Introduction}{section.6.2}% 63
+\BOOKMARK [2][-]{subsection.6.2.2}{Method}{section.6.2}% 64
+\BOOKMARK [2][-]{subsection.6.2.3}{Results}{section.6.2}% 65
+\BOOKMARK [2][-]{subsection.6.2.4}{Discussion}{section.6.2}% 66
+\BOOKMARK [1][-]{section.6.3}{Study 7: Looking up information for expenses in an office setting}{chapter.6}% 67
+\BOOKMARK [2][-]{subsection.6.3.1}{Introduction}{section.6.3}% 68
+\BOOKMARK [2][-]{subsection.6.3.2}{Focus, a browser extension}{section.6.3}% 69
+\BOOKMARK [2][-]{subsection.6.3.3}{Method}{section.6.3}% 70
+\BOOKMARK [2][-]{subsection.6.3.4}{Findings}{section.6.3}% 71
+\BOOKMARK [2][-]{subsection.6.3.5}{Discussion}{section.6.3}% 72
+\BOOKMARK [2][-]{subsection.6.3.6}{Limitations}{section.6.3}% 73
+\BOOKMARK [2][-]{subsection.6.3.7}{Contributions}{section.6.3}% 74
+\BOOKMARK [0][-]{chapter.7}{General Discussion}{}% 75
+\BOOKMARK [1][-]{section.7.1}{Summary of findings}{chapter.7}% 76
+\BOOKMARK [1][-]{section.7.2}{Contributions}{chapter.7}% 77
+\BOOKMARK [1][-]{section.7.3}{Limitations and Future work}{chapter.7}% 78
+\BOOKMARK [0][-]{chapter*.129}{References}{}% 79
+\BOOKMARK [0][-]{Appendix.a.A}{Appendix Information sheet}{}% 80
+\BOOKMARK [0][-]{Appendix.a.B}{Appendix Consent form}{}% 81
+\BOOKMARK [0][-]{Appendix.a.C}{Appendix Interview script}{}% 82

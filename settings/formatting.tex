@@ -3,7 +3,8 @@
 \setlength{\parindent}{0cm} %No indentation
 %\doublespacing %Double spacing between lines
 \setcounter{secnumdepth}{2} %Adds section numbering to subsub sections (default is 2)
-\allsectionsfont{\sffamily} %Turns headers into sans-serif font
+%\allsectionsfont{\sffamily} %Turns headers into sans-serif font
+\chapterfont{\sc\centering} %Controls chapter formatting
 \interfootnotelinepenalty=10000 %Footers can't be split between pages
 
 %Page headers with a chapter name and page numbers
@@ -38,16 +39,18 @@
 %Create a new element - the chapter summary box
 \newmdenv[
 %shadow=true,
-%leftline=false,
-%rightline=false,
+leftline=false,
+rightline=false,
 linewidth=1pt,
-backgroundcolor=blue!10,
-font={\fontfamily{cmss}\selectfont},
+%backgroundcolor=blue!10,
+font={\fontfamily{lmss}\selectfont},
+%font={\itshape},
 %\setmainfont{Gill Sans MT},
 innertopmargin=10pt,
 innerbottommargin=20pt,
 innerrightmargin=20pt,
 ]{mynote}
+
 
 %\newmdenv[
 %shadow=true,
