@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  26 MAR 2018 15:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  7 APR 2018 20:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1663,7 +1663,7 @@ LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 58.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-<images/logo.pdf, id=372, 1725.24554pt x 81.46432pt>
+<images/logo.pdf, id=376, 1725.24554pt x 81.46432pt>
 File: images/logo.pdf Graphic file (type pdf)
  <use images/logo.pdf>
 Package pdftex.def Info: images/logo.pdf used on input line 103.
@@ -1764,15 +1764,10 @@ l.17 T
 
 
 
-])
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 9.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmss.fd
-File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [2]
+]) [2]
 \openout2 = `./tex/impact.aux'.
 
-
-(./tex/impact.tex) [3
+ (./tex/impact.tex) [3
 
 
 
@@ -1782,9 +1777,14 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 No file acknowledgements.tex.
 (./master.toc
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 1.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
- [4
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 2.
+
+[4
 
 
 
@@ -1808,15 +1808,16 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
  [8]
 \openout2 = `./tex/introduction.aux'.
 
-
-(./tex/introduction.tex
+ (./tex/introduction.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 4.
 [9
 
 
-] <images/ThesisOverview.pdf, id=661, 597.50829pt x 845.0471pt>
+] <images/ThesisOverview.pdf, id=666, 597.50829pt x 845.0471pt>
 File: images/ThesisOverview.pdf Graphic file (type pdf)
 
 <use images/ThesisOverview.pdf>
@@ -1856,7 +1857,7 @@ t line 21.
 Package natbib Warning: Citation `Cangiano2009' on page 14 undefined on input l
 ine 37.
 
-[14] <images/background/HIP.pdf, id=794, 487.8225pt x 137.51375pt>
+[14] <images/background/HIP.pdf, id=800, 487.8225pt x 137.51375pt>
 File: images/background/HIP.pdf Graphic file (type pdf)
 
 <use images/background/HIP.pdf>
@@ -1900,7 +1901,7 @@ ine 162.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 169.
 
-<images/background/numberpad.pdf, id=960, 156.585pt x 109.40875pt>
+<images/background/numberpad.pdf, id=966, 156.585pt x 109.40875pt>
 File: images/background/numberpad.pdf Graphic file (type pdf)
 
 <use images/background/numberpad.pdf>
@@ -1908,7 +1909,7 @@ Package pdftex.def Info: images/background/numberpad.pdf used on input line 173
 .
 (pdftex.def)             Requested size: 125.26816pt x 87.5271pt.
 
-<images/background/incremental.pdf, id=961, 204.765pt x 43.16125pt>
+<images/background/incremental.pdf, id=967, 204.765pt x 43.16125pt>
 File: images/background/incremental.pdf Graphic file (type pdf)
 
 <use images/background/incremental.pdf>
@@ -1937,7 +1938,7 @@ e 221.
 Chapter 3.
 
 Package natbib Warning: Citation `Payne2013' on page 26 undefined on input line
- 15.
+ 17.
 
 [26
 
@@ -1946,183 +1947,183 @@ Package natbib Warning: Citation `Payne2013' on page 26 undefined on input line
 ]
 
 LaTeX Warning: Reference `table:ch3_participants' on page 27 undefined on input
- line 25.
+ line 27.
 
-<images/ch12/Study1-Table1.pdf, id=1090, 540.18254pt x 268.31964pt>
+<images/ch12/Study1-Table1.pdf, id=1096, 540.18254pt x 268.31964pt>
 File: images/ch12/Study1-Table1.pdf Graphic file (type pdf)
 
 <use images/ch12/Study1-Table1.pdf>
-Package pdftex.def Info: images/ch12/Study1-Table1.pdf used on input line 30.
+Package pdftex.def Info: images/ch12/Study1-Table1.pdf used on input line 32.
 (pdftex.def)             Requested size: 376.42575pt x 186.98314pt.
  Excluding 'comment' comment. [27 <./images/ch12/Study1-Table1.pdf>] [28] [29]
-Underfull \hbox (badness 3179) in paragraph at lines 126--126
+Underfull \hbox (badness 3179) in paragraph at lines 128--128
 []|\T1/ppl/m/n/10 People de-scribed sit-u-a-tions where er-rors were
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 126--126
+Underfull \hbox (badness 1803) in paragraph at lines 128--128
 []|\T1/ppl/m/n/10 Importance of ac-
  []
 
 
-Underfull \hbox (badness 2073) in paragraph at lines 126--126
+Underfull \hbox (badness 2073) in paragraph at lines 128--128
 \T1/ppl/m/n/10 cu-racy and pa-per
  []
 
-[30] [31] <images/ch12/Task.pdf, id=1148, 630.5946pt x 364.30765pt>
+[30] [31] <images/ch12/Task.pdf, id=1154, 630.5946pt x 364.30765pt>
 File: images/ch12/Task.pdf Graphic file (type pdf)
 
 <use images/ch12/Task.pdf>
-Package pdftex.def Info: images/ch12/Task.pdf used on input line 138.
+Package pdftex.def Info: images/ch12/Task.pdf used on input line 140.
 (pdftex.def)             Requested size: 418.25368pt x 241.6445pt.
  [32 <./images/ch12/Task.pdf>]
-<images/ch12/Checking.pdf, id=1175, 555.64105pt x 280.76634pt>
+<images/ch12/Checking.pdf, id=1181, 555.64105pt x 280.76634pt>
 File: images/ch12/Checking.pdf Graphic file (type pdf)
 
 <use images/ch12/Checking.pdf>
-Package pdftex.def Info: images/ch12/Checking.pdf used on input line 156.
+Package pdftex.def Info: images/ch12/Checking.pdf used on input line 158.
 (pdftex.def)             Requested size: 418.25368pt x 211.34967pt.
  [33 <./images/ch12/Checking.pdf>] [34]
-<images/ch12/System.pdf, id=1205, 511.85338pt x 311.77339pt>
+<images/ch12/System.pdf, id=1211, 511.85338pt x 311.77339pt>
 File: images/ch12/System.pdf Graphic file (type pdf)
 
 <use images/ch12/System.pdf>
-Package pdftex.def Info: images/ch12/System.pdf used on input line 217.
+Package pdftex.def Info: images/ch12/System.pdf used on input line 219.
 (pdftex.def)             Requested size: 418.25368pt x 254.76144pt.
  [35
 
  <./images/ch12/System.pdf>]
-<images/ch12/Environment.pdf, id=1231, 563.01633pt x 369.42365pt>
+<images/ch12/Environment.pdf, id=1237, 563.01633pt x 369.42365pt>
 File: images/ch12/Environment.pdf Graphic file (type pdf)
 
 <use images/ch12/Environment.pdf>
-Package pdftex.def Info: images/ch12/Environment.pdf used on input line 231.
+Package pdftex.def Info: images/ch12/Environment.pdf used on input line 233.
 (pdftex.def)             Requested size: 418.25368pt x 274.44023pt.
  [36
 
  <./images/ch12/Environment.pdf>]
-<images/ch12/Data.pdf, id=1258, 557.38672pt x 318.58151pt>
+<images/ch12/Data.pdf, id=1264, 557.38672pt x 318.58151pt>
 File: images/ch12/Data.pdf Graphic file (type pdf)
 
 <use images/ch12/Data.pdf>
-Package pdftex.def Info: images/ch12/Data.pdf used on input line 249.
+Package pdftex.def Info: images/ch12/Data.pdf used on input line 251.
 (pdftex.def)             Requested size: 418.25368pt x 239.06192pt.
  [37 <./images/ch12/Data.pdf>]
-<images/ch12/Errors.pdf, id=1285, 560.15346pt x 328.62674pt>
+<images/ch12/Errors.pdf, id=1291, 560.15346pt x 328.62674pt>
 File: images/ch12/Errors.pdf Graphic file (type pdf)
 
 <use images/ch12/Errors.pdf>
-Package pdftex.def Info: images/ch12/Errors.pdf used on input line 266.
+Package pdftex.def Info: images/ch12/Errors.pdf used on input line 268.
 (pdftex.def)             Requested size: 418.25368pt x 245.38632pt.
  [38
 
  <./images/ch12/Errors.pdf>] [39]
-<images/ch12/Strategy.pdf, id=1315, 510.12323pt x 260.26866pt>
+<images/ch12/Strategy.pdf, id=1321, 510.12323pt x 260.26866pt>
 File: images/ch12/Strategy.pdf Graphic file (type pdf)
 
 <use images/ch12/Strategy.pdf>
-Package pdftex.def Info: images/ch12/Strategy.pdf used on input line 339.
+Package pdftex.def Info: images/ch12/Strategy.pdf used on input line 341.
 (pdftex.def)             Requested size: 418.25368pt x 213.40579pt.
  [40
 
  <./images/ch12/Strategy.pdf>] [41]
-<images/ch12/Papertrail.pdf, id=1346, 532.64217pt x 358.62852pt>
+<images/ch12/Papertrail.pdf, id=1352, 532.64217pt x 358.62852pt>
 File: images/ch12/Papertrail.pdf Graphic file (type pdf)
 
 <use images/ch12/Papertrail.pdf>
-Package pdftex.def Info: images/ch12/Papertrail.pdf used on input line 389.
+Package pdftex.def Info: images/ch12/Papertrail.pdf used on input line 391.
 (pdftex.def)             Requested size: 418.25368pt x 281.61705pt.
  [42
 
  <./images/ch12/Papertrail.pdf>]
-<images/ch12/Other.pdf, id=1373, 532.81671pt x 224.84pt>
+<images/ch12/Other.pdf, id=1379, 532.81671pt x 224.84pt>
 File: images/ch12/Other.pdf Graphic file (type pdf)
 
 <use images/ch12/Other.pdf>
-Package pdftex.def Info: images/ch12/Other.pdf used on input line 405.
+Package pdftex.def Info: images/ch12/Other.pdf used on input line 407.
 (pdftex.def)             Requested size: 418.25368pt x 176.49635pt.
  [43 <./images/ch12/Other.pdf>]
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 433.
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 435.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
-Overfull \hbox (0.83255pt too wide) in paragraph at lines 437--438
+Overfull \hbox (0.83255pt too wide) in paragraph at lines 439--440
 []\T1/ppl/m/n/10 data en-try er-rors are com-mon, and the cur-rent so-lu-tion i
 s to have data en-tered and checked
  []
 
 
 Package natbib Warning: Citation `Wiseman2014' on page 44 undefined on input li
-ne 446.
+ne 448.
 
 
 Package natbib Warning: Citation `Soboczenski2013' on page 44 undefined on inpu
-t line 448.
+t line 450.
 
 [44]
 
 Package natbib Warning: Citation `Reason1990' on page 45 undefined on input lin
-e 461.
+e 463.
 
 
 Package natbib Warning: Citation `Reason1990' on page 45 undefined on input lin
-e 461.
+e 463.
 
 [45] [46] (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 
 Package natbib Warning: Citation `Onwuegbuzie2008' on page 47 undefined on inpu
-t line 514.
+t line 516.
 
 [47] [48]
 
 Package natbib Warning: Citation `Cangiano2009' on page 49 undefined on input l
-ine 572.
+ine 574.
 
-[49] <images/ch12/ch12_physmodroom.pdf, id=1499, 518.93875pt x 614.295pt>
+[49] <images/ch12/ch12_physmodroom.pdf, id=1505, 518.93875pt x 614.295pt>
 File: images/ch12/ch12_physmodroom.pdf Graphic file (type pdf)
 
 <use images/ch12/ch12_physmodroom.pdf>
 Package pdftex.def Info: images/ch12/ch12_physmodroom.pdf used on input line 63
-0.
+2.
 (pdftex.def)             Requested size: 125.47737pt x 148.53049pt.
 
-<images/ch12/ch12_physmoddesk.pdf, id=1500, 429.605pt x 223.0707pt>
+<images/ch12/ch12_physmoddesk.pdf, id=1506, 429.605pt x 223.0707pt>
 File: images/ch12/ch12_physmoddesk.pdf Graphic file (type pdf)
 
 <use images/ch12/ch12_physmoddesk.pdf>
-Package pdftex.def Info: images/ch12/ch12_physmoddesk.pdf used on input line 63
-8.
+Package pdftex.def Info: images/ch12/ch12_physmoddesk.pdf used on input line 64
+0.
 (pdftex.def)             Requested size: 125.47737pt x 65.15175pt.
  [50 <./images/ch12/ch12_physmodroom.pdf> <./images/ch12/ch12_physmoddesk.pdf>]
  [51] [52]
-Underfull \hbox (badness 10000) in paragraph at lines 726--729
+Underfull \hbox (badness 10000) in paragraph at lines 728--731
 
  []
 
 
 LaTeX Warning: Reference `table:ch12_infsources' on page 53 undefined on input 
-line 738.
+line 740.
 
-[53] <images/ch12/ch12_infmodel.pdf, id=1553, 370.38374pt x 356.33125pt>
+[53] <images/ch12/ch12_infmodel.pdf, id=1559, 370.38374pt x 356.33125pt>
 File: images/ch12/ch12_infmodel.pdf Graphic file (type pdf)
 
 <use images/ch12/ch12_infmodel.pdf>
-Package pdftex.def Info: images/ch12/ch12_infmodel.pdf used on input line 769.
+Package pdftex.def Info: images/ch12/ch12_infmodel.pdf used on input line 771.
 (pdftex.def)             Requested size: 125.47737pt x 120.71603pt.
  [54 <./images/ch12/ch12_infmodel.pdf>]
 [55]
 
 Package natbib Warning: Citation `Gurdin2001' on page 56 undefined on input lin
-e 813.
+e 815.
 
 [56] [57]
 
 Package natbib Warning: Citation `Dearman' on page 58 undefined on input line 8
-59.
+61.
 
 [58]) [59]
 \openout2 = `./tex/ch34.aux'.
@@ -2147,14 +2148,14 @@ t line 27.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 69.
 
-<images/ch34/ch4_numbers.png, id=1668, 1908.12875pt x 1034.86626pt>
+<images/ch34/ch4_numbers.png, id=1674, 1908.12875pt x 1034.86626pt>
 File: images/ch34/ch4_numbers.png Graphic file (type png)
 
 <use images/ch34/ch4_numbers.png>
 Package pdftex.def Info: images/ch34/ch4_numbers.png used on input line 73.
 (pdftex.def)             Requested size: 438.86038pt x 238.01422pt.
 
-<images/ch34/ch4_colours.png, id=1670, 1910.13625pt x 1033.8625pt>
+<images/ch34/ch4_colours.png, id=1676, 1910.13625pt x 1033.8625pt>
 File: images/ch34/ch4_colours.png Graphic file (type png)
 
 <use images/ch34/ch4_colours.png>
@@ -2167,7 +2168,7 @@ Overfull \hbox (2.9416pt too wide) in paragraph at lines 118--155
  []
 
 [65]
-<images/ch34/ch4_noVisits-bargraph.pdf, id=1706, 401.07188pt x 343.1461pt>
+<images/ch34/ch4_noVisits-bargraph.pdf, id=1712, 401.07188pt x 343.1461pt>
 File: images/ch34/ch4_noVisits-bargraph.pdf Graphic file (type pdf)
 
 <use images/ch34/ch4_noVisits-bargraph.pdf>
@@ -2175,7 +2176,7 @@ Package pdftex.def Info: images/ch34/ch4_noVisits-bargraph.pdf used on input li
 ne 163.
 (pdftex.def)             Requested size: 418.25368pt x 357.85313pt.
  [66]
-<images/ch34/ch4_firstVisitDuration-bargraph.pdf, id=1717, 401.42302pt x 342.22
+<images/ch34/ch4_firstVisitDuration-bargraph.pdf, id=1723, 401.42302pt x 342.22
 766pt>
 File: images/ch34/ch4_firstVisitDuration-bargraph.pdf Graphic file (type pdf)
  <use images/ch34/ch4_firstVisitDuration-bargraph.pdf>
@@ -2183,7 +2184,7 @@ Package pdftex.def Info: images/ch34/ch4_firstVisitDuration-bargraph.pdf used o
 n input line 174.
 (pdftex.def)             Requested size: 418.25368pt x 356.58722pt.
  [67 <./images/ch34/ch4_noVisits-bargraph.pdf>]
-<images/ch34/ch4_firstCorrectBlocks-bargraph.pdf, id=1748, 400.97583pt x 341.57
+<images/ch34/ch4_firstCorrectBlocks-bargraph.pdf, id=1754, 400.97583pt x 341.57
 341pt>
 File: images/ch34/ch4_firstCorrectBlocks-bargraph.pdf Graphic file (type pdf)
  <use images/ch34/ch4_firstCorrectBlocks-bargraph.pdf>
@@ -2192,7 +2193,7 @@ n input line 185.
 (pdftex.def)             Requested size: 418.25368pt x 356.29642pt.
  [68 <./images/ch34/ch4_firstVisitDuration-bargraph.pdf>] [69 <./images/ch34/ch
 4_firstCorrectBlocks-bargraph.pdf>]
-<images/ch34/ch4_placeholders.pdf, id=1803, 534.99875pt x 547.04375pt>
+<images/ch34/ch4_placeholders.pdf, id=1809, 534.99875pt x 547.04375pt>
 File: images/ch34/ch4_placeholders.pdf Graphic file (type pdf)
 
 <use images/ch34/ch4_placeholders.pdf>
@@ -2222,7 +2223,7 @@ t line 253.
 Package natbib Warning: Citation `Cangiano2009' on page 74 undefined on input l
 ine 288.
 
-[74] <images/ch34/ch34-4_Tasksequence.pdf, id=1881, 3689.785pt x 1655.18375pt>
+[74] <images/ch34/ch34-4_Tasksequence.pdf, id=1887, 3689.785pt x 1655.18375pt>
 File: images/ch34/ch34-4_Tasksequence.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-4_Tasksequence.pdf>
@@ -2230,21 +2231,21 @@ Package pdftex.def Info: images/ch34/ch34-4_Tasksequence.pdf used on input line
  336.
 (pdftex.def)             Requested size: 418.25368pt x 187.60184pt.
  [75] [76 <./images/ch34/ch34-4_Tasksequence.pdf>] [77]
-<images/ch34/ch34-means.pdf, id=1915, 535.18849pt x 185.9502pt>
+<images/ch34/ch34-means.pdf, id=1921, 535.18849pt x 185.9502pt>
 File: images/ch34/ch34-means.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-means.pdf>
 Package pdftex.def Info: images/ch34/ch34-means.pdf used on input line 371.
 (pdftex.def)             Requested size: 418.25368pt x 145.32713pt.
 
-<images/ch34/ch4_4-boxplot.pdf, id=1917, 433.62pt x 289.08pt>
+<images/ch34/ch4_4-boxplot.pdf, id=1923, 433.62pt x 289.08pt>
 File: images/ch34/ch4_4-boxplot.pdf Graphic file (type pdf)
 
 <use images/ch34/ch4_4-boxplot.pdf>
 Package pdftex.def Info: images/ch34/ch4_4-boxplot.pdf used on input line 382.
 (pdftex.def)             Requested size: 250.95476pt x 167.30481pt.
 
-<images/ch34/ch34-4_linechart.pdf, id=1918, 433.62pt x 289.08pt>
+<images/ch34/ch34-4_linechart.pdf, id=1924, 433.62pt x 289.08pt>
 File: images/ch34/ch34-4_linechart.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-4_linechart.pdf>
@@ -2253,7 +2254,7 @@ Package pdftex.def Info: images/ch34/ch34-4_linechart.pdf used on input line 38
 (pdftex.def)             Requested size: 418.25368pt x 278.85017pt.
  [78 <./images/ch34/ch34-means.pdf>]
 [79 <./images/ch34/ch4_4-boxplot.pdf> <./images/ch34/ch34-4_linechart.pdf>]
-<images/ch34/ch34-4_plotControl(1).png, id=1958, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotControl(1).png, id=1964, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotControl(1).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotControl(1).png>
@@ -2261,7 +2262,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotControl(1).png used on input li
 ne 404.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotControl(2).png, id=1959, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotControl(2).png, id=1965, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotControl(2).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotControl(2).png>
@@ -2269,7 +2270,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotControl(2).png used on input li
 ne 405.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Am(1).png, id=1960, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Am(1).png, id=1966, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Am(1).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Am(1).png>
@@ -2277,7 +2278,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotHigh-Am(1).png used on input li
 ne 411.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Am(2).png, id=1961, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Am(2).png, id=1967, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Am(2).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Am(2).png>
@@ -2285,7 +2286,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotHigh-Am(2).png used on input li
 ne 412.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Acc(1).png, id=1962, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Acc(1).png, id=1968, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Acc(1).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Acc(1).png>
@@ -2293,7 +2294,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotHigh-Acc(1).png used on input l
 ine 416.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Acc(2).png, id=1963, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Acc(2).png, id=1969, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Acc(2).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Acc(2).png>
@@ -2304,7 +2305,7 @@ ine 417.
 
 LaTeX Warning: Float too large for page by 224.36736pt on input line 423.
 
-<images/ch34/ch34_4-groupstr.png, id=1966, 389.7762pt x 353.6412pt>
+<images/ch34/ch34_4-groupstr.png, id=1972, 389.7762pt x 353.6412pt>
 File: images/ch34/ch34_4-groupstr.png Graphic file (type png)
 
 <use images/ch34/ch34_4-groupstr.png>
@@ -2331,7 +2332,7 @@ Package natbib Warning: Citation `Morgan2014' on page 83 undefined on input lin
 e 497.
 
 [83] [84]
-<images/ch34/ch34-5_Tasksequence.pdf, id=2011, 3848.3775pt x 2498.33376pt>
+<images/ch34/ch34-5_Tasksequence.pdf, id=2017, 3848.3775pt x 2498.33376pt>
 File: images/ch34/ch34-5_Tasksequence.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-5_Tasksequence.pdf>
@@ -2339,7 +2340,7 @@ Package pdftex.def Info: images/ch34/ch34-5_Tasksequence.pdf used on input line
  527.
 (pdftex.def)             Requested size: 418.25368pt x 271.50099pt.
  [85 <./images/ch34/ch34-5_Tasksequence.pdf>] <images/ch34/ch34_5-means.pdf, id
-=2030, 540.12128pt x 184.03796pt>
+=2036, 540.12128pt x 184.03796pt>
 File: images/ch34/ch34_5-means.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34_5-means.pdf>
@@ -2371,7 +2372,7 @@ Chapter 6.
 
 
 ] Excluding 'comment' comment. [96]
-<images/ch56/ch56-taskinterface.pdf, id=2121, 1977.1145pt x 584.89163pt>
+<images/ch56/ch56-taskinterface.pdf, id=2127, 1977.1145pt x 584.89163pt>
 File: images/ch56/ch56-taskinterface.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-taskinterface.pdf>
@@ -2383,7 +2384,7 @@ Package pdftex.def Info: images/ch56/ch56-taskinterface.pdf used on input line
 LaTeX Warning: Reference `fig:ch56-tblswitches' on page 98 undefined on input l
 ine 91.
 
-<images/ch56/ch56-histswitches.pdf, id=2160, 433.62pt x 289.08pt>
+<images/ch56/ch56-histswitches.pdf, id=2166, 433.62pt x 289.08pt>
 File: images/ch56/ch56-histswitches.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-histswitches.pdf>
@@ -2391,7 +2392,7 @@ Package pdftex.def Info: images/ch56/ch56-histswitches.pdf used on input line 9
 5.
 (pdftex.def)             Requested size: 418.25368pt x 278.85017pt.
 
-<images/ch56/ch56-longswitches.pdf, id=2161, 430.19896pt x 171.94589pt>
+<images/ch56/ch56-longswitches.pdf, id=2167, 430.19896pt x 171.94589pt>
 File: images/ch56/ch56-longswitches.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-longswitches.pdf>
@@ -2399,7 +2400,7 @@ Package pdftex.def Info: images/ch56/ch56-longswitches.pdf used on input line 1
 04.
 (pdftex.def)             Requested size: 292.77629pt x 117.02135pt.
 
-<images/ch56/ch56-descstats.pdf, id=2162, 526.1828pt x 93.91628pt>
+<images/ch56/ch56-descstats.pdf, id=2168, 526.1828pt x 93.91628pt>
 File: images/ch56/ch56-descstats.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-descstats.pdf>
@@ -2408,7 +2409,7 @@ Package pdftex.def Info: images/ch56/ch56-descstats.pdf used on input line 116.
 (pdftex.def)             Requested size: 376.42575pt x 67.18974pt.
  [98] [99 <./images/ch56/ch56-histswitches.pdf> <./images/ch56/ch56-longswitche
 s.pdf>]
-<images/ch56/ch56-boxplot.pdf, id=2216, 254.81238pt x 367.46368pt>
+<images/ch56/ch56-boxplot.pdf, id=2222, 254.81238pt x 367.46368pt>
 File: images/ch56/ch56-boxplot.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-boxplot.pdf>
@@ -2419,14 +2420,14 @@ Package pdftex.def Info: images/ch56/ch56-boxplot.pdf used on input line 123.
 LaTeX Warning: Reference `fig:ch56-tblswitches' on page 100 undefined on input 
 line 132.
 
-<images/ch56/ch56-histikis.pdf, id=2218, 433.62pt x 289.08pt>
+<images/ch56/ch56-histikis.pdf, id=2224, 433.62pt x 289.08pt>
 File: images/ch56/ch56-histikis.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-histikis.pdf>
 Package pdftex.def Info: images/ch56/ch56-histikis.pdf used on input line 136.
 (pdftex.def)             Requested size: 418.25368pt x 278.85017pt.
 
-<images/ch56/ch56-longIKIs.pdf, id=2219, 430.19893pt x 171.94589pt>
+<images/ch56/ch56-longIKIs.pdf, id=2225, 430.19893pt x 171.94589pt>
 File: images/ch56/ch56-longIKIs.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-longIKIs.pdf>
@@ -2603,7 +2604,7 @@ eved
 
  (./tex/appendix/appendix.tex
 Appendix A.
-<images/Informationsheet.pdf, id=2481, 597.23125pt x 844.15375pt>
+<images/Informationsheet.pdf, id=2487, 597.23125pt x 844.15375pt>
 File: images/Informationsheet.pdf Graphic file (type pdf)
 
 <use images/Informationsheet.pdf>
@@ -2614,7 +2615,7 @@ Package pdftex.def Info: images/Informationsheet.pdf used on input line 6.
 
 ] [116 <./images/Informationsheet.pdf>]
 Appendix B.
-<images/Consentform.pdf, id=2521, 597.23125pt x 844.15375pt>
+<images/Consentform.pdf, id=2527, 597.23125pt x 844.15375pt>
 File: images/Consentform.pdf Graphic file (type pdf)
 
 <use images/Consentform.pdf>
@@ -2639,9 +2640,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
 (./tex/finaldiscussion.aux) (./tex/appendix/appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
-Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: E1F922434A6643369A25111A84412D61;5648.
 
+
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master.out':
+(rerunfilecheck)             Before: 21A54F9F09B6AE1A533C949767E7FEDF;5691
+(rerunfilecheck)             After:  E1F922434A6643369A25111A84412D61;5648.
 
 LaTeX Warning: There were undefined references.
 
@@ -2650,32 +2657,35 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 38889 strings out of 493014
- 769885 string characters out of 6133351
- 848865 words of memory out of 5000000
- 41067 multiletter control sequences out of 15000+600000
- 94612 words of font info for 110 fonts, out of 8000000 for 9000
+ 38896 strings out of 493014
+ 769999 string characters out of 6133351
+ 848868 words of memory out of 5000000
+ 41073 multiletter control sequences out of 15000+600000
+ 103919 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,15n,103p,10587b,895s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/t
-exmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2016/texmf-dist/
-fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/
-dvips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmm
-i10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/lm/lmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw
-/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palati
-no/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr
-i8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmia-r
-eg.pfb>
-Output written on master.pdf (122 pages, 2787962 bytes).
+ 67i,15n,103p,10587b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{subsection.0.0.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
+xlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/tex
+mf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2016/texmf-dist/fo
+nts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dv
+ips/base/8r.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi1
+0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/lm/lmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/u
+plb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmia-reg.pfb>
+Output written on master.pdf (122 pages, 2827192 bytes).
 PDF statistics:
- 2733 PDF objects out of 2984 (max. 8388607)
- 2348 compressed objects within 24 object streams
- 492 named destinations out of 1000 (max. 500000)
- 1043 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2743 PDF objects out of 2984 (max. 8388607)
+ 2357 compressed objects within 24 object streams
+ 493 named destinations out of 1000 (max. 500000)
+ 1051 words of extra memory for PDF output out of 10000 (max. 10000000)
 
