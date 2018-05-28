@@ -254,6 +254,40 @@ Bi, X.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bondarenko%
+\ \BBA {} Janssen%
+}{%
+Bondarenko%
+\ \BBA {} Janssen%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+Bondarenko2005}
+\APACinsertmetastar {%
+Bondarenko2005}%
+\begin{APACrefauthors}%
+Bondarenko, O.%
+\BCBT {}\ \BBA {} Janssen, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Documents at hand: Learning from paper to improve
+  digital technologies}} {{Documents at hand: Learning from paper to improve
+  digital technologies}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems (CHI '05)} {Proceedings of the sigchi conference on human
+  factors in computing systems (chi '05)}\ (\BPGS\ 121--130).
+\newblock
+\begin{APACrefURL} \url{http://portal.acm.org/citation.cfm?id=1054990}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1.1.137.7259} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Braun%
 \ \BBA {} Clarke%
 }{%
@@ -690,6 +724,41 @@ Gong, Y.%
 \BIn{} \APACrefbtitle {Human Interface and the Management of Information.
   Information and Interaction} {Human interface and the management of
   information. information and interaction}\ (\BPGS\ 503--512).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gonzalez%
+\ \BBA {} Mark%
+}{%
+Gonzalez%
+\ \BBA {} Mark%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Gonzalez2004}
+\APACinsertmetastar {%
+Gonzalez2004}%
+\begin{APACrefauthors}%
+Gonzalez, V\BPBI M.%
+\BCBT {}\ \BBA {} Mark, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{"Constant, Constant, Multi-tasking Craziness": Managing
+  Multiple Working Spheres}} {{"Constant, Constant, Multi-tasking Craziness":
+  Managing Multiple Working Spheres}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems (CHI '04)} {Proceedings of the sigchi conference on human
+  factors in computing systems (chi '04)}\ (\BPGS\ 113--120).
+\newblock
+\APACaddressPublisher{Vienna, Austria}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/990000/985707/p113-gonzalez.pdf?key1=985707{\&}key2=9709385111{\&}coll=GUIDE{\&}dl=GUIDE{\&}CFID=44938518{\&}CFTOKEN=14011566}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1186,6 +1255,40 @@ Kawado, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Kim%
+, Cho%
+\BCBL {}\ \BBA {} Lee%
+}{%
+Kim%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Kim2017}
+\APACinsertmetastar {%
+Kim2017}%
+\begin{APACrefauthors}%
+Kim, J.%
+, Cho, K\BPBI C.%
+\BCBL {}\ \BBA {} Lee, K\BPBI U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Technology Supported Behavior Restriction for
+  Mitigating Self-Interruptions in Multi-device Environments}} {{Technology
+  Supported Behavior Restriction for Mitigating Self-Interruptions in
+  Multi-device Environments}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proc. ACM Interact. Mob. Wearable Ubiquitous
+  Technol}{1}{21}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1145/3130932} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3130932} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Koppel%
 , Wetterneck%
 , Telles%
@@ -1220,12 +1323,12 @@ Koppel, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Li%
+S\BPBI Y\BPBI W.~Li%
 , Blandford%
 , Cairns%
 \BCBL {}\ \BBA {} Young%
 }{%
-Li%
+S\BPBI Y\BPBI W.~Li%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2008}}%
 }]{%
@@ -1254,9 +1357,9 @@ Li, S\BPBI Y\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Li%
+S\BPBI Y\BPBI W.~Li%
 \ \protect \BOthers {.}}{%
-Li%
+S\BPBI Y\BPBI W.~Li%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2006}}%
 }]{%
@@ -1287,33 +1390,31 @@ Li, S\BPBI Y\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Li%
-, Cox%
-, Or%
-\BCBL {}\ \BBA {} Blandford%
+Y.~Li%
+, Oladimeji%
+\BCBL {}\ \BBA {} Thimbleby%
 }{%
-Li%
+Y.~Li%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2015}}%
 }]{%
 Li2015}
 \APACinsertmetastar {%
 Li2015}%
 \begin{APACrefauthors}%
-Li, S\BPBI Y\BPBI W.%
-, Cox, A\BPBI L.%
-, Or, C.%
-\BCBL {}\ \BBA {} Blandford, A.%
+Li, Y.%
+, Oladimeji, P.%
+\BCBL {}\ \BBA {} Thimbleby, H.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\APACrefYearMonthDay{2015}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Dime and punishment : effect of error consequence on
-  checking behavior}} {{Dime and punishment : effect of error consequence on
-  checking behavior}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Exploring the Effect of Pre-operational Priming
+  Intervention on Number Entry Errors}} {{Exploring the Effect of
+  Pre-operational Priming Intervention on Number Entry Errors}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Experimental Psychology: Applied}{}{}{}.
+\BIn{} \APACrefbtitle {CHI 2015.} {Chi 2015.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1477,6 +1578,42 @@ Mangen, A.%
 \begin{APACrefURL}
   \url{http://www.intechopen.com/books/export/citation/BibTex/advances-in-haptics/digitizing-literacy-reflections-on-the-haptics-of-writing}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mark%
+, Czerwinski%
+\BCBL {}\ \BBA {} Iqbal%
+}{%
+Mark%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Mark2018}
+\APACinsertmetastar {%
+Mark2018}%
+\begin{APACrefauthors}%
+Mark, G.%
+, Czerwinski, M.%
+\BCBL {}\ \BBA {} Iqbal, S\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Effects of Individual Differences in Blocking Workplace
+  Distractions}} {{Effects of Individual Differences in Blocking Workplace
+  Distractions}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'18.} {Chi'18.}
+\newblock
+\APACaddressPublisher{Montreal, Canada}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/3180000/3173666/paper92.pdf?ip=192.252.136.182{\&}id=3173666{\&}acc=OPEN{\&}key=4D4702B0C3E38B35.4D4702B0C3E38B35.4D4702B0C3E38B35.6D218144511F3437{\&}{\_}{\_}acm{\_}{\_}=1524844800{\_}b6715c698fdec44cb2d7422d2687f12d{\#}URLTOKEN{\%}23}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3173574.3173666} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1915,12 +2052,11 @@ Olsen, K\BPBI A.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{The {\$}100,000 keying error}} {{The {\$}100,000 keying
-  error}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Customer Errors in Internet Banking}} {{Customer Errors
+  in Internet Banking}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Computer}{41}{}{}.
-\newblock
-\begin{APACrefDOI} \doi{10.1109/MC.2008.135} \end{APACrefDOI}
+\BIn{} \APACrefbtitle {Proceedings of Norsk Informatikkonferanse.} {Proceedings
+  of norsk informatikkonferanse.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1953,6 +2089,39 @@ Patrick, J.%
   Processing}}.{\BBCQ}
 \newblock
 \BIn{} \APACrefbtitle {HCI} {Hci}\ (\BVOL~23, \BPGS\ 255--264).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Potts%
+, Pastel%
+\BCBL {}\ \BBA {} Rosenbaum%
+}{%
+Potts%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Potts2017}
+\APACinsertmetastar {%
+Potts2017}%
+\begin{APACrefauthors}%
+Potts, C\BPBI A.%
+, Pastel, S.%
+\BCBL {}\ \BBA {} Rosenbaum, D\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{nov}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{How are cognitive and physical difficulty compared?}}
+  {{How are cognitive and physical difficulty compared?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Attention, Perception, {\&}
+  Psychophysics}{80}{2}{500--511}.
+\newblock
+\begin{APACrefURL} \url{http://link.springer.com/10.3758/s13414-017-1434-2}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3758/s13414-017-1434-2} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2524,6 +2693,39 @@ Waldron, S\BPBI M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Weir%
+\ \protect \BOthers {.}}{%
+Weir%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Weir2007}
+\APACinsertmetastar {%
+Weir2007}%
+\begin{APACrefauthors}%
+Weir, C.%
+, Nebeker, J.%
+, Hicken, B\BPBI L.%
+, Campo, R.%
+, Drews, F.%
+\BCBL {}\ \BBA {} Lebar, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A Cognitive Task Analysis of Information Management
+  Strategies in a Computerized Provider Order Entry Environment}} {{A Cognitive
+  Task Analysis of Information Management Strategies in a Computerized Provider
+  Order Entry Environment}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of the American Medical Informatics
+  Association}{14}{1}{65--75}.
+\newblock
+\begin{APACrefDOI} \doi{10.1197/jamia.M2231.Introduction} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Whittaker%
 , Hollis%
 \BCBL {}\ \BBA {} Guydish%
@@ -2551,6 +2753,34 @@ Whittaker, S.%
 \BIn{} \APACrefbtitle {CHI'16} {Chi'16}\ (\BPGS\ 1729--1738).
 \newblock
 \APACaddressPublisher{San Jose, CA, USA}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wiseman%
+, Cairns%
+\BCBL {}\ \BBA {} Cox%
+}{%
+Wiseman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Wiseman2011}
+\APACinsertmetastar {%
+Wiseman2011}%
+\begin{APACrefauthors}%
+Wiseman, S\BPBI E\BPBI M.%
+, Cairns, P.%
+\BCBL {}\ \BBA {} Cox, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A Taxonomy of Number Entry Error}} {{A Taxonomy of
+  Number Entry Error}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {The 25th BCS Conference on Human-Computer Interaction}
+  {The 25th bcs conference on human-computer interaction}\ (\BPGS\ 187--196).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

@@ -4,6 +4,7 @@ The top-level auxiliary file: master.aux
 A level-1 auxiliary file: ./settings/title.aux
 A level-1 auxiliary file: ./settings/formatting.aux
 A level-1 auxiliary file: ./tex/abstract.aux
+A level-1 auxiliary file: ./tex/impact.aux
 A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: ./tex/introduction.aux
 A level-1 auxiliary file: ./tex/background.aux
@@ -23,14 +24,20 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10280 items from 5000.
 Database file #1: master.bib
-Repeated entry---line 1511 of file master.bib
- : @inproceedings{Olsen2008
- :                         ,
+Repeated entry---line 3204 of file master.bib
+ : @article{Li2015
+ :                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2750 of file master.bib
- : @inproceedings{Li2015
- :                      ,
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 6324 of file master.bib
+ : @inproceedings{Wiseman2011
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6421 of file master.bib
+ : @article{Olsen2008
+ :                   ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Cangiano2009"
 Warning--I didn't find a database entry for "Soboczenski2013"
@@ -49,48 +56,52 @@ Warning--I didn't find a database entry for "Baddeley1986"
 Warning--I didn't find a database entry for "Miller1956"
 Warning--I didn't find a database entry for "Morgan2014"
 Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Iqbal2008"
+Warning--I didn't find a database entry for "Collins2015"
+Warning--I didn't find a database entry for "Lazar2015"
+Warning--I didn't find a database entry for "Discroll2007"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No institution in Rzeszotarski2013
 Warning--No address in Rzeszotarski2013
-You've used 82 entries,
+You've used 89 entries,
             6951 wiz_defined-function locations,
-            1945 strings with 36971 characters,
-and the built_in function-call counts, 189880 in all, are:
-= -- 23960
-> -- 1670
-< -- 9282
-+ -- 9889
-- -- 166
-* -- 12282
-:= -- 33880
-add.period$ -- 399
-call.type$ -- 82
-change.case$ -- 1438
+            2033 strings with 85876 characters,
+and the built_in function-call counts, 207631 in all, are:
+= -- 26318
+> -- 1812
+< -- 10091
++ -- 10792
+- -- 180
+* -- 13369
+:= -- 36873
+add.period$ -- 439
+call.type$ -- 89
+change.case$ -- 1578
 chr.to.int$ -- 0
-cite$ -- 166
-duplicate$ -- 5198
-empty$ -- 6916
-format.name$ -- 2673
-if$ -- 35859
+cite$ -- 180
+duplicate$ -- 5696
+empty$ -- 7550
+format.name$ -- 2906
+if$ -- 39277
 int.to.chr$ -- 0
-int.to.str$ -- 246
+int.to.str$ -- 267
 missing$ -- 0
-newline$ -- 2336
-num.names$ -- 666
-pop$ -- 3342
+newline$ -- 2537
+num.names$ -- 722
+pop$ -- 3770
 preamble$ -- 1
-purify$ -- 349
+purify$ -- 380
 quote$ -- 0
-skip$ -- 11989
+skip$ -- 13083
 stack$ -- 0
-substring$ -- 10977
-swap$ -- 3001
-text.length$ -- 371
+substring$ -- 12004
+swap$ -- 3273
+text.length$ -- 406
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 8800
+type$ -- 9744
 warning$ -- 2
-while$ -- 945
+while$ -- 1040
 width$ -- 0
-write$ -- 2994
-(There were 2 error messages)
+write$ -- 3251
+(There were 3 error messages)
