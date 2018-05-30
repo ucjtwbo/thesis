@@ -288,6 +288,73 @@ Bondarenko, O.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Borghouts%
+, Brumby%
+\BCBL {}\ \BBA {} Cox%
+}{%
+Borghouts%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Borghouts2017}
+\APACinsertmetastar {%
+Borghouts2017}%
+\begin{APACrefauthors}%
+Borghouts, J.%
+, Brumby, D\BPBI P.%
+\BCBL {}\ \BBA {} Cox, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Batching, Error Checking and Data Collecting:
+  Understanding Data Entry in a Financial Office}} {{Batching, Error Checking
+  and Data Collecting: Understanding Data Entry in a Financial Office}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of 15th European Conference on
+  Computer-Supported Cooperative Work.} {Proceedings of 15th european
+  conference on computer-supported cooperative work.}
+\newblock
+\APACaddressPublisher{Sheffield, UK}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.18420/ecscw2017-4} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Borghouts%
+, Brumby%
+\BCBL {}\ \BBA {} Cox%
+}{%
+Borghouts%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+Borghouts2018a}
+\APACinsertmetastar {%
+Borghouts2018a}%
+\begin{APACrefauthors}%
+Borghouts, J.%
+, Brumby, D\BPBI P.%
+\BCBL {}\ \BBA {} Cox, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Looking Up Information in Email: Feedback on Visit
+  Durations Discourages Distractions}} {{Looking Up Information in Email:
+  Feedback on Visit Durations Discourages Distractions}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'18 Extended Abstracts on Human Factors in Computing
+  Systems.} {Chi'18 extended abstracts on human factors in computing systems.}
+\newblock
+\APACaddressPublisher{Montreal, Canada}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3170427.3188607} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Braun%
 \ \BBA {} Clarke%
 }{%
@@ -411,6 +478,44 @@ Chincotta, D.%
 \newblock
 \APACjournalVolNumPages{The Quarterly Journal of Experimental
   Psychology}{52}{2}{325--352}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Collins%
+, Cox%
+, Bird%
+\BCBL {}\ \BBA {} Cornish-Tresstail%
+}{%
+Collins%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Collins2014}
+\APACinsertmetastar {%
+Collins2014}%
+\begin{APACrefauthors}%
+Collins, E\BPBI I\BPBI M.%
+, Cox, A\BPBI L.%
+, Bird, J.%
+\BCBL {}\ \BBA {} Cornish-Tresstail, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Barriers to engagement with a personal informatics
+  productivity tool}} {{Barriers to engagement with a personal informatics
+  productivity tool}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 26th Australian Computer-Human
+  Interaction Conference on Designing Futures the Future of Design - OzCHI '14}
+  {Proceedings of the 26th australian computer-human interaction conference on
+  designing futures the future of design - ozchi '14}\ (\BPGS\ 370--379).
+\newblock
+\begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?doid=2686612.2686668}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2686612.2686668} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1188,6 +1293,33 @@ Janssen, C\BPBI P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Jin%
+\ \BBA {} Dabbish%
+}{%
+Jin%
+\ \BBA {} Dabbish%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Jin2009}
+\APACinsertmetastar {%
+Jin2009}%
+\begin{APACrefauthors}%
+Jin, J.%
+\BCBT {}\ \BBA {} Dabbish, L\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Self-Interruption on the Computer: A Typology of
+  Discretionary Task Interleaving}} {{Self-Interruption on the Computer: A
+  Typology of Discretionary Task Interleaving}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'09} {Chi'09}\ (\BPGS\ 1799--1808).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Katidioti%
 \ \BBA {} Taatgen%
 }{%
@@ -1649,6 +1781,40 @@ Mark, G.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1145/1054972.1055017} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mark%
+, Iqbal%
+, Czerwinski%
+\BCBL {}\ \BBA {} Johns%
+}{%
+Mark%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+Mark2014a}
+\APACinsertmetastar {%
+Mark2014a}%
+\begin{APACrefauthors}%
+Mark, G.%
+, Iqbal, S\BPBI T.%
+, Czerwinski, M.%
+\BCBL {}\ \BBA {} Johns, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Capturing the Mood : Facebook and Face-to-Face
+  Encounters in the Workplace}} {{Capturing the Mood : Facebook and
+  Face-to-Face Encounters in the Workplace}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {17th ACM conference on Computer supported cooperative
+  work {\&} social computing} {17th acm conference on computer supported
+  cooperative work {\&} social computing}\ (\BPGS\ 1082--1094).
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2531602.2531673} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

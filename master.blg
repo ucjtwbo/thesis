@@ -24,7 +24,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10280 items from 5000.
+Reallocated field_info (elt_size=4) to 10664 items from 5000.
 Database file #1: master.bib
 Repeated entry---line 3204 of file master.bib
  : @article{Li2015
@@ -39,6 +39,10 @@ Repeated entry---line 6421 of file master.bib
  : @article{Olsen2008
  :                   ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Lyng2018"
+Warning--I didn't find a database entry for "Bailey2001"
+Warning--I didn't find a database entry for "Carrier2015"
+Warning--I didn't find a database entry for "Mark2012"
 Warning--I didn't find a database entry for "Cangiano2009"
 Warning--I didn't find a database entry for "Soboczenski2013"
 Warning--I didn't find a database entry for "Payne2013"
@@ -57,51 +61,50 @@ Warning--I didn't find a database entry for "Miller1956"
 Warning--I didn't find a database entry for "Morgan2014"
 Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "Iqbal2008"
-Warning--I didn't find a database entry for "Collins2015"
 Warning--I didn't find a database entry for "Lazar2015"
-Warning--I didn't find a database entry for "Discroll2007"
+Warning--I didn't find a database entry for "Driscoll2007"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No institution in Rzeszotarski2013
 Warning--No address in Rzeszotarski2013
-You've used 89 entries,
+You've used 94 entries,
             6951 wiz_defined-function locations,
-            2033 strings with 85876 characters,
-and the built_in function-call counts, 207631 in all, are:
-= -- 26318
-> -- 1812
-< -- 10091
-+ -- 10792
-- -- 180
-* -- 13369
-:= -- 36873
-add.period$ -- 439
-call.type$ -- 89
-change.case$ -- 1578
+            2073 strings with 88918 characters,
+and the built_in function-call counts, 220314 in all, are:
+= -- 28010
+> -- 1927
+< -- 10673
++ -- 11413
+- -- 190
+* -- 14124
+:= -- 38972
+add.period$ -- 469
+call.type$ -- 94
+change.case$ -- 1668
 chr.to.int$ -- 0
-cite$ -- 180
-duplicate$ -- 5696
-empty$ -- 7550
-format.name$ -- 2906
-if$ -- 39277
+cite$ -- 190
+duplicate$ -- 6032
+empty$ -- 7995
+format.name$ -- 3076
+if$ -- 41749
 int.to.chr$ -- 0
-int.to.str$ -- 267
+int.to.str$ -- 282
 missing$ -- 0
-newline$ -- 2537
-num.names$ -- 722
-pop$ -- 3770
+newline$ -- 2684
+num.names$ -- 762
+pop$ -- 4100
 preamble$ -- 1
-purify$ -- 380
+purify$ -- 400
 quote$ -- 0
-skip$ -- 13083
+skip$ -- 13890
 stack$ -- 0
-substring$ -- 12004
-swap$ -- 3273
-text.length$ -- 406
+substring$ -- 12708
+swap$ -- 3456
+text.length$ -- 436
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 9744
+type$ -- 10464
 warning$ -- 2
-while$ -- 1040
+while$ -- 1102
 width$ -- 0
-write$ -- 3251
+write$ -- 3444
 (There were 3 error messages)
