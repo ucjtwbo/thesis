@@ -119,6 +119,41 @@ Back, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bailey%
+, Konstan%
+\BCBL {}\ \BBA {} Carlis%
+}{%
+Bailey%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2001}}%
+}]{%
+Bailey2001}
+\APACinsertmetastar {%
+Bailey2001}%
+\begin{APACrefauthors}%
+Bailey, B\BPBI P.%
+, Konstan, J\BPBI A.%
+\BCBL {}\ \BBA {} Carlis, J\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Effects of Interruptions on Task Performance,
+  Annoyance, and Anxiety in the User Interface}} {{The Effects of Interruptions
+  on Task Performance, Annoyance, and Anxiety in the User Interface}}.{\BBCQ}
+\newblock
+\BIn{} M.~Hirose\ (\BED), \APACrefbtitle {INTERACT} {Interact}\ (\BPGS\
+  593--601).
+\newblock
+\APACaddressPublisher{Amsterdam}{iOS Press}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.cse.unr.edu/{~}sushil/class/ps/papers/EffectInterruptions-interact-2001.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Barchard%
 \ \BBA {} Pace%
 }{%
@@ -447,6 +482,73 @@ Byrne, M\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Cangiano%
+\ \BBA {} Hollan%
+}{%
+Cangiano%
+\ \BBA {} Hollan%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+Cangiano2009}
+\APACinsertmetastar {%
+Cangiano2009}%
+\begin{APACrefauthors}%
+Cangiano, G\BPBI R.%
+\BCBT {}\ \BBA {} Hollan, J\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Capturing and restoring the context of everyday work: A
+  case study at a law office}} {{Capturing and restoring the context of
+  everyday work: A case study at a law office}}.{\BBCQ}
+\newblock
+\BIn{} M.~Kurosu\ (\BED), \APACrefbtitle {Human Centered Design} {Human
+  centered design}\ (\BPGS\ 945--954).
+\newblock
+\APACaddressPublisher{Berlin, Heidelberg}{Springer Berlin Heidelberg}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-3-642-02806-9_108} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Carrier%
+, Rosen%
+, Cheever%
+\BCBL {}\ \BBA {} Lim%
+}{%
+Carrier%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Carrier2015}
+\APACinsertmetastar {%
+Carrier2015}%
+\begin{APACrefauthors}%
+Carrier, L\BPBI M.%
+, Rosen, L\BPBI D.%
+, Cheever, N\BPBI A.%
+\BCBL {}\ \BBA {} Lim, A\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Causes, effects, and practicalities of everyday
+  multitasking}} {{Causes, effects, and practicalities of everyday
+  multitasking}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Developmental Review}{35}{}{64--78}.
+\newblock
+\begin{APACrefURL} \url{http://dx.doi.org/10.1016/j.dr.2014.12.005}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.dr.2014.12.005} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Chincotta%
 , Underwood%
 , Ghani%
@@ -516,6 +618,31 @@ Collins, E\BPBI I\BPBI M.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1145/2686612.2686668} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Constine%
+}{%
+Constine%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Constine2018}
+\APACinsertmetastar {%
+Constine2018}%
+\begin{APACrefauthors}%
+Constine, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{Instagram CEO confirms upcoming "time spent" Us-age
+  Insights}.} {{Instagram CEO confirms upcoming "time spent" Us-age Insights}.}
+\newblock
+\begin{APACrefURL}
+  \url{https://techcrunch.com/2018/05/15/instagram-usage-insights/}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -709,6 +836,40 @@ Diemand-Yauman, C.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.cognition.2010.09.012} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Driscoll%
+, Appiah-Yeboah%
+, Salib%
+\BCBL {}\ \BBA {} Rupert%
+}{%
+Driscoll%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+Driscoll2007}
+\APACinsertmetastar {%
+Driscoll2007}%
+\begin{APACrefauthors}%
+Driscoll, D\BPBI L.%
+, Appiah-Yeboah, A.%
+, Salib, P.%
+\BCBL {}\ \BBA {} Rupert, D\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Merging Qualitative and Quantitative Data in Mixed
+  Methods Research: How To and Why Not}} {{Merging Qualitative and Quantitative
+  Data in Mixed Methods Research: How To and Why Not}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ecological and Environmental
+  Anthropology}{3}{1}{19--28}.
+\newblock
+\begin{APACrefURL} \url{http://digitalcommons.unl.edu/icwdmeea}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1228,6 +1389,38 @@ Hutchins, E\BPBI L.%
 
 \bibitem [\protect \citeauthoryear {%
 Iqbal%
+\ \BBA {} Bailey%
+}{%
+Iqbal%
+\ \BBA {} Bailey%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Iqbal2008}
+\APACinsertmetastar {%
+Iqbal2008}%
+\begin{APACrefauthors}%
+Iqbal, S\BPBI T.%
+\BCBT {}\ \BBA {} Bailey, B\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Effects of Intelligent Notification Management on Users
+  and Their Tasks}} {{Effects of Intelligent Notification Management on Users
+  and Their Tasks}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'08} {Chi'08}\ (\BPGS\ 93--102).
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/1360000/1357070/p93-iqbal.pdf?ip=128.16.5.5{\&}id=1357070{\&}acc=ACTIVE
+  SERVICE{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}{\_}{\_}acm{\_}{\_}=1527353089{\_}3b962ded143311b06fe699aa288f6ffa}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Iqbal%
 \ \BBA {} Horvitz%
 }{%
 Iqbal%
@@ -1455,6 +1648,44 @@ Koppel, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Lazar%
+, Koehler%
+, Tanenbaum%
+\BCBL {}\ \BBA {} Nguyen%
+}{%
+Lazar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Lazar2015}
+\APACinsertmetastar {%
+Lazar2015}%
+\begin{APACrefauthors}%
+Lazar, A.%
+, Koehler, C.%
+, Tanenbaum, J.%
+\BCBL {}\ \BBA {} Nguyen, D\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Why We Use and Abandon Smart Devices}} {{Why We Use and
+  Abandon Smart Devices}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {UbiComp'15} {Ubicomp'15}\ (\BPGS\ 635--646).
+\newblock
+\APACaddressPublisher{Osaka, Japan}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/2810000/2804288/p635-lazar.pdf?ip=128.16.5.5{\&}id=2804288{\&}acc=ACTIVE
+  SERVICE{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}{\_}{\_}acm{\_}{\_}=1526546789{\_}9fd8a8e734f6893e47ae49896e708611}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2750858.2804288} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 S\BPBI Y\BPBI W.~Li%
 , Blandford%
 , Cairns%
@@ -1643,6 +1874,57 @@ Lin, C\BHBI J.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1080/0144929X.2014.945962} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lyngs%
+}{%
+Lyngs%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Lyngs2018}
+\APACinsertmetastar {%
+Lyngs2018}%
+\begin{APACrefauthors}%
+Lyngs, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A Cognitive Design Space for Supporting Self-Regulation
+  of ICT Use}} {{A Cognitive Design Space for Supporting Self-Regulation of ICT
+  Use}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'18 Extended Abstracts.} {Chi'18 extended abstracts.}
+\newblock
+\APACaddressPublisher{Montreal, Canada}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/3190000/3180296/SRC14.pdf?ip=128.16.5.5{\&}id=3180296{\&}acc=OPEN{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.6D218144511F3437{\&}{\_}{\_}acm{\_}{\_}=1526464496{\_}3d92b7e9ea58478894720c0697523b2a}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lynley%
+}{%
+Lynley%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Lynley2018}
+\APACinsertmetastar {%
+Lynley2018}%
+\begin{APACrefauthors}%
+Lynley, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{Google rolls out app time management controls}.} {{Google
+  rolls out app time management controls}.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1848,6 +2130,41 @@ Mark, G.%
   stress}}.{\BBCQ}
 \newblock
 \BIn{} \APACrefbtitle {CHI'16} {Chi'16}\ (\BPGS\ 1717--1728).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mark%
+, Voida%
+\BCBL {}\ \BBA {} Cardello%
+}{%
+Mark%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+Mark2012}
+\APACinsertmetastar {%
+Mark2012}%
+\begin{APACrefauthors}%
+Mark, G.%
+, Voida, S.%
+\BCBL {}\ \BBA {} Cardello, A\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{"A Pace Not Dictated by Electrons": An Empirical Study
+  of Work Without Email}} {{"A Pace Not Dictated by Electrons": An Empirical
+  Study of Work Without Email}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'12} {Chi'12}\ (\BPGS\ 555--564).
+\newblock
+\APACaddressPublisher{Austin, Texas, USA}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/2210000/2207754/p555-mark.pdf?ip=128.16.5.5{\&}id=2207754{\&}acc=ACTIVE
+  SERVICE{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}{\_}{\_}acm{\_}{\_}=1523544578{\_}bf4b7766d0172e85f713049c87328e35}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2218,11 +2535,12 @@ Olsen, K\BPBI A.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Customer Errors in Internet Banking}} {{Customer Errors
-  in Internet Banking}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{The {\$}100,000 keying error}} {{The {\$}100,000 keying
+  error}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of Norsk Informatikkonferanse.} {Proceedings
-  of norsk informatikkonferanse.}
+\APACjournalVolNumPages{Computer}{41}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/MC.2008.135} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2321,6 +2639,28 @@ Randall, D.%
 \begin{APACrefURL}
   \url{https://www.interaction-design.org/encyclopedia/ethnography.html}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reason%
+}{%
+Reason%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+Reason1990}
+\APACinsertmetastar {%
+Reason1990}%
+\begin{APACrefauthors}%
+Reason, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1990}.
+\newblock
+\APACrefbtitle {{Human Error}} {{Human Error}}.
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2591,6 +2931,37 @@ Smith, M\BPBI R.%
 \begin{APACrefURL}
   \url{http://www-personal.umich.edu/{~}rickl/pubs/smith-lewis-et-al-2008-cogsci.pdf}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Soboczenski%
+, Cairns%
+\BCBL {}\ \BBA {} Cox%
+}{%
+Soboczenski%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Soboczenski2013}
+\APACinsertmetastar {%
+Soboczenski2013}%
+\begin{APACrefauthors}%
+Soboczenski, F.%
+, Cairns, P.%
+\BCBL {}\ \BBA {} Cox, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Increasing accuracy by decreasing presentation quality
+  in transcription tasks}} {{Increasing accuracy by decreasing presentation
+  quality in transcription tasks}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of 14th IFIP TC13 Conference on
+  Human-Computer Interaction (INTERACT 2013), Part II} {Proceedings of 14th
+  ifip tc13 conference on human-computer interaction (interact 2013), part ii}\
+  (\BVOL\ 8118, \BPGS\ 380--394).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

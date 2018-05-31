@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  30 MAY 2018 17:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.28)  31 MAY 2018 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1813,39 +1813,22 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
 
 
 ]
-
-Package natbib Warning: Citation `Cangiano2009' on page 15 undefined on input l
-ine 14.
-
-
-Package natbib Warning: Citation `Lyngs2018' on page 15 undefined on input line
- 14.
-
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
-)
+) [15]
+LaTeX Font Info:    Try loading font information for TS1+ppl on input line 45.
 
-Package natbib Warning: Citation `Instagram' on page 15 undefined on input line
- 16.
-
-[15]
-LaTeX Font Info:    Try loading font information for TS1+ppl on input line 44.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [16]
-[17] <images/ThesisOverview.pdf, id=777, 527.24579pt x 680.02052pt>
+) [16] [17]
+<images/ThesisOverview.pdf, id=788, 527.24579pt x 680.02052pt>
 File: images/ThesisOverview.pdf Graphic file (type pdf)
 
 <use images/ThesisOverview.pdf>
-Package pdftex.def Info: images/ThesisOverview.pdf used on input line 80.
+Package pdftex.def Info: images/ThesisOverview.pdf used on input line 81.
 (pdftex.def)             Requested size: 292.77629pt x 377.62338pt.
  [18] [19 <./images/ThesisOverview.pdf>]
-
-Package natbib Warning: Citation `Lyngs2018' on page 20 undefined on input line
- 91.
-
-
-Overfull \hbox (5.22124pt too wide) in paragraph at lines 91--92
+Overfull \hbox (5.22124pt too wide) in paragraph at lines 92--93
 []\T1/ppl/m/n/10 My the-sis also shows that in-quiries are han-dled dif-fer-ent
 ly than task-irrelevant self-interruptions:
  []
@@ -1859,46 +1842,11 @@ Chapter 2.
 
 
 
-]
-
-Package natbib Warning: Citation `Bailey2001' on page 22 undefined on input lin
-e 21.
-
-
-Package natbib Warning: Citation `Carrier2015' on page 22 undefined on input li
-ne 21.
-
-
-Package natbib Warning: Citation `Mark2012' on page 22 undefined on input line 
-22.
-
-[22]
+] [22]
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
- [23]
-
-Package natbib Warning: Citation `Cangiano2009' on page 24 undefined on input l
-ine 35.
-
-
-Package natbib Warning: Citation `Cangiano2009' on page 24 undefined on input l
-ine 35.
-
-
-Package natbib Warning: Citation `Cangiano2009' on page 24 undefined on input l
-ine 35.
-
-[24]
-
-Package natbib Warning: Citation `Soboczenski2013' on page 25 undefined on inpu
-t line 37.
-
-[25] [26]
-
-Package natbib Warning: Citation `Cangiano2009' on page 27 undefined on input l
-ine 52.
-
-[27] [28] <images/background/HIP.pdf, id=971, 487.8225pt x 137.51375pt>
+ [23] [24] [25] [26] [27] [28]
+<images/background/HIP.pdf, id=1001, 487.8225pt x 137.51375pt>
 File: images/background/HIP.pdf Graphic file (type pdf)
 
 <use images/background/HIP.pdf>
@@ -1918,22 +1866,12 @@ Package natbib Warning: Citation `Back2013b' on page 31 undefined on input line
 Package natbib Warning: Citation `Wiseman2014' on page 31 undefined on input li
 ne 109.
 
-[31]
-
-Package natbib Warning: Citation `Soboczenski2013' on page 32 undefined on inpu
-t line 122.
-
-[32] [33]
+[31] [32] [33]
 
 Package natbib Warning: Citation `Kohn2000' on page 34 undefined on input line 
 136.
 
-[34] [35] [36]
-
-Package natbib Warning: Citation `Reason1990' on page 37 undefined on input lin
-e 169.
-
-[37]
+[34] [35] [36] [37]
 
 Package natbib Warning: Citation `Wiseman2013b' on page 38 undefined on input l
 ine 179.
@@ -1943,7 +1881,7 @@ ine 179.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 186.
 
-<images/background/numberpad.pdf, id=1153, 156.585pt x 109.40875pt>
+<images/background/numberpad.pdf, id=1189, 156.585pt x 109.40875pt>
 File: images/background/numberpad.pdf Graphic file (type pdf)
 
 <use images/background/numberpad.pdf>
@@ -1951,7 +1889,7 @@ Package pdftex.def Info: images/background/numberpad.pdf used on input line 190
 .
 (pdftex.def)             Requested size: 125.26816pt x 87.5271pt.
 
-<images/background/incremental.pdf, id=1154, 204.765pt x 43.16125pt>
+<images/background/incremental.pdf, id=1190, 204.765pt x 43.16125pt>
 File: images/background/incremental.pdf Graphic file (type pdf)
 
 <use images/background/incremental.pdf>
@@ -1992,7 +1930,7 @@ Package natbib Warning: Citation `Payne2013' on page 45 undefined on input line
 LaTeX Warning: Reference `table:ch3_participants' on page 47 undefined on input
  line 29.
 
-<images/ch12/Study1-Table1.pdf, id=1301, 540.18254pt x 268.31964pt>
+<images/ch12/Study1-Table1.pdf, id=1336, 540.18254pt x 268.31964pt>
 File: images/ch12/Study1-Table1.pdf Graphic file (type pdf)
 
 <use images/ch12/Study1-Table1.pdf>
@@ -2014,21 +1952,21 @@ Underfull \hbox (badness 2073) in paragraph at lines 130--130
 \T1/ppl/m/n/10 cu-racy and pa-per
  []
 
-[51] [52] <images/ch12/Task.pdf, id=1363, 630.5946pt x 364.30765pt>
+[51] [52] <images/ch12/Task.pdf, id=1398, 630.5946pt x 364.30765pt>
 File: images/ch12/Task.pdf Graphic file (type pdf)
 
 <use images/ch12/Task.pdf>
 Package pdftex.def Info: images/ch12/Task.pdf used on input line 142.
 (pdftex.def)             Requested size: 418.25368pt x 241.6445pt.
  [53 <./images/ch12/Task.pdf>]
-<images/ch12/Checking.pdf, id=1389, 555.64105pt x 280.76634pt>
+<images/ch12/Checking.pdf, id=1425, 555.64105pt x 280.76634pt>
 File: images/ch12/Checking.pdf Graphic file (type pdf)
 
 <use images/ch12/Checking.pdf>
 Package pdftex.def Info: images/ch12/Checking.pdf used on input line 160.
 (pdftex.def)             Requested size: 418.25368pt x 211.34967pt.
  [54 <./images/ch12/Checking.pdf>] [55]
-<images/ch12/System.pdf, id=1421, 511.85338pt x 311.77339pt>
+<images/ch12/System.pdf, id=1456, 511.85338pt x 311.77339pt>
 File: images/ch12/System.pdf Graphic file (type pdf)
 
 <use images/ch12/System.pdf>
@@ -2037,7 +1975,7 @@ Package pdftex.def Info: images/ch12/System.pdf used on input line 221.
  [56
 
  <./images/ch12/System.pdf>]
-<images/ch12/Environment.pdf, id=1447, 563.01633pt x 369.42365pt>
+<images/ch12/Environment.pdf, id=1482, 563.01633pt x 369.42365pt>
 File: images/ch12/Environment.pdf Graphic file (type pdf)
 
 <use images/ch12/Environment.pdf>
@@ -2046,14 +1984,14 @@ Package pdftex.def Info: images/ch12/Environment.pdf used on input line 235.
  [57
 
  <./images/ch12/Environment.pdf>]
-<images/ch12/Data.pdf, id=1473, 557.38672pt x 318.58151pt>
+<images/ch12/Data.pdf, id=1508, 557.38672pt x 318.58151pt>
 File: images/ch12/Data.pdf Graphic file (type pdf)
 
 <use images/ch12/Data.pdf>
 Package pdftex.def Info: images/ch12/Data.pdf used on input line 253.
 (pdftex.def)             Requested size: 418.25368pt x 239.06192pt.
  [58 <./images/ch12/Data.pdf>]
-<images/ch12/Errors.pdf, id=1499, 560.15346pt x 328.62674pt>
+<images/ch12/Errors.pdf, id=1534, 560.15346pt x 328.62674pt>
 File: images/ch12/Errors.pdf Graphic file (type pdf)
 
 <use images/ch12/Errors.pdf>
@@ -2062,7 +2000,7 @@ Package pdftex.def Info: images/ch12/Errors.pdf used on input line 270.
  [59
 
  <./images/ch12/Errors.pdf>] [60]
-<images/ch12/Strategy.pdf, id=1530, 510.12323pt x 260.26866pt>
+<images/ch12/Strategy.pdf, id=1566, 510.12323pt x 260.26866pt>
 File: images/ch12/Strategy.pdf Graphic file (type pdf)
 
 <use images/ch12/Strategy.pdf>
@@ -2071,7 +2009,7 @@ Package pdftex.def Info: images/ch12/Strategy.pdf used on input line 343.
  [61
 
  <./images/ch12/Strategy.pdf>] [62]
-<images/ch12/Papertrail.pdf, id=1562, 532.64217pt x 358.62852pt>
+<images/ch12/Papertrail.pdf, id=1597, 532.64217pt x 358.62852pt>
 File: images/ch12/Papertrail.pdf Graphic file (type pdf)
 
 <use images/ch12/Papertrail.pdf>
@@ -2080,7 +2018,7 @@ Package pdftex.def Info: images/ch12/Papertrail.pdf used on input line 393.
  [63
 
  <./images/ch12/Papertrail.pdf>]
-<images/ch12/Other.pdf, id=1588, 532.81671pt x 224.84pt>
+<images/ch12/Other.pdf, id=1623, 532.81671pt x 224.84pt>
 File: images/ch12/Other.pdf Graphic file (type pdf)
 
 <use images/ch12/Other.pdf>
@@ -2097,30 +2035,13 @@ s to have data en-tered and checked
 Package natbib Warning: Citation `Wiseman2014' on page 66 undefined on input li
 ne 450.
 
-
-Package natbib Warning: Citation `Soboczenski2013' on page 66 undefined on inpu
-t line 452.
-
-[66]
-
-Package natbib Warning: Citation `Reason1990' on page 67 undefined on input lin
-e 465.
-
-
-Package natbib Warning: Citation `Reason1990' on page 67 undefined on input lin
-e 465.
-
-[67] [68] [69]
+[66] [67] [68] [69]
 
 Package natbib Warning: Citation `Onwuegbuzie2008' on page 70 undefined on inpu
 t line 518.
 
-[70] [71] [72]
-
-Package natbib Warning: Citation `Cangiano2009' on page 73 undefined on input l
-ine 576.
-
-[73] <images/ch12/ch12_physmodroom.pdf, id=1727, 518.93875pt x 614.295pt>
+[70] [71] [72] [73]
+<images/ch12/ch12_physmodroom.pdf, id=1769, 518.93875pt x 614.295pt>
 File: images/ch12/ch12_physmodroom.pdf Graphic file (type pdf)
 
 <use images/ch12/ch12_physmodroom.pdf>
@@ -2128,7 +2049,7 @@ Package pdftex.def Info: images/ch12/ch12_physmodroom.pdf used on input line 63
 4.
 (pdftex.def)             Requested size: 125.47737pt x 148.53049pt.
 
-<images/ch12/ch12_physmoddesk.pdf, id=1728, 429.605pt x 223.0707pt>
+<images/ch12/ch12_physmoddesk.pdf, id=1770, 429.605pt x 223.0707pt>
 File: images/ch12/ch12_physmoddesk.pdf Graphic file (type pdf)
 
 <use images/ch12/ch12_physmoddesk.pdf>
@@ -2146,7 +2067,7 @@ LaTeX Warning: Reference `table:ch12_infsources' on page 78 undefined on input
 line 742.
 
 [78] [79] [80]
-<images/ch12/ch12_infmodel.pdf, id=1795, 370.38374pt x 356.33125pt>
+<images/ch12/ch12_infmodel.pdf, id=1837, 370.38374pt x 356.33125pt>
 File: images/ch12/ch12_infmodel.pdf Graphic file (type pdf)
 
 <use images/ch12/ch12_infmodel.pdf>
@@ -2172,28 +2093,19 @@ Chapter 4.
 
 
 
-] [90]
-
-Package natbib Warning: Citation `Soboczenski2013' on page 91 undefined on inpu
-t line 25.
-
-
-Package natbib Warning: Citation `Soboczenski2013' on page 91 undefined on inpu
-t line 27.
-
-[91]
+] [90] [91]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 69.
 
-<images/ch34/ch4_numbers.png, id=1921, 1908.12875pt x 1034.86626pt>
+<images/ch34/ch4_numbers.png, id=1967, 1908.12875pt x 1034.86626pt>
 File: images/ch34/ch4_numbers.png Graphic file (type png)
 
 <use images/ch34/ch4_numbers.png>
 Package pdftex.def Info: images/ch34/ch4_numbers.png used on input line 73.
 (pdftex.def)             Requested size: 438.86038pt x 238.01422pt.
 
-<images/ch34/ch4_colours.png, id=1923, 1910.13625pt x 1033.8625pt>
+<images/ch34/ch4_colours.png, id=1969, 1910.13625pt x 1033.8625pt>
 File: images/ch34/ch4_colours.png Graphic file (type png)
 
 <use images/ch34/ch4_colours.png>
@@ -2210,7 +2122,7 @@ Overfull \vbox (43.81497pt too high) has occurred while \output is active []
 
 
 [97]
-<images/ch34/ch4_noVisits-bargraph.pdf, id=1968, 401.07188pt x 343.1461pt>
+<images/ch34/ch4_noVisits-bargraph.pdf, id=2015, 401.07188pt x 343.1461pt>
 File: images/ch34/ch4_noVisits-bargraph.pdf Graphic file (type pdf)
 
 <use images/ch34/ch4_noVisits-bargraph.pdf>
@@ -2218,7 +2130,7 @@ Package pdftex.def Info: images/ch34/ch4_noVisits-bargraph.pdf used on input li
 ne 163.
 (pdftex.def)             Requested size: 418.25368pt x 357.85313pt.
 
-<images/ch34/ch4_firstVisitDuration-bargraph.pdf, id=1970, 401.42302pt x 342.22
+<images/ch34/ch4_firstVisitDuration-bargraph.pdf, id=2017, 401.42302pt x 342.22
 766pt>
 File: images/ch34/ch4_firstVisitDuration-bargraph.pdf Graphic file (type pdf)
  <use images/ch34/ch4_firstVisitDuration-bargraph.pdf>
@@ -2226,7 +2138,7 @@ Package pdftex.def Info: images/ch34/ch4_firstVisitDuration-bargraph.pdf used o
 n input line 174.
 (pdftex.def)             Requested size: 418.25368pt x 356.58722pt.
  [98]
-<images/ch34/ch4_firstCorrectBlocks-bargraph.pdf, id=1982, 400.97583pt x 341.57
+<images/ch34/ch4_firstCorrectBlocks-bargraph.pdf, id=2029, 400.97583pt x 341.57
 341pt>
 File: images/ch34/ch4_firstCorrectBlocks-bargraph.pdf Graphic file (type pdf)
  <use images/ch34/ch4_firstCorrectBlocks-bargraph.pdf>
@@ -2236,7 +2148,7 @@ n input line 185.
  [99 <./images/ch34/ch4_noVisits-bargraph.pdf>] [100 <./images/ch34/ch4_firstVi
 sitDuration-bargraph.pdf>] [101 <./images/ch34/ch4_firstCorrectBlocks-bargraph.
 pdf>]
-<images/ch34/ch4_placeholders.pdf, id=2064, 534.99875pt x 547.04375pt>
+<images/ch34/ch4_placeholders.pdf, id=2110, 534.99875pt x 547.04375pt>
 File: images/ch34/ch4_placeholders.pdf Graphic file (type pdf)
 
 <use images/ch34/ch4_placeholders.pdf>
@@ -2253,21 +2165,8 @@ line 243.
 Package natbib Warning: Citation `Miller1956' on page 105 undefined on input li
 ne 250.
 
-
-Package natbib Warning: Citation `Soboczenski2013' on page 105 undefined on inp
-ut line 252.
-
-
-Package natbib Warning: Citation `Soboczenski2013' on page 105 undefined on inp
-ut line 253.
-
-[105] [106] [107]
-
-Package natbib Warning: Citation `Cangiano2009' on page 108 undefined on input 
-line 288.
-
-[108]
-<images/ch34/ch34-4_Tasksequence.pdf, id=2152, 3689.785pt x 1655.18375pt>
+[105] [106] [107] [108]
+<images/ch34/ch34-4_Tasksequence.pdf, id=2205, 3689.785pt x 1655.18375pt>
 File: images/ch34/ch34-4_Tasksequence.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-4_Tasksequence.pdf>
@@ -2275,21 +2174,21 @@ Package pdftex.def Info: images/ch34/ch34-4_Tasksequence.pdf used on input line
  336.
 (pdftex.def)             Requested size: 418.25368pt x 187.60184pt.
  [109] [110 <./images/ch34/ch34-4_Tasksequence.pdf>] [111] [112]
-<images/ch34/ch34-means.pdf, id=2189, 535.18849pt x 185.9502pt>
+<images/ch34/ch34-means.pdf, id=2242, 535.18849pt x 185.9502pt>
 File: images/ch34/ch34-means.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-means.pdf>
 Package pdftex.def Info: images/ch34/ch34-means.pdf used on input line 371.
 (pdftex.def)             Requested size: 418.25368pt x 145.32713pt.
 
-<images/ch34/ch4_4-boxplot.pdf, id=2191, 433.62pt x 289.08pt>
+<images/ch34/ch4_4-boxplot.pdf, id=2244, 433.62pt x 289.08pt>
 File: images/ch34/ch4_4-boxplot.pdf Graphic file (type pdf)
 
 <use images/ch34/ch4_4-boxplot.pdf>
 Package pdftex.def Info: images/ch34/ch4_4-boxplot.pdf used on input line 382.
 (pdftex.def)             Requested size: 250.95476pt x 167.30481pt.
 
-<images/ch34/ch34-4_linechart.pdf, id=2192, 433.62pt x 289.08pt>
+<images/ch34/ch34-4_linechart.pdf, id=2245, 433.62pt x 289.08pt>
 File: images/ch34/ch34-4_linechart.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-4_linechart.pdf>
@@ -2298,7 +2197,7 @@ Package pdftex.def Info: images/ch34/ch34-4_linechart.pdf used on input line 38
 (pdftex.def)             Requested size: 418.25368pt x 278.85017pt.
  [113 <./images/ch34/ch34-means.pdf>]
 [114 <./images/ch34/ch4_4-boxplot.pdf> <./images/ch34/ch34-4_linechart.pdf>]
-<images/ch34/ch34-4_plotControl(1).png, id=2232, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotControl(1).png, id=2286, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotControl(1).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotControl(1).png>
@@ -2306,7 +2205,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotControl(1).png used on input li
 ne 404.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotControl(2).png, id=2233, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotControl(2).png, id=2287, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotControl(2).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotControl(2).png>
@@ -2314,7 +2213,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotControl(2).png used on input li
 ne 405.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Am(1).png, id=2234, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Am(1).png, id=2288, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Am(1).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Am(1).png>
@@ -2322,7 +2221,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotHigh-Am(1).png used on input li
 ne 411.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Am(2).png, id=2235, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Am(2).png, id=2289, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Am(2).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Am(2).png>
@@ -2330,7 +2229,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotHigh-Am(2).png used on input li
 ne 412.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Acc(1).png, id=2236, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Acc(1).png, id=2290, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Acc(1).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Acc(1).png>
@@ -2338,7 +2237,7 @@ Package pdftex.def Info: images/ch34/ch34-4_plotHigh-Acc(1).png used on input l
 ine 416.
 (pdftex.def)             Requested size: 209.12683pt x 130.10822pt.
 
-<images/ch34/ch34-4_plotHigh-Acc(2).png, id=2237, 571.13374pt x 355.3275pt>
+<images/ch34/ch34-4_plotHigh-Acc(2).png, id=2291, 571.13374pt x 355.3275pt>
 File: images/ch34/ch34-4_plotHigh-Acc(2).png Graphic file (type png)
 
 <use images/ch34/ch34-4_plotHigh-Acc(2).png>
@@ -2353,7 +2252,7 @@ LaTeX Warning: Float too large for page by 224.36736pt on input line 423.
 Control(2).png> <./images/ch34/ch34-4_plotHigh-Am(1).png> <./images/ch34/ch34-4
 _plotHigh-Am(2).png> <./images/ch34/ch34-4_plotHigh-Acc(1).png> <./images/ch34/
 ch34-4_plotHigh-Acc(2).png>]
-<images/ch34/ch34_4-groupstr.png, id=2258, 389.7762pt x 353.6412pt>
+<images/ch34/ch34_4-groupstr.png, id=2312, 389.7762pt x 353.6412pt>
 File: images/ch34/ch34_4-groupstr.png Graphic file (type png)
 
 <use images/ch34/ch34_4-groupstr.png>
@@ -2372,7 +2271,7 @@ Package natbib Warning: Citation `Morgan2014' on page 120 undefined on input li
 ne 497.
 
 [120] [121]
-<images/ch34/ch34-5_Tasksequence.pdf, id=2296, 3848.3775pt x 2498.33376pt>
+<images/ch34/ch34-5_Tasksequence.pdf, id=2349, 3848.3775pt x 2498.33376pt>
 File: images/ch34/ch34-5_Tasksequence.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34-5_Tasksequence.pdf>
@@ -2380,7 +2279,7 @@ Package pdftex.def Info: images/ch34/ch34-5_Tasksequence.pdf used on input line
  527.
 (pdftex.def)             Requested size: 418.25368pt x 271.50099pt.
  [122] [123 <./images/ch34/ch34-5_Tasksequence.pdf>]
-<images/ch34/ch34_5-means.pdf, id=2319, 540.12128pt x 184.03796pt>
+<images/ch34/ch34_5-means.pdf, id=2372, 540.12128pt x 184.03796pt>
 File: images/ch34/ch34_5-means.pdf Graphic file (type pdf)
 
 <use images/ch34/ch34_5-means.pdf>
@@ -2411,7 +2310,7 @@ Chapter 6.
 
 
 ] [137] Excluding 'comment' comment. [138] [139]
-<images/ch56/ch56-taskinterface.pdf, id=2436, 1977.1145pt x 584.89163pt>
+<images/ch56/ch56-taskinterface.pdf, id=2489, 1977.1145pt x 584.89163pt>
 File: images/ch56/ch56-taskinterface.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-taskinterface.pdf>
@@ -2423,7 +2322,7 @@ Package pdftex.def Info: images/ch56/ch56-taskinterface.pdf used on input line
 LaTeX Warning: Reference `fig:ch56-tblswitches' on page 141 undefined on input 
 line 92.
 
-<images/ch56/ch56-histswitches.pdf, id=2475, 433.62pt x 289.08pt>
+<images/ch56/ch56-histswitches.pdf, id=2529, 433.62pt x 289.08pt>
 File: images/ch56/ch56-histswitches.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-histswitches.pdf>
@@ -2431,7 +2330,7 @@ Package pdftex.def Info: images/ch56/ch56-histswitches.pdf used on input line 9
 6.
 (pdftex.def)             Requested size: 418.25368pt x 278.85017pt.
 
-<images/ch56/ch56-longswitches.pdf, id=2476, 430.19896pt x 171.94589pt>
+<images/ch56/ch56-longswitches.pdf, id=2530, 430.19896pt x 171.94589pt>
 File: images/ch56/ch56-longswitches.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-longswitches.pdf>
@@ -2440,7 +2339,7 @@ Package pdftex.def Info: images/ch56/ch56-longswitches.pdf used on input line 1
 (pdftex.def)             Requested size: 292.77629pt x 117.02135pt.
  [141] [142 <./images/ch56/ch56-histswitches.pdf> <./images/ch56/ch56-longswitc
 hes.pdf>]
-<images/ch56/ch56-descstats.pdf, id=2530, 526.1828pt x 93.91628pt>
+<images/ch56/ch56-descstats.pdf, id=2583, 526.1828pt x 93.91628pt>
 File: images/ch56/ch56-descstats.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-descstats.pdf>
@@ -2448,7 +2347,7 @@ Package pdftex.def Info: images/ch56/ch56-descstats.pdf used on input line 117.
 
 (pdftex.def)             Requested size: 376.42575pt x 67.18974pt.
 
-<images/ch56/ch56-boxplot.pdf, id=2531, 254.81238pt x 367.46368pt>
+<images/ch56/ch56-boxplot.pdf, id=2584, 254.81238pt x 367.46368pt>
 File: images/ch56/ch56-boxplot.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-boxplot.pdf>
@@ -2459,14 +2358,14 @@ Package pdftex.def Info: images/ch56/ch56-boxplot.pdf used on input line 124.
 LaTeX Warning: Reference `fig:ch56-tblswitches' on page 143 undefined on input 
 line 133.
 
-<images/ch56/ch56-histikis.pdf, id=2533, 433.62pt x 289.08pt>
+<images/ch56/ch56-histikis.pdf, id=2586, 433.62pt x 289.08pt>
 File: images/ch56/ch56-histikis.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-histikis.pdf>
 Package pdftex.def Info: images/ch56/ch56-histikis.pdf used on input line 137.
 (pdftex.def)             Requested size: 418.25368pt x 278.85017pt.
 
-<images/ch56/ch56-longIKIs.pdf, id=2534, 430.19893pt x 171.94589pt>
+<images/ch56/ch56-longIKIs.pdf, id=2587, 430.19893pt x 171.94589pt>
 File: images/ch56/ch56-longIKIs.pdf Graphic file (type pdf)
 
 <use images/ch56/ch56-longIKIs.pdf>
@@ -2494,11 +2393,6 @@ Chapter 7.
 
 
 ] [155]
-
-Package natbib Warning: Citation `Iqbal2008' on page 156 undefined on input lin
-e 30.
-
-
 Overfull \hbox (2.3324pt too wide) in paragraph at lines 30--32
 \T1/ppl/m/n/10 The first con-tri-bu-tion is show-ing that \T1/ppl/b/n/10 the ty
 pe of self-interruption in-flu-ences peo-ple's decision-
@@ -2510,62 +2404,47 @@ Overfull \hbox (15.59117pt too wide) in paragraph at lines 51--52
 sts and feed-back on self-interruptions,
  []
 
-[159]
-
-Package natbib Warning: Citation `Lazar2015' on page 160 undefined on input lin
-e 68.
-
-[160]
-
-Package natbib Warning: Citation `Cangiano2009' on page 161 undefined on input 
-line 79.
-
-[161]
-
-Package natbib Warning: Citation `Driscoll2007' on page 162 undefined on input 
-line 87.
-
-[162]) [163] (./master.bbl
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 148.
+[159] [160] [161] [162]) [163] (./master.bbl
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 152.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 3547) in paragraph at lines 233--255
+) [164
+
+
+]
+Underfull \hbox (badness 3547) in paragraph at lines 268--290
 []\T1/ppl/m/n/10 Bi, X., & Bal-akr-ish-nan, R.  (2009).  Com-par-ing us-age of 
 a large high-resolution
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 233--255
+Underfull \hbox (badness 2538) in paragraph at lines 268--290
 \T1/ppl/m/n/10 dis-play to sin-gle or dual desk-top dis-plays for daily work.  
 In \T1/ppl/m/it/10 Pro-ceed-ings of the
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 233--255
+Underfull \hbox (badness 1163) in paragraph at lines 268--290
 \T1/ppl/m/it/10 sigchi con-fer-ence on hu-man fac-tors in com-put-ing sys-tems 
 (chi '09) \T1/ppl/m/n/10 (pp.[] 1005--1014).  Re-
  []
 
-[164
-
-
-] [165]
-Underfull \hbox (badness 2042) in paragraph at lines 725--748
+[165] [166]
+Underfull \hbox (badness 2042) in paragraph at lines 886--909
 []\T1/ppl/m/n/10 Dumais, S., Cutrell, E., Cadiz, J., Jancke, G., Sarin, R., & R
 ob-bins, D. C.  (2003).
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 725--748
+Underfull \hbox (badness 1168) in paragraph at lines 886--909
 \T1/ppl/m/n/10 Stuff I've Seen: A Sys-tem for Per-sonal In-for-ma-tion Re-triev
 al and Re-Use.  In \T1/ppl/m/it/10 Si-gir
  []
 
-[166]
-Underfull \hbox (badness 10000) in paragraph at lines 847--868
+
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1029
 \U/ntxsfmia/m/it/10 ÇÅ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/lmtt/m/
 n/10 / \U/ntxsfmia/m/it/10 ääÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10 äâÜàÅà 
 \T1/lmtt/m/n/10 / p\U/ntxsfmia/m/it/10 ÇÇÑ [] \T1/lmtt/m/n/10 -gonzalez [] .pdf
@@ -2575,26 +2454,26 @@ mtt/m/n/10 {&}key\U/ntxsfmia/m/it/10 É \T1/lmtt/m/n/10 = \U/ntxsfmia/m/it/10 äà
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 882--904
+Underfull \hbox (badness 1527) in paragraph at lines 1043--1065
 []\T1/ppl/m/n/10 Gould, S. J., Cox, A. L., & Brumby, D. P.  (2016).  Di-min-ish
 ed Con-trol in Crowd-
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 882--904
+Underfull \hbox (badness 3460) in paragraph at lines 1043--1065
 \T1/ppl/m/n/10 sourc-ing: An In-ves-ti-ga-tion of Crowd-worker Mul-ti-task-ing 
 Be-hav-ior.  \T1/ppl/m/it/10 ACM Trans-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 882--904
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1065
 \T1/ppl/m/it/10 ac-tions on Computer-Human In-ter-ac-tion\T1/ppl/m/n/10 , \T1/p
 pl/m/it/10 23\T1/ppl/m/n/10 (3), 1--27.  Re-trieved from []$\T1/lmtt/m/n/10 mes
 sage :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 882--904
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1065
 \T1/lmtt/m/n/10 {%}\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\
 T1/lmtt/m/n/10 DF\U/ntxsfmia/m/it/10 àÅàÅ\T1/lmtt/m/n/10 D [] -\U/ntxsfmia/m/it
 /10 äÉ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/it/10 Ö [] \T1/lmtt/m/n/10 -\U/ntxsfmia/m/
@@ -2605,8 +2484,8 @@ U/ntxsfmia/m/it/10 âÑä \T1/lmtt/m/n/10 @ ucl [] .ac [] .uk{%}\U/ntxsfmia/m/it/1
  /
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1107
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1268
 \U/ntxsfmia/m/it/10 ÇÅ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/lmtt/m/
 n/10 / \U/ntxsfmia/m/it/10 ÉàÇÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10 ÉàÅÉÑÜ
 Ç \T1/lmtt/m/n/10 / p\U/ntxsfmia/m/it/10 ÑäâÇ [] \T1/lmtt/m/n/10 -hanrahan [] .
@@ -2617,7 +2496,7 @@ pdf [] ?ip = \U/ntxsfmia/m/it/10 ÇÉâ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 Çá
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1107
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1268
 \T1/lmtt/m/n/10 ACTIVESERVICE{&}key = BF\U/ntxsfmia/m/it/10 Åà\T1/lmtt/m/n/10 A
 \U/ntxsfmia/m/it/10 É\T1/lmtt/m/n/10 EE\U/ntxsfmia/m/it/10 áâÜÖÇà\T1/lmtt/m/n/1
 0 C\U/ntxsfmia/m/it/10 Ü [] \T1/lmtt/m/n/10 .D\U/ntxsfmia/m/it/10 äÑÑÅäÅÇÑ\T1/l
@@ -2628,7 +2507,7 @@ lmtt/m/n/10 E\U/ntxsfmia/m/it/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1087--1107
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1268
 \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ
 \T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1
 /lmtt/m/n/10 E\U/ntxsfmia/m/it/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ\T1/
@@ -2636,32 +2515,160 @@ lmtt/m/n/10 {&}CFID = \U/ntxsfmia/m/it/10 ÇÅÇâÖÖáÖäâ\T1/lmtt/m/n/10 {&}CFTOKEN
 = \U/ntxsfmia/m/it/10 ÖÖÜÑÖÇÇÜ\T1/lmtt/m/n/10 {&}{[][]}{[][]}acm{[][]}{[][]} =
  []
 
-[167] [168] [169]
-Underfull \hbox (badness 1237) in paragraph at lines 1694--1714
+[168]
+Underfull \hbox (badness 6412) in paragraph at lines 1403--1421
+[]\T1/ppl/m/n/10 Iqbal, S. T., & Bai-ley, B. P.  (2008).  Ef-fects of In-tel-li
+-gent No-ti-fi-ca-tion Man-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1421
+\T1/ppl/m/n/10 age-ment on Users and Their Tasks.  In \T1/ppl/m/it/10 Chi'08 \T
+1/ppl/m/n/10 (pp.[] 93--102).  Re-trieved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1421
+\T1/ppl/m/n/10 from []$\T1/lmtt/m/n/10 http :// delivery [] .acm [] .org / \U/n
+txsfmia/m/it/10 ÇÅ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/lmtt/m/n/10
+ / \U/ntxsfmia/m/it/10 ÇÑáÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10 ÇÑÜàÅàÅ \T
+1/lmtt/m/n/10 / p\U/ntxsfmia/m/it/10 äÑ [] \T1/lmtt/m/n/10 -iqbal [] .pdf []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1421
+\T1/lmtt/m/n/10 ?ip = \U/ntxsfmia/m/it/10 ÇÉâ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m
+/it/10 Çá [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 Ü [] \T1/lmtt/m/n/10 .\U/ntxs
+fmia/m/it/10 Ü\T1/lmtt/m/n/10 {&}id = \U/ntxsfmia/m/it/10 ÇÑÜàÅàÅ\T1/lmtt/m/n/1
+0 {&}acc = ACTIVESERVICE{&}key = BF\U/ntxsfmia/m/it/10 Åà\T1/lmtt/m/n/10 A\U/nt
+xsfmia/m/it/10 É\T1/lmtt/m/n/10 EE\U/ntxsfmia/m/it/10 áâÜÖÇà\T1/lmtt/m/n/10 C\U
+/ntxsfmia/m/it/10 Ü []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1421
+\T1/lmtt/m/n/10 .D\U/ntxsfmia/m/it/10 äÑÑÅäÅÇÑ\T1/lmtt/m/n/10 A\U/ntxsfmia/m/it
+/10 ÇÜ\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Üà\T1/lmtt/m/n/10 B [] .\U/ntxsfmia/
+m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ\T1/lmtt/m/n/10 B\U/ntxsfmia/
+m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/i
+t/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/
+m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ\T1/lmtt/m/n/10 B\U/ntxsfmia/
+m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/i
+t/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ\T1/lmtt/m/n/10 {&}{[][]}{[][]}ac
+m{[][]}{[][]} =
+ []
+
+[169]
+Underfull \hbox (badness 2564) in paragraph at lines 1664--1687
+[]\T1/ppl/m/n/10 Lazar, A., Koehler, C., Tanen-baum, J., & Nguyen, D. H.  (2015
+).  Why We Use
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 1664--1687
+\T1/ppl/m/n/10 and Aban-don Smart De-vices.  In \T1/ppl/m/it/10 Ubi-comp'15 \T1
+/ppl/m/n/10 (pp.[] 635--646).  Os-aka, Japan.  Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1664--1687
+\T1/ppl/m/n/10 trieved from []$\T1/lmtt/m/n/10 http :// delivery [] .acm [] .or
+g / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/lmt
+t/m/n/10 / \U/ntxsfmia/m/it/10 ÉâÇÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10 Éâ
+ÅÖÉââ \T1/lmtt/m/n/10 / p\U/ntxsfmia/m/it/10 áÑÜ [] \T1/lmtt/m/n/10 -lazar [] .
+pdf []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1664--1687
+\T1/lmtt/m/n/10 ?ip = \U/ntxsfmia/m/it/10 ÇÉâ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m
+/it/10 Çá [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 Ü [] \T1/lmtt/m/n/10 .\U/ntxs
+fmia/m/it/10 Ü\T1/lmtt/m/n/10 {&}id = \U/ntxsfmia/m/it/10 ÉâÅÖÉââ\T1/lmtt/m/n/1
+0 {&}acc = ACTIVESERVICE{&}key = BF\U/ntxsfmia/m/it/10 Åà\T1/lmtt/m/n/10 A\U/nt
+xsfmia/m/it/10 É\T1/lmtt/m/n/10 EE\U/ntxsfmia/m/it/10 áâÜÖÇà\T1/lmtt/m/n/10 C\U
+/ntxsfmia/m/it/10 Ü []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1664--1687
+\T1/lmtt/m/n/10 .D\U/ntxsfmia/m/it/10 äÑÑÅäÅÇÑ\T1/lmtt/m/n/10 A\U/ntxsfmia/m/it
+/10 ÇÜ\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Üà\T1/lmtt/m/n/10 B [] .\U/ntxsfmia/
+m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ\T1/lmtt/m/n/10 B\U/ntxsfmia/
+m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/i
+t/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/
+m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ\T1/lmtt/m/n/10 B\U/ntxsfmia/
+m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/i
+t/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ\T1/lmtt/m/n/10 {&}{[][]}{[][]}ac
+m{[][]}{[][]} =
+ []
+
+
+Underfull \hbox (badness 7415) in paragraph at lines 1890--1908
+[]\T1/ppl/m/n/10 Lyngs, U.  (2018).  A Cog-ni-tive De-sign Space for Sup-port-i
+ng Self-Regulation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1908
+\T1/ppl/m/n/10 of ICT Use.  In \T1/ppl/m/it/10 Chi'18 ex-tended ab-stracts.  \T
+1/ppl/m/n/10 Mon-treal, Canada.  Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1908
+\T1/ppl/m/n/10 trieved from []$\T1/lmtt/m/n/10 http :// delivery [] .acm [] .or
+g / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/lmt
+t/m/n/10 / \U/ntxsfmia/m/it/10 ÑÇäÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10 ÑÇ
+âÅÉäá \T1/lmtt/m/n/10 / SRC\U/ntxsfmia/m/it/10 ÇÖ []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1908
+\T1/lmtt/m/n/10 .pdf [] ?ip = \U/ntxsfmia/m/it/10 ÇÉâ [] \T1/lmtt/m/n/10 .\U/nt
+xsfmia/m/it/10 Çá [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 Ü [] \T1/lmtt/m/n/10 
+.\U/ntxsfmia/m/it/10 Ü\T1/lmtt/m/n/10 {&}id = \U/ntxsfmia/m/it/10 ÑÇâÅÉäá\T1/lm
+tt/m/n/10 {&}acc = OPEN{&}key = BF\U/ntxsfmia/m/it/10 Åà\T1/lmtt/m/n/10 A\U/ntx
+sfmia/m/it/10 É\T1/lmtt/m/n/10 EE\U/ntxsfmia/m/it/10 áâÜÖÇà\T1/lmtt/m/n/10 C\U/
+ntxsfmia/m/it/10 Ü []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1890--1908
+\T1/lmtt/m/n/10 .D\U/ntxsfmia/m/it/10 äÑÑÅäÅÇÑ\T1/lmtt/m/n/10 A\U/ntxsfmia/m/it
+/10 ÇÜ\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Üà\T1/lmtt/m/n/10 B [] .\U/ntxsfmia/
+m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ\T1/lmtt/m/n/10 B\U/ntxsfmia/
+m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/i
+t/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/
+m/it/10 á\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÉÇâÇÖÖÜÇÇ\T1/lmtt/m/n/10 F\U/ntxs
+fmia/m/it/10 ÑÖÑà\T1/lmtt/m/n/10 {&}{[][]}{[][]}acm{[][]}{[][]} =
+ []
+
+[170]
+Underfull \hbox (badness 1237) in paragraph at lines 1976--1996
 []\T1/ppl/m/n/10 Mangen, A., & Ve-lay, J.-L.  (2010).  Dig-i-tiz-ing lit-er-acy
 : re-flec-tions on the hap-tics of
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 1694--1714
+Underfull \hbox (badness 1796) in paragraph at lines 1976--1996
 \T1/ppl/m/n/10 writ-ing.  In M. H. Zadeh (Ed.[]), \T1/ppl/m/it/10 Ad-vances in 
 hap-tics \T1/ppl/m/n/10 (pp.[] 385--402).  In-Tech.  Re-
  []
 
 
-Underfull \hbox (badness 5563) in paragraph at lines 1728--1750
+Underfull \hbox (badness 5563) in paragraph at lines 2010--2032
 []\T1/ppl/m/n/10 Mark, G., Cz-er-win-ski, M., & Iqbal, S. T.  (2018).  Ef-fects
  of In-di-vid-ual Dif-
  []
 
 
-Underfull \hbox (badness 7832) in paragraph at lines 1728--1750
+Underfull \hbox (badness 7832) in paragraph at lines 2010--2032
 \T1/ppl/m/n/10 fer-ences in Block-ing Work-place Dis-trac-tions.  In \T1/ppl/m/
 it/10 Chi'18.  \T1/ppl/m/n/10 Mon-treal, Canada.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1750
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2032
 \T1/ppl/m/n/10 Re-trieved from []$\T1/lmtt/m/n/10 http :// delivery [] .acm [] 
 .org / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/
 lmtt/m/n/10 / \U/ntxsfmia/m/it/10 ÑÇâÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10
@@ -2669,7 +2676,7 @@ lmtt/m/n/10 / \U/ntxsfmia/m/it/10 ÑÇâÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1750
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2032
 \T1/lmtt/m/n/10 .pdf [] ?ip = \U/ntxsfmia/m/it/10 ÇäÉ [] \T1/lmtt/m/n/10 .\U/nt
 xsfmia/m/it/10 ÉÜÉ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÑá [] \T1/lmtt/m/n/
 10 .\U/ntxsfmia/m/it/10 ÇâÉ\T1/lmtt/m/n/10 {&}id = \U/ntxsfmia/m/it/10 ÑÇàÑááá\
@@ -2680,7 +2687,7 @@ sfmia/m/it/10 ÑÜ []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1728--1750
+Underfull \hbox (badness 10000) in paragraph at lines 2010--2032
 \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ
 \T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1
 /lmtt/m/n/10 E\U/ntxsfmia/m/it/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ [] 
@@ -2693,7 +2700,7 @@ m{[][]}{[][]} =
  []
 
 
-Underfull \hbox (badness 3792) in paragraph at lines 1728--1750
+Underfull \hbox (badness 3792) in paragraph at lines 2010--2032
 \U/ntxsfmia/m/it/10 ÇÜÉÖâÖÖâÅÅ\T1/lmtt/m/n/10 {[][]}b\U/ntxsfmia/m/it/10 áàÇÜ\T
 1/lmtt/m/n/10 c\U/ntxsfmia/m/it/10 áäâ\T1/lmtt/m/n/10 fdec\U/ntxsfmia/m/it/10 Ö
 Ö\T1/lmtt/m/n/10 cb\U/ntxsfmia/m/it/10 É\T1/lmtt/m/n/10 d\U/ntxsfmia/m/it/10 àÖ
@@ -2703,67 +2710,105 @@ i: $\U/ntxsfmia/m/it/10 ÇÅ [] \T1/ppl/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖÜ \T1/ppl/
 m/n/10 /
  []
 
-[170] [171] [172]
-Underfull \hbox (badness 3260) in paragraph at lines 2704--2729
+
+Underfull \hbox (badness 1014) in paragraph at lines 2148--2169
+[]\T1/ppl/m/n/10 Mark, G., Voida, S., & Cardello, A. V.  (2012).  "A Pace Not D
+ic-tated by Elec-trons":
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 2148--2169
+\T1/ppl/m/n/10 USA.  Re-trieved from []$\T1/lmtt/m/n/10 http :// delivery [] .a
+cm [] .org / \U/ntxsfmia/m/it/10 ÇÅ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 ÇÇÖ
+Ü \T1/lmtt/m/n/10 / \U/ntxsfmia/m/it/10 ÉÉÇÅÅÅÅ \T1/lmtt/m/n/10 / \U/ntxsfmia/m
+/it/10 ÉÉÅààÜÖ \T1/lmtt/m/n/10 / p\U/ntxsfmia/m/it/10 ÜÜÜ [] \T1/lmtt/m/n/10 -m
+ark []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2148--2169
+\T1/lmtt/m/n/10 .pdf [] ?ip = \U/ntxsfmia/m/it/10 ÇÉâ [] \T1/lmtt/m/n/10 .\U/nt
+xsfmia/m/it/10 Çá [] \T1/lmtt/m/n/10 .\U/ntxsfmia/m/it/10 Ü [] \T1/lmtt/m/n/10 
+.\U/ntxsfmia/m/it/10 Ü\T1/lmtt/m/n/10 {&}id = \U/ntxsfmia/m/it/10 ÉÉÅààÜÖ\T1/lm
+tt/m/n/10 {&}acc = ACTIVESERVICE{&}key = BF\U/ntxsfmia/m/it/10 Åà\T1/lmtt/m/n/1
+0 A\U/ntxsfmia/m/it/10 É\T1/lmtt/m/n/10 EE\U/ntxsfmia/m/it/10 áâÜÖÇà\T1/lmtt/m/
+n/10 C\U/ntxsfmia/m/it/10 Ü []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2148--2169
+\T1/lmtt/m/n/10 .D\U/ntxsfmia/m/it/10 äÑÑÅäÅÇÑ\T1/lmtt/m/n/10 A\U/ntxsfmia/m/it
+/10 ÇÜ\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Üà\T1/lmtt/m/n/10 B [] .\U/ntxsfmia/
+m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ\T1/lmtt/m/n/10 B\U/ntxsfmia/
+m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/i
+t/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ [] \T1/lmtt/m/n/10 .\U/ntxsfmia/
+m/it/10 Ö\T1/lmtt/m/n/10 D\U/ntxsfmia/m/it/10 ÖàÅÉ\T1/lmtt/m/n/10 B\U/ntxsfmia/
+m/it/10 Å\T1/lmtt/m/n/10 C\U/ntxsfmia/m/it/10 Ñ\T1/lmtt/m/n/10 E\U/ntxsfmia/m/i
+t/10 Ñâ\T1/lmtt/m/n/10 B\U/ntxsfmia/m/it/10 ÑÜ\T1/lmtt/m/n/10 {&}{[][]}{[][]}ac
+m{[][]}{[][]} =
+ []
+
+[171] [172] [173]
+Underfull \hbox (badness 3260) in paragraph at lines 3075--3100
 \T1/ppl/m/n/10 Doc-u-ments in Cross-Media In-for-ma-tion Spaces.  In \T1/ppl/m/
 it/10 Pro-ceed-ings of the in-ter-na-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2704--2729
+Underfull \hbox (badness 10000) in paragraph at lines 3075--3100
 \T1/ppl/m/n/10 trieved from []$\T1/lmtt/m/n/10 https :// www [] .academia [] .e
 du / \U/ntxsfmia/m/it/10 ÉÖÉäÜÖÜÅ \T1/lmtt/m/n/10 / PimVis{[][]}Exploring{[][]}
 and{[][]}Re []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2704--2729
+Underfull \hbox (badness 10000) in paragraph at lines 3075--3100
 \T1/lmtt/m/n/10 -finding{[][]}Documents{[][]}in{[][]}Cross [] -Media{[][]}Infor
 mation{[][]}Spaces{%}\U/ntxsfmia/m/it/10 Ü\T1/lmtt/m/n/10 Cnhttp ://
  []
 
-[173]
-Underfull \hbox (badness 2237) in paragraph at lines 2998--3017
+[174]
+Underfull \hbox (badness 2237) in paragraph at lines 3369--3388
 []\T1/ppl/m/n/10 Zhang, J., & Wang, H.  (2009, jan).  An ex-plo-ration of the r
 e-la-tions be-tween ex-
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 2998--3017
+Underfull \hbox (badness 4096) in paragraph at lines 3369--3388
 \T1/ppl/m/n/10 ter-nal rep-re-sen-ta-tions and work-ing mem-ory.  \T1/ppl/m/it/
 10 PloS one\T1/ppl/m/n/10 , \T1/ppl/m/it/10 4\T1/ppl/m/n/10 (8), e6513.  Re-tri
 eved
  []
 
-) [174]
+) [175] [176]
 \openout2 = `./tex/appendix/appendix.aux'.
 
  (./tex/appendix/appendix.tex
 Appendix A.
-<images/Informationsheet.pdf, id=2907, 597.23125pt x 844.15375pt>
+<images/Informationsheet.pdf, id=3008, 597.23125pt x 844.15375pt>
 File: images/Informationsheet.pdf Graphic file (type pdf)
 
 <use images/Informationsheet.pdf>
 Package pdftex.def Info: images/Informationsheet.pdf used on input line 6.
 (pdftex.def)             Requested size: 418.25368pt x 591.18698pt.
- [175
+ [177
 
 
-] [176 <./images/Informationsheet.pdf>]
+] [178 <./images/Informationsheet.pdf>]
 Appendix B.
-<images/Consentform.pdf, id=2947, 597.23125pt x 844.15375pt>
+<images/Consentform.pdf, id=3048, 597.23125pt x 844.15375pt>
 File: images/Consentform.pdf Graphic file (type pdf)
 
 <use images/Consentform.pdf>
 Package pdftex.def Info: images/Consentform.pdf used on input line 15.
 (pdftex.def)             Requested size: 418.25368pt x 591.18698pt.
- [177
+ [179
 
-] [178 <./images/Consentform.pdf>]
+] [180 <./images/Consentform.pdf>]
 Appendix C.
-[179
+[181
 
-] [180] [181]) [182]
+] [182] [183]) [184]
 
 Package natbib Warning: There were undefined citations.
 
@@ -2787,10 +2832,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 39057 strings out of 493014
- 772107 string characters out of 6133351
- 848550 words of memory out of 5000000
- 41149 multiletter control sequences out of 15000+600000
+ 39120 strings out of 493014
+ 773241 string characters out of 6133351
+ 852240 words of memory out of 5000000
+ 41198 multiletter control sequences out of 15000+600000
  103919 words of font info for 113 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  67i,15n,103p,10587b,906s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2809,10 +2854,10 @@ blic/lm/lmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino
 /uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a
 .pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on master.pdf (183 pages, 3348067 bytes).
+Output written on master.pdf (185 pages, 3356982 bytes).
 PDF statistics:
- 3187 PDF objects out of 3580 (max. 8388607)
- 2739 compressed objects within 28 object streams
- 578 named destinations out of 1000 (max. 500000)
+ 3290 PDF objects out of 3580 (max. 8388607)
+ 2839 compressed objects within 29 object streams
+ 592 named destinations out of 1000 (max. 500000)
  1147 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -215,12 +215,12 @@
 \contentsline {subsubsection}{Different participant populations}{162}{section*.130}
 \contentsline {section}{\numberline {7.4}Conclusion}{163}{section.7.4}
 \contentsline {chapter}{References}{164}{chapter*.131}
-\contentsline {chapter}{Appendix \numberline {A}Information sheet}{175}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Consent form}{177}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Interview script}{179}{Appendix.a.C}
-\contentsline {subsubsection}{Before the interview}{179}{section*.132}
-\contentsline {subsubsection}{Work}{179}{section*.133}
-\contentsline {subsubsection}{Number entry}{180}{section*.134}
-\contentsline {subsubsection}{Environment}{181}{section*.135}
-\contentsline {subsubsection}{Demonstration}{181}{section*.136}
-\contentsline {subsubsection}{After the interview}{182}{section*.137}
+\contentsline {chapter}{Appendix \numberline {A}Information sheet}{177}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Consent form}{179}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Interview script}{181}{Appendix.a.C}
+\contentsline {subsubsection}{Before the interview}{181}{section*.132}
+\contentsline {subsubsection}{Work}{181}{section*.133}
+\contentsline {subsubsection}{Number entry}{182}{section*.134}
+\contentsline {subsubsection}{Environment}{183}{section*.135}
+\contentsline {subsubsection}{Demonstration}{183}{section*.136}
+\contentsline {subsubsection}{After the interview}{184}{section*.137}

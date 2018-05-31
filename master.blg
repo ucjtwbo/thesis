@@ -24,32 +24,25 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10664 items from 5000.
+Reallocated field_info (elt_size=4) to 10760 items from 5000.
 Database file #1: master.bib
-Repeated entry---line 3204 of file master.bib
+Repeated entry---line 1075 of file master.bib
+ : @inproceedings{Olsen2008
+ :                         ,
+I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 5208 of file master.bib
  : @article{Li2015
  :                ,
 I'm skipping whatever remains of this entry
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Repeated entry---line 6324 of file master.bib
+Repeated entry---line 6732 of file master.bib
  : @inproceedings{Wiseman2011
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6421 of file master.bib
- : @article{Olsen2008
- :                   ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Lyng2018"
-Warning--I didn't find a database entry for "Bailey2001"
-Warning--I didn't find a database entry for "Carrier2015"
-Warning--I didn't find a database entry for "Mark2012"
-Warning--I didn't find a database entry for "Cangiano2009"
-Warning--I didn't find a database entry for "Soboczenski2013"
 Warning--I didn't find a database entry for "Payne2013"
 Warning--I didn't find a database entry for "Back2013b"
 Warning--I didn't find a database entry for "Wiseman2014"
 Warning--I didn't find a database entry for "Kohn2000"
-Warning--I didn't find a database entry for "Reason1990"
 Warning--I didn't find a database entry for "Wiseman2013b"
 Warning--I didn't find a database entry for "Card1983"
 Warning--I didn't find a database entry for "Norman2002"
@@ -60,51 +53,48 @@ Warning--I didn't find a database entry for "Baddeley1986"
 Warning--I didn't find a database entry for "Miller1956"
 Warning--I didn't find a database entry for "Morgan2014"
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Iqbal2008"
-Warning--I didn't find a database entry for "Lazar2015"
-Warning--I didn't find a database entry for "Driscoll2007"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No institution in Rzeszotarski2013
 Warning--No address in Rzeszotarski2013
-You've used 94 entries,
+You've used 106 entries,
             6951 wiz_defined-function locations,
-            2073 strings with 88918 characters,
-and the built_in function-call counts, 220314 in all, are:
-= -- 28010
-> -- 1927
-< -- 10673
-+ -- 11413
-- -- 190
-* -- 14124
-:= -- 38972
-add.period$ -- 469
-call.type$ -- 94
-change.case$ -- 1668
+            2144 strings with 95899 characters,
+and the built_in function-call counts, 245752 in all, are:
+= -- 31281
+> -- 2158
+< -- 11809
++ -- 12577
+- -- 214
+* -- 15645
+:= -- 43204
+add.period$ -- 529
+call.type$ -- 106
+change.case$ -- 1878
 chr.to.int$ -- 0
-cite$ -- 190
-duplicate$ -- 6032
-empty$ -- 7995
-format.name$ -- 3076
-if$ -- 41749
+cite$ -- 214
+duplicate$ -- 6764
+empty$ -- 9006
+format.name$ -- 3405
+if$ -- 46776
 int.to.chr$ -- 0
-int.to.str$ -- 282
+int.to.str$ -- 318
 missing$ -- 0
-newline$ -- 2684
-num.names$ -- 762
-pop$ -- 4100
+newline$ -- 3014
+num.names$ -- 862
+pop$ -- 4712
 preamble$ -- 1
-purify$ -- 400
+purify$ -- 448
 quote$ -- 0
-skip$ -- 13890
+skip$ -- 15538
 stack$ -- 0
-substring$ -- 12708
-swap$ -- 3456
-text.length$ -- 436
+substring$ -- 14043
+swap$ -- 3860
+text.length$ -- 500
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 10464
+type$ -- 11808
 warning$ -- 2
-while$ -- 1102
+while$ -- 1225
 width$ -- 0
-write$ -- 3444
+write$ -- 3854
 (There were 3 error messages)
