@@ -1420,40 +1420,6 @@ Iqbal, S\BPBI T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Iqbal%
-\ \BBA {} Horvitz%
-}{%
-Iqbal%
-\ \BBA {} Horvitz%
-}{%
-{\protect \APACyear {2007}}%
-}]{%
-Iqbal2007}
-\APACinsertmetastar {%
-Iqbal2007}%
-\begin{APACrefauthors}%
-Iqbal, S\BPBI T.%
-\BCBT {}\ \BBA {} Horvitz, E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Disruption and recovery of computing tasks: field
-  study, analysis, and directions}} {{Disruption and recovery of computing
-  tasks: field study, analysis, and directions}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {CHI '07} {Chi '07}\ (\BPGS\ 677----686).
-\newblock
-\APACaddressPublisher{San Jose, California, USA}{}.
-\newblock
-\begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?id=1240730}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1145/1240624.1240730} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Janssen%
 \ \BBA {} Gray%
 }{%
@@ -1961,6 +1927,32 @@ MacKenzie, I\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Makri%
+}{%
+Makri%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Makri2008}
+\APACinsertmetastar {%
+Makri2008}%
+\begin{APACrefauthors}%
+Makri, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\unskip\
+\newblock
+\APACrefbtitle {{A study of lawyers ' information behaviour leading to the}}
+  {{A study of lawyers ' information behaviour leading to the}}\
+  \APACtypeAddressSchool {\BUPhD}{}{}.
+\unskip\
+\newblock
+\APACaddressSchool {}{University College London}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Mangen%
 \ \BBA {} Velay%
 }{%
@@ -2109,7 +2101,7 @@ Mark%
 Mark%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2016}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
 Mark2016}
 \APACinsertmetastar {%
 Mark2016}%
@@ -2122,7 +2114,7 @@ Mark, G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2016}{}{}.
+\APACrefYearMonthDay{2016{\protect \BCnt {1}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{Email duration, batching and self-interruption:
   Patterns of email use on productivity and stress}} {{Email duration, batching
@@ -2130,6 +2122,46 @@ Mark, G.%
   stress}}.{\BBCQ}
 \newblock
 \BIn{} \APACrefbtitle {CHI'16} {Chi'16}\ (\BPGS\ 1717--1728).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mark%
+, Iqbal%
+, Czerwinski%
+, Johns%
+\BCBL {}\ \BBA {} Sano%
+}{%
+Mark%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+Mark2016a}
+\APACinsertmetastar {%
+Mark2016a}%
+\begin{APACrefauthors}%
+Mark, G.%
+, Iqbal, S\BPBI T.%
+, Czerwinski, M.%
+, Johns, P.%
+\BCBL {}\ \BBA {} Sano, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Neurotics Can't Focus: An in situ Study of Online
+  Multitasking in the Workplace}} {{Neurotics Can't Focus: An in situ Study of
+  Online Multitasking in the Workplace}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI '16} {Chi '16}\ (\BPGS\ 1739--1744).
+\newblock
+\APACaddressPublisher{San Jose, CA, USA}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/2860000/2858202/p1739-mark.pdf?ip=128.16.5.5{\&}id=2858202{\&}acc=CHORUS{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.6D218144511F3437{\&}{\_}{\_}acm{\_}{\_}=1520681227{\_}d66922137944034c993df83641b5b0a7}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2858036.2858202} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2664,6 +2696,40 @@ Reason, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Reddy%
+\ \BBA {} Dourish%
+}{%
+Reddy%
+\ \BBA {} Dourish%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Reddy2002}
+\APACinsertmetastar {%
+Reddy2002}%
+\begin{APACrefauthors}%
+Reddy, M.%
+\BCBT {}\ \BBA {} Dourish, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A finger on the pulse: temporal rhythms and information
+  seeking in medical work}} {{A finger on the pulse: temporal rhythms and
+  information seeking in medical work}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the ACM Conference on Computer Supported
+  Collaborative Work (CSCW '02)} {Proceedings of the acm conference on computer
+  supported collaborative work (cscw '02)}\ (\BPGS\ 344--353).
+\newblock
+\begin{APACrefURL} \url{http://portal.acm.org/citation.cfm?id=587078.587126}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/587078.587126} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Robertson%
 \ \protect \BOthers {.}}{%
 Robertson%
@@ -2894,6 +2960,44 @@ Sellberg, C.%
 \APACjournalVolNumPages{Cognition, Technology and Work}{16}{}{187--201}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s10111-013-0256-9} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Skatova%
+\ \protect \BOthers {.}}{%
+Skatova%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Skatova2016}
+\APACinsertmetastar {%
+Skatova2016}%
+\begin{APACrefauthors}%
+Skatova, A.%
+, Bedwell, B.%
+, Shipp, V.%
+, Huang, Y.%
+, Young, A.%
+, Rodden, T.%
+\BCBL {}\ \BBA {} Bertenshaw, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Role of ICT in Office Work Breaks}} {{The Role of
+  ICT in Office Work Breaks}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'16} {Chi'16}\ (\BPGS\ 3049--3060).
+\newblock
+\APACaddressPublisher{San Jose, CA, USA}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/2860000/2858443/p3049-skatova.pdf?ip=128.16.5.5{\&}id=2858443{\&}acc=ACTIVE
+  SERVICE{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}{\_}{\_}acm{\_}{\_}=1520681051{\_}49163cbfb34fb3f374dcaef12aa3a62b}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2858036.2858443} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
