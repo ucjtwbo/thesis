@@ -62,34 +62,6 @@ Altmann, E\BPBI M.%
 
 \bibitem [\protect \citeauthoryear {%
 Back%
-, Brumby%
-\BCBL {}\ \BBA {} Cox%
-}{%
-Back%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2010}}%
-}]{%
-Back2010}
-\APACinsertmetastar {%
-Back2010}%
-\begin{APACrefauthors}%
-Back, J.%
-, Brumby, D\BPBI P.%
-\BCBL {}\ \BBA {} Cox, A\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Locked-out : Investigating the Effectiveness of System
-  Lockouts to Reduce Errors in Routine Tasks}} {{Locked-out : Investigating the
-  Effectiveness of System Lockouts to Reduce Errors in Routine Tasks}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {CHI 2010.} {Chi 2010.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Back%
 , Cox%
 \BCBL {}\ \BBA {} Brumby%
 }{%
@@ -154,71 +126,6 @@ Bailey, B\BPBI P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Barchard%
-\ \BBA {} Pace%
-}{%
-Barchard%
-\ \BBA {} Pace%
-}{%
-{\protect \APACyear {2011}}%
-}]{%
-Barchard2011}
-\APACinsertmetastar {%
-Barchard2011}%
-\begin{APACrefauthors}%
-Barchard, K\BPBI a.%
-\BCBT {}\ \BBA {} Pace, L\BPBI a.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Preventing human error: The impact of data entry
-  methods on data accuracy and statistical results}} {{Preventing human error:
-  The impact of data entry methods on data accuracy and statistical
-  results}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Computers in Human Behavior}{27}{5}{1834--1839}.
-\newblock
-\begin{APACrefURL} \url{http://dx.doi.org/10.1016/j.chb.2011.04.004}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.chb.2011.04.004} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Barchard%
-\ \BBA {} Verenikina%
-}{%
-Barchard%
-\ \BBA {} Verenikina%
-}{%
-{\protect \APACyear {2013}}%
-}]{%
-Barchard2013}
-\APACinsertmetastar {%
-Barchard2013}%
-\begin{APACrefauthors}%
-Barchard, K\BPBI a.%
-\BCBT {}\ \BBA {} Verenikina, Y.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Improving data accuracy: Selecting the best data
-  checking technique}} {{Improving data accuracy: Selecting the best data
-  checking technique}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Computers in Human Behavior}{29}{5}{1917--1922}.
-\newblock
-\begin{APACrefURL} \url{http://dx.doi.org/10.1016/j.chb.2013.02.021}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.chb.2013.02.021} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Bardram%
 , Bunde-Pedersen%
 \BCBL {}\ \BBA {} Soegaard%
@@ -250,6 +157,29 @@ Bardram, J\BPBI E.%
 \newblock
 \begin{APACrefDOI} \doi{http://doi.acm.org/10.1145/1124772.1124805}
   \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+BBC%
+}{%
+BBC%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+BBC2018}
+\APACinsertmetastar {%
+BBC2018}%
+\begin{APACrefauthors}%
+BBC.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{Junior doctors' job offers withdrawn after blunder}.} {{Junior
+  doctors' job offers withdrawn after blunder}.}
+\newblock
+\begin{APACrefURL} \url{http://www.bbc.co.uk/news/uk-44020235} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -286,6 +216,34 @@ Bi, X.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1145/1518701.1518855} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Blandford%
+, Furniss%
+\BCBL {}\ \BBA {} Makri%
+}{%
+Blandford%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+Blandford2016}
+\APACinsertmetastar {%
+Blandford2016}%
+\begin{APACrefauthors}%
+Blandford, A.%
+, Furniss, D.%
+\BCBL {}\ \BBA {} Makri, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Qualitative HCI Research: Going Behind the Scenes}}
+  {{Qualitative HCI Research: Going Behind the Scenes}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Synthesis Lectures on Human-Centered
+  Informatics}{9}{1}{1--115}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -482,6 +440,33 @@ Byrne, M\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Cairns%
+\ \BBA {} Cox%
+}{%
+Cairns%
+\ \BBA {} Cox%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Cairns2008}
+\APACinsertmetastar {%
+Cairns2008}%
+\begin{APACrefauthors}%
+Cairns, P.%
+\BCBT {}\ \BBA {} Cox, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2008}.
+\newblock
+\APACrefbtitle {{Research Methods for Human-Computer Interaction}} {{Research
+  Methods for Human-Computer Interaction}}\ (P.~Cairns\ \BBA {} A\BPBI L.~Cox,
+  \BEDS{}).
+\newblock
+\APACaddressPublisher{New York, NY, USA}{Cambridge University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Cangiano%
 \ \BBA {} Hollan%
 }{%
@@ -641,7 +626,7 @@ Constine, J.%
   Insights}.} {{Instagram CEO confirms upcoming "time spent" Us-age Insights}.}
 \newblock
 \begin{APACrefURL}
-  \url{https://techcrunch.com/2018/05/15/instagram-usage-insights/}
+  [{2018-05-31}]\url{https://techcrunch.com/2018/05/15/instagram-usage-insights/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -739,39 +724,6 @@ Czerwinski, M.%
 \begin{APACrefURL}
   \url{http://research.microsoft.com/en-us/um/redmond/groups/cue/publications/interact2003-productivitylargedisplays.pdf}
   \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-{De Luca}%
-, Langheinrich%
-\BCBL {}\ \BBA {} Hussmann%
-}{%
-{De Luca}%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2010}}%
-}]{%
-DeLuca2010}
-\APACinsertmetastar {%
-DeLuca2010}%
-\begin{APACrefauthors}%
-{De Luca}, A.%
-, Langheinrich, M.%
-\BCBL {}\ \BBA {} Hussmann, H.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Towards understanding ATM security: a field study of
-  real world ATM use}} {{Towards understanding ATM security: a field study of
-  real world ATM use}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Proc. SOUPS 2010}{}{}{1--10}.
-\newblock
-\begin{APACrefURL} \url{http://portal.acm.org/citation.cfm?id=1837110.1837131}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1145/1837110.1837131} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -965,34 +917,6 @@ Furniss, D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Gong%
-\ \BBA {} Zhang%
-}{%
-Gong%
-\ \BBA {} Zhang%
-}{%
-{\protect \APACyear {2009}}%
-}]{%
-Gong2009}
-\APACinsertmetastar {%
-Gong2009}%
-\begin{APACrefauthors}%
-Gong, Y.%
-\BCBT {}\ \BBA {} Zhang, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Effects of Information Displays for Hyperlipidemia}}
-  {{Effects of Information Displays for Hyperlipidemia}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Human Interface and the Management of Information.
-  Information and Interaction} {Human interface and the management of
-  information. information and interaction}\ (\BPGS\ 503--512).
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Gonzalez%
 \ \BBA {} Mark%
 }{%
@@ -1029,11 +953,49 @@ Gonzalez, V\BPBI M.%
 
 \bibitem [\protect \citeauthoryear {%
 Gould%
+, Brumby%
+\BCBL {}\ \BBA {} Cox%
+}{%
+Gould%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+Gould2013a}
+\APACinsertmetastar {%
+Gould2013a}%
+\begin{APACrefauthors}%
+Gould, S\BPBI J.%
+, Brumby, D\BPBI P.%
+\BCBL {}\ \BBA {} Cox, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{sep}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{What does it mean for an interruption to be relevant?
+  An investigation of relevance as a memory effect}} {{What does it mean for an
+  interruption to be relevant? An investigation of relevance as a memory
+  effect}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the Human Factors and Ergonomics Society
+  Annual Meeting}{57}{1}{149--153}.
+\newblock
+\begin{APACrefURL}
+  \url{http://pro.sagepub.com/lookup/doi/10.1177/1541931213571034}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1177/1541931213571034} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gould%
 , Cox%
 \BCBL {}\ \BBA {} Brumby%
 }{%
 Gould%
-\ \protect \BOthers {.}}{%
+, Cox%
+\BCBL {}\ \BBA {} Brumby%
+}{%
 {\protect \APACyear {2016}}%
 }]{%
 Gould2016a}
@@ -1061,6 +1023,47 @@ Gould, S\BPBI J.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1145/2928269} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gould%
+, Cox%
+, Brumby%
+\BCBL {}\ \BBA {} Wickersham%
+}{%
+Gould%
+, Cox%
+, Brumby%
+\BCBL {}\ \BBA {} Wickersham%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Gould2016b}
+\APACinsertmetastar {%
+Gould2016b}%
+\begin{APACrefauthors}%
+Gould, S\BPBI J.%
+, Cox, A\BPBI L.%
+, Brumby, D\BPBI P.%
+\BCBL {}\ \BBA {} Wickersham, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Now Check Your Input: Brief Task Lockouts Encourage
+  Checking, Longer Lockouts Encourage Task Switching}} {{Now Check Your Input:
+  Brief Task Lockouts Encourage Checking, Longer Lockouts Encourage Task
+  Switching}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems (CHI '16)} {Proceedings of the sigchi conference on human
+  factors in computing systems (chi '16)}\ (\BPGS\ 3311--3323).
+\newblock
+\begin{APACrefURL} \url{http://doi.acm.org/10.1145/2858036.2858067}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2858036.2858067} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1164,41 +1167,6 @@ Gray, W\BPBI D.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1037/0033-295X.113.3.461} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Green%
-\ \protect \BOthers {.}}{%
-Green%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2014}}%
-}]{%
-Green2014}
-\APACinsertmetastar {%
-Green2014}%
-\begin{APACrefauthors}%
-Green, R\BPBI a.%
-, Hripcsak, G.%
-, Salmasian, H.%
-, Lazar, E\BPBI J.%
-, Bostwick, S\BPBI B.%
-, Bakken, S\BPBI R.%
-\BCBL {}\ \BBA {} Vawdrey, D\BPBI K.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{dec}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Intercepting Wrong-Patient Orders in a Computerized
-  Provider Order Entry System.}} {{Intercepting Wrong-Patient Orders in a
-  Computerized Provider Order Entry System.}}{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Annals of emergency medicine}{}{}{}.
-\newblock
-\begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/25534652}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.annemergmed.2014.11.017} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1394,6 +1362,40 @@ Iqbal%
 Iqbal%
 \ \BBA {} Bailey%
 }{%
+{\protect \APACyear {2005}}%
+}]{%
+Iqbal2005}
+\APACinsertmetastar {%
+Iqbal2005}%
+\begin{APACrefauthors}%
+Iqbal, S\BPBI T.%
+\BCBT {}\ \BBA {} Bailey, B\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Investigating the Effectiveness of Mental Workload as a
+  Predictor of Opportune Moments for Interruption}} {{Investigating the
+  Effectiveness of Mental Workload as a Predictor of Opportune Moments for
+  Interruption}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI '05} {Chi '05}\ (\BPGS\ 1489--1492).
+\newblock
+\APACaddressPublisher{Portland, OR, USA}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://interruptions.net/literature/Iqbal-CHI05-p1489-iqbal.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Iqbal%
+\ \BBA {} Bailey%
+}{%
+Iqbal%
+\ \BBA {} Bailey%
+}{%
 {\protect \APACyear {2008}}%
 }]{%
 Iqbal2008}
@@ -1514,38 +1516,6 @@ Katidioti, I.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Kawado%
-\ \protect \BOthers {.}}{%
-Kawado%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2003}}%
-}]{%
-Kawado2003}
-\APACinsertmetastar {%
-Kawado2003}%
-\begin{APACrefauthors}%
-Kawado, M.%
-, Hinotsu, S.%
-, Matsuyama, Y.%
-, Yamaguchi, T.%
-, Hashimoto, S.%
-\BCBL {}\ \BBA {} Ohashi, Y.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{A comparison of error detection rates between the
-  reading aloud method and the double data entry method}} {{A comparison of
-  error detection rates between the reading aloud method and the double data
-  entry method}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Controlled Clinical Trials}{24}{}{560--569}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/S0197-2456(03)00089-8} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Kim%
 , Cho%
 \BCBL {}\ \BBA {} Lee%
@@ -1577,40 +1547,6 @@ Kim, J.%
 \begin{APACrefURL} \url{https://doi.org/10.1145/3130932} \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1145/3130932} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Koppel%
-, Wetterneck%
-, Telles%
-\BCBL {}\ \BBA {} Karsh%
-}{%
-Koppel%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2008}}%
-}]{%
-Koppel2008}
-\APACinsertmetastar {%
-Koppel2008}%
-\begin{APACrefauthors}%
-Koppel, R.%
-, Wetterneck, T.%
-, Telles, J\BPBI L.%
-\BCBL {}\ \BBA {} Karsh, B\BHBI T.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Workarounds to Barcode Medication Administration
-  Systems: Their Occurrences, Causes, and Threats to Patient Safety}}
-  {{Workarounds to Barcode Medication Administration Systems: Their
-  Occurrences, Causes, and Threats to Patient Safety}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of the American Medical Informatics
-  Association}{15}{}{408--423}.
-\newblock
-\begin{APACrefDOI} \doi{10.1197/jamia.M2616.Introduction} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1652,12 +1588,12 @@ Lazar, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-S\BPBI Y\BPBI W.~Li%
+Li%
 , Blandford%
 , Cairns%
 \BCBL {}\ \BBA {} Young%
 }{%
-S\BPBI Y\BPBI W.~Li%
+Li%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2008}}%
 }]{%
@@ -1686,9 +1622,9 @@ Li, S\BPBI Y\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-S\BPBI Y\BPBI W.~Li%
+Li%
 \ \protect \BOthers {.}}{%
-S\BPBI Y\BPBI W.~Li%
+Li%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2006}}%
 }]{%
@@ -1719,31 +1655,33 @@ Li, S\BPBI Y\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Y.~Li%
-, Oladimeji%
-\BCBL {}\ \BBA {} Thimbleby%
+Li%
+, Cox%
+, Or%
+\BCBL {}\ \BBA {} Blandford%
 }{%
-Y.~Li%
+Li%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2015}}%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
 }]{%
 Li2015}
 \APACinsertmetastar {%
 Li2015}%
 \begin{APACrefauthors}%
-Li, Y.%
-, Oladimeji, P.%
-\BCBL {}\ \BBA {} Thimbleby, H.%
+Li, S\BPBI Y\BPBI W.%
+, Cox, A\BPBI L.%
+, Or, C.%
+\BCBL {}\ \BBA {} Blandford, A.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2015}{}{}.
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Exploring the Effect of Pre-operational Priming
-  Intervention on Number Entry Errors}} {{Exploring the Effect of
-  Pre-operational Priming Intervention on Number Entry Errors}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Dime and punishment : effect of error consequence on
+  checking behavior}} {{Dime and punishment : effect of error consequence on
+  checking behavior}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI 2015.} {Chi 2015.}
+\APACjournalVolNumPages{Journal of Experimental Psychology: Applied}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1808,41 +1746,6 @@ Lin, C\BHBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Lin%
-\ \BBA {} Wu%
-}{%
-Lin%
-\ \BBA {} Wu%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-Lin2014}
-\APACinsertmetastar {%
-Lin2014}%
-\begin{APACrefauthors}%
-Lin, C\BHBI J.%
-\BCBT {}\ \BBA {} Wu, C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{sep}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Predicting numerical data entry errors by classifying
-  EEG signals with linear discriminant analysis}} {{Predicting numerical data
-  entry errors by classifying EEG signals with linear discriminant
-  analysis}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Behaviour {\&} Information Technology}{}{November
-  2014}{1--12}.
-\newblock
-\begin{APACrefURL}
-  \url{http://www.tandfonline.com/doi/abs/10.1080/0144929X.2014.945962}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1080/0144929X.2014.945962} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Lyngs%
 }{%
 Lyngs%
@@ -1891,39 +1794,10 @@ Lynley, M.%
 \newblock
 \APACrefbtitle {{Google rolls out app time management controls}.} {{Google
   rolls out app time management controls}.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-MacKenzie%
-\ \BBA {} Soukoreff%
-}{%
-MacKenzie%
-\ \BBA {} Soukoreff%
-}{%
-{\protect \APACyear {2002}}%
-}]{%
-MacKenzie2002}
-\APACinsertmetastar {%
-MacKenzie2002}%
-\begin{APACrefauthors}%
-MacKenzie, I\BPBI S.%
-\BCBT {}\ \BBA {} Soukoreff, R\BPBI W.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2002}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Text Entry for Mobile Computing: Models and
-  Methods,Theory and Practice}} {{Text Entry for Mobile Computing: Models and
-  Methods,Theory and Practice}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Human-Computer Interaction}{17}{May 2015}{147--198}.
 \newblock
 \begin{APACrefURL}
-  \url{http://www.tandfonline.com/doi/abs/10.1080/07370024.2002.9667313}
+  [{2018-05-31}]\url{https://techcrunch.com/2018/05/08/android-rolls-out-a-suite-of-time-management-controls-to-promote-more-healthy-app-usage/}
   \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1080/07370024.2002.9667313} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1950,40 +1824,6 @@ Makri, S.%
 \unskip\
 \newblock
 \APACaddressSchool {}{University College London}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Mangen%
-\ \BBA {} Velay%
-}{%
-Mangen%
-\ \BBA {} Velay%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-Mangen2010}
-\APACinsertmetastar {%
-Mangen2010}%
-\begin{APACrefauthors}%
-Mangen, A.%
-\BCBT {}\ \BBA {} Velay, J\BHBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Digitizing literacy: reflections on the haptics of
-  writing}} {{Digitizing literacy: reflections on the haptics of
-  writing}}.{\BBCQ}
-\newblock
-\BIn{} M\BPBI H.~Zadeh\ (\BED), \APACrefbtitle {Advances in Haptics} {Advances
-  in haptics}\ (\BPGS\ 385--402).
-\newblock
-\APACaddressPublisher{}{InTech}.
-\newblock
-\begin{APACrefURL}
-  \url{http://www.intechopen.com/books/export/citation/BibTex/advances-in-haptics/digitizing-literacy-reflections-on-the-haptics-of-writing}
-  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2339,38 +2179,6 @@ Morgan, P\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Mueller%
-\ \BBA {} Oppenheimer%
-}{%
-Mueller%
-\ \BBA {} Oppenheimer%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-Mueller2014}
-\APACinsertmetastar {%
-Mueller2014}%
-\begin{APACrefauthors}%
-Mueller, P\BPBI a.%
-\BCBT {}\ \BBA {} Oppenheimer, D\BPBI M.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{apr}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{The Pen Is Mightier Than the Keyboard: Advantages of
-  Longhand Over Laptop Note Taking.}} {{The Pen Is Mightier Than the Keyboard:
-  Advantages of Longhand Over Laptop Note Taking.}}{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Psychological science}{25}{6}{1159--1168}.
-\newblock
-\begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/24760141}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1177/0956797614524581} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Murphy%
 , Chen%
 \BCBL {}\ \BBA {} Cossutta%
@@ -2398,60 +2206,6 @@ Murphy, H\BPBI C.%
 \APACjournalVolNumPages{Tourism Management}{52}{}{44--51}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.tourman.2015.06.004} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Nakata%
-}{%
-Nakata%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-Nakata2014}
-\APACinsertmetastar {%
-Nakata2014}%
-\begin{APACrefauthors}%
-Nakata, T.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Improving Human Reliability On Checking}} {{Improving
-  Human Reliability On Checking}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Proceedings of International Symposium on Interaction
-  Design and Human Factors.} {Proceedings of international symposium on
-  interaction design and human factors.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Norman%
-}{%
-Norman%
-}{%
-{\protect \APACyear {1993}}%
-}]{%
-Norman1993}
-\APACinsertmetastar {%
-Norman1993}%
-\begin{APACrefauthors}%
-Norman, D\BPBI A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1993}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Cognition in the Head and in the World : An
-  Introduction to the Special Issue on Situated Action Cognition in the Head
-  and in the World : An Introduction to the Special Issue on Situated Action}}
-  {{Cognition in the Head and in the World : An Introduction to the Special
-  Issue on Situated Action Cognition in the Head and in the World : An
-  Introduction to the Special Issue on Situated Action}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Cognitive Science}{17}{}{1--6}.
-\newblock
-\begin{APACrefDOI} \doi{10.1207/s15516709cog1701} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2567,12 +2321,11 @@ Olsen, K\BPBI A.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{The {\$}100,000 keying error}} {{The {\$}100,000 keying
-  error}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Customer Errors in Internet Banking}} {{Customer Errors
+  in Internet Banking}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Computer}{41}{}{}.
-\newblock
-\begin{APACrefDOI} \doi{10.1109/MC.2008.135} \end{APACrefDOI}
+\BIn{} \APACrefbtitle {Proceedings of Norsk Informatikkonferanse.} {Proceedings
+  of norsk informatikkonferanse.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2906,34 +2659,6 @@ Salvucci, D\BPBI D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Sandnes%
-}{%
-Sandnes%
-}{%
-{\protect \APACyear {2013}}%
-}]{%
-Sandnes2013}
-\APACinsertmetastar {%
-Sandnes2013}%
-\begin{APACrefauthors}%
-Sandnes, F\BPBI E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{An Error Tolerant Memory Aid for Reduced Cognitive Load
-  in Number Copying Tasks}} {{An Error Tolerant Memory Aid for Reduced
-  Cognitive Load in Number Copying Tasks}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {Universal Access in Human-Computer Interaction. User and
-  Context Diversity} {Universal access in human-computer interaction. user and
-  context diversity}\ (\BPGS\ 614--623).
-\newblock
-\APACaddressPublisher{}{Springer-Verlag}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Sellberg%
 \ \BBA {} Susi%
 }{%
@@ -2960,6 +2685,32 @@ Sellberg, C.%
 \APACjournalVolNumPages{Cognition, Technology and Work}{16}{}{187--201}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s10111-013-0256-9} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sellen%
+\ \BBA {} Harper%
+}{%
+Sellen%
+\ \BBA {} Harper%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+Sellen2003}
+\APACinsertmetastar {%
+Sellen2003}%
+\begin{APACrefauthors}%
+Sellen, A\BPBI J.%
+\BCBT {}\ \BBA {} Harper, R\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2003}.
+\newblock
+\APACrefbtitle {{The Myth of the Paperless Office}} {{The Myth of the Paperless
+  Office}}.
+\newblock
+\APACaddressPublisher{Cambridge, MA, USA}{MIT Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3002,38 +2753,37 @@ Skatova, A.%
 
 \bibitem [\protect \citeauthoryear {%
 Smith%
-, Lewis%
-, Howes%
-, Chu%
-\BCBL {}\ \BBA {} Green%
-}{%
+\ \protect \BOthers {.}}{%
 Smith%
 \ \protect \BOthers {.}}{%
-{\protect \APACyear {2008}}%
+{\protect \APACyear {2003}}%
 }]{%
-Smith2008}
+Smith2003}
 \APACinsertmetastar {%
-Smith2008}%
+Smith2003}%
 \begin{APACrefauthors}%
-Smith, M\BPBI R.%
-, Lewis, R\BPBI L.%
-, Howes, A.%
-, Chu, A.%
-\BCBL {}\ \BBA {} Green, C.%
+Smith, G.%
+, Baudisch, P.%
+, Robertson, G.%
+, Czerwinski, M.%
+, Meyers, B.%
+, Robbins, D.%
+\BCBL {}\ \BBA {} Andrews, D.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2008}{}{}.
+\APACrefYearMonthDay{2003}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{More than 8,192 ways to skin a cat: Modeling behavior
-  in multidimensional strategy spaces}} {{More than 8,192 ways to skin a cat:
-  Modeling behavior in multidimensional strategy spaces}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{GroupBar: The TaskBar Evolved}} {{GroupBar: The TaskBar
+  Evolved}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Proceedings of the 30th Annual Conference of Cognitive
-  Science Society}{}{}{1441--1446}.
+\BIn{} \APACrefbtitle {OZCHI 2003 Conference for the Computer-Human Interaction
+  Special Interest Group of the Human Factors Society of Australia.} {Ozchi
+  2003 conference for the computer-human interaction special interest group of
+  the human factors society of australia.}
 \newblock
 \begin{APACrefURL}
-  \url{http://www-personal.umich.edu/{~}rickl/pubs/smith-lewis-et-al-2008-cogsci.pdf}
+  \url{http://www.patrickbaudisch.com/publications/2003-Smith-OZCHI03-GroupBar.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -3203,43 +2953,6 @@ Trullemans, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Tu%
-\ \protect \BOthers {.}}{%
-Tu%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2014}}%
-}]{%
-Tu2014}
-\APACinsertmetastar {%
-Tu2014}%
-\begin{APACrefauthors}%
-Tu, H.%
-, Oladimeji, P.%
-, Wiseman, S\BPBI E\BPBI M.%
-, Thimbleby, H.%
-, Niezen, G.%
-\BCBL {}\ \BBA {} Cairns, P.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Employing Number-based Graphical Representations to
-  Enhance the Effects of Visual Check on Entry Error Detection Employing
-  Number-based Graphical Representations to Enhance the Effects of Visual Check
-  on Entry Error Detection}} {{Employing Number-based Graphical Representations
-  to Enhance the Effects of Visual Check on Entry Error Detection Employing
-  Number-based Graphical Representations to Enhance the Effects of Visual Check
-  on Entry Error Detection}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {International Symposium on Interaction Design and Human
-  Factors (IDHF 2014).} {International symposium on interaction design and
-  human factors (idhf 2014).}
-\newblock
-\APACaddressPublisher{Kochi, Japan}{}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Vertanen%
 , Memmi%
 , Emge%
@@ -3398,6 +3111,41 @@ Whittaker, S.%
 
 \bibitem [\protect \citeauthoryear {%
 Wiseman%
+, Borghouts%
+, Grgic%
+, Brumby%
+\BCBL {}\ \BBA {} Cox%
+}{%
+Wiseman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Wiseman2015}
+\APACinsertmetastar {%
+Wiseman2015}%
+\begin{APACrefauthors}%
+Wiseman, S\BPBI E\BPBI M.%
+, Borghouts, J.%
+, Grgic, D.%
+, Brumby, D\BPBI P.%
+\BCBL {}\ \BBA {} Cox, A\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Effect Of Interface Type On Visual Error Checking
+  Behavior}} {{The Effect Of Interface Type On Visual Error Checking
+  Behavior}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Human Factors and Ergonomics Society.} {Human factors
+  and ergonomics society.}
+\newblock
+\APACaddressPublisher{Los Angeles, CA}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wiseman%
 , Cairns%
 \BCBL {}\ \BBA {} Cox%
 }{%
@@ -3455,39 +3203,6 @@ Wiseman, S\BPBI E\BPBI M.%
 \BIn{} \APACrefbtitle {Proceedings of the 2013 Conference on Human Factors in
   Computing Systems (CHI-2013)} {Proceedings of the 2013 conference on human
   factors in computing systems (chi-2013)}\ (\BPGS\ 2403--2406).
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Zhang%
-\ \BBA {} Wang%
-}{%
-Zhang%
-\ \BBA {} Wang%
-}{%
-{\protect \APACyear {2009}}%
-}]{%
-Zhang2009}
-\APACinsertmetastar {%
-Zhang2009}%
-\begin{APACrefauthors}%
-Zhang, J.%
-\BCBT {}\ \BBA {} Wang, H.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2009}{jan}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{An exploration of the relations between external
-  representations and working memory.}} {{An exploration of the relations
-  between external representations and working memory.}}{\BBCQ}
-\newblock
-\APACjournalVolNumPages{PloS one}{4}{8}{e6513}.
-\newblock
-\begin{APACrefURL}
-  \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2714979{\&}tool=pmcentrez{\&}rendertype=abstract}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1371/journal.pone.0006513} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
