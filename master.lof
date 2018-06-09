@@ -1,40 +1,46 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Visual overview of the thesis structure.\relax }}{18}{figure.1.1}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Visual overview of the thesis structure.\relax }}{19}{figure.caption.7}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Study 2 Room model}}{41}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Study 2 Desk model}}{41}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Study 2 Information flow model}}{47}{figure.2.3}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Different stages of a data entry task}}{34}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces An incremental and keypad number entry interface.}}{37}{figure.caption.13}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Study 3 task lay-out}}{59}{figure.3.1}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Study 3 number of visits}}{65}{figure.3.2}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Study 3 duration of first visit}}{66}{figure.3.3}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Study 3 number of blocks correctly placed}}{67}{figure.3.4}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Study 3 placeholders}}{69}{figure.3.5}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces The data entry task. At the start of each trial, participants were presented with a data entry form with two expense claims, and had to enter four data items in a data entry form. The data items were retrieved from a separate Amounts page (Step 1) and an Accounts page (Step 2) and entered into the data entry form (Step 3).\relax }}{76}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Boxplot of interleaving rates in each condition.\relax }}{80}{figure.3.7}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Line graph showing the frequency of interleaving rates for each condition. As can be seen, all three lines have two peaks at 0 and 100, which means that most participants interleaved on 0\% or 100\% of all trials.\relax }}{80}{figure.3.8}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces A plot per participant across trials. The x axis shows the trial number, and the y axis indicates whether a participant interleaved on a trial: a value of 0 means they did not interleave, a value of 1 means they did interleave.\relax }}{82}{figure.3.9}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces The sequence of the most common grouping strategies. V = visit to the data source, E = entry of the data item. For example, in Strategy (a) a participant first viewed Amount1 and Account1, and then entered Amount1 and Account1. He/she then viewed Amount2 and entered it, and then viewed Account2 and entered it.\relax }}{83}{figure.3.10}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Participants had to enter two data entry forms per trial, each containing two items. Each trial started by showing the first data entry form. As in Study 4, the data items for both forms were retrieved from a separate Amounts page (Step 1) and an Accounts page (Step 2). Participants had to enter the items for the first form (Step 3) and second form (Step 4) before submitting the data entries and moving on to the next trial.\relax }}{89}{figure.3.11}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Bar chart showing the number of strategies grouped in each high-level category for physical and digital information sources. The most common strategy to collect information from physical sources was to prepare information before starting a data entry task. The most common strategy to collect information from digital sources was to interrupt and switch to the source during a data entry task.\relax }}{61}{figure.caption.43}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Overview of observed strategies to collect information. The columns indicate the three high-level categories Prepare, Interrupt and Postpone. Each column is filled with examples of observed behaviour that we categorised under this high-level category. Numbers in parentheses indicate for which participants this behaviour was observed. The rows indicate for which particular information source this behaviour was observed.\relax }}{64}{figure.caption.45}
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces The data entry task as shown in the browser. Participants had to look up codes from their email (Step 1) and enter this into a sheet (Step 2). After every trial, the notification condition received time information (Step 3)\relax }}{106}{figure.5.1}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Distribution of the top 10\% longest window switches, that is switches that were longer than 11.82 seconds.\relax }}{108}{figure.5.2}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Boxplot of duration of switches away from the data entry interface in each condition.\relax }}{109}{figure.5.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Distribution of the top 10\% longest IKIs, that is IKIs that were longer than 6.21 seconds.\relax }}{110}{figure.5.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Study 3 task lay-out}}{78}{figure.caption.58}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Study 3 number of visits}}{83}{figure.caption.63}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Study 3 duration of first visit}}{84}{figure.caption.65}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Study 3 number of blocks correctly placed}}{85}{figure.caption.67}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Study 3 placeholders}}{87}{figure.caption.73}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces The data entry task. At the start of each trial, participants were presented with a data entry form with two expense claims, and had to enter four data items in a data entry form. The data items were retrieved from a separate Amounts page (Step 1) and an Accounts page (Step 2) and entered into the data entry form (Step 3).\relax }}{94}{figure.caption.79}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Boxplot of interleaving rates in each condition.\relax }}{98}{figure.caption.87}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Line graph showing the frequency of interleaving rates for each condition. As can be seen, all three lines have two peaks at 0 and 100, which means that most participants interleaved on 0\% or 100\% of all trials.\relax }}{98}{figure.caption.88}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces A plot per participant across trials. The x axis shows the trial number, and the y axis indicates whether a participant interleaved on a trial: a value of 0 means they did not interleave, a value of 1 means they did interleave.\relax }}{100}{figure.caption.89}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces The sequence of the most common grouping strategies. V = visit to the data source, E = entry of the data item. For example, in Strategy (a) a participant first viewed Amount1 and Account1, and then entered Amount1 and Account1. He/she then viewed Amount2 and entered it, and then viewed Account2 and entered it.\relax }}{101}{figure.caption.91}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Participants had to enter two data entry forms per trial, each containing two items. Each trial started by showing the first data entry form. As in Study 4, the data items for both forms were retrieved from a separate Amounts page (Step 1) and an Accounts page (Step 2). Participants had to enter the items for the first form (Step 3) and second form (Step 4) before submitting the data entries and moving on to the next trial.\relax }}{107}{figure.caption.100}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Study 1 Task diagram}}{144}{figure.a.A.1}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Study 1 Checking diagram}}{145}{figure.a.A.2}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Study 1 System diagram}}{146}{figure.a.A.3}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Study 1 Environment diagram}}{147}{figure.a.A.4}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Study 1 Data diagram}}{148}{figure.a.A.5}
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Study 1 Errors diagram}}{149}{figure.a.A.6}
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Study 1 Strategy diagram}}{151}{figure.a.A.7}
-\contentsline {figure}{\numberline {A.8}{\ignorespaces Study 1 Importance of accuracy and paper trails diagram}}{153}{figure.a.A.8}
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Study 1 Other diagram}}{154}{figure.a.A.9}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The data entry task as shown in the browser. Participants had to look up codes from their email (Step 1) and enter this into a sheet (Step 2). After every trial, the notification condition received time information (Step 3)\relax }}{124}{figure.caption.111}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Distribution of the top 10\% longest window switches, that is switches that were longer than 11.82 seconds.\relax }}{126}{figure.caption.115}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Boxplot of duration of switches away from the data entry interface in each condition.\relax }}{127}{figure.caption.119}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Distribution of the top 10\% longest IKIs, that is IKIs that were longer than 6.21 seconds.\relax }}{128}{figure.caption.121}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Information sheet\relax }}{156}{figure.a.B.1}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Consent form\relax }}{158}{figure.a.C.1}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Study 1 Task diagram}}{162}{figure.caption.145}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Study 1 Checking diagram}}{163}{figure.caption.146}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Study 1 System diagram}}{164}{figure.caption.150}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Study 1 Environment diagram}}{165}{figure.caption.151}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Study 1 Data diagram}}{166}{figure.caption.152}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Study 1 Errors diagram}}{167}{figure.caption.153}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Study 1 Strategy diagram}}{169}{figure.caption.158}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Study 1 Importance of accuracy and paper trails diagram}}{171}{figure.caption.161}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Study 1 Other diagram}}{172}{figure.caption.162}
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Information sheet\relax }}{174}{figure.caption.164}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Consent form\relax }}{176}{figure.caption.165}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Study 2 Room model}}{182}{figure.caption.173}
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Study 2 Desk model}}{182}{figure.caption.174}
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Study 2 Information flow model}}{188}{figure.caption.177}
