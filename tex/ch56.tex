@@ -1,20 +1,37 @@
-\chapter{Evaluating a time notification on interruptions}
-
+\chapter{Evaluating a design intervention to manage interruptions}\label{ch:ch56}
 \begin{mynote}
 \subsubsection{Chapter outline}
-This chapter describes two studies that, given varying IACs, evaluate whether giving people feedback on the duration of their switches can influence people's switching strategies and data entry performance. A browser notification was developed which showed people how long they switch away for on average. Study 6 evaluates the notification with an experimental task, to see if time information influences the strategies people adopt, and can make people adopt more accurate and faster. Study 7 evaluates the notification in the office setting with workers doing data entry work, to ascertain how appropriate the proposed recommendations are for a naturalistic task for which they would be used.
+This chapter describes two studies that evaluate whether giving people feedback on the duration of inquiries can influence people's switching strategies and data entry performance. A browser notification was developed which showed people how long they switch away for on average. Study 6 evaluated the notification with an experimental task to measure switching behaviour and task performance. Study 7 evaluated the notification in the office setting with workers doing data entry work, to ascertain how appropriate the proposed recommendations are for a naturalistic task.
 
-Together these studies intend to show that time information makes people switch less between entering and looking up information, which makes them faster to complete the data entry task overall and can reduce errors.
+Together these studies show that time feedback can reduce the duration of inquiries, making participants faster and more accurate in completing data entry tasks.  
 \end{mynote}
 
-\section{Chapter introduction}
-Chapter 3 presented two qualitative studies that investigated how office workers perform data entry work in office settings. It revealed that self-interruptions to collect information is a major aspect of their work. Even though data workers tried to collect information carefully before starting a task, they often did not realise they needed certain information until starting the task. Whereas they deferred retrieving physical sources, for digital sources they self-interrupted their task immediately to retrieve additional information. The hypothesis was made that differences in expected time costs influenced people's decisions on when to switch and interrupt themselves.
+\section{Introduction}
+The studies reported in this thesis so far have shown that people adopt different strategies to manage inquiries, given the time costs associated with these different inquiries. Office workers in Study 2 postponed physical interruptions if they took time, or prepared physical information sources beforehand. Digital interruptions however were addressed immediately as participants presumed them to be quick, which suggests that people are not aware of the time these interruptions actually take: participants were commonly observed being distracted and getting logged out of the data entry system for being away for too long. The experimental studies in Chapter 4 showed that if participants learn the time it takes to make a digital interruption, they postpone addressing inquiries with a high time cost and enter other information first. The problem is that outside of a controlled setting, it is difficult to know how long a digital interruption may actually take. People do not always know where to get information from, may get distracted, or can further self-interrupt to other tasks. How can people be better supported in managing these inquiries with unknown time costs?
 
-Chapter 4 presented findings from three controlled experiments that supported the hypothesis: when time costs to access digital sources are consistent, and people learn and anticipate the time it will take them to retrieve information, they will look up and enter items that take the least time first, and postpone getting information that takes time to look up. An issue is that, outside of a controlled setting, people often do not know how long an interruption to look up digital information may take, and whether they should switch immediately or later. As was observed in Study 2, digital interruptions often took far longer than intended because people had to search through large and multiple documents, and could get distracted by irrelevant information. Because they did not know the time they spent on task interruptions, it was difficult to manage these self-interruptions. 
+Based on the thesis findings so far and prior literature on interruption and information management tools, this chapter presents a design intervention which shows how long people go away from their data entry work. The intervention was evaluated in an online experiment and field study, to investigate whether time feedback can not only help postpone long inquiries, but also reduce the number and duration of inquiries and improve people’s focus during data entry work. Before presenting the intervention, prior work on information and interruption management tools are reviewed. 
 
-The studies presented in this chapter aim to investigate whether giving people feedback on the time spent on task interruptions has any effect on people's self-interruptions. In particular, the purpose is to see whether time information reduces the number and duration of interruptions, and as a result can improve data entry performance. Study 6 used an experimental data entry task to measure if a notification showing the average duration on people's window switches had an effect on number and duration of their switches, and data entry speed and accuracy. Study 7 evaluated the feedback with data workers doing expenses work, to evaluate if the notification would be suitable for an applied task.
+\subsection{Delaying the intention to interrupt}
+The timing of an interruption matters, and it is better to defer an interruption at a more convenient moment in the task. For example, it is less disruptive to interrupt a task at a low-workload than high-workload moment \citep{Gould2013a, Iqbal2005}. Prior studies have shown that people choose to defer interruptions until low workload moments if given the option to do so, and if they do not have to hold the intention to interrupt in memory \citep{Gilbert2015, Salvucci2010}. \citet{Gilbert2015} looked at people’s off-loading behaviour of future tasks in both an experimental and naturalistic setting. Participants had to remember to perform an action later, and had the option to offload this intention or to keep it in memory. In both settings, a majority of participants offloaded these intentions when they had the option, and this significantly improved their task performance. Additionally, in Study 3 of this thesis, where participants had to remember which blocks to drag to which location during a block pattern copying task, a selection of participants placed blocks nearby what they though the correct location was, to not have to remember its location, and as a reminder to place them there later. 
+
+These findings suggest that if people have to memorise which information to retrieve, they may benefit from options to offload these information needs, and are able to effectively defer inquiries until a convenient moment in the main data entry task. However, there is also time effort involved in offloading information, and the time it takes to offload is only worthwhile if it is outweighed by the time it takes to address the interruption. If people are not aware how long an inquiry will take, as was observed in Study 2, there may be little incentive to offload and delay these inquiries: it is presumed to be faster to address the interruption immediately.
+
+\subsection{Improving information search}
+The duration of an interruption matters as well: the longer it is, the more disruptive it is \citep{Altmann2017, Monk2008}. Inquiries may take time  if information is scattered across documents and applications, and users have to go in and out of these separately to search and find what they are looking for. To shorten the time it takes to find information across applications, \citet{Dumais2003} developed Stuff I’ve Seen, a unified search interface which allows users to search through information they had already seen before across applications, such as emails, documents and web pages. A user study found that participants rather used the tool than individual search tools of each application. However, searching for information was not the only type of time cost found in Chapter 3: sometimes participants were quick to find the information source they were looking for, but were distracted by other information. Information search tools are therefore insufficient to reduce the duration of these inquiries. 
+
+\subsection{Preparing task information}
+Lastly, while some interruptions can be beneficial, all interruptions may become disruptive if they happen too often.The number of inquiries may be decreased if people organise information to have it nearby during the task. People already displayed this behaviour somewhat in Study 2 by collecting physical information they knew they were going to need nearby, to make it easier to access. Some tools have looked at making digital information easier to access during a task as well. For example, GroupBar \citet{Smith2003} allows users to group windows needed for a task in the task bar. This can be particularly useful when resuming an interrupted task: the user can see which documents were used before leaving the task. Similarly, Microsoft Office’s new feature TAP allows users to place relevant documents in a task pane next to their working document. The aim of the feature is to keep focus on document creation, rather than looking up information. The feature is presented as a task pane within a document, such as a text document or email, and contains an overview of documents that may be relevant to the current document. These tools are mainly focused on re-using content from archived documents, and assumes the user knows which documents to re-use. The tools provide less support for a new activity in which new sources need to be accessed. 
+
+\subsection{Feedback to improve task performance}
+An alternative approach is to give people information about their task strategies, as giving people feedback can help them in improving their performance on a task \citep{Maior2018, Farmer2017}. Thesis findings so far suggest that people can be good at managing interruptions, if they are aware of the time costs. Could people therefore improve how they manage digital interruptions if they are shown the time costs associated with digital interruptions? 
+
+Giving users feedback on time spent on digital activities has been utilised by a series of time and interruption management tools before \citep{Lyngs2018}. The primary aim of these tools is to support users in self-regulating their ICT use and making more effective use of their time. Commercial applications such as RescueTime and ManicTime provide users an overview of their computer activities, to reflect how much they spend in total on certain sources. These applications show people’s entire computer usage, and interview studies revealed it is often not clear to users what to do with this data \citep{Collins2014}. Furthermore, a problem with retrospective information is that it lacks context \citep{Collins2014}, and users have to remind themselves to look at it \citep{Whittaker2016}. On the other hand, feedback which is given during a task allows users to apply the information immediately on the current task they are working on \citep{Gould2016a, Maior2018}. \citet{Gould2016a} looked at switching behaviour during online crowdsourcing work, and found that an intervention during work that encouraged people to stay focused after they had self-interrupted reduced the number of switches to unrelated tasks. \citet{Whittaker2016} interviewed office workers and students to establish user requirements for a time awareness application, and found users were primarily interested in their current activities rather than long-term behaviour. They developed and evaluated an application which presented users with a visualisation of the last 30 minutes of computer activity. The application reduced the time spent on non work-related activities such as social media, but it did not increase time spent on work. While these tools have shown how feedback during a task can reduce task-irrelevant interruptions, the effect of time feedback on managing work-related interruptions has been unexplored.
+
+In summary, prior research has shown that people adapt to feedback given in the moment to improve performance on their task. My studies found that people adapt to time costs of inquiries in a controlled setting (Chapter 4), but are not aware of time costs of inquiries in an office setting, due to distractions, switching documents, and task-irrelevant information (Chapter 3). This chapter explores whether a design intervention which gives feedback on the duration of interruptions can help people manage these interruptions.
 
 \section{Development of design intervention}
+The design intervention was implemented as a browser notification. As was found in Chapter 3, participants' data entry work was conducted in a web browser and revolved around a main data entry web page. Every switch between the task page and another computer window, such as another browser window or a different application, were recorded to calculate the number and duration of switches. The browser notification used this data to show users the average time of their interruptions. In Study 6, the browser notification was implemented in the experimental data entry interface, and shown once every after experimental trial. In Study 7, the browser notification was implemented as a browser extension that participants could install and use on any website they wanted, and was shown upon every switch. Further implementation details of the intervention are included in the separate study sections. Other than the implementation differences, the presentation of the intervention to participants was the same in both studies.
+ %An increasing problem in technology use is that there are many opportunities to get distracted, and users may spend longer on applications than they realise or intend to. As a result, there now exists a series of tools 
 
 \section{Study 6: Looking up information in email during an online experiment}
 \textit{This study and early results have been published in \citet{Borghouts2018a} and were presented at the CHI conference in 2018.}
@@ -30,7 +47,6 @@ The design recommendations will take into account both findings from Study 3 and
 Study 5 aims to test different designs in a controlled experiment, to investigate if changing design features influences people's switching strategies and their speed and accuracy in data entry. It will use the same task paradigm as Study 4 and compare different designs, to see if these changes have an influence on the strategies people adopt in looking up information for a data entry task, and whether these changes can make people adopt strategies that improve accuracy. 
 
 Observations in Study 2 showed that data workers prepare some information they need for a data entry task beforehand. Other data items are retrieved as the task goes along. As soon as they realise they need information, they interrupt themselves and this can happen frequently during a single task. Finding information can take longer than expected, and people can get distracted along the way. In general, finding information is disruptive: people may forgotten where they were in a task, enter information in the wrong fields, or they might be automatically logged out of a system because of inactivity. Study 4 and 5 showed that in a controlled setting where people know the time it will take them to retrieve information, they adapt and schedule their tasks accordingly. They will look up and enter items that take the least time first, and postpone getting information that is difficult to lookup. An issue is that people often do not know how long it will take them and therefore cannot schedule or adapt to it. Can people be nudged into making more mindful interruptions, if they are given feedback on how long it takes them to find information?
-
 
 A number of laboratory studies have looked at how people decide when to address interruptions. These studies showed that people defer interruptions until lower workload moments \citep{Salvucci2010}, or switch to another task when there is a delay in the primary task \citep{Gould2016, Katidioti2013}. However, these studies primarily focused on characteristics of the primary task, and it is unclear from these studies if the time taken to address an interruption has any effect. Study 4 and 5 showed that if the time to access data items for a data entry task is consistent throughout a controlled experiment, participants learn to look up and enter easy-to-access items first, before looking up other items. Might people therefore manage their interruptions differently, if they are given feedback on how long it takes them to find information?
 
@@ -82,35 +98,10 @@ Participants first read an online consent form on the website, and were not able
 After completing all experimental trials, participants were shown a page of debriefing information, explaining the purpose of the study. An email address was included as a point of contact if participants had any further questions. Participants took between 10 and 20 minutes to complete the experiment.
 
 \subsubsection{Pilot study}
+A pilot study was conducted with four colleagues to test the study set-up. Initially, the notification was set-up to appear on every switch, and showed the duration of the last interruption, instead of the average interruption time. Participant 1 looked at the notification at the start of the study, but experienced that the notification interfered with information she was holding in working memory. Upon switching, she had to memorise what expense category code she had to look up in the email, and looking at the notification made her forget what she was looking for, forcing her to go back to the data entry interface to look it up again. She therefore tried to ignore the notification for the rest of the study. For the remaining three pilot studies, the notification was adapted to only appear once after every trial, and show the average interruption duration. Two participants piloted the notification condition, and one participant piloted the control condition. Participant 3 used the information from the notification to try and find the codes in the email quicker, and consulted the notification after every trial to see whether his switches were shorter than the previous trials. The expenses task was experienced by participants as a realistic task, and all participants glanced at new incoming emails during the study.
 
 \subsection{Results}
 Table \ref{tbl:ch56-Table1} summarises the results of the conditions in terms of the four dependent variables. The number of switches, length of switches and the error rate were not normally distributed, so non-parametric Mann-Whitney tests were used to analyse effects of a notification on these dependent variables. A Shapiro-Wilk test suggested that the trial completion times were normally distributed, \textit{W} = 0.97, \textit{p} = 0.22, so an independent t-test was used to analyse the effect on trial times. 
-
-\subsubsection{Number and duration of switches}
-Figure \ref{fig:ch56-Figure2} shows the variability of duration of switches for the two conditions. Results show that switches were significantly shorter among participants who had a notification (\textit{M} = 4.76s, \textit{SD} = 1.65s) than among those without a notification (\textit{M}=7.13s, \textit{SD}=3.05s), \textit{U} = 406, \textit{p} < 0.01, \textit{r}=.44. Participants switched once for every code entered (i.e., ten times per trial), and there was no significant difference in number of switches between conditions, \textit{U} = 243, \textit{p} = 0.6.
-
-The distribution of switching durations was positively skewed with a long tail: switches up to 11 seconds made up 90\% of switches, but the longest switch was greater than seven minutes. The distribution of the top 10 \% of longest switches is illustrated in Figure \ref{fig:ch56-histswitches}. 
-Table \ref{fig:ch56-tblswitches} shows the count of extremely long switches per condition.
-
-\begin{figure}
-\centering
-\includegraphics[width=\textwidth]{images/ch56/ch56-histswitches.pdf}
-\caption{Distribution of the top 10\% longest window switches, that is switches that were longer than 11.82 seconds.}
-%\vspace{-3pt}
-\label{fig:ch56-histswitches}
-\end{figure}
-
-\begin{table}
-\caption{Total number of switches at different percentiles for each condition.}
-\centering
-\includegraphics[width=0.7\textwidth]{images/ch56/ch56-longswitches.pdf}
-\vspace{-3pt}
-\label{tbl:ch56-tblswitches}
-\end{table}
-
-
-\subsubsection{Task performance}
-Error rates were calculated by dividing the number of data entry errors divided by error opportunities. The error rates were significantly lower for participants with a notification (\textit{M }= 2\%, \textit{SD} = 2\%) compared to participants who had no notification (\textit{M} = 5\%, \textit{SD }= 5\%), \textit{U} = 403, \textit{p} < .01, \textit{r} = .44. Participants with a notification were also faster in completing trials (\textit{M} = 107.61s, \textit{SD} = 31.15s) compared to participants without a notification (\textit{M} = 126.27s, \textit{SD} = 32.61), \textit{t}(45) = 1.98, \textit{p} < .05, \textit{d} = .59.
 
 \begin{table}
 \caption{Means and standard deviations of dependent variables for each condition.}
@@ -120,34 +111,48 @@ Error rates were calculated by dividing the number of data entry errors divided 
 \label{tbl:ch56-Table1}
 \end{table}
 
+\subsubsection{Cleaning the data}
+In total, 87 participants signed up for the study. Thirty-four participants did not complete the task and their data was excluded from the dataset.
+Furthermore, six participants made no recorded switches and were excluded from the dataset as well. Data from the remaining 47 participants was used in the data analysis.
+
+\subsubsection{Task performance}
+Participants with a notification were faster in completing trials (\textit{M} = 107.61s, \textit{SD} = 31.15s) compared to participants without a notification (\textit{M} = 126.27s, \textit{SD} = 32.61), \textit{t}(45) = 1.98, \textit{p} < .05, \textit{d} = .59.
+Error rates were calculated by dividing the number of data entry errors divided by error opportunities. The error rates were significantly lower for participants with a notification (\textit{M }= 2\%, \textit{SD} = 2\%) compared to participants who had no notification (\textit{M} = 5\%, \textit{SD }= 5\%), \textit{U} = 403, \textit{p} < .01, \textit{r} = .44. 
+
+\subsubsection{Number and duration of switches}
+As can be seen in Table \ref{tbl:ch56-Table1}, the number of switches per trial was on average 10.6 in both conditions, and there was no significant difference in number of switches between conditions, \textit{U}(24,23)=243, \textit{p} = 0.6. As there were ten codes to be entered per trial, this suggests participants switched once for every piece of data entered.  
+Figure 2 shows the variability in the duration of switches for the two conditions. Participants who received notifications made significantly shorter switches (\textit{M}=4.76s, \textit{SD}=1.65s) than those in the control condition (\textit{M}=7.13s, \textit{SD}=3.05), \textit{U}(24, 23) = 406, \textit{p} < 0.01, \textit{r} =.44. 
+Figure \ref{fig:ch56-histswitches} shows the distribution of switching durations for the Control and Notification condition, the red line marks the mean duration. For both conditions, the distribution was positively skewed with a long tail: 97\% of the switches were under 20 seconds, but the longest switch was greater than seven minutes. To scale the distribution in one histogram, switches longer than 20 seconds are grouped as one bar. Table 2 shows the count of these long switches for each condition.
+
 \begin{figure}
 \centering
-\includegraphics[width=0.2\textwidth]{images/ch56/ch56-boxplot.pdf}
-\caption{Boxplot of duration of switches away from the data entry interface in each condition.}
+\begin{subfigure}{0.5\textwidth}
+\centerline{\includegraphics[scale=0.5]{images/ch56/ch56-histdurSwitches_Control.pdf}}
+\end{subfigure}
+\begin{subfigure}{0.5\textwidth}
+\centerline{\includegraphics[scale=0.5]{images/ch56/ch56-histdurSwitches_Not.pdf}}
+\end{subfigure}
 %\vspace{-3pt}
-\label{fig:ch56-Figure2}
+\caption{Histograms showing the distribution of switching durations for the two conditions; switches longer than 20 seconds are grouped in one bar at the right side of the histograms. The red line marks the mean switching duration.}
+\label{fig:ch56-histswitches}
 \end{figure}
 
 \subsubsection{Interkey intervals}
-The primary measure to analyse switching behaviour were focus and blur events. These measures include any switch from the task window to another computer window, but task switches outside the device, with the task window still in focus, were not captured. Therefore, inter-keystroke interval (IKI) data was analysed to look for large intervals. The IKI data presented here does not make a distinction between moments when participants were inside or outside the task window, and longer intervals may have also been moments were participants had briefly paused for thought. However, extremely large intervals between two keystrokes might point to moments where participants had switched to doing something else. 
+The primary measure to analyse switching behaviour were focus and blur events. These measures include any switch from the task window to another computer window. While this provides a good measure of digital switching behaviour, it cannot capture task switches outside the device because the task window remains in focus during these task switches (e.g., a user might pause to fetch a paper document or make a cup of coffee). To help capture this broader range of instances of possible task switching behaviour, we look for longer pauses in task activity captured by an analysis of inter-keystroke interval (IKI) data. Though these intervals may have also been moments where participants had briefly paused for thought, extremely long intervals between two keystrokes may point to moments where a participant switched to doing something else. The IKI data presented here excludes intervals where a window switch was recorded, as these moments have already been analysed in the previous section.
 
-Figure \ref{fig:ch56-histikis} shows the distribution of IKIs. Table \ref{fig:ch56-tblswitches} shows the count of extremely long IKIs per condition.
+There was no significant difference in duration of IKIs between the Control (\textit{M} = 1.70, \textit{SD} = 0.91) and Notification (\textit{M} = 2.02, \textit{SD} = 1.60), \textit{U}(24, 23) = 261.5, \textit{p} = 0.9. Figure \ref{fig:ch56-histikis} shows the distribution of all IKIs for both conditions. As can be seen from these histograms, the majority of IKIs were under one second, which suggests people were typing (source of typical typing speed to support this claim?).  There were however some instances when there were long delays between keypresses: the longest measured IKI is four minutes. In the histograms, IKIs longer than five seconds are grouped in one bar. To give a closer view of longer IKIs, Table 3 shows the frequencies of long IKIs. These long IKIs were more than two deviations from the mean, and may have been additional task switches. However, we do not know for certain what people were doing during these instances, and what an appropriate IKI threshold would be to safely assume people had made a task switch. Therefore, we mainly focus our conclusions on our analysis of explicit window switches, and merely present the long IKIs to indicate that in addition to window switches, there may have been additional moments where people switched tasks. 
 
 \begin{figure}
 \centering
-\includegraphics[width=\textwidth]{images/ch56/ch56-histikis.pdf}
-\caption{Distribution of the top 10\% longest IKIs, that is IKIs that were longer than 6.21 seconds.}
-%\vspace{-3pt}
+\begin{subfigure}{0.5\textwidth}
+\centerline{\includegraphics[scale=0.5]{images/ch56/ch56-histIKIs_Control.pdf}}
+\end{subfigure}
+\begin{subfigure}{0.5\textwidth}
+\centerline{\includegraphics[scale=0.5]{images/ch56/ch56-histIKIs_Not.pdf}}
+\end{subfigure}
+\caption{The distribution of inter-keypress intervals for the two conditions; switches longer than five seconds are grouped in one bar at the right side of the histograms. The red line marks the mean IKI.}
 \label{fig:ch56-histikis}
 \end{figure}
-
-\begin{table}
-\caption{Total number of IKIs  at different percentiles for each condition.}
-\centering
-\includegraphics[width=0.7\textwidth]{images/ch56/ch56-longIKIs.pdf}
-\vspace{-3pt}
-\label{tbl:ch56-tblIKIs}
-\end{table}
 
 \subsection{Discussion}
 The aim of this study was to see whether showing people how long they switch on average reduces the number and length of their switches. The results show that people can benefit from receiving feedback on the length of their switches: participants made shorter switches, were faster to complete the task, and made fewer errors. These findings suggest that shorter switches can lead to better task performance, and are in line with previous studies connecting the duration of an interruption to its disruptiveness \citep{Altmann2017, Monk2008}.
@@ -164,21 +169,10 @@ The results of this experiment indicate that showing people how long they switch
 The study did not find any effect on the number of switches. However, as the number of switches indicate, participants presumably only switched to look up information, and did not switch to other tasks, interruptions or distractions. When people are doing their own data entry work, they may not have to switch as often as in the current experiment, but on the other hand they may interrupt themselves more to attend to other tasks and interruptions. To evaluate whether the positive effect of time feedback on people's switching behaviour can extend to naturalistic tasks, Study 7 tested the notification with office workers doing their own data entry work,
 
 \section{Study 7: Looking up information for expenses in an office setting}
-
 \subsection{Introduction}
-%BRIDGE FROM LAST STUDY
-%Study 6 aims to evaluate the design recommendations in a finance office with workers, to see how appropriate and feasible the proposed recommendations would be in the context for which they are developed. Depending on what the design recommendations will be, I will take them through a prototype, which can be a paper prototype, storyboard, or digital mockup, and if possible I will ask them to perform the task with and without the proposed changes. 
-
 In order to understand whether the notification would have the same effect on a naturalistic data entry task, Study 6 was followed up with a field study testing the notification with data entry workers doing expenses work. To measure self-interruption behaviour during their work, participants were asked to install a free trial version of ManicTime \footnote{https://www.manictime.com} for two weeks. ManicTime is a time tracking software, which tracks application and web page usage. In addition, half of the participants were asked to install a browser extension, and use it when they are processing expenses. Every time participants switched away from the browser window in which they did their expenses work, the extension showed a notification similar to the notification used in Study 6. The purpose of the study was to see whether a notification had an effect on self-interruption behaviour. To get a quantitative measure of self-interruption behaviour, ManicTime data was used to derive number and duration of window switches during expenses work. In addition, participants were interviewed to explore whether and how the use of both the extension and ManicTime led to any conscious changes in their behaviour.
  
-The study aims to address the following research question: how does feedback on interruption length have an effect on people's self-interruption behaviour during expenses work in a finance office setting? 
-
-\subsection{Focus, a browser extension}
-%Include implementation details
-The browser notification was implemented as a Google Chrome extension, using HTML, Javascript and CSS. Participants were sent a link to download the extension, named Focus, and were given instructions to install and add it to their Google Chrome browser. To use the extension, participants had to navigate to the web page in their Google Chrome browser where they had to complete their work and click on the icon of the extension. As was found in Study 1 and 2, the majority of data entry work studied in this thesis, such as processing expenses, was done in a web browser. Upon clicking on the icon, a pop-up appeared saying that the current web page was now the main task page. Every time participants switched away from this page, they received a notification indicating how long their switches away from this page are on average. Participants could stop the notifications by refreshing or closing the page. 
-
-The main difference in notification behaviour with respect to Study 6 was that participants received the notification every time they switched away from their task window, rather than at particular moments in the task. They only received it when they switched away from their task window, but not upon any subsequent switches. Furthermore, due to security issues the extension did not store any data. Instead, the application ManicTime was used to measure people's switching behaviour. 
-
+The study aimed to address the following research question: how does feedback on interruption length have an effect on people's self-interruption behaviour during expenses work in a finance office setting? 
 
 \subsection{Method}
 %DESIGN
@@ -189,22 +183,32 @@ Four participants were unable to use Google Chrome, and therefore the extension,
 %If the main task page is not in focus, either because participants have switched to another page or if it has been inactive for x seconds, they will receive a notification with a warning message. Upon returning to the expenses page, they will receive a notification indicating how long they were away from the page. The control group will be asked to install the plug-in, but will receive no notifications. It is explained that the purpose of the study is to log people's switching behaviour, and participants will be able to see their data at the end of the study. Participants will be asked to use the add-in for one week in which they have to do a substantial amount of expenses work, and keep a diary of their experiences. Within a week of finishing the diary, a follow-up interview will be scheduled to gather more detailed explanations of participants' experiences of using the add-in.
 
 \subsubsection{Participants}
-Ten participants (three male) took part in the study. They were recruited using the same recruitment methods as Study 1 and 2. Invitations were sent to opt-in mailing lists of Finance departments of a university, and forwarded by contact persons and people who had already participated. None of the participants had taken part before in any of the studies reported in this thesis, but were drawn from the same population. None of the participants had used a time management application such as ManicTime before. Participants were reimbursed with a \pounds 20 Amazon voucher.
+Nine participants (six female) took part in the study. They were office workers at finance administration offices at a public university, and were invited to participate via emails sent to departmental mailing lists and snowballing. Participants worked in an open plan office, and seven participants occasionally worked from home. Participants’ work included administrative and supportive tasks, such as processing payments, expenses, managing budgets, and responding to queries by university staff and students. The majority of participants’ work was carried out in a web browser, and revolved around a number of web-based data entry systems. None of the participants had used a time or task management tool before. Participants were reimbursed with a  \pounds 20 Amazon voucher after completing the study. 
+
+%Ten participants (three male) took part in the study. They were recruited using the same recruitment methods as Study 1 and 2. Invitations were sent to opt-in mailing lists of Finance departments of a university, and forwarded by contact persons and people who had already participated. None of the participants had taken part before in any of the studies reported in this thesis, but were drawn from the same population. None of the participants had used a time management application such as ManicTime before. Participants were reimbursed with a \pounds 20 Amazon voucher.
+
+\subsubsection{Materials}
+The notification was implemented as a Google Chrome extension using HTML, JavaScript and CSS. After installing the extension, an icon was permanently visible in participants’ browser (see Figure 7). To use the extension, participants had to navigate to a web page in their web browser that they wanted to focus on, and click on the icon of the extension. Upon clicking on the icon, a pop-up appeared saying that the current web page was now the main task page, which indicated the start of a task session. Every time participants switched away during the session from this web page to another computer window, such as a different browser window, a document or an application, they received a notification indicating how long on average they go away for when switching away from the main task page. If participants switched away from a page for the first time, the notification showed a message that no switching data was available yet. To calculate the average switching duration, the extension recorded and saved the number and duration of switches away from the main task page for the whole session. Participants ended a session by closing the page. Due to security restrictions of browser extensions, the extension was unable to save any session data after a session had ended. 
+
+The presentation of the notification was similar to Study 6 but differed in one important aspect. Whereas the notification in Study 6 appeared once after every trial, in this study it appeared upon every switch away from the task. Based on the observations and interviews reported in Chapter 3, I anticipated participants switched less frequently for their main work compared with the experimental task, and therefore a notification at every switch was not considered to be too disruptive.
+
+To get an understanding of people’s interruption and window switching behaviour, participants were also asked to install ManicTime, a computer logging software which records and stores the time spent in all application windows. We initially intended to give the extension to only half of the participants to see if there was a notable difference in interruption behaviour between people who used the extension compared to people who did not. However, five participants were unable to install ManicTime on their work computer, and could only use the extension. Due to this lack of quantitative data to make a fair comparison, we therefore distributed the extension to all participants and mainly focused on the interviews and people’s experience of using the tool. A summary of ManicTime data of the remaining four participants (P3, P4, P5 and P9) is included in this chapter and used to complement the qualitative interview data and give an insight in the fragmented nature of people’s work.
 
 \subsubsection{Procedure}
 Participants who expressed interest were sent an information sheet and consent form to read and sign. They were sent an overview of the study, instructions to install the tools, and a post-study interview was scheduled.
 The study was divided into three stages:
+
 \paragraph{Week 1: Install ManicTime}
 In the first week, participants were sent instructions to install ManicTime on their work computer. They were given the option to pause or stop the application from running at any time. They were told that they were free to choose if, when and how often to look at the information, but that it was important to complete at least one expenses task with the application running. 
 
-\paragraph{Week 2: Install Focus}
-In the second week, participants in the experimental condition were asked to install Focus. Again, they were instructed that they were free to choose when and how often to use the extension, but that they had to use it for at least one expenses task. Even though the second week was the same for participants in the control condition, they were also asked to complete at least one expenses task in the first week, and another expenses task in the second week. This instruction was included to compare if any observed changes in switching behaviour were due to the browser extension, or if participants simply became more aware of their switching behaviour in the second week.
+\paragraph{Week 2: Install the browser extension}
+In the second week, participants in the experimental condition were asked to install the extension. Again, they were instructed that they were free to choose when and how often to use the extension, but that they had to use it for at least one expenses task. Even though the second week was the same for participants in the control condition, they were also asked to complete at least one expenses task in the first week, and another expenses task in the second week. This instruction was included to compare if any observed changes in switching behaviour were due to the browser extension, or if participants simply became more aware of their switching behaviour in the second week.
 
 \paragraph{Week 3: Interview}
 %Participants were sent an email with instructions on how to share their database and remove the tools from their computer.
 In the third week, participants were interviewed about how they currently manage documents, applications and tasks for their work, and asked questions on their experience of using the tools. In particular, it was discussed whether and how they used or would use the information that the tools provided, and whether they made any changes on how they went about their work. They were asked to share their ManicTime database for further analysis. Participants were offered guidance and assistance on deleting or adapting any data in their database, such as removing application and website names. Participants were still eligible to participate, if they did not wish to share their database.
 
-The interviews took place in a closed room , lasted about 50 minutes and were audio recorded.
+After two weeks of using the tool, participants were interviewed at either the participant’s or the interviewer’s office. The semi-structured interviews were structured around the following themes: how participants currently manage interruptions, tasks, time and information, the context of using the extension, the usefulness of the information provided by the extension and ManicTime, and whether they made any changes on how they managed their work. Participants who did not install ManicTime were presented with screenshots during the interview, and discussed the usefulness of this type of information compared to the time information of the extension. Participants were asked to share their ManicTime data for further analysis. They were offered guidance and assistance on deleting or adapting any sensitive or confidential information in their data, such as application and website names. An interview lasted about 60 minutes and was audio recorded. 
 
 \subsubsection{Pilot study}
 A pilot study was conducted with two participants. One participant was a colleague and was sent instructions to install Focus on his computer. The purpose of this pilot session was to see whether the installation instructions were clear and to test the extension on other people's computers. The participant had the tendency to hover over the notification to stop it from disappearing, which placed extra buttons over the end of the notification message. Therefore, the message was shortened and the most important information, namely the duration of switches, was placed at the front of the message to ensure it was still visible upon hovering.
@@ -217,79 +221,145 @@ A second pilot session was then conducted with an administrator working at the s
 Participants were informed before undertaking the study that they would be asked to share their ManicTime database at the end of the study. However, a disclaimer was added in the invitation and instruction emails that participants were still able to take part, if they did not wish to share their database. It was made clear what data ManicTime recorded, and that Focus did not store any data. They were given instructions on how to pause the application from running and how to delete certain parts of the data, and were offered assistance to help further change the database into a state they were comfortable sharing. 
 
 \subsubsection{Data analysis}
-Though ManicTime was piloted on a work computer of the university before starting the study, three participants were unable to install ManicTime on their work computer due to firewall restrictions. Furthermore, two participants opted out of using Focus as they used a browser different from Google Chrome for at least parts of their work. Therefore, ManicTime data of the remaining four participants was used to complement qualitative explanations of their task switching behaviour, but it was not analysed quantitatively as previously planned to compare switching behaviour with and without the extension. Instead, the primary focus of data analysis was on the post-study interviews and participants' subjective experience of using the tools. The interviews were trancsribed verbatim, and analysed using thematic analysis.
-
-%Four participants successfully installed and used ManicTime, and two participants used Focus. 
-
+Though ManicTime was piloted on a work computer of the university before starting the study, three participants were unable to install ManicTime on their work computer due to firewall restrictions. Furthermore, two participants opted out of using Focus as they used a browser different from Google Chrome for at least parts of their work. Therefore, ManicTime data of the remaining four participants was used to complement qualitative explanations of their task switching behaviour, but it was not analysed quantitatively as previously planned to compare switching behaviour with and without the extension. Instead, the primary focus of data analysis was on the post-study interviews and participants' subjective experience of using the tools. The interviews were transcribed verbatim, and analysed using thematic analysis.
 \subsection{Findings}
 %Reflective and current information
-\subsubsection{Reflective information}
-Participants made to-do lists and schedules, but did not look back at them. P2 did look back at them, but only to move forward tasks he had not finished, and not to adjust expectations on his time management. They found it more useful to get information on current behaviour, as they did not know what to do with reflective information. 
+Interviews were transcribed verbatim, and a thematic analysis was used to analyse the interviews. Participants gained some insights to change their behaviour based on the information they received from the extension. People’s switching behaviour as shown by the ManicTime data is reported first. I then discuss the usefulness of time feedback to manage interruptions around the following themes: awareness and change of behaviour, the type of interruptions, the effort to record and use data, setting goals, and the work environment.
 
-P3 would like to look back, and tried to with ManicTime, but felt it was effortful and did not have the time to reflect on it:
+\subsubsection{Switching behaviour}
+Participants’ working hours differed slightly, but all participants worked at least ten hours per day during the study. To make the data comparable between participants, we only considered data between 9am and 7pm, during which all participants were at work. 
 
-\textit{'I don't have time that I can set aside to work on things that will help me later (…). the only period where I would have the time to do these things, is when I get home. And when I get home, I'm at home, and I just can't be bothered doing more work stuff.'} (P3)
+Table 4 summarises the average number and duration of focus on a computer window screen. The mean duration of focus is about 34 seconds, with the longest focus being 48 minutes (2893 seconds). On average, participants made 830 computer window switches per working day. The distribution of window focus durations was positively skewed with a long tail: 95\% of the distribution is plotted in Figure 8, illustrating that participants were rarely focused on a window for more than a minute. Together with the interview findings, the data shows that participants’ work was characterised by short durations of focus and frequent window switches. Figure 9 and Figure 10 show the average number of daily window switches and focus durations over the ten days of the study.
+In addition to computer window switches, participants also made a smaller number of non-digital interruptions, for example when taking a break or attending a meeting (see Table 4). On average participants made three daily non-digital interruptions which lasted about 29 minutes (1741 seconds). 
 
-%Prospective information; Use of to-do lists, schedules
-\subsubsection{Prospective information: to-do lists and schedules}
-Participants used prospective time information: they made written to-do lists but did not allocate time or deadlines to these. To-do lists were used to write down specific tasks without a time allocation. Schedules were used to allocate time blocks to higher-level tasks. P2 set aside several hours to work on `finance-related' tasks, or email.
+\subsubsection{Awareness and changing behaviour}
+Participants were largely aware they interrupted their work frequently and considered it the nature of their job: they regularly had to stop their work to look up task-related information, and had to address ad-hoc queries and requests from their department. Some interruptions were hard to avoid because they were urgent, important, or necessary to progress with work. The extension however made participants realise they were unaware these interruptions were much longer than they considered necessary. The notification was a trigger to then reflect on the reasons for this:
 
-%Digital vs. non-digital interruptions
-\subsubsection{Type of interruptions}
-\paragraph{Digital versus non-digital interruptions}
+\textit{“It's a shock, because I knew it was bad, I didn't think it was that bad. (…) So it's reflecting on, actually, a two-minute task is turning into a 15-20 minute task - why is that? (…) Why? But again, it's distractions.”} (P9)
 
-Participants discussed that the information Focus provided would be useful, but that it currently did not capture the full data as it only looked at digital interruptions. Upon the first time of switching windows, the notification would say there was no interruption data yet: 
+If they realised upon reflection that they were distracted by irrelevant activities during these interruptions, participants tried to avoid these activities and focus on the goal of the interruption, for example by setting an explicit time limit for themselves:
+ 
+ \textit{“It would give me a chance to maybe cut out some stuff that I felt wasn’t really relevant. (…) I spent an hour yesterday on Google, what was I doing? It’s like surfing the net, but it’s not, because you’re looking for something in particular. (…) OK, I’m going to make sure that I only spend twenty minutes on Google.”} (P6)
+ 
+Some interruptions were not urgent, but participants were used to addressing them anyway if they were presumed to be ‘quick and easy’, so they did not have to remind themselves to attend to it later. The notification however made participants reflect on the occurrence and actual length of these interruptions, and whether they always needed to address each interruption immediately:
 
-\textit{`That's when I sort of thought: `Oh, that's not really saying much, is it? Because it's not actually true. Because of course there were interruptions.''} (P2)
+\textit{ “It made me realise how long I was spending, spending/wasting, doing other stuff. I think it affected me in the sense that I wanted to take fewer breaks. Well, by breaks I mean, it’s just going to do something and then ending up chatting with someone.”} (P3)
 
-P1 and P2 said that they had just as much digital as non-digital interruptions, that these were equally disruptive, and felt that time data on digital switches only told part of the story. It would be useful to get information on both of these interruptions.
+\textit{“I need to work on time management and (…) not spending my whole day answering irrelevant queries.”} (P9)
 
-All participants found the timeline that ManicTime provided on time active and away from the computer useful.
+\subsubsection{Effectiveness of time feedback for different types of interruption}
+Participants found the feedback especially useful when they switched to sources they knew were distracting, for example search engines, instant messaging tools, and email. Participants needed to access these sources for work, so it was difficult to avoid them:
 
-P2 would use it to schedule in more breaks, whereas it made P3 realise his breaks were much longer than he thought:
+\textit{“As everyone says, ‘we’ll just switch email off’ (…). But you can bet your life that there will come a moment in whatever task you’re doing you think: Oh! I have to open up email. And the moment you open up your email, that’s it.”} (P2)
 
-\textit{`when I'm going to print something, and I end up talking with someone, and I come back, and it's like: you've been out for half an hour. And I was like: Jesus, time's flying! No wonder I work until 6 every day.'} (P3)
+Two participants (P3, P7) found the extension mostly useful if they were about to interrupt themselves for non-work related activities, as the notification helped as a reminder to either stay focused on the task, or to not spend too long on the interruption. If they however had to be in a different computer window for a while as part of the task, the information was not considered useful:
 
-Participants did not find a list of applications useful, as they spent the most time in the same applications. P2 and P3 only looked at it out of curiousity, but did not see the use of it for work. 
+\textit{“I think it'd be really, really useful, but not for necessary work tasks. (…) I’ve been spending 15 minutes on Moodle, and my main page is X or Y. I don’t care to go to that main page or not. So whether you could setup different ‘main’ pages… but then that would be complicated.”} (P3)
 
-\subsubsection{Physical environment}
-Participants did not always work in the same location. For example, P3 worked in two different offices, and all participants worked from home occasionally. Different environments introduced different types of interruptions. 
+P7 was the only participant who, upon viewing the time information, was not surprised by the time she spent on work-related interruptions. She considered the amount of time necessary to complete her work and did not see any room to improve on this: 
 
-%Working from home; gaps in reflective data
-\subsubsection{Gaps in data}
-X participants worked days from home, which left gaps in the ManicTime data.
+\textit{“To me, it doesn't kind of make me think: 'Oeh, I've been away too long'. I just think: OK, well I'm roughly aware that I've been away for an hour (…), I don't see how it kind of links with being more productive. Unless I suppose, you're really easily distracted.“} (P7)
 
+Participants also dealt with interruptions taking place outside of the computer: for example, participants were interrupted by their colleagues or phone calls, or interrupted themselves to print something off. As with digital interruptions, there was again no clear distinction between distracting and work-necessary sources, so participants could not always manage distracting self-interruptions by avoiding these during work:
 
-\subsubsection{Time feedback}
-Participants were particularly interested in the time it took them when they were not at their task. For P3, it helped him take shorter and fewer breaks:
+\textit{“My phone is a distraction for me. (…) I put my phone in a tray under a load of documents. But then I’m in Whatsapp work groups. So I converse a lot with a professor via text.”} (P9)
 
-\textit{`it made me realise how long I was spending, spending/wasting, doing other stuff. I think that affected me in the sense that I wanted to take fewer breaks. Because I didn't, well by breaks I mean, as I told you earlier, it's just going to do something, and then ending up chatting with someone in the passing.'} (P3)
+Because the extension only provided time information about digital interruptions, some participants felt it provided an incomplete picture of their interruption behaviour. This is illustrated by the following quote from P2 who, upon making the first digital interruption away from a task, read in the extension that there was no interruption data available yet: 
 
-However, for other people it was not surprising:
+\textit{“That's when I sort of thought: 'Oh, that's not really saying much, is it?' Because it's not actually true. Because of course there were interruptions.”} (P2)
 
-\textit{`I don't really know whether that's helpful. To me, it doesn't kind of make me think: 'Oeh, I've been away too long'. I just think: OK, well I'm roughly aware that I've been away for an hour (…), I don't see how it links with being more productive. Unless I suppose, you're really easily distracted.'} (P7) 
+ManicTime provided participants with information on their non-digital interruptions, and participants considered this a good complement to the information that the extension provided. If the PC was inactive, and participants came back from inactivity, ManicTime presented users with a window on the screen saying how long they had been away for (see Figure 11), and gave participants the option to write down what they had been doing while they were away.
 
-\subsubsection{Switching between windows}
-Participants did not find it useful to see how much time they spend in certain applications or windows. P2 was curious, but did not find it surprising as he spends most time in the information systems he uses for work, which are the main task windows. 
-Most tasks revolved around a main task window, and participants found it easy to select one. 
-%Whittaker and Collins found that people think in time on tasks, not time on specific document. We found people think more in 'time on work, or specific type of work'. They do think in tasks but do not put time on it. 
+\subsubsection{Effort to view and use time data}
+Participants appreciated that the extension presented them with information during a task, as they would forget to look at it otherwise:
 
-\subsubsection{Distractions}
+\textit{“It needs to be shown to you, to make an impact.”} (P6)
+
+One participant (P4) said she sometimes forgot to start and use the extension during busy periods at work. Another participant (P3) found ManicTime less intrusive than the extension, because it runs in the background, but also said he often failed to remember to open and look at ManicTime data, as he was busy with work. In contrast, the notification worked as a trigger for participants to reflect on their behaviour.
+
+Participants reported that the concise and precise measure of the average interruption time was easy to read and interpret during a task. It was also clear what action to take, and participants read the information to decide whether they should reflect on past interruptions. To aid their reflection, some participants wanted to get insight in additional data of what they were doing during these interruptions. P9 combined the extension with ManicTime to contextualise the interruption:
+
+\textit{“[The extension] popped up and it said: ”You go away for 7 minutes and 33 seconds. I would then have a browse [in ManicTime] And then I think: oh my gosh, I've been on emails for an hour! I haven't got anything done. So yeah, I checked it quite a lot. More so because I was so shocked. And so, I'm so interested to know, actually, what I'm doing at work.”} (P9)
+
+Two participants, who did not have ManicTime installed, wanted to use the extension to see more information. For example, they wanted to see a log of all of their past interruptions, and explore a pattern of their behaviour:
+
+\textit{“It [the notification] kept on coming up, (…) and you can't click on it, because it's not taking you anywhere! But yeah, I found that a shame. Because I could see the benefit of it, and it would have been really, REALLY interesting.”} (P2)
+
+\textit{“I would like to see, just on a weekly basis, exactly what I’m doing, (…)  what was productive and non-productive time.”} (P6)
+
+However, participants who used ManicTime and did have access to past behaviour, primarily opened it after being triggered by the notification to see what they had been doing at a specific moment, and rarely used the application to look at patterns of their overall activity or aggregated data. They briefly looked at the rest of the data out of curiosity at the start of the study, but the extensiveness of the ManicTime data made it unclear to participants what action to take from the data. It was considered too effortful and time-consuming to find this out themselves:
+
+\textit{“I didn’t go into too much detail with it. One of the reasons is that, it would take me a lot of time and effort to use this information, to help me work better or quicker, or more efficiently. And this is either something that I don’t have time to do, or I can’t be bothered, depending on the day.”} (P3)
+
+\textit{“I just can't see myself spending the time using something to help me spend time on things! [laughs] I just have quite a lot of things to do, that I’d rather not spend more time organising that, I’d rather just get it done.”} (P5)
+
+Potentially giving participants a log of a specific aspect of their behaviour, in this case the occurrence and duration of interruptions during a specific task, will be more valuable than all of their activity, as it can save participants time of filtering and interpreting the data, and help them look at the impact of changing a specific habit over time. 
+
+\subsubsection{Effectiveness of time feedback to set goals}
+A clear interest among participants was to not only see how much time they spent on interruptions during a task, but also how much time they spent on a task overall. In the same way that they used time information to reflect on whether interruptions were as long as they thought they were, they wanted to reflect on whether tasks took as long as expected. Furthermore, they would use this information to be more realistic when planning tasks over time: 
+
+\textit{“So down the line, I’d think it would be extremely useful to know how much time I’m actually spending. Because it would help me be more productive, or be more realistic in the amount of time I need for these things to happen.”} (P3)
+
+\textit{“I'm quite keen to know how much time I'm spending and doing which task. [In addition to] how much we're away from the task.”} (P8) 
+
+Currently, participants planned tasks they wanted to complete on either a daily or weekly basis, and implicitly took the time each task would take into consideration. However, given the fragmented nature of their role and the frequency of interruptions, it was difficult to estimate how long they actually spent on these tasks: 
+\textit{“They’re very loose goals, (…) I think that might take me 3 hours, and I’d want to get that done in one day. But yeah, obviously, things quite often take longer than I think I will, because then when I’m doing them, I might get interrupted.”} (P5)
+
+\textit{“I think time is quite important to monitor, sometimes it goes really fast, sometimes it doesn’t, but this thing is actually telling you exactly what has been happening. (…) Now I have no, I have just a rough measure, which is how I feel, rather than a precise measurement.”} (P3)
+
+The interest to see time on tasks was related to the theme that participants wanted to complete as many tasks as possible within a certain time frame, and were driven in their work by tasks and deadlines. Completing tasks made them feel a sense of achievement, and this was also one of the reasons why they addressed an interrupting task immediately, if they thought they could complete it quickly:
+
+\textit{“I love that feeling! It is a great, wonderful feeling, psychologically, you think: that’s DONE!”} (P2)
+
+\textit{“It kind of contradicts what I told you before about (…) how I jump on them [incoming tasks] and finish them. But at the same time, it’s because I don’t want to have three things at once going. I want to finish, finish, finish.”} (P3)
+
+\textit{“I strive on achieving, and if I’ve not ticked something off my to-do list, I don’t feel like I’ve achieved anything that day. (…) That’s where ManicTime has really helped me, (…) actually look at the log, (…) I do feel like I am achieving, even though on paper, I’ve not ticked anything off.”} (P9)
+
+Two participants also wished to set time limits on their interruptions, and wanted to get reminders during the interruption to return to a task. As some applications were used for both work and non-work activities, it would be difficult for a time application to automatically detect an appropriate time limit:
+
+\textit{“Say you have to work on that specific document, and then you end up spending half an hour on Slack, chatting to your colleagues, it would be good if something's like: mate, work. Stop doing other things. But it’s really hard to know what people are actually doing on these things.”} (P3)
+
+\textit{“If you’re going on Word, and you’re typing a letter or you’re just making random notes. You’re still on Word, but the letter’s obviously more important than just making random notes. (…) Maybe the next stage would be that you set it up where you’re only allowed 30 minutes, and an alarm sound [will go off] to say your 30 minutes are up. So you know what you’re doing, and sort of regulating it, to fit in with what you want to achieve.”} (P6)
+
+\subsubsection{Different work environments}
+Seven participants worked from home on occasion, and though participants only used the extension in the office, their descriptions of their office and home environments indicate that participants may in particular benefit from time information during afternoon work in the office, when participants were more prone to interrupt themselves and get distracted. In general, the office was seen as a more distracting environment and participants saved up tasks that required focused attention to complete at home. They received fewer external interruptions:
+
+\textit{“You’re working from home for a specific purpose, and therefore you don’t really want to be disturbed. Unless it’s absolutely urgent.”} (P2)
+ 
+\textit{“I get fewer emails, definitely. (…) If I’m not there, 7 out of 10 enquiries, they deal with themselves.”} (P9)
+
+At home, participants also reacted to interruptions differently:
+
+\textit{“From home it’s a bit different, I normally look at the emails but I generally try not to respond, unless it’s too urgent. But at work, when I’m here, (…) if it is not too urgent, but still I can find that is nice and straightforward, I just straight reply back. But at home it’s more focused, definitely.”} (P8)
+
+The office environment not only exposed participants to more external interruptions, but all seven participants reported there were also more sources to get distracted. For example, most participants had multiple computer screens and kept the majority of documents, browse windows and applications open on their work computer, even after they had finished with them. These windows were a further source of distraction if participants were trying to find task-related information in one of the windows:
+
+\textit{“It’s like 15 tabs, and I need to go somewhere. And I end up clicking all of them. And if there is one that is personal stuff, I end up reading it. And then five minutes after, I’m like: what was I doing? (…) So it’s distracting in the way that it makes me not solely focused on one thing.”} (P3)
+
+In contrast, at home participants worked with one screen and had their main task window maximised. Another participant reported she was also less prone to react to other self-interruptions at home:
+
+\textit{“When I’m at home, I generally don’t look at my phone for some weird reason. (…) When I’m in the office I find that I’m easily distracted, and I don’t get things done.”} (P9)
+
+Though all participants felt that the office environment introduced more distractions during work-related interruptions, two participants expressed that there were still other, personal, interruptions at home:
+
+\textit{“There are fewer, but there are still interruptions, but they are of a different kind. I guess in a way some of them are kind of internal interruptions.”} (P5)
+
+\textit{“Coming to my office makes sense, if you want to work. Staying at home makes sense if you want to chill.”} (P3)
 
 \subsection{Discussion}
+The aim of this paper was to investigate whether showing people how long they go away from a task can reduce the number and duration of interruptions and improve task performance. The results suggest that feedback on the length of an interruption during the task can help people adapt their interruption behaviour in the moment and become more focused on completing a task. Whereas Study 6 showed that it reduced the duration of interruptions and made people more accurate and faster in completing a data entry task, Study 7 showed that it made people reflect on what they were doing during an interruption, and as a result they tried to cut down the length of interruptions and reduce the number of unnecessary interruptions.
 
-\subsection{Limitations}
-%Unable to use ManicTime data
+\subsubsection{Implications For Design}
 
-\subsection{Contributions}
-\begin{itemize}
-\item
-Development of design recommendations for an expenses system.
-\item
-Demonstrate how an understanding of the used information sources and people's switching strategies between entering and looking up information can be used to adapt the design of the data entry interface. 
-\item
-Demonstrate the applicability of design recommendations in the financial office settings in which the expenses task is currently done. 
-\item
-Demonstrate that design features can influence people's strategies in entering expenses in a financial office setting.
-\end{itemize}
+Previous work has highlighted several problems with existing commercial time tracking and management applications: these often are time-consuming to use, they can restrict user activities too much, and it is not immediately clear to users what action to take based on the data \citep{Collins2014, Whittaker2016}. The findings partly corroborate these issues, and demonstrate several pointers that can inform the design of time applications. 
+First, when providing users with a data log of their computer activities, they need to have a specific starting point of what it is they want to find out for them to be able to use it and act on it. Participants were not interested in their overall computer activity, but were mostly interested in the time they spent on, or away from, a specific task. By presenting a simple and precise measure, in our case the length of an interruption, participants were provided with a specific target of what to reflect on and change, and did not need to go through the effort of having to interpret information of all their activity. As some participants did want to have access to more detailed information about their activity during a specific interruption, a simple presentation in the moment can be complemented by a more complete log running in the background. It would also be interesting to give users control over what information they are interested in to see in the notification. For example, most participants were not only interested in the length of interruptions during a task, but also on the length of their task overall. 
 
+Second, by showing information during the task, participants can react and change their behaviour immediately and do not have to remind themselves to look at information later. Participants were prompted by the notification to reflect on what they were doing during an interruption, but often forgot to look back at their computer activities on other occasions.
+
+Another promising area to investigate would be to record the interruptions and give participants insight in how their changes have an effect over time. Although it was clear to participants in Study 2 what action they had to take based on the data presented by the extension, some felt they did not have sufficient information as to whether their changes had any effect over time.
+
+\subsubsection{Limitations}
+While the results are promising, the study also has a number of limitations. Due to the limited logging data, I am unable to make any concluding claims as to whether time feedback had any significant effect on participants’ window switching and task focus behaviour over time. In addition, though participants indicated they modified their behaviour after using the extension, it is not certain whether they based their behaviour on the specific information provided by the extension, or whether the notification simply made them reflect and become more aware of their time. 
+
+\section{Summary}
+This work contributes to our understanding of switching behaviour for routine data entry work to distracting but task-relevant applications such as email. The results suggest that a simple presentation of time information during a task can mitigate distractions but still keep users in control over their interruptions, and can inform the design of productivity interventions to improve focus. 
