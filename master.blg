@@ -5,12 +5,11 @@ A level-1 auxiliary file: ./settings/title.aux
 A level-1 auxiliary file: ./settings/formatting.aux
 A level-1 auxiliary file: ./tex/abstract.aux
 A level-1 auxiliary file: ./tex/impact.aux
-A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: ./tex/acknowledgements.aux
 A level-1 auxiliary file: ./tex/introduction.aux
 A level-1 auxiliary file: ./tex/background.aux
 A level-1 auxiliary file: ./tex/ch12.aux
 A level-1 auxiliary file: ./tex/ch34.aux
-A level-1 auxiliary file: ./tex/designs.aux
 A level-1 auxiliary file: ./tex/ch56.aux
 A level-1 auxiliary file: ./tex/finaldiscussion.aux
 The style file: apacite.bst
@@ -24,76 +23,61 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10568 items from 5000.
+Reallocated field_info (elt_size=4) to 10328 items from 5000.
 Database file #1: master.bib
-Repeated entry---line 434 of file master.bib
+Repeated entry---line 4974 of file master.bib
  : @article{Olsen2008
  :                   ,
 I'm skipping whatever remains of this entry
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Repeated entry---line 6413 of file master.bib
- : @article{Li2015
- :                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6483 of file master.bib
+Repeated entry---line 6136 of file master.bib
  : @inproceedings{Wiseman2011
  :                           ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Grundgeiger2010"
-Warning--I didn't find a database entry for "Altmann2002"
-Warning--I didn't find a database entry for "Wiseman2014"
-Warning--I didn't find a database entry for "Card1983"
-Warning--I didn't find a database entry for "Norman2002"
-Warning--I didn't find a database entry for "Payne2013"
-Warning--I didn't find a database entry for "Onwuegbuzie2008"
-Warning--I didn't find a database entry for "Gurdin2001"
-Warning--I didn't find a database entry for "Dearman"
-Warning--I didn't find a database entry for "Baddeley1986"
-Warning--I didn't find a database entry for "Miller1956"
-Warning--I didn't find a database entry for "Morgan2014"
-Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "Farmer2017"
+Warning--I didn't find a database entry for "Jokela2015"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No institution in Rzeszotarski2013
 Warning--No address in Rzeszotarski2013
-You've used 103 entries,
+You've used 109 entries,
             6951 wiz_defined-function locations,
-            2093 strings with 84676 characters,
-and the built_in function-call counts, 238674 in all, are:
-= -- 30607
-> -- 2159
-< -- 11171
-+ -- 11933
-- -- 211
-* -- 14955
-:= -- 41085
-add.period$ -- 524
-call.type$ -- 103
-change.case$ -- 1840
+            2120 strings with 80418 characters,
+and the built_in function-call counts, 246103 in all, are:
+= -- 31505
+> -- 2194
+< -- 11520
++ -- 12199
+- -- 224
+* -- 15460
+:= -- 42451
+add.period$ -- 543
+call.type$ -- 109
+change.case$ -- 1927
 chr.to.int$ -- 0
-cite$ -- 208
-duplicate$ -- 6656
-empty$ -- 8825
-format.name$ -- 3387
-if$ -- 45880
+cite$ -- 220
+duplicate$ -- 6829
+empty$ -- 9217
+format.name$ -- 3429
+if$ -- 47423
 int.to.chr$ -- 0
-int.to.str$ -- 313
+int.to.str$ -- 335
 missing$ -- 0
-newline$ -- 2943
-num.names$ -- 838
-pop$ -- 4967
+newline$ -- 3088
+num.names$ -- 888
+pop$ -- 5063
 preamble$ -- 1
-purify$ -- 430
+purify$ -- 450
 quote$ -- 0
-skip$ -- 15085
+skip$ -- 15607
 stack$ -- 0
-substring$ -- 13407
-swap$ -- 3791
-text.length$ -- 513
+substring$ -- 13674
+swap$ -- 3889
+text.length$ -- 510
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 11824
+type$ -- 12176
 warning$ -- 2
-while$ -- 1225
+while$ -- 1226
 width$ -- 0
-write$ -- 3790
-(There were 3 error messages)
+write$ -- 3943
+(There were 2 error messages)
