@@ -704,8 +704,8 @@ Constine, J.%
 \newblock
 \APACrefYearMonthDay{2018{\protect \BCnt {1}}}{}{}.
 \newblock
-\APACrefbtitle {https://techcrunch.com/2018/06/22/your-time-on-facebook/.}
-  {https://techcrunch.com/2018/06/22/your-time-on-facebook/.}
+\APACrefbtitle {{Facebook prototypes tool to show how many minutes you spend on
+  it}.} {{Facebook prototypes tool to show how many minutes you spend on it}.}
 \newblock
 \begin{APACrefURL}
   \url{https://techcrunch.com/2018/06/22/your-time-on-facebook/}
@@ -729,8 +729,8 @@ Constine, J.%
 \newblock
 \APACrefYearMonthDay{2018{\protect \BCnt {2}}}{}{}.
 \newblock
-\APACrefbtitle {{Instagram CEO confirms upcoming "time spent" Us-age
-  Insights}.} {{Instagram CEO confirms upcoming "time spent" Us-age Insights}.}
+\APACrefbtitle {{Instagram CEO confirms upcoming "time spent" Usage Insights}.}
+  {{Instagram CEO confirms upcoming "time spent" Usage Insights}.}
 \newblock
 \begin{APACrefURL}
   [{2018-05-31}]\url{https://techcrunch.com/2018/05/15/instagram-usage-insights/}
@@ -994,6 +994,43 @@ Evans, A\BPBI C.%
 \BIn{} \APACrefbtitle {CHI} {Chi}\ (\BPGS\ 1947--1956).
 \newblock
 \APACaddressPublisher{Austin, Texas, USA}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Farmer%
+, Janssen%
+, Nguyen%
+\BCBL {}\ \BBA {} Brumby%
+}{%
+Farmer%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+Farmer2017}
+\APACinsertmetastar {%
+Farmer2017}%
+\begin{APACrefauthors}%
+Farmer, G\BPBI D.%
+, Janssen, C\BPBI P.%
+, Nguyen, A\BPBI T.%
+\BCBL {}\ \BBA {} Brumby, D\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Dividing Attention Between Tasks: Testing Whether
+  Explicit Payoff Functions Elicit Optimal Dual-Task Performance}} {{Dividing
+  Attention Between Tasks: Testing Whether Explicit Payoff Functions Elicit
+  Optimal Dual-Task Performance}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognitive Science}{}{}{1--30}.
+\newblock
+\begin{APACrefURL}
+  \url{http://onlinelibrary.wiley.com/store/10.1111/cogs.12513/asset/cogs12513.pdf;jsessionid=ECF8C2EAC059D343C30C454B13126DF8.f01t01?v=1{\&}t=jcdeo5xz{\&}s=5c3623e8e560f2d7bb00babe08289c61f4a84bdc}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/cogs.12513} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1356,7 +1393,7 @@ Grundgeiger2010}
 Grundgeiger2010}%
 \begin{APACrefauthors}%
 Grundgeiger, T.%
-, Sanderson, P.%
+, Sanderson, P\BPBI M.%
 , Macdougall, H\BPBI G.%
 \BCBL {}\ \BBA {} Venkatesh, B.%
 \end{APACrefauthors}%
@@ -2533,11 +2570,12 @@ Olsen, K\BPBI A.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Customer Errors in Internet Banking}} {{Customer Errors
-  in Internet Banking}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{The {\$}100,000 keying error}} {{The {\$}100,000 keying
+  error}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of Norsk Informatikkonferanse.} {Proceedings
-  of norsk informatikkonferanse.}
+\APACjournalVolNumPages{Computer}{41}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/MC.2008.135} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

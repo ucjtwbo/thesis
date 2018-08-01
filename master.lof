@@ -19,35 +19,36 @@
 \contentsline {figure}{\numberline {4.10}{\ignorespaces Line graph showing the frequency of interleaving rates for each condition. It can be seen that in the Control condition, the line is even, which means that an even distribution of participants interleaved on all, a portion, or all trials. The lines of the High-Cost conditions peak at the right end, which means most participants in these conditions interleaved on at least a portion if not 100\% of all trials.\relax }}{109}{figure.caption.100}
 \contentsline {figure}{\numberline {4.11}{\ignorespaces The type of data entry errors made in each condition. It can be seen that skipped errors occurred more often in the High-Cost conditions, in which people interleaved more often.\relax }}{110}{figure.caption.102}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces The data entry task as shown in the browser. Participants had to look up codes from their email (Step 1) and enter this into a sheet (Step 2). After every trial, the notification condition received time information (Step 3)\relax }}{120}{figure.caption.108}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Histograms showing the distribution of switching durations for the two conditions; switches longer than 20 seconds are grouped in one bar at the right side of the histograms. The red line marks the mean switching duration.\relax }}{123}{figure.caption.115}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces The distribution of inter-keypress intervals for the two conditions; switches longer than five seconds are grouped in one bar at the right side of the histograms. The red line marks the mean IKI.\relax }}{125}{figure.caption.118}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Participants selected a web page to focus on by clicking on the extension icon in their browser, after which a popup appeared to confirm this was now the main task page. Every time the participant switched to another window, application or document, a browser notification showed how long on average they switch away from this page.\relax }}{130}{figure.caption.123}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Average window focus durations during the study.\relax }}{134}{figure.caption.129}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Average number of daily window switches during the study.\relax }}{134}{figure.caption.130}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces If participants had been away from their computer, upon returning ManicTime presented them with a window showing how long they had been away for, and an option to write down what they had been doing while away.\relax }}{137}{figure.caption.133}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The data entry task as shown in the browser. Participants had to look up codes from their email (Step 1) and enter this into a sheet (Step 2). After every trial, the notification condition received time information (Step 3)\relax }}{121}{figure.caption.108}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Histograms showing the distribution of switching durations for the two conditions; switches longer than 20 seconds are grouped in one bar at the right side of the histograms. The red line marks the mean switching duration.\relax }}{124}{figure.caption.115}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The distribution of inter-keypress intervals for the two conditions; switches longer than five seconds are grouped in one bar at the right side of the histograms. The red line marks the mean IKI.\relax }}{126}{figure.caption.118}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Participants selected a web page to focus on by clicking on the extension icon in their browser, after which a popup appeared to confirm this was now the main task page. Every time the participant switched to another window, application or document, a browser notification showed how long on average they switch away from this page.\relax }}{132}{figure.caption.125}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces The distribution of window focus durations during the study, measured by ManicTime. Durations longer than 150 seconds are grouped in one bar at the right side of the histogram. The red line marks the mean window focus duration.\relax }}{136}{figure.caption.131}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Average window focus durations during the study.\relax }}{137}{figure.caption.133}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Average number of daily window switches during the study.\relax }}{137}{figure.caption.134}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces If participants had been away from their computer, upon returning ManicTime presented them with a window showing how long they had been away for, and an option to write down what they had been doing while away.\relax }}{144}{figure.caption.142}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Study 1 Task diagram}}{169}{figure.caption.143}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Study 1 Checking diagram}}{170}{figure.caption.144}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Study 1 System diagram}}{171}{figure.caption.148}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Study 1 Environment diagram}}{172}{figure.caption.149}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Study 1 Data diagram}}{173}{figure.caption.150}
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Study 1 Errors diagram}}{174}{figure.caption.151}
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Study 1 Strategy diagram}}{176}{figure.caption.156}
-\contentsline {figure}{\numberline {A.8}{\ignorespaces Study 1 Importance of accuracy and paper trails diagram}}{178}{figure.caption.159}
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Study 1 Other diagram}}{179}{figure.caption.160}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Study 1 Task diagram}}{174}{figure.caption.149}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Study 1 Checking diagram}}{175}{figure.caption.150}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Study 1 System diagram}}{176}{figure.caption.154}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Study 1 Environment diagram}}{177}{figure.caption.155}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Study 1 Data diagram}}{178}{figure.caption.156}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Study 1 Errors diagram}}{179}{figure.caption.157}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Study 1 Strategy diagram}}{181}{figure.caption.162}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Study 1 Importance of accuracy and paper trails diagram}}{183}{figure.caption.165}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Study 1 Other diagram}}{184}{figure.caption.166}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Information sheet\relax }}{181}{figure.caption.162}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Information sheet\relax }}{186}{figure.caption.168}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {C.1}{\ignorespaces Consent form\relax }}{183}{figure.caption.163}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Consent form\relax }}{188}{figure.caption.169}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {E.1}{\ignorespaces Study 2 Room model}}{189}{figure.caption.170}
-\contentsline {figure}{\numberline {E.2}{\ignorespaces Study 2 Desk model}}{189}{figure.caption.171}
-\contentsline {figure}{\numberline {E.3}{\ignorespaces Study 2 Information flow model}}{195}{figure.caption.172}
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Study 2 Room model}}{194}{figure.caption.176}
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Study 2 Desk model}}{194}{figure.caption.177}
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Study 2 Information flow model}}{200}{figure.caption.178}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {F.1}{\ignorespaces A plot per participant across trials. The x axis shows the trial number, and the y axis indicates whether a participant interleaved on a trial: a value of 0 means they did not interleave, a value of 1 means they did interleave.\relax }}{198}{figure.caption.173}
+\contentsline {figure}{\numberline {F.1}{\ignorespaces A plot per participant across trials. The x axis shows the trial number, and the y axis indicates whether a participant interleaved on a trial: a value of 0 means they did not interleave, a value of 1 means they did interleave.\relax }}{203}{figure.caption.179}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {G.1}{\ignorespaces Study 7 consent form given to participants.\relax }}{200}{figure.caption.174}
-\contentsline {figure}{\numberline {G.2}{\ignorespaces Study 7 instructions to install the browser extension.\relax }}{201}{figure.caption.175}
+\contentsline {figure}{\numberline {G.1}{\ignorespaces Study 7 consent form given to participants.\relax }}{205}{figure.caption.180}
+\contentsline {figure}{\numberline {G.2}{\ignorespaces Study 7 instructions to install the browser extension.\relax }}{206}{figure.caption.181}
