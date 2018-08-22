@@ -59,32 +59,33 @@ Altmann, E\BPBI M.%
 
 \bibitem [\protect \citeauthoryear {%
 Altmann%
-, Trafton%
-\BCBL {}\ \BBA {} Hambrick%
+\ \BBA {} Trafton%
 }{%
 Altmann%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2014}}%
+\ \BBA {} Trafton%
+}{%
+{\protect \APACyear {2004}}%
 }]{%
-Altmann2014}
+Altmann2004}
 \APACinsertmetastar {%
-Altmann2014}%
+Altmann2004}%
 \begin{APACrefauthors}%
 Altmann, E\BPBI M.%
-, Trafton, J\BPBI G.%
-\BCBL {}\ \BBA {} Hambrick, D\BPBI Z.%
+\BCBT {}\ \BBA {} Trafton, J\BPBI G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2014}{}{}.
+\APACrefYearMonthDay{2004}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Momentary interruptions can derail the train of
-  thought}} {{Momentary interruptions can derail the train of thought}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Task Interruption: Resumption Lag and the Role of
+  Cues}} {{Task Interruption: Resumption Lag and the Role of Cues}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Experimental Psychology:
-  General}{143}{1}{215--226}.
+\BIn{} \APACrefbtitle {Proceedings of the 26th Annual Conference of the
+  Cognitive Science Society.} {Proceedings of the 26th annual conference of the
+  cognitive science society.}
 \newblock
-\begin{APACrefDOI} \doi{10.1037/a0030986} \end{APACrefDOI}
+\begin{APACrefURL} \url{http://www.dtic.mil/dtic/tr/fulltext/u2/a480333.pdf}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -115,6 +116,32 @@ Altmann, E\BPBI M.%
   Applied}{23}{2}{216--229}.
 \newblock
 \begin{APACrefDOI} \doi{10.1037/xap0000117} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Apple%
+}{%
+Apple%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Apple2018}
+\APACinsertmetastar {%
+Apple2018}%
+\begin{APACrefauthors}%
+Apple.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{iOS 12 introduces new features to reduce interruptions and
+  manage Screen Time}.} {{iOS 12 introduces new features to reduce
+  interruptions and manage Screen Time}.}
+\newblock
+\begin{APACrefURL}
+  [{14-08-2018}]\url{https://www.apple.com/uk/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -834,6 +861,39 @@ Czerwinski, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Dabbish%
+, Mark%
+\BCBL {}\ \BBA {} Gonzalez%
+}{%
+Dabbish%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Dabbish2011}
+\APACinsertmetastar {%
+Dabbish2011}%
+\begin{APACrefauthors}%
+Dabbish, L\BPBI A.%
+, Mark, G.%
+\BCBL {}\ \BBA {} Gonzalez, V\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Why Do I Keep Interrupting Myself?: Environment, Habit
+  and Self-Interruption}} {{Why Do I Keep Interrupting Myself?: Environment,
+  Habit and Self-Interruption}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI'11} {Chi'11}\ (\BPGS\ 3127--3130).
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/1980000/1979405/p3127-dabbish.pdf?ip=128.16.5.5{\&}id=1979405{\&}acc=ACTIVE
+  SERVICE{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}{\_}{\_}acm{\_}{\_}=1516900450{\_}ce9c702fcd4f5171e6e879e059753d37}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Dearman%
 \ \BBA {} Pierce%
 }{%
@@ -1031,6 +1091,19 @@ Farmer, G\BPBI D.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1111/cogs.12513} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {{Freedom}}}{%
+\APACcitebtitle {{Freedom}}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Freedom}
+\APACinsertmetastar {%
+Freedom}%
+\APACrefbtitle {{Freedom}.} {{Freedom}.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1672,6 +1745,40 @@ Iqbal, S\BPBI T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Iqbal%
+\ \BBA {} Horvitz%
+}{%
+Iqbal%
+\ \BBA {} Horvitz%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Iqbal2010}
+\APACinsertmetastar {%
+Iqbal2010}%
+\begin{APACrefauthors}%
+Iqbal, S\BPBI T.%
+\BCBT {}\ \BBA {} Horvitz, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Notifications and Awareness: A Field Study of Alert
+  Usage and Preferences}} {{Notifications and Awareness: A Field Study of Alert
+  Usage and Preferences}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CSCW'10} {Cscw'10}\ (\BPGS\ 27--30).
+\newblock
+\APACaddressPublisher{Savannah, Georgia, USA}{}.
+\newblock
+\begin{APACrefURL}
+  \url{http://delivery.acm.org/10.1145/1720000/1718926/p27-iqbal.pdf?ip=128.16.5.5{\&}id=1718926{\&}acc=ACTIVE
+  SERVICE{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}CFID=850683794{\&}CFTOKEN=44446760{\&}{\_}{\_}acm{\_}{\_}=1515841494{\_}87d34105fae0d1b2e5}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Janssen%
 \ \BBA {} Gray%
 }{%
@@ -2012,6 +2119,22 @@ Makri, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {{ManicTime}}}{%
+\APACcitebtitle {{ManicTime}}}{%
+{\protect \APACyear {2018}}%
+}]{%
+ManicTime}
+\APACinsertmetastar {%
+ManicTime}%
+\APACrefbtitle {{ManicTime}.} {{ManicTime}.}
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\begin{APACrefURL} [{2018-01-09}]\url{https://www.manictime.com}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Mark%
 , Czerwinski%
 \BCBL {}\ \BBA {} Iqbal%
@@ -2091,7 +2214,43 @@ Mark%
 Mark%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2014}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+Mark2014}
+\APACinsertmetastar {%
+Mark2014}%
+\begin{APACrefauthors}%
+Mark, G.%
+, Iqbal, S\BPBI T.%
+, Czerwinski, M.%
+\BCBL {}\ \BBA {} Johns, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Bored mondays and focused afternoons: the rhythm of
+  attention and online activity in the workplace}} {{Bored mondays and focused
+  afternoons: the rhythm of attention and online activity in the
+  workplace}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI 2014} {Chi 2014}\ (\BPGS\ 3025--3034).
+\newblock
+\begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?id=2557204}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2556288.2557204} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mark%
+, Iqbal%
+, Czerwinski%
+\BCBL {}\ \BBA {} Johns%
+}{%
+Mark%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
 Mark2014a}
 \APACinsertmetastar {%
 Mark2014a}%
@@ -2103,7 +2262,7 @@ Mark, G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2014}{}{}.
+\APACrefYearMonthDay{2014{\protect \BCnt {2}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{Capturing the Mood : Facebook and Face-to-Face
   Encounters in the Workplace}} {{Capturing the Mood : Facebook and
@@ -2144,10 +2303,14 @@ Mark, G.%
   Distractible: A Temporal Perspective on Multitasking and
   Communications}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CSCW '15 Proceedings of the 18th ACM Conference on
-  Computer Supported Cooperative Work {\&} Social Computing} {Cscw '15
-  proceedings of the 18th acm conference on computer supported cooperative work
-  {\&} social computing}\ (\BPGS\ 903--916).
+\BIn{} \APACrefbtitle {CSCW '15 Proceedings of the 18tMark, G., Iqbal, S.T.,
+  Czerwinski, M., Johns, P., 2015. Focused, Aroused, but so Distractible: A
+  Temporal Perspective on Multitasking and Communications, in: CSCW '15
+  Proceedings of the 18th ACM Conference on Computer Suppor} {Cscw '15
+  proceedings of the 18tmark, g., iqbal, s.t., czerwinski, m., johns, p., 2015.
+  focused, aroused, but so distractible: A temporal perspective on multitasking
+  and communications, in: Cscw '15 proceedings of the 18th acm conference on
+  computer suppor}\ (\BPGS\ 903--916).
 \newblock
 \begin{APACrefURL}
   \url{http://delivery.acm.org/10.1145/2680000/2675221/p903-mark.pdf?ip=128.16.5.5{\&}id=2675221{\&}acc=ACTIVE
@@ -2611,6 +2774,29 @@ Onwuegbuzie, A\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Pang%
+}{%
+Pang%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Pang2016}
+\APACinsertmetastar {%
+Pang2016}%
+\begin{APACrefauthors}%
+Pang, A\BPBI S\BHBI K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {{Rest: Why You Get More Done When You Work Less}} {{Rest: Why
+  You Get More Done When You Work Less}}.
+\newblock
+\APACaddressPublisher{}{Penguin}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Patrick%
 , Morgan%
 , Tiley%
@@ -2790,6 +2976,22 @@ Reddy, M.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1145/587078.587126} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {{RescueTime}}}{%
+\APACcitebtitle {{RescueTime}}}{%
+{\protect \APACyear {2018}}%
+}]{%
+RescueTime}
+\APACinsertmetastar {%
+RescueTime}%
+\APACrefbtitle {{RescueTime}.} {{RescueTime}.}
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\begin{APACrefURL} [{2018-01-09}]\url{https://www.rescuetime.com}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3448,30 +3650,35 @@ Wiseman, S\BPBI E\BPBI M.%
 
 \bibitem [\protect \citeauthoryear {%
 Wiseman%
-, Cairns%
-\BCBL {}\ \BBA {} Cox%
+, Brumby%
+, Cox%
+\BCBL {}\ \BBA {} Hennessy%
 }{%
 Wiseman%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2011}}%
+, Brumby%
+\BCBL {}\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
 }]{%
 Wiseman2011}
 \APACinsertmetastar {%
 Wiseman2011}%
 \begin{APACrefauthors}%
 Wiseman, S\BPBI E\BPBI M.%
-, Cairns, P.%
-\BCBL {}\ \BBA {} Cox, A\BPBI L.%
+, Brumby, D\BPBI P.%
+, Cox, A\BPBI L.%
+\BCBL {}\ \BBA {} Hennessy, O.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2011}{}{}.
+\APACrefYearMonthDay{2013}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{A Taxonomy of Number Entry Error}} {{A Taxonomy of
-  Number Entry Error}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Tailoring Number Entry Interfaces To The Task of
+  Programming Medical Infusion Pumps}} {{Tailoring Number Entry Interfaces To
+  The Task of Programming Medical Infusion Pumps}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {The 25th BCS Conference on Human-Computer Interaction}
-  {The 25th bcs conference on human-computer interaction}\ (\BPGS\ 187--196).
+\BIn{} \APACrefbtitle {Proceedings of the Human Factors and Ergonomics Society
+  (HFES '13)} {Proceedings of the human factors and ergonomics society (hfes
+  '13)}\ (\BPGS\ 683--687).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3482,7 +3689,8 @@ Wiseman%
 \BCBL {}\ \BBA {} Carroll%
 }{%
 Wiseman%
-\ \protect \BOthers {.}}{%
+, Cox%
+\BCBL {}\ \protect \BOthers {.}}{%
 {\protect \APACyear {2013}}%
 }]{%
 Wiseman2013a}

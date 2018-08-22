@@ -29,31 +29,80 @@ Giving users feedback on time spent on digital activities has been utilised by a
 
 In summary, prior research has shown that people adapt to feedback given in the moment to improve performance on their task. My studies found that people adapt to time costs of inquiries in a controlled setting (Chapter 4), but are not aware of time costs of inquiries in an office setting, due to distractions, switching documents, and task-irrelevant information (Chapter 3). This chapter explores whether a design intervention which gives feedback on the duration of interruptions can help people manage these interruptions.
 
-\section{Development of design intervention}
+\section{Design process of developing the intervention}
 %NOT FINISHED, PROOFREAD AND EDIT
+The findings of Study 1 to 5 were used to produce initial design ideas for a design intervention. The main purpose at this ideation stage was to explore different approaches to support people in managing inquiries with unknown time costs. Sketches were made to investigate what the interaction would look like for these different ideas, and if they were deemed an appropriate tool to address the issues found in the studies. The final idea was chosen to develop further as the final intervention, and the other ideas were not developed further beyond sketches. The process resulted in four ideas: the first three ideas are presented and described briefly below. The final design intervention is discussed in more detail. 
+
+\subsection{Idea 1: To do list}
+The first idea considers a task pane embedded in the data entry interface (see Figure \ref{fig:ch56_Idea1}), that enables users to write down the inquiries that are needed as part of a task. As was found in Study 1 and 2, people may not always know they need information until they have already started a task. Rather than interrupting a task to look up information straight away, the to-do list enables people to set a reminder to look this up later at a more convenient moment in the task. Users have the freedom to decide to look information up themselves when they want, from both digital and non-digital sources.
+
+A to-do list requires people to spend time writing down the intention to interrupt, and they still have to switch away from the data entry interface to look up information. Furthermore, people may not make the effort to write it down if the interruption is presumed to be short. 
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{images/ch56/ch56_Idea1.pdf}
+\caption{Idea 1 enables users to write down inquiries needed for the task, so they address these later at a more convenient moment in the task.}
+%\vspace{-3pt}
+\label{fig:ch56_Idea1}
+\end{figure}
+
+\subsection{Idea 2: pinboard}
+The idea of a pinboard extends the first idea of a to-do list. The pinboard not only allows people to write down inquiries, but also enables the user to place the information in the task pane, once it has been retrieved (see Figure \ref{fig:ch56_Idea2}). 
+Once they have found information, they can ‘pin’ this information source on their board, so if they need it to re-use this information again for future data entry tasks, they can look it up from the task pane and do not have to leave the interface and search for it again.
+
+The information pane to pin and write down information is embedded in the main task interface, so the user does not have to switch to a separate application to search or view information, and the information is at hand when needed. 
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{images/ch56/ch56_Idea2.pdf}
+\caption{Idea 2 enables users to pin information in the task pane, so information is at hand if it needs to be re-used in the future.}
+%\vspace{-3pt}
+\label{fig:ch56_Idea2}
+\end{figure}
+
+
+\subsection{Idea 3: search function}
+The search function revolves around the idea of minimising the time spent away from a task interface to look for information. A search function allows users to search within the task pane for new information (see Figure \ref{fig:ch56_Idea3}). 
+A snippet of search results is shown in the task pane, and the user can click on one of the search results to expand the information source and view the information.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{images/ch56/ch56_Idea3.pdf}
+\caption{Idea 2 enables users to search for information in a task pane, without leaving the main task interface.}
+%\vspace{-3pt}
+\label{fig:ch56_Idea3}
+\end{figure}
+
+\subsection{Idea 4: Time feedback}
 The first three ideas revolved around reducing the number or duration of people’s interruptions. However, these ideas would not necessarily make people more aware of the time they spend on interruptions, which was found to be a potential issue in Study 2. Upon reflection on these ideas, I was uncertain whether people would be willing to invest time in using a tool, if they would still be under the impression that their interruptions were short and not disruptive. 
+I therefore focused on developing a design intervention that would also make people more aware of time costs of interruptions, and whether this increased awareness would encourage people to reduce the number and duration of interruptions themselves. To increase awareness, the idea of a notification was developed that would give people feedback on their interruption behaviour. The notification gave information about the time people spent on interruptions, to see whether showing this information would reduce the duration and number of interruptions.
 
-I therefore focused on developing a design intervention that would also make people more aware of time costs of interruptions, and evaluating if this increased awareness would encourage people to reduce the number and duration of interruptions themselves. To increase awareness, the idea of a notification was developed that would give people feedback on their interruption behaviour. 
+\subsubsection{The moment of feedback}
+A first design consideration in developing the intervention was how the information should be presented to the user. Previous research found that users find it difficult to put reflective information about their use of time into context \citep{Collins2014, Whittaker2016}. Instead, giving feedback about task performance during a task has been shown to make users adjust their task strategies in the moment \citep{Maior2018, Gould2016a, Whittaker2016}. It was therefore decided that, for the information to be most effective, it should appear during a task. To make people more aware of their interruptions, information is shown upon every interruption away from a primary task. 
+A second consideration was at which moment of an interruption the information should be shown: before or after an interruption. It was decided to show the information at the start of an interruption, so the user would be able to apply potential adjustments to their interruption behaviour immediately for that particular interruption. If information had been shown after an interruption, the interruption would have already taken place, and the user would have to remember to change their behaviour for future interruptions.
 
-\subsection{Task sequence}
-The feedback was given through a notification. Figure \ref{fig:ch56-6_Wireframe} shows what the interaction with the design intervention would look like. Step 1 shows the window of an expenses task the user has to complete. To complete this type of task, information needs to be retrieved by switching to another window (Step 2). Upon every switch, a notification appears telling the user how long these switches are on average. If the user switches for the first time, the notification says that no data is available yet to give an average time. Once the right information has been found, the user then has to switch back and enter this information in the correct field (Step 3). 
+\subsubsection{The type of time feedback}
+As the information is shown at the start of an interruption, it is difficult to provide any accurate information about the exact duration of the interruption that is about to take place. Therefore, the intervention shows the average interruption time of all previous interruptions, to give an indication how long the interruption could take, based on past behaviour. The intervention considers the average time of all digital interruptions away from a specific task, that is when the user switches from a specific task to another computer window. 
 
-\subsection{Implementation}
-The intervention was implemented as a browser notification. As was found in Chapter 3, participants’ data entry work was conducted in a web browser and revolved around a main data entry web page. Every switch between the task page and another computer window, such as another browser window or a different application, were recorded to calculate the number and duration of switches. The browser notification used this data to show users the average time of their interruptions. 
+The intervention considers the time of an interruption overall, and not just time spent in a particular application or website the user switches to. Even though interruptions may be expected to take longer if the user switches to a distracting source, the user may visit several windows during an interruption before returning to the task, behaviour which was commonly observed in Study 2. The time spent in a specific source may therefore not give an accurate picture of the overall duration of interruptions, as people may only stay in the first window for a short time but the overall interruption may take much longer. 
 
-The notification was evaluated in an online experiment in Study 6, and in an office workplace in Study 7. The presentation of the intervention to participants was the same in both studies, but because of the different study environments, the implementation differed slightly between studies. In Study 6, the browser notification was implemented in the experimental data entry interface. In Study 7, the browser notification was implemented as a browser extension the participants could install and use on any website they wanted. Further implementation details are further discussed in the separate study sections.
-The notification was evaluated in a pilot study with a number of colleagues before using it in a study.
-
+\subsubsection{Task sequence}
+The information was presented to the user through a notification. Figure 4 shows what the interaction with the design intervention would look like. Step 1 shows the window of an expenses task the user has to complete. To complete this type of task, information needs to be retrieved by switching to another window (Step 2). Upon every switch away from the task interface, a notification appears telling the user how long these switches are on average. If the user switches for the first time, the notification says that no data is available yet to give an average time. Once the right information has been found, the user then has to switch back and enter this information in the correct field (Step 3). 
 
 \begin{figure}
 \centering
 \includegraphics[width=\textwidth]{images/ch56/ch56-wireframe.pdf}
-\caption{A wireframe to indicate what the interaction with the intervention will look like. The upperleft corner shows the window of an expenses task the user has to complete. Information for this task is retrieved by switching to another window (Step 1). Upon every switch, a notification appears telling the user how long these switches are on average. The user then has to switch back and enter this information in the correct field (Step 2). Step 1 and 2 are repeated until all codes have been entered; the user can switch back and forth as often as is needed.}
+\caption[Wireframe of the design intervention.]{A wireframe to indicate what the interaction with the intervention will look like. The upperleft corner shows the window of an expenses task the user has to complete. Information for this task is retrieved by switching to another window (Step 1). Upon every switch, a notification appears telling the user how long these switches are on average. The user then has to switch back and enter this information in the correct field (Step 2). Step 1 and 2 are repeated until all codes have been entered; the user can switch back and forth as often as is needed.}
 %\vspace{-3pt}
 \label{fig:ch56-6_Wireframe}
 \end{figure}
 
-\section{Study 6: Looking up information in email during an online experiment}
+\subsection{Implementation}
+The intervention was implemented as a browser notification. As was found in Chapter 3, participants’ data entry work was conducted in a web browser and revolved around a main data entry web page. Every switch between the task page and another computer window, such as another browser window or a different application, was recorded to calculate the number and duration of switches. The browser notification used this data to show users the average time of their interruptions. 
+
+The notification was evaluated in an online experiment in Study 6, and in an office workplace in Study 7. The visual presentation of the notification to participants was the same in both studies, but because of the different study environments, the implementation differed slightly between studies. In Study 6, the browser notification was implemented in the experimental data entry interface. In Study 7, the browser notification was implemented as a browser extension that the participants could install on their own computer and use on any website they wanted. The implementation details are further discussed in the separate study sections. The notification was evaluated in a pilot study with colleagues before using it in the studies. 
+
+\section{Study 6: Looking up information in email during an online experiment}\label{st:Study6}
 \textit{This study and early results have been published in \citet{Borghouts2018a} and were presented at the CHI conference in 2018.}
 
 \subsection{Introduction}
@@ -96,8 +145,8 @@ Participants were not alerted to any mistakes and once they had pressed 'Next', 
 
 \begin{figure}
 \centering
-\includegraphics[width=\textwidth]{images/ch56/ch56-taskinterface.pdf}
-\caption{The data entry task as shown in the browser. Participants had to look up codes from their email (Step 1) and enter this into a sheet (Step 2). After every trial, the notification condition received time information (Step 3)}
+\includegraphics[width=\textwidth]{images/ch56/ch56-6_taskinterface.pdf}
+\caption[Study 6 data entry task layout]{The data entry task as shown in the browser. Participants had to look up codes from their email (Step 1) and enter this into a sheet (Step 2). After every trial, the notification condition received time information (Step 3)}
 %\vspace{-3pt}
 \label{fig:ch56-6_TaskInterface}
 \end{figure}
@@ -116,7 +165,7 @@ A pilot study was conducted with four colleagues to test the study set-up. Initi
 Table \ref{tbl:ch56-Table1} summarises the results of the conditions in terms of the four dependent variables. The number of switches, length of switches and the error rate were not normally distributed, so non-parametric Mann-Whitney tests were used to analyse effects of a notification on these dependent variables. A Shapiro-Wilk test suggested that the trial completion times were normally distributed, \textit{W} = 0.97, \textit{p} = 0.22, so an independent t-test was used to analyse the effect on trial times. A p-value of 0.05 was used for assessing the significance of all statistical tests. 
 
 \begin{table}
-\caption{Means and standard deviations of dependent variables for each condition.}
+\caption[Study 6 means and SDs of dependent measures]{Means and standard deviations of dependent variables for each condition.}
 \centering
 \includegraphics[width=0.9\textwidth]{images/ch56/ch56-descstats.pdf}
 \vspace{-3pt}
@@ -132,7 +181,7 @@ Participants with a notification were faster in completing trials (\textit{M} = 
 Error rates were calculated by dividing the number of data entry errors divided by error opportunities. The error rates were significantly lower for participants with a notification (\textit{M }= 2\%, \textit{SD} = 2\%) compared to participants who had no notification (\textit{M} = 5\%, \textit{SD }= 5\%), \textit{U}(24, 23) = 403, \textit{p} < .01, \textit{r} = .44. 
 
 \subsubsection{Number and duration of switches}
-As can be seen in Table \ref{tbl:ch56-Table1}, participants who received notifications made significantly shorter switches (\textit{M}=4.76s, \textit{SD}=1.65s) than those in the control condition (\textit{M}=7.13s, \textit{SD}=3.05), \textit{U}(24, 23) = 406, \textit{p} < 0.01, \textit{r} =.44. The number of switches per trial was on average 10.6 in both conditions, and there was no significant difference in number of switches between conditions, \textit{U}(24,23)=243, \textit{p} = 0.6. As there were ten codes to be entered per trial, this suggests participants switched once for every piece of data entered. 
+As can be seen in Table \ref{tbl:ch56-Table1}, participants who received notifications made significantly shorter switches (\textit{M}=4.76s, \textit{SD}=1.65s) than those in the control condition (\textit{M}=7.13s, \textit{SD}=3.05), \textit{U}(24, 23) = 406, \textit{p} < .01, \textit{r} =.44. The number of switches per trial was on average 10.6 in both conditions, and there was no significant difference in number of switches between conditions, \textit{U}(24,23)=243, \textit{p} = .60. As there were ten codes to be entered per trial, this suggests participants switched once for every piece of data entered. 
 
 Figure \ref{fig:ch56-histswitches} shows the distribution of switching durations for the Control and Notification condition, the red line marks the mean duration. For both conditions, the distribution was positively skewed with a long tail: 97\% of the switches were under 20 seconds, but the longest switch was greater than seven minutes. To scale the distribution in one histogram, switches longer than 20 seconds are grouped as one bar. Table \ref{tbl:ch56-tblswitches} shows the count of these long switches for each condition, and highlights that there were some occurrences of very long switches, where participants were likely distracted. 
 
@@ -145,21 +194,21 @@ Figure \ref{fig:ch56-histswitches} shows the distribution of switching durations
 \centerline{\includegraphics[scale=0.5]{images/ch56/ch56-histdurSwitches_Not.pdf}}
 \end{subfigure}
 %\vspace{-3pt}
-\caption{Histograms showing the distribution of switching durations for the two conditions; switches longer than 20 seconds are grouped in one bar at the right side of the histograms. The red line marks the mean switching duration.}
+\caption[Study 6 distribution of switching durations]{Histograms showing the distribution of switching durations for the two conditions; switches longer than 20 seconds are grouped in one bar at the right side of the histograms. The red line marks the mean switching duration.}
 \label{fig:ch56-histswitches}
 \end{figure}
 
 \begin{table}
 \centering
 \centerline{\includegraphics[scale=0.8]{images/ch56/ch56_LongSwitches.pdf}}
-\caption{Total number of switches longer than 20 seconds for each condition.}
+\caption[Study 6 frequency of long switches]{Total number of switches longer than 20 seconds for each condition.}
 \label{tbl:ch56-tblswitches}
 \end{table}
 
 \subsubsection{Interkey intervals}
 The primary measure to analyse switching behaviour were focus and blur events. These measures include any switch from the task window to another computer window. While this provides a good measure of digital switching behaviour, it cannot capture task switches outside the device because the task window remains in focus during these task switches (e.g., a user might pause to fetch a paper document or make a cup of coffee). To help capture this broader range of instances of possible task switching behaviour, I analysed longer pauses in task activity captured by an analysis of inter-keystroke interval (IKI) data. Though these intervals may have also been moments where participants had briefly paused for thought, extremely long intervals between two keystrokes may point to moments where a participant switched to doing something else. The IKI data presented here excludes intervals where a window switch was recorded, as these moments have already been analysed in the previous section.
 
-There was no significant difference in duration of IKIs between the Control (\textit{M} = 1.70s, \textit{SD} = 0.91s) and Notification (\textit{M} = 2.02s, \textit{SD} = 1.60s), \textit{U}(24, 23) = 261.5, \textit{p} = 0.9. The mean IKIs are considerably longer than number typing speeds found in prior studies, which ranged from 180ms to 500ms \citep{Gould2016a}. The higher mean IKIs can be explained by looking at the whole distribution of all IKIs, as shown in Figure \ref{fig:ch56-histikis}. As can be seen from these histograms, the distribution was very skewed with a long tail which affected the mean IKIs. When considering the median rather than the mean, the median IKI was 192 ms in the Control condition and 305 ms in the Notification condition, which is more similar to a typical typing speed. Figure \ref{fig:ch56-histikis} shows that the majority of IKIs were under one second. There were however some instances when there were long delays between keypresses: the longest measured IKI is four minutes. In the histograms, IKIs longer than five seconds are grouped in one bar. To give a closer view of longer IKIs, Table \ref{tbl:ch56-tblikis}  shows the frequencies of long IKIs. These long IKIs were more than two deviations from the mean, and may have been additional task switches. However, we do not know for certain what people were doing during these instances, and what an appropriate IKI threshold would be to safely assume people had made a task switch. Therefore, we mainly focus our conclusions on our analysis of explicit window switches, and merely present the long IKIs to indicate that in addition to window switches, there may have been additional moments where people switched tasks. 
+There was no significant difference in duration of IKIs between the Control (\textit{M} = 1.70s, \textit{SD} = 0.91s) and Notification (\textit{M} = 2.02s, \textit{SD} = 1.60s), \textit{U}(24, 23) = 261.5, \textit{p} = .90. The mean IKIs are considerably longer than number typing speeds found in prior studies, which ranged from 180ms to 500ms \citep{Gould2016a}. The higher mean IKIs can be explained by looking at the whole distribution of all IKIs, as shown in Figure \ref{fig:ch56-histikis}. As can be seen from these histograms, the distribution was very skewed with a long tail which affected the mean IKIs. When considering the median rather than the mean, the median IKI was 192 ms in the Control condition and 305 ms in the Notification condition, which is more similar to a typical typing speed. Figure \ref{fig:ch56-histikis} shows that the majority of IKIs were under one second. There were however some instances when there were long delays between keypresses: the longest measured IKI is four minutes. In the histograms, IKIs longer than five seconds are grouped in one bar. To give a closer view of longer IKIs, Table \ref{tbl:ch56-tblikis}  shows the frequencies of long IKIs. These long IKIs were more than two deviations from the mean, and may have been additional task switches. However, we do not know for certain what people were doing during these instances, and what an appropriate IKI threshold would be to safely assume people had made a task switch. Therefore, we mainly focus our conclusions on our analysis of explicit window switches, and merely present the long IKIs to indicate that in addition to window switches, there may have been additional moments where people switched tasks. 
 
 \begin{figure}
 \centering
@@ -169,28 +218,28 @@ There was no significant difference in duration of IKIs between the Control (\te
 \begin{subfigure}{0.5\textwidth}
 \centerline{\includegraphics[scale=0.5]{images/ch56/ch56-histIKIs_Not.pdf}}
 \end{subfigure}
-\caption{The distribution of inter-keypress intervals for the two conditions; switches longer than five seconds are grouped in one bar at the right side of the histograms. The red line marks the mean IKI.}
+\caption[Study 6 distribution of IKIs]{Histograms showing the distribution of inter-keypress intervals (IKIs) for the two conditions; switches longer than five seconds are grouped in one bar at the right side of the histograms. The red line marks the mean IKI.}
 \label{fig:ch56-histikis}
 \end{figure}
 
 \begin{table}
 \centering
 \centerline{\includegraphics[scale=0.8]{images/ch56/ch56_LongIKIs.pdf}}
-\caption{Total number of IKIs longer than 5 seconds for each condition.}
+\caption[Study 6 frequency of long IKIs]{Total number of IKIs longer than 5 seconds for each condition.}
 \label{tbl:ch56-tblikis}
 \end{table}
 
-\subsubsection{Linear regression model}
+\subsubsection{Effect of interruption duration on task completion time}
 Participants who made longer switches took longer to complete trials. To see whether long switches also made people slower to resume a trial, we also consider trial completion times where the time spent on switches has been subtracted. For example, if a trial took 100 seconds, but the participant spent 20 seconds outside the task window, the adjusted trial completion time is 80 seconds.
 
-With the adjusted trial times that has switching durations subtracted, we built a regression model to see if there was a potential relationship between trial completion times and number and duration of switches, as well as number and duration of IKIs. The linear model explained a significant amount of variation in trial times, ($R^2$ = 0.41, \textit{F}(5, 41) =5.68, \textit{p} < 0.01). Table \ref{tbl:ch56-linregr} shows there were three predictors that explained the variation: the number and duration of switches, and the number of IKIs. 
+With the adjusted trial times that has switching durations subtracted, I built a regression model to see if there was a potential relationship between trial completion times and number and duration of switches, as well as number and duration of IKIs. The linear model explained a significant amount of variation in trial times, ($R^2$ = 0.41, \textit{F}(5, 41) =5.68, \textit{p} < .01). Table \ref{tbl:ch56-linregr} shows there were three predictors that explained the variation: the number and duration of switches, and the number of IKIs. 
 
 This model provides further insight into the effect of longer switches on task performance: the longer people switched for, the slower they were to finish a trial, even when switching durations are subtracted from the total trial time. The number of switches explained a smaller portion of the variation, but still had a significant effect. Furthermore, the more people typed, the slower they were to complete a trial.
 
 \begin{table}
 \centering
 \centerline{\includegraphics[scale=0.8]{images/ch56/ch56-linregr.pdf}}
-\caption{Predictors of regression model that predicts task completion time. An asterisk (*) indicates a predictor is significant at p < 0.05; a double asterisk (**) indicates a significance at p <0.01 level.}
+\caption[Study 6 regression model to predict task completion time]{Predictors of regression model that predicts task completion time. An asterisk (*) indicates a predictor is significant at p < 0.05; a double asterisk (**) indicates a significance at p <0.01 level.}
 \label{tbl:ch56-linregr}
 \end{table}
 
@@ -214,7 +263,7 @@ To investigate whether the effects of time feedback generalise beyond an experim
 
 %The study did not find any effect on the number of switches. However, as the number of switches indicate, participants presumably only switched to look up information, and did not switch to other tasks, interruptions or distractions. When people are doing their own data entry work, they may not have to switch as often as in the current experiment, but on the other hand they may interrupt themselves more to attend to other tasks and interruptions. To evaluate whether the positive effect of time feedback on people's switching behaviour can extend to naturalistic tasks, Study 7 tested the notification with office workers doing their own data entry work,
 
-\section{Study 7: Looking up information for expenses in an office setting}
+\section{Study 7: Looking up information for expenses in an office setting}\label{st:Study7}
 \subsection{Introduction}
 In order to understand whether showing people how long they go away from a task would have the same effect on a naturalistic data entry task, Study 6 was followed up with a field study testing the notification with data entry workers doing expenses work. To measure self-interruption behaviour during their work, participants were asked to install a free trial version of ManicTime \footnote{https://www.manictime.com} for two weeks. ManicTime is a time tracking software, which tracks application and web page usage. In addition, participants were asked to install a browser extension, and use it when they are processing expenses. Every time participants switched away from the browser window in which they did their expenses work, the extension showed a notification similar to the notification used in Study 6. The purpose of the study was to see whether a notification had an effect on self-interruption behaviour. To get a quantitative measure of self-interruption behaviour, ManicTime data was used to derive number and duration of window switches during expenses work. In addition, participants were interviewed to explore whether and how the use of both the extension and ManicTime led to any conscious changes in their behaviour. The study aimed to address the following question: how does time feedback on interruption length have an effect on people's self-interruption behaviour during expenses work in a finance office setting? 
 
@@ -236,7 +285,7 @@ The notification was implemented as a Google Chrome extension using HTML, JavaSc
 \begin{figure}
 \centering
 \centerline{\includegraphics[scale=0.17]{images/ch56/ch56-7_taskinterface.pdf}}
-\caption{Participants selected a web page to focus on by clicking on the extension icon in their browser, after which a popup appeared to confirm this was now the main task page. Every time the participant switched to another window, application or document, a browser notification showed how long on average they switch away from this page.}
+\caption[Study 7 browser extension]{Participants selected a web page to focus on by clicking on the extension icon in their browser, after which a popup appeared to confirm this was now the main task page. Every time the participant switched to another window, application or document, a browser notification showed how long on average they switch away from this page.}
 \label{fig:ch56-7_taskinterface}
 \end{figure}
 
@@ -274,6 +323,7 @@ A second pilot session was then conducted with an administrator working at the s
 \subsubsection{Ethical considerations}
 Participants were informed before undertaking the study that they would be asked to share their ManicTime database at the end of the study. However, a disclaimer was added in the invitation and instruction emails that participants were still able to take part, if they did not wish to share their database. It was made clear what data ManicTime recorded, and that Focus did not store any data. They were given instructions on how to pause the application from running and how to delete certain parts of the data, and were offered assistance to help further change the database into a state they were comfortable sharing. 
 \end{comment}
+
 \subsubsection{Data analysis}
 Though ManicTime was piloted on a work computer of the university before starting the study, five participants were unable to install ManicTime on their work computer due to firewall restrictions. It appeared that different participants had different computers, operating systems and firewall settings. %Furthermore, two participants opted out of using Focus as they used a browser different from Google Chrome for at least parts of their work. 
 Therefore, ManicTime data of the remaining four participants was used to complement qualitative explanations of their task switching behaviour, but it was not analysed quantitatively as previously planned to compare switching behaviour with and without the extension. Instead, the primary focus of data analysis was on the post-study interviews and participants' subjective experience of using the tools. The interviews were transcribed verbatim, and analysed using thematic analysis.
@@ -285,45 +335,47 @@ Participants gained some insights to change their behaviour based on the informa
 \subsubsection{Switching behaviour}
 Participants’ working hours differed slightly, but all participants worked at least ten hours per day during the study. To make the data comparable between participants, I only considered data between 9am and 7pm, during which all participants were at work. As I was only able to gather logging data from five participants, there is insufficient data to make a fair comparison between switching behaviour without and with the extension. Summary data is presented here to give insight into people's switching behaviour during the study, but these are not analysed using any statistical models.
 
-Table \ref{tbl:ch56-7_manictimedata} summarises the average number and duration of focus on a computer window screen. The mean duration of focus is about 34 seconds, with the longest focus being 48 minutes (2893 seconds). On average, participants made 830 computer window switches per working day. Figure shows the distribution of all window focus durations. Almost 90\% of the window focus durations were less than a minute. To scale the histogram, window focus durations longer than 150 seconds are grouped in one bar; the frequency of these longer durations are shown in Table \ref{tbl:ch56-tblwindowdurations}. %The distribution of window focus durations was positively skewed with a long tail: 95\% of the distribution is plotted in Figure 8, illustrating that participants were rarely focused on a window for more than a minute. 
-Together with the interview findings, the data shows that participants’ work was characterised by short durations of focus and frequent window switches. Figure \ref{fig:ch56-7_mtdurswitches} and Figure \ref{fig:ch56-7_mtnrswitches} show the average number of daily window switches and focus durations over the ten days of the study.
+Table \ref{tbl:ch56-7_manictimedata} summarises the average number and duration of focus on a computer window screen. The mean duration of focus is about 34 seconds, with the longest focus being 45 minutes (2733 seconds). On average, participants made 696  computer window switches per working day. Figure \ref{fig:ch56-7_histswitches} shows the distribution of all window focus durations, illustrating that participants were rarely focused on a window for more than a minute. To scale the histogram, window focus durations longer than 150 seconds are grouped in one bar; the frequency of these longer durations are shown in Table \ref{tbl:ch56-tblwindowdurations}. %The distribution of window focus durations was positively skewed with a long tail: 95\% of the distribution is plotted in Figure 8, illustrating that participants were rarely focused on a window for more than a minute. 
+Together with the interview findings, the data shows that participants’ work was characterised by short durations of focus and frequent window switches. %Figure \ref{fig:ch56-7_mtdurswitches} and Figure \ref{fig:ch56-7_mtnrswitches} show the average number of daily window switches and focus durations over the ten days of the study.
 
 In addition to computer window switches, participants also made a smaller number of non-digital interruptions, for example when taking a break or attending a meeting (see Table \ref{tbl:ch56-7_manictimedata}). On average participants made three daily non-digital interruptions which lasted about 29 minutes (1741 seconds). 
 
 \begin{table}
 \centering
-\centerline{\includegraphics[scale=0.7]{images/ch56/ch56_ManicTimeData.pdf}}
-\caption{Average window focus durations (s) and number of daily switches.}
+\centerline{\includegraphics[scale=0.7]{images/ch56/ch56_7_Means.pdf}}
+\caption[Study 7 window switching behaviour]{Average window focus durations (s) and number of daily switches.}
 \label{tbl:ch56-7_manictimedata}
 \end{table}
 
 \begin{figure}
 \centering
-\centerline{\includegraphics[scale=0.8]{images/ch56/ch56-histMTSwitches.pdf}}
-\caption{The distribution of window focus durations during the study, measured by ManicTime. Durations longer than 150 seconds are grouped in one bar at the right side of the histogram. The red line marks the mean window focus duration.}
-\label{fig:ch56-7_mtdurswitches}
+\centerline{\includegraphics[scale=0.8]{images/ch56/ch56-7_WindowSwitches.pdf}}
+\caption[Study 7 distribution of window focus durations]{The distribution of window focus durations during the study, measured by ManicTime. Durations longer than 150 seconds are grouped in one bar at the right side of the histogram. The red line marks the mean window focus duration.}
+\label{fig:ch56-7_histswitches}
 \end{figure}
 
 \begin{table}
 \centering
 \centerline{\includegraphics[scale=0.8]{images/ch56/ch56_LongWindowDurations.pdf}}
-\caption{Total number of occurrences that a window was in focus for longer than 150 seconds.}
+\caption[Study 7 frequency of long window durations]{Total number of occurrences that a window was in focus for longer than 150 seconds.}
 \label{tbl:ch56-tblwindowdurations}
 \end{table}
 
+\begin{comment}
 \begin{figure}
 \centering
 \centerline{\includegraphics[scale=1]{images/ch56/ch56_MTDurationSwitches.pdf}}
-\caption{Average window focus durations during the study.}
+\caption[Study 7 average window focus durations]{Average window focus durations during the study.}
 \label{fig:ch56-7_mtdurswitches}
 \end{figure}
 
 \begin{figure}
 \centering
 \centerline{\includegraphics[scale=1]{images/ch56/ch56_MTNrSwitches.pdf}}
-\caption{Average number of daily window switches during the study.}
+\caption[Study 7 average number of daily switches]{Average number of daily window switches during the study.}
 \label{fig:ch56-7_mtnrswitches}
 \end{figure}
+\end{comment}
 
 \subsubsection{Awareness of interruption behaviour}
 Participants were largely aware they interrupted their work frequently and considered it the nature of their job: they regularly had to stop their work to look up task-related information, and had to address ad-hoc queries and requests from their department. The extension made participants realise however that they were unaware of the length of some of these interruptions. The average interruption time was considered much longer than they thought. 
@@ -406,7 +458,7 @@ When working in the office, participants tried to complete tasks that required f
 \begin{figure}
 \centering
 \centerline{\includegraphics[scale=1]{images/ch56/ch56_MTaway.pdf}}
-\caption{ If participants had been away from their computer, upon returning ManicTime presented them with a window showing how long they had been away for, and an option to write down what they had been doing while away.}
+\caption[Study 7 ManicTime feedback on non-digital interruptions]{ If participants had been away from their computer, upon returning ManicTime presented them with a window showing how long they had been away for, and an option to write down what they had been doing while away.}
 \label{fig:ch56-7_mtaway}
 \end{figure}
 

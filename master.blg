@@ -3,6 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: master.aux
 A level-1 auxiliary file: ./settings/title.aux
 A level-1 auxiliary file: ./settings/formatting.aux
+A level-1 auxiliary file: ./tex/declaration.aux
 A level-1 auxiliary file: ./tex/abstract.aux
 A level-1 auxiliary file: ./tex/impact.aux
 A level-1 auxiliary file: ./tex/acknowledgements.aux
@@ -23,13 +24,13 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10328 items from 5000.
+Reallocated field_info (elt_size=4) to 10712 items from 5000.
 Database file #1: master.bib
-Repeated entry---line 3900 of file master.bib
+Repeated entry---line 4381 of file master.bib
  : @inproceedings{Wiseman2011
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5325 of file master.bib
+Repeated entry---line 4428 of file master.bib
  : @inproceedings{Olsen2008
  :                         ,
 I'm skipping whatever remains of this entry
@@ -38,45 +39,45 @@ Warning--I didn't find a database entry for "Jokela2015"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No institution in Rzeszotarski2013
 Warning--No address in Rzeszotarski2013
-You've used 110 entries,
+You've used 118 entries,
             6951 wiz_defined-function locations,
-            2127 strings with 80189 characters,
-and the built_in function-call counts, 248645 in all, are:
-= -- 31781
-> -- 2217
-< -- 11684
-+ -- 12391
-- -- 226
-* -- 15660
-:= -- 42996
-add.period$ -- 545
-call.type$ -- 110
-change.case$ -- 1943
+            2172 strings with 82740 characters,
+and the built_in function-call counts, 263609 in all, are:
+= -- 33802
+> -- 2309
+< -- 12339
++ -- 12999
+- -- 239
+* -- 16507
+:= -- 45363
+add.period$ -- 582
+call.type$ -- 118
+change.case$ -- 2083
 chr.to.int$ -- 0
-cite$ -- 222
-duplicate$ -- 6913
-empty$ -- 9297
-format.name$ -- 3470
-if$ -- 47844
+cite$ -- 238
+duplicate$ -- 7281
+empty$ -- 9963
+format.name$ -- 3598
+if$ -- 50958
 int.to.chr$ -- 0
-int.to.str$ -- 338
+int.to.str$ -- 366
 missing$ -- 0
-newline$ -- 3122
-num.names$ -- 896
-pop$ -- 5056
+newline$ -- 3301
+num.names$ -- 936
+pop$ -- 5605
 preamble$ -- 1
-purify$ -- 454
+purify$ -- 482
 quote$ -- 0
-skip$ -- 15734
+skip$ -- 16657
 stack$ -- 0
-substring$ -- 13881
-swap$ -- 3929
-text.length$ -- 512
+substring$ -- 14568
+swap$ -- 4104
+text.length$ -- 547
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 12192
+type$ -- 13160
 warning$ -- 2
-while$ -- 1240
+while$ -- 1290
 width$ -- 0
-write$ -- 3988
+write$ -- 4210
 (There were 2 error messages)
