@@ -24,7 +24,7 @@ Adamczyk, P\BPBI D.%
   Different Moments Within Task Execution}} {{If Not Now, When?: The Effects of
   Interruption at Different Moments Within Task Execution}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI 2004} {Chi 2004}\ (\BVOL~6, \BPGS\ 271--278).
+\BIn{} \APACrefbtitle {{CHI '04}} {{CHI '04}}\ (\BPGS\ 271--278).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -80,9 +80,9 @@ Altmann, E\BPBI M.%
 {\BBOQ}\APACrefatitle {{Task Interruption: Resumption Lag and the Role of
   Cues}} {{Task Interruption: Resumption Lag and the Role of Cues}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the 26th Annual Conference of the
-  Cognitive Science Society.} {Proceedings of the 26th annual conference of the
-  cognitive science society.}
+\BIn{} \APACrefbtitle {{Proceedings of the 26th Annual Conference of the
+  Cognitive Science Society}.} {{Proceedings of the 26th Annual Conference of
+  the Cognitive Science Society}.}
 \newblock
 \begin{APACrefURL} \url{http://www.dtic.mil/dtic/tr/fulltext/u2/a480333.pdf}
   \end{APACrefURL}
@@ -140,7 +140,7 @@ Apple.%
   interruptions and manage Screen Time}.}
 \newblock
 \begin{APACrefURL}
-  [{14-08-2018}]\url{https://www.apple.com/uk/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/}
+  [{2018-08-14}]\url{https://www.apple.com/uk/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -165,13 +165,13 @@ Back, J.%
 \newblock
 \APACrefYearMonthDay{2012}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Choosing to Interleave : Human Error and Information
-  Access Cost}} {{Choosing to Interleave : Human Error and Information Access
+{\BBOQ}\APACrefatitle {{Choosing to Interleave: Human Error and Information
+  Access Cost}} {{Choosing to Interleave: Human Error and Information Access
   Cost}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the 2012 ACM Annual Conference on Human
-  Factors in Computing Systems} {Proceedings of the 2012 acm annual conference
-  on human factors in computing systems}\ (\BPGS\ 1651--1654).
+\BIn{} \APACrefbtitle {{CHI '12}} {{CHI '12}}\ (\BPGS\ 1651--1654).
+\newblock
+\APACaddressPublisher{Austin, Texas, USA}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -194,7 +194,13 @@ Baddeley, A\BPBI D.%
 \newblock
 \APACrefYearMonthDay{1974}{}{}.
 \newblock
-\APACrefbtitle {{Working memory}} {{Working memory}}\ (\BVOL~8).
+{\BBOQ}\APACrefatitle {{Working memory}} {{Working memory}}.{\BBCQ}
+\newblock
+\BIn{} G\BPBI H.~Bower\ (\BED), \APACrefbtitle {{The Psychology of Learning and
+  Motivation: Advances in Research and Theory}} {{The Psychology of Learning
+  and Motivation: Advances in Research and Theory}}\ (\BVOL~8, \BPGS\ 47--89).
+\newblock
+\APACaddressPublisher{New York}{Academic Press}.
 \newblock
 \begin{APACrefURL}
   \url{http://linkinghub.elsevier.com/retrieve/pii/S0079742108604521}
@@ -228,10 +234,7 @@ Bailey, B\BPBI P.%
   Annoyance, and Anxiety in the User Interface}} {{The Effects of Interruptions
   on Task Performance, Annoyance, and Anxiety in the User Interface}}.{\BBCQ}
 \newblock
-\BIn{} M.~Hirose\ (\BED), \APACrefbtitle {INTERACT} {Interact}\ (\BPGS\
-  593--601).
-\newblock
-\APACaddressPublisher{Amsterdam}{iOS Press}.
+\BIn{} \APACrefbtitle {{INTERACT '01}} {{INTERACT '01}}\ (\BPGS\ 593--601).
 \newblock
 \begin{APACrefURL}
   \url{https://www.cse.unr.edu/{~}sushil/class/ps/papers/EffectInterruptions-interact-2001.pdf}
@@ -281,14 +284,14 @@ Bi, X.%
 \newblock
 \APACrefYearMonthDay{2009}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Comparing usage of a large high-resolution display to
-  single or dual desktop displays for daily work}} {{Comparing usage of a large
-  high-resolution display to single or dual desktop displays for daily
-  work}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Comparing Usage of a Large High-Resolution Display to
+  Single or Dual Desktop Displays for Daily Work}} {{Comparing Usage of a Large
+  High-Resolution Display to Single or Dual Desktop Displays for Daily
+  Work}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '09)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '09)}\ (\BPGS\ 1005--1014).
+\BIn{} \APACrefbtitle {{CHI '09}} {{CHI '09}}\ (\BPGS\ 1005--1014).
+\newblock
+\APACaddressPublisher{Boston, MA, USA}{}.
 \newblock
 \begin{APACrefURL}
   \url{http://dl.acm.org/citation.cfm?doid=1518701.1518855{\%}5Cnpapers2://publication/doi/10.1145/1518701.1518855}
@@ -345,13 +348,13 @@ Bondarenko, O.%
 \newblock
 \APACrefYearMonthDay{2005}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Documents at hand: Learning from paper to improve
-  digital technologies}} {{Documents at hand: Learning from paper to improve
-  digital technologies}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Documents at hand: Learning from Paper to Improve
+  Digital Technologies}} {{Documents at hand: Learning from Paper to Improve
+  Digital Technologies}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '05)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '05)}\ (\BPGS\ 121--130).
+\BIn{} \APACrefbtitle {{CHI '05}} {{CHI '05}}\ (\BPGS\ 121--130).
+\newblock
+\APACaddressPublisher{Portland, OR, USA}{}.
 \newblock
 \begin{APACrefURL} \url{http://portal.acm.org/citation.cfm?id=1054990}
   \end{APACrefURL}
@@ -413,9 +416,9 @@ Borghouts, J.%
   Understanding Data Entry in a Financial Office}} {{Batching, Error Checking
   and Data Collecting: Understanding Data Entry in a Financial Office}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of 15th European Conference on
-  Computer-Supported Cooperative Work.} {Proceedings of 15th european
-  conference on computer-supported cooperative work.}
+\BIn{} \APACrefbtitle {{Proceedings of 15th European Conference on
+  Computer-Supported Cooperative Work}.} {{Proceedings of 15th European
+  Conference on Computer-Supported Cooperative Work}.}
 \newblock
 \APACaddressPublisher{Sheffield, UK}{}.
 \newblock
@@ -447,8 +450,8 @@ Borghouts, J.%
   Durations Discourages Distractions}} {{Looking Up Information in Email:
   Feedback on Visit Durations Discourages Distractions}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'18 Extended Abstracts on Human Factors in Computing
-  Systems.} {Chi'18 extended abstracts on human factors in computing systems.}
+\BIn{} \APACrefbtitle {{CHI'18 Extended Abstracts}.} {{CHI'18 Extended
+  Abstracts}.}
 \newblock
 \APACaddressPublisher{Montreal, Canada}{}.
 \newblock
@@ -478,13 +481,16 @@ Borghouts, J.%
 \newblock
 \APACrefYearMonthDay{2015}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Visualizing Magnitude : Graphical Number
-  Representations Help Users Detect Large Number Entry Errors}} {{Visualizing
-  Magnitude : Graphical Number Representations Help Users Detect Large Number
-  Entry Errors}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Visualizing Magnitude: Graphical Number Representations
+  Help Users Detect Large Number Entry Errors}} {{Visualizing Magnitude:
+  Graphical Number Representations Help Users Detect Large Number Entry
+  Errors}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{59th Annual Meeting of the Human Factors and Ergonomics
-  Society}{}{}{591--595}.
+\BIn{} \APACrefbtitle {{Proceedings of the Human Factors and Ergonomics Society
+  Annual Meeting}} {{Proceedings of the Human Factors and Ergonomics Society
+  Annual Meeting}}\ (\BPGS\ 591--595).
+\newblock
+\APACaddressPublisher{Los Angeles, CA, USA}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.1177/1541931215591130} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -542,8 +548,7 @@ Cairns, P.%
 \APACrefYear{2008}.
 \newblock
 \APACrefbtitle {{Research Methods for Human-Computer Interaction}} {{Research
-  Methods for Human-Computer Interaction}}\ (P.~Cairns\ \BBA {} A\BPBI L.~Cox,
-  \BEDS{}).
+  Methods for Human-Computer Interaction}}.
 \newblock
 \APACaddressPublisher{New York, NY, USA}{Cambridge University Press}.
 \PrintBackRefs{\CurrentBib}
@@ -568,14 +573,14 @@ Cangiano, G\BPBI R.%
 \newblock
 \APACrefYearMonthDay{2009}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Capturing and restoring the context of everyday work: A
-  case study at a law office}} {{Capturing and restoring the context of
-  everyday work: A case study at a law office}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Capturing and Restoring the Context of Everyday Work: A
+  Case Study at a Law Office}} {{Capturing and Restoring the Context of
+  Everyday Work: A Case Study at a Law Office}}.{\BBCQ}
 \newblock
-\BIn{} M.~Kurosu\ (\BED), \APACrefbtitle {Human Centered Design} {Human
-  centered design}\ (\BPGS\ 945--954).
+\BIn{} M.~Kurosu\ (\BED), \APACrefbtitle {{Human Centered Design}} {{Human
+  Centered Design}}\ (\BPGS\ 945--954).
 \newblock
-\APACaddressPublisher{Berlin, Heidelberg}{Springer Berlin Heidelberg}.
+\APACaddressPublisher{Berlin, Heidelberg}{Springer-Verlag Berlin Heidelberg}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/978-3-642-02806-9_108} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -601,10 +606,10 @@ Card, S\BPBI K.%
 \newblock
 \APACrefYear{1983}.
 \newblock
-\APACrefbtitle {{The psychology of human-computer interaction}} {{The
-  psychology of human-computer interaction}}.
+\APACrefbtitle {{The Psychology of Human-Computer Interaction}} {{The
+  Psychology of Human-Computer Interaction}}.
 \newblock
-\APACaddressPublisher{Hillsdale, NJ}{L. Erlbaum Associates}.
+\APACaddressPublisher{Hillsdale, NJ, USA}{L. Erlbaum Associates}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -662,13 +667,13 @@ Charman, S\BPBI C.%
 \newblock
 \APACrefYearMonthDay{2003}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{The adaptive user: an investigation into the cognitive
-  and task constraints on the generation of new methods.}} {{The adaptive user:
-  an investigation into the cognitive and task constraints on the generation of
-  new methods.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{The Adaptive User: An Investigation Into the Cognitive
+  and Task Constraints on the Generation of New Methods}} {{The Adaptive User:
+  An Investigation Into the Cognitive and Task Constraints on the Generation of
+  New Methods}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Experimental Psychology:
-  Applied}{9}{4}{236--48}.
+  Applied}{9}{4}{236--248}.
 \newblock
 \begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/14664675}
   \end{APACrefURL}
@@ -699,14 +704,15 @@ Collins, E\BPBI I\BPBI M.%
 \newblock
 \APACrefYearMonthDay{2014}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Barriers to engagement with a personal informatics
-  productivity tool}} {{Barriers to engagement with a personal informatics
-  productivity tool}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Barriers to Engagement with a Personal Informatics
+  Productivity Tool}} {{Barriers to Engagement with a Personal Informatics
+  Productivity Tool}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the 26th Australian Computer-Human
-  Interaction Conference on Designing Futures the Future of Design - OzCHI '14}
-  {Proceedings of the 26th australian computer-human interaction conference on
-  designing futures the future of design - ozchi '14}\ (\BPGS\ 370--379).
+\BIn{} \APACrefbtitle {{Proceedings of the 26th Australian Computer-Human
+  Interaction Conference on Designing Futures the Future of Design (OzCHI
+  '14)}} {{Proceedings of the 26th Australian Computer-Human Interaction
+  Conference on Designing Futures the Future of Design (OzCHI '14)}}\ (\BPGS\
+  370--379).
 \newblock
 \begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?doid=2686612.2686668}
   \end{APACrefURL}
@@ -735,7 +741,7 @@ Constine, J.%
   it}.} {{Facebook prototypes tool to show how many minutes you spend on it}.}
 \newblock
 \begin{APACrefURL}
-  \url{https://techcrunch.com/2018/06/22/your-time-on-facebook/}
+  [{2018-06-30}]\url{https://techcrunch.com/2018/06/22/your-time-on-facebook/}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -790,10 +796,9 @@ Cutrell, E.%
   Disruption, and Memory: Effects of Messaging Interruptions on Memory and
   Performance}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of INTERACT 2001} {Proceedings of interact
-  2001}\ (\BPGS\ 263--269).
+\BIn{} \APACrefbtitle {{INTERACT '01}} {{INTERACT '01}}\ (\BPGS\ 263--269).
 \newblock
-\APACaddressPublisher{New York, NY, USA}{Springer}.
+\APACaddressPublisher{New York, NY, USA}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -820,9 +825,7 @@ Czerwinski, M.%
 {\BBOQ}\APACrefatitle {{A Diary Study of Task Switching and Interruptions}} {{A
   Diary Study of Task Switching and Interruptions}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '04)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '04)}\ (\BPGS\ 175--182).
+\BIn{} \APACrefbtitle {{CHI '04}} {{CHI '04}}\ (\BPGS\ 175--182).
 \newblock
 \begin{APACrefDOI} \doi{10.1145/985692.985715} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -853,7 +856,7 @@ Czerwinski, M.%
   Large Displays}} {{Toward Characterizing the Productivity Benefits of Very
   Large Displays}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {INTERACT'03} {Interact'03}\ (\BPGS\ 9--16).
+\BIn{} \APACrefbtitle {{INTERACT '03}} {{INTERACT '03}}\ (\BPGS\ 9--16).
 \newblock
 \begin{APACrefURL}
   \url{http://research.microsoft.com/en-us/um/redmond/groups/cue/publications/interact2003-productivitylargedisplays.pdf}
@@ -885,7 +888,7 @@ Dabbish, L\BPBI A.%
   and Self-Interruption}} {{Why Do I Keep Interrupting Myself?: Environment,
   Habit and Self-Interruption}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'11} {Chi'11}\ (\BPGS\ 3127--3130).
+\BIn{} \APACrefbtitle {{CHI'11}} {{CHI'11}}\ (\BPGS\ 3127--3130).
 \newblock
 \begin{APACrefURL}
   \url{http://delivery.acm.org/10.1145/1980000/1979405/p3127-dabbish.pdf?ip=128.16.5.5{\&}id=1979405{\&}acc=ACTIVE
@@ -913,13 +916,13 @@ Dearman, D.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{It's on my other computer!: computing with multiple
-  devices}} {{It's on my other computer!: computing with multiple
-  devices}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{It's on my other Computer!: Computing with Multiple
+  Devices}} {{It's on my other Computer!: Computing with Multiple
+  Devices}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems} {Proceedings of the sigchi conference on human factors in
-  computing systems}\ (\BPGS\ 767--776).
+\BIn{} \APACrefbtitle {{CHI '08}} {{CHI '08}}\ (\BPGS\ 767--776).
+\newblock
+\APACaddressPublisher{Florence, Italy}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.1145/1357054.1357177} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -943,13 +946,13 @@ Diemand-Yauman, C.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2011}{jan}{}.
+\APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Fortune favors the bold (and the Italicized): effects
-  of disfluency on educational outcomes.}} {{Fortune favors the bold (and the
-  Italicized): effects of disfluency on educational outcomes.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{Fortune favors the Bold (and the Italicized): Effects
+  of disfluency on educational outcomes}} {{Fortune favors the Bold (and the
+  Italicized): Effects of disfluency on educational outcomes}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Cognition}{118}{1}{111--5}.
+\APACjournalVolNumPages{Cognition}{118}{1}{111--115}.
 \newblock
 \begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/21040910}
   \end{APACrefURL}
@@ -1017,7 +1020,7 @@ Dumais, S.%
   Retrieval and Re-Use}} {{Stuff I've Seen: A System for Personal Information
   Retrieval and Re-Use}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {SIGIR '03.} {Sigir '03.}
+\BIn{} \APACrefbtitle {{SIGIR '03}} {{SIGIR '03}}\ (\BPGS\ 28--35).
 \newblock
 \APACaddressPublisher{Toronto, Canada}{}.
 \newblock
@@ -1046,12 +1049,12 @@ Evans, A\BPBI C.%
 \newblock
 \APACrefYearMonthDay{2012}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Taming Wild Behavior : The Input Observer for Obtaining
+{\BBOQ}\APACrefatitle {{Taming Wild Behavior: The Input Observer for Obtaining
   Text Entry and Mouse Pointing Measures from Everyday Computer Use}} {{Taming
-  Wild Behavior : The Input Observer for Obtaining Text Entry and Mouse
-  Pointing Measures from Everyday Computer Use}}.{\BBCQ}
+  Wild Behavior: The Input Observer for Obtaining Text Entry and Mouse Pointing
+  Measures from Everyday Computer Use}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI} {Chi}\ (\BPGS\ 1947--1956).
+\BIn{} \APACrefbtitle {{CHI '12}} {{CHI '12}}\ (\BPGS\ 1947--1956).
 \newblock
 \APACaddressPublisher{Austin, Texas, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -1151,11 +1154,11 @@ Gilbert, S\BPBI J.%
 \APACrefYearMonthDay{2015}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{Strategic offloading of delayed intentions into the
-  external environment.}} {{Strategic offloading of delayed intentions into the
-  external environment.}}{\BBCQ}
+  external environment}} {{Strategic offloading of delayed intentions into the
+  external environment}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Quarterly journal of experimental psychology
-  (2006)}{68}{April}{971--92}.
+\APACjournalVolNumPages{Quarterly Journal of Experimental
+  Psychology}{68}{5}{971--992}.
 \newblock
 \begin{APACrefURL}
   \url{http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=4448673{\&}tool=pmcentrez{\&}rendertype=abstract}
@@ -1188,9 +1191,7 @@ Gonzalez, V\BPBI M.%
   Multiple Working Spheres}} {{"Constant, Constant, Multi-tasking Craziness":
   Managing Multiple Working Spheres}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '04)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '04)}\ (\BPGS\ 113--120).
+\BIn{} \APACrefbtitle {{CHI '04}} {{CHI '04}}\ (\BPGS\ 113--120).
 \newblock
 \APACaddressPublisher{Vienna, Austria}{}.
 \newblock
@@ -1218,15 +1219,16 @@ Gould, S\BPBI J.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2013}{sep}{}.
+\APACrefYearMonthDay{2013}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{What does it mean for an interruption to be relevant?
   An investigation of relevance as a memory effect}} {{What does it mean for an
   interruption to be relevant? An investigation of relevance as a memory
   effect}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Proceedings of the Human Factors and Ergonomics Society
-  Annual Meeting}{57}{1}{149--153}.
+\BIn{} \APACrefbtitle {{Proceedings of the Human Factors and Ergonomics Society
+  Annual Meeting}} {{Proceedings of the Human Factors and Ergonomics Society
+  Annual Meeting}}\ (\BPGS\ 149--153).
 \newblock
 \begin{APACrefURL}
   \url{http://pro.sagepub.com/lookup/doi/10.1177/1541931213571034}
@@ -1263,7 +1265,7 @@ Gould, S\BPBI J.%
   An Investigation of Crowdworker Multitasking Behavior}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{ACM Transactions on Computer-Human
-  Interaction}{23}{3}{1--27}.
+  Interaction}{23}{3}{19:1----19:29}.
 \newblock
 \begin{APACrefURL}
   \url{message:{\%}3C3DF7070D-92E4-400F-B288-C71BA25CC839@ucl.ac.uk{\%}3E
@@ -1304,9 +1306,9 @@ Gould, S\BPBI J.%
   Brief Task Lockouts Encourage Checking, Longer Lockouts Encourage Task
   Switching}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '16)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '16)}\ (\BPGS\ 3311--3323).
+\BIn{} \APACrefbtitle {{CHI '16}} {{CHI '16}}\ (\BPGS\ 3311--3323).
+\newblock
+\APACaddressPublisher{San Jose, CA, USA}{}.
 \newblock
 \begin{APACrefURL} \url{http://doi.acm.org/10.1145/2858036.2858067}
   \end{APACrefURL}
@@ -1345,7 +1347,8 @@ Gould, S\BPBI J.%
   keyboards: a systematic exploration of design trade-offs in link shortening
   services}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{International Journal of Human-Computer Studies}{}{}{}.
+\APACjournalVolNumPages{International Journal of Human-Computer
+  Studies}{96}{}{38--53}.
 \newblock
 \begin{APACrefURL}
   \url{http://linkinghub.elsevier.com/retrieve/pii/S1071581916300854}
@@ -1374,12 +1377,12 @@ Gray, W\BPBI D.%
 \newblock
 \APACrefYearMonthDay{2004}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Soft constraints in interactive behavior: The case of
+{\BBOQ}\APACrefatitle {{Soft constraints in interactive behavior: the case of
   ignoring perfect knowledge in-the-world for imperfect knowledge in-the-head}}
-  {{Soft constraints in interactive behavior: The case of ignoring perfect
+  {{Soft constraints in interactive behavior: the case of ignoring perfect
   knowledge in-the-world for imperfect knowledge in-the-head}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Cognitive Science}{28}{3}{359--382}.
+\APACjournalVolNumPages{Cognitive Science}{28}{}{359--382}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.cogsci.2003.12.001} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -1437,13 +1440,13 @@ Grudin, J.%
 \newblock
 \APACrefYearMonthDay{2001}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Partitioning DigitalWorlds: Focal and Peripheral
-  Awareness in Multiple Monitor Use}} {{Partitioning DigitalWorlds: Focal and
+{\BBOQ}\APACrefatitle {{Partitioning Digital Worlds: Focal and Peripheral
+  Awareness in Multiple Monitor Use}} {{Partitioning Digital Worlds: Focal and
   Peripheral Awareness in Multiple Monitor Use}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '01)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '01)}\ (\BPGS\ 458--465).
+\BIn{} \APACrefbtitle {{CHI '01}} {{CHI '01}}\ (\BPGS\ 458--465).
+\newblock
+\APACaddressPublisher{Seattle, WA, USA}{}.
 \newblock
 \begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?id=365312}
   \end{APACrefURL}
@@ -1490,40 +1493,6 @@ Grundgeiger, T.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Hanrahan%
-\ \BBA {} P{\'{e}}rez-Qu%
-}{%
-Hanrahan%
-\ \BBA {} P{\'{e}}rez-Qu%
-}{%
-{\protect \APACyear {2015}}%
-}]{%
-Hanrahan2015}
-\APACinsertmetastar {%
-Hanrahan2015}%
-\begin{APACrefauthors}%
-Hanrahan, B\BPBI V.%
-\BCBT {}\ \BBA {} P{\'{e}}rez-Qu, M\BPBI A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2015}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {{Lost in Email: Pulling Users Down a Path of
-  Interaction}} {{Lost in Email: Pulling Users Down a Path of
-  Interaction}}.{\BBCQ}
-\newblock
-\BIn{} \APACrefbtitle {CHI'15} {Chi'15}\ (\BPGS\ 3981--3984).
-\newblock
-\begin{APACrefURL}
-  \url{http://delivery.acm.org/10.1145/2710000/2702351/p3981-hanrahan.pdf?ip=128.16.5.5{\&}id=2702351{\&}acc=ACTIVE
-  SERVICE{\&}key=BF07A2EE685417C5.D93309013A15C57B.4D4702B0C3E38B35.4D4702B0C3E38B35{\&}CFID=1018446498{\&}CFTOKEN=44534115{\&}{\_}{\_}acm{\_}{\_}=1513782721{\_}94007b7bb008}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1145/2702123.2702351} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Healy%
 , Kole%
 , Buck-Gengle%
@@ -1544,14 +1513,14 @@ Healy, A\BPBI F.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2004}{sep}{}.
+\APACrefYearMonthDay{2004}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Effects of prolonged work on data entry speed and
-  accuracy.}} {{Effects of prolonged work on data entry speed and
-  accuracy.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{Effects of Prolonged Work on Data Entry Speed and
+  Accuracy}} {{Effects of Prolonged Work on Data Entry Speed and
+  Accuracy}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Experimental Psychology:
-  Applied}{10}{3}{188--99}.
+  Applied}{10}{3}{188--199}.
 \newblock
 \begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/15462620}
   \end{APACrefURL}
@@ -1580,11 +1549,12 @@ Hollan, J\BPBI D.%
 \newblock
 \APACrefYearMonthDay{2000}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Distributed cognition: toward a new foundation for
-  human-computer interaction research}} {{Distributed cognition: toward a new
-  foundation for human-computer interaction research}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Distributed Cognition: Toward a New Foundation for
+  Human-Computer Interaction Research}} {{Distributed Cognition: Toward a New
+  Foundation for Human-Computer Interaction Research}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{ACM Trans. Comput.-Hum. Interact.}{7}{2}{174--196}.
+\APACjournalVolNumPages{ACM Transactions on Computer-Human
+  Interaction}{7}{2}{174--196}.
 \newblock
 \begin{APACrefDOI} \doi{http://doi.acm.org/10.1145/353485.353487}
   \end{APACrefDOI}
@@ -1669,7 +1639,7 @@ Iqbal, S\BPBI T.%
   Effectiveness of Mental Workload as a Predictor of Opportune Moments for
   Interruption}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI '05} {Chi '05}\ (\BPGS\ 1489--1492).
+\BIn{} \APACrefbtitle {{CHI '05}} {{CHI '05}}\ (\BPGS\ 1489--1492).
 \newblock
 \APACaddressPublisher{Portland, OR, USA}{}.
 \newblock
@@ -1702,7 +1672,9 @@ Iqbal, S\BPBI T.%
   and Their Tasks}} {{Effects of Intelligent Notification Management on Users
   and Their Tasks}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'08} {Chi'08}\ (\BPGS\ 93--102).
+\BIn{} \APACrefbtitle {{CHI '08}} {{CHI '08}}\ (\BPGS\ 93--102).
+\newblock
+\APACaddressPublisher{Florence, Italy}{}.
 \newblock
 \begin{APACrefURL}
   \url{http://delivery.acm.org/10.1145/1360000/1357070/p93-iqbal.pdf?ip=128.16.5.5{\&}id=1357070{\&}acc=ACTIVE
@@ -1730,13 +1702,13 @@ Iqbal, S\BPBI T.%
 \newblock
 \APACrefYearMonthDay{2007}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Disruption and recovery of computing tasks: field
-  study, analysis, and directions}} {{Disruption and recovery of computing
-  tasks: field study, analysis, and directions}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Disruption and Recovery of Computing Tasks: Field
+  Study, Analysis, and Directions}} {{Disruption and Recovery of Computing
+  Tasks: Field Study, Analysis, and Directions}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI '07} {Chi '07}\ (\BPGS\ 677----686).
+\BIn{} \APACrefbtitle {{CHI '07}} {{CHI '07}}\ (\BPGS\ 677--686).
 \newblock
-\APACaddressPublisher{San Jose, California, USA}{}.
+\APACaddressPublisher{San Jose, CA, USA}{}.
 \newblock
 \begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?id=1240730}
   \end{APACrefURL}
@@ -1768,7 +1740,7 @@ Iqbal, S\BPBI T.%
   Usage and Preferences}} {{Notifications and Awareness: A Field Study of Alert
   Usage and Preferences}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CSCW'10} {Cscw'10}\ (\BPGS\ 27--30).
+\BIn{} \APACrefbtitle {{CSCW'10}} {{CSCW'10}}\ (\BPGS\ 27--30).
 \newblock
 \APACaddressPublisher{Savannah, Georgia, USA}{}.
 \newblock
@@ -1796,13 +1768,13 @@ Janssen, C\BPBI P.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2012}{mar}{}.
+\APACrefYearMonthDay{2012}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{When, what, and how much to reward in reinforcement
-  learning-based models of cognition.}} {{When, what, and how much to reward in
-  reinforcement learning-based models of cognition.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{When, What, and How Much to Reward in Reinforcement
+  Learning-Based Models of Cognition}} {{When, What, and How Much to Reward in
+  Reinforcement Learning-Based Models of Cognition}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Cognitive science}{36}{2}{333--58}.
+\APACjournalVolNumPages{Cognitive Science}{36}{}{333--358}.
 \newblock
 \begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/22257174}
   \end{APACrefURL}
@@ -1834,7 +1806,41 @@ Jin, J.%
   Discretionary Task Interleaving}} {{Self-Interruption on the Computer: A
   Typology of Discretionary Task Interleaving}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'09} {Chi'09}\ (\BPGS\ 1799--1808).
+\BIn{} \APACrefbtitle {{CHI'09}} {{CHI'09}}\ (\BPGS\ 1799--1808).
+\newblock
+\APACaddressPublisher{Boston, MA, USA}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jokela%
+, Ojala%
+\BCBL {}\ \BBA {} Olsson%
+}{%
+Jokela%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+Jokela2015a}
+\APACinsertmetastar {%
+Jokela2015a}%
+\begin{APACrefauthors}%
+Jokela, T.%
+, Ojala, J.%
+\BCBL {}\ \BBA {} Olsson, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{A Diary Study on Combining Multiple Information Devices
+  in Everyday Activities and Tasks}} {{A Diary Study on Combining Multiple
+  Information Devices in Everyday Activities and Tasks}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {{Proceedings of the SIGCHI conference on Human Factors
+  in Computing Systems (CHI '15)}} {{Proceedings of the SIGCHI conference on
+  Human Factors in Computing Systems (CHI '15)}}\ (\BPGS\ 3903--3912).
+\newblock
+\begin{APACrefDOI} \doi{10.1145/2702123.2702211} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1855,7 +1861,7 @@ Katidioti, I.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2013}{sep}{}.
+\APACrefYearMonthDay{2013}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{Choice in Multitasking: How Delays in the Primary Task
   Turn a Rational Into an Irrational Multitasker}} {{Choice in Multitasking:
@@ -1899,7 +1905,7 @@ Kim, J.%
   Multi-device Environments}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Proc. ACM Interact. Mob. Wearable Ubiquitous
-  Technol}{1}{21}{}.
+  Technol.}{1}{3}{64:1----64:21}.
 \newblock
 \begin{APACrefURL} \url{https://doi.org/10.1145/3130932} \end{APACrefURL}
 \newblock
@@ -1932,7 +1938,7 @@ Lazar, A.%
 {\BBOQ}\APACrefatitle {{Why We Use and Abandon Smart Devices}} {{Why We Use and
   Abandon Smart Devices}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {UbiComp'15} {Ubicomp'15}\ (\BPGS\ 635--646).
+\BIn{} \APACrefbtitle {{UbiComp '15}} {{UbiComp '15}}\ (\BPGS\ 635--646).
 \newblock
 \APACaddressPublisher{Osaka, Japan}{}.
 \newblock
@@ -1965,7 +1971,7 @@ Lewis, C.%
   {{Understanding what's happening in system interactions}}.{\BBCQ}
 \newblock
 \BIn{} D\BPBI A.~Norman\ \BBA {} S\BPBI W.~Draper\ (\BEDS), \APACrefbtitle
-  {User Centered System Design} {User centered system design}\ (\BPGS\
+  {{User Centered System Design}} {{User Centered System Design}}\ (\BPGS\
   169--185).
 \newblock
 \APACaddressPublisher{Hillsdale, NJ}{Erlbaum}.
@@ -2024,7 +2030,8 @@ Lyngs, U.%
   of ICT Use}} {{A Cognitive Design Space for Supporting Self-Regulation of ICT
   Use}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'18 Extended Abstracts.} {Chi'18 extended abstracts.}
+\BIn{} \APACrefbtitle {{CHI'18 Extended Abstracts}.} {{CHI'18 Extended
+  Abstracts}.}
 \newblock
 \APACaddressPublisher{Montreal, Canada}{}.
 \newblock
@@ -2084,8 +2091,8 @@ Maior, H\BPBI A.%
   Physiological Measures of Mental Workload to Provide Feedback During
   Tasks}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{ACM Transactions on Computer-Human Interaction ACM
-  Reference ACM Trans. Comput.-Hum. Interact}{25}{2}{1--30}.
+\APACjournalVolNumPages{ACM Transactions on Computer-Human
+  Interaction}{25}{2}{9:1--9:30}.
 \newblock
 \begin{APACrefURL} \url{http://eprints.nottingham.ac.uk/49196/8/a9-maior.pdf
   http://eprints.nottingham.ac.uk/end{\_}user{\_}agreement.pdf
@@ -2159,7 +2166,7 @@ Mark, G.%
   Distractions}} {{Effects of Individual Differences in Blocking Workplace
   Distractions}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'18.} {Chi'18.}
+\BIn{} \APACrefbtitle {{CHI' 18}.} {{CHI' 18}.}
 \newblock
 \APACaddressPublisher{Montreal, Canada}{}.
 \newblock
@@ -2193,11 +2200,9 @@ Mark, G.%
 \newblock
 {\BBOQ}\APACrefatitle {{No task left behind?}} {{No task left behind?}}{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
-  Computing Systems (CHI '05)} {Proceedings of the sigchi conference on human
-  factors in computing systems (chi '05)}\ (\BPGS\ 321--330).
+\BIn{} \APACrefbtitle {{CHI '05}} {{CHI '05}}\ (\BPGS\ 321--330).
 \newblock
-\APACaddressPublisher{Portland, Oregon, USA}{}.
+\APACaddressPublisher{Portland, OR, USA}{}.
 \newblock
 \begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?id=1054972.1055017}
   \end{APACrefURL}
@@ -2233,7 +2238,7 @@ Mark, G.%
   afternoons: the rhythm of attention and online activity in the
   workplace}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI 2014} {Chi 2014}\ (\BPGS\ 3025--3034).
+\BIn{} \APACrefbtitle {{CHI 2014}} {{CHI 2014}}\ (\BPGS\ 3025--3034).
 \newblock
 \begin{APACrefURL} \url{http://dl.acm.org/citation.cfm?id=2557204}
   \end{APACrefURL}
@@ -2264,13 +2269,13 @@ Mark, G.%
 \newblock
 \APACrefYearMonthDay{2014{\protect \BCnt {2}}}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Capturing the Mood : Facebook and Face-to-Face
-  Encounters in the Workplace}} {{Capturing the Mood : Facebook and
-  Face-to-Face Encounters in the Workplace}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Capturing the Mood: Facebook and Face-to-Face
+  Encounters in the Workplace}} {{Capturing the Mood: Facebook and Face-to-Face
+  Encounters in the Workplace}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {17th ACM conference on Computer supported cooperative
-  work {\&} social computing} {17th acm conference on computer supported
-  cooperative work {\&} social computing}\ (\BPGS\ 1082--1094).
+\BIn{} \APACrefbtitle {{CSCW '14}} {{CSCW '14}}\ (\BPGS\ 1082--1094).
+\newblock
+\APACaddressPublisher{Baltimore, MD, USA}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.1145/2531602.2531673} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -2303,14 +2308,9 @@ Mark, G.%
   Distractible: A Temporal Perspective on Multitasking and
   Communications}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CSCW '15 Proceedings of the 18tMark, G., Iqbal, S.T.,
-  Czerwinski, M., Johns, P., 2015. Focused, Aroused, but so Distractible: A
-  Temporal Perspective on Multitasking and Communications, in: CSCW '15
-  Proceedings of the 18th ACM Conference on Computer Suppor} {Cscw '15
-  proceedings of the 18tmark, g., iqbal, s.t., czerwinski, m., johns, p., 2015.
-  focused, aroused, but so distractible: A temporal perspective on multitasking
-  and communications, in: Cscw '15 proceedings of the 18th acm conference on
-  computer suppor}\ (\BPGS\ 903--916).
+\BIn{} \APACrefbtitle {{CSCW '15}} {{CSCW '15}}\ (\BPGS\ 903--916).
+\newblock
+\APACaddressPublisher{Vancouver, Canada}{}.
 \newblock
 \begin{APACrefURL}
   \url{http://delivery.acm.org/10.1145/2680000/2675221/p903-mark.pdf?ip=128.16.5.5{\&}id=2675221{\&}acc=ACTIVE
@@ -2345,12 +2345,14 @@ Mark, G.%
 \newblock
 \APACrefYearMonthDay{2016{\protect \BCnt {1}}}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Email duration, batching and self-interruption:
-  Patterns of email use on productivity and stress}} {{Email duration, batching
-  and self-interruption: Patterns of email use on productivity and
-  stress}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Email Duration, Batching and Self-interruption:
+  Patterns of Email Use on Productivity and Stress}} {{Email Duration, Batching
+  and Self-interruption: Patterns of Email Use on Productivity and
+  Stress}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'16} {Chi'16}\ (\BPGS\ 1717--1728).
+\BIn{} \APACrefbtitle {{CHI'16}} {{CHI'16}}\ (\BPGS\ 1717--1728).
+\newblock
+\APACaddressPublisher{San Jose, CA, USA}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2382,7 +2384,7 @@ Mark, G.%
   Multitasking in the Workplace}} {{Neurotics Can't Focus: An in situ Study of
   Online Multitasking in the Workplace}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI '16} {Chi '16}\ (\BPGS\ 1739--1744).
+\BIn{} \APACrefbtitle {{CHI '16}} {{CHI '16}}\ (\BPGS\ 1739--1744).
 \newblock
 \APACaddressPublisher{San Jose, CA, USA}{}.
 \newblock
@@ -2418,9 +2420,9 @@ Mark, G.%
   of Work Without Email}} {{"A Pace Not Dictated by Electrons": An Empirical
   Study of Work Without Email}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'12} {Chi'12}\ (\BPGS\ 555--564).
+\BIn{} \APACrefbtitle {{CHI' 12}} {{CHI' 12}}\ (\BPGS\ 555--564).
 \newblock
-\APACaddressPublisher{Austin, Texas, USA}{}.
+\APACaddressPublisher{Austin, TX, USA}{}.
 \newblock
 \begin{APACrefURL}
   \url{http://delivery.acm.org/10.1145/2210000/2207754/p555-mark.pdf?ip=128.16.5.5{\&}id=2207754{\&}acc=ACTIVE
@@ -2472,9 +2474,9 @@ Monk, C\BPBI A.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{The effect of interruption duration and demand on
-  resuming suspended goals.}} {{The effect of interruption duration and demand
-  on resuming suspended goals.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{The Effect of Interruption Duration and Demand on
+  Resuming Suspended Goals}} {{The Effect of Interruption Duration and Demand
+  on Resuming Suspended Goals}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Experimental Psychology:
   Applied}{14}{4}{299--313}.
@@ -2511,7 +2513,7 @@ Morgan, P\BPBI L.%
   solving and mitigates the effect of interruption}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Quarterly Journal of Experimental
-  Psychology}{}{November 2012}{1--19}.
+  Psychology}{66}{1}{160--178}.
 \newblock
 \begin{APACrefDOI} \doi{10.1080/17470218.2012.702117} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -2539,12 +2541,12 @@ Morgan, P\BPBI L.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2009}{dec}{}.
+\APACrefYearMonthDay{2009}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Improving memory after interruption: exploiting soft
-  constraints and manipulating information access cost.}} {{Improving memory
-  after interruption: exploiting soft constraints and manipulating information
-  access cost.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{Improving Memory after Interruption: Exploiting Soft
+  Constraints and Manipulating Information Access Cost}} {{Improving Memory
+  after Interruption: Exploiting Soft Constraints and Manipulating Information
+  Access Cost}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Experimental Psychology:
   Applied}{15}{4}{291--306}.
@@ -2583,11 +2585,12 @@ Morgan, P\BPBI L.%
   Better Performance? The Effects of Information Access Cost on Strategy and
   Performance}}.{\BBCQ}
 \newblock
-\BIn{} M.~Smith\ \BBA {} G.~Salvendy\ (\BEDS), \APACrefbtitle {Human Interface,
-  Part I, HCII 2007, LNCS 4557} {Human interface, part i, hcii 2007, lncs
-  4557}\ (\BPGS\ 115--125).
+\BIn{} M.~Smith\ \BBA {} G.~Salvendy\ (\BEDS), \APACrefbtitle {{Human Interface
+  and the Management of Information. Methods, Techniques and Tools in
+  Information Design}} {{Human Interface and the Management of Information.
+  Methods, Techniques and Tools in Information Design}}\ (\BPGS\ 115--125).
 \newblock
-\APACaddressPublisher{Berlin}{Springer-Verlag}.
+\APACaddressPublisher{Berlin, Germany}{Springer-Verlag Berlin Heidelberg}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2640,11 +2643,11 @@ O'Hara, K\BPBI P.%
 \newblock
 \APACrefYearMonthDay{1998}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{The effects of operator implementation cost on
-  planfulness of problem solving and learning.}} {{The effects of operator
-  implementation cost on planfulness of problem solving and learning.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{The effects of Operator Implementation Cost on
+  Planfulness of Problem Solving and Learning}} {{The effects of Operator
+  Implementation Cost on Planfulness of Problem Solving and Learning}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Cognitive psychology}{35}{1}{34--70}.
+\APACjournalVolNumPages{Cognitive Psychology}{35}{}{34--70}.
 \newblock
 \begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pubmed/9520317}
   \end{APACrefURL}
@@ -2673,15 +2676,11 @@ Oladimeji, P.%
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Number entry interfaces and their effects on error
-  detection.}} {{Number entry interfaces and their effects on error
-  detection.}}{\BBCQ}
+{\BBOQ}\APACrefatitle {{Number Entry Interfaces and Their Effects on Error
+  Detection}} {{Number Entry Interfaces and Their Effects on Error
+  Detection}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Ifip International Federation For Information
-  Processing} {Ifip international federation for information processing}\
-  (\BPGS\ 178--185).
-\newblock
-\APACaddressPublisher{}{Springer-Verlag}.
+\BIn{} \APACrefbtitle {{INTERACT '11}} {{INTERACT '11}}\ (\BPGS\ 178--185).
 \newblock
 \begin{APACrefURL} \url{http://discovery.ucl.ac.uk/1308862/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
@@ -2710,10 +2709,7 @@ Oladimeji, P.%
 {\BBOQ}\APACrefatitle {{A Performance Review of Number Entry Interfaces}} {{A
   Performance Review of Number Entry Interfaces}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of 14th IFIP TC13 Conference on
-  Human-Computer Interaction (INTERACT 2013), Part I} {Proceedings of 14th ifip
-  tc13 conference on human-computer interaction (interact 2013), part i}\
-  (\BVOL\ 8117, \BPGS\ 365--382).
+\BIn{} \APACrefbtitle {{INTERACT '13)}} {{INTERACT '13)}}\ (\BPGS\ 365--382).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2733,12 +2729,11 @@ Olsen, K\BPBI A.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{The {\$}100,000 keying error}} {{The {\$}100,000 keying
-  error}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Customer Errors in Internet Banking}} {{Customer Errors
+  in Internet Banking}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Computer}{41}{}{}.
-\newblock
-\begin{APACrefDOI} \doi{10.1109/MC.2008.135} \end{APACrefDOI}
+\BIn{} \APACrefbtitle {{Proceedings of the Norsk Informatikkonferanse}.}
+  {{Proceedings of the Norsk Informatikkonferanse}.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2825,7 +2820,9 @@ Patrick, J.%
   Processing}} {{Designing the Interface to Encourage More Cognitive
   Processing}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {HCI} {Hci}\ (\BVOL~23, \BPGS\ 255--264).
+\BIn{} \APACrefbtitle {{International Conference on Engineering Psychology and
+  Cognitive Ergonomics}} {{International Conference on Engineering Psychology
+  and Cognitive Ergonomics}}\ (\BPGS\ 255--264).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2875,7 +2872,7 @@ Potts, C\BPBI A.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2017}{nov}{}.
+\APACrefYearMonthDay{2017}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{How are cognitive and physical difficulty compared?}}
   {{How are cognitive and physical difficulty compared?}}{\BBCQ}
@@ -2911,9 +2908,9 @@ Randall, D.%
 \newblock
 {\BBOQ}\APACrefatitle {{Ethnography}} {{Ethnography}}.{\BBCQ}
 \newblock
-\BIn{} M.~Soegaard\ \BBA {} R\BPBI F.~Dam\ (\BEDS), \APACrefbtitle {The
-  Encyclopedia of Human-Computer Interaction} {The encyclopedia of
-  human-computer interaction}\ (\PrintOrdinal{2}\ \BEd).
+\BIn{} M.~Soegaard\ \BBA {} R\BPBI F.~Dam\ (\BEDS), \APACrefbtitle {{The
+  Encyclopedia of Human-Computer Interaction}} {{The Encyclopedia of
+  Human-Computer Interaction}}\ (\PrintOrdinal{2}\ \BEd).
 \newblock
 \APACaddressPublisher{Aarhus, Denmark}{The Interaction Design Foundation}.
 \newblock
@@ -2964,13 +2961,13 @@ Reddy, M.%
 \newblock
 \APACrefYearMonthDay{2002}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{A finger on the pulse: temporal rhythms and information
-  seeking in medical work}} {{A finger on the pulse: temporal rhythms and
-  information seeking in medical work}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{A Finger on the Pulse: Temporal Rhythms and Information
+  Seeking in Medical Work}} {{A Finger on the Pulse: Temporal Rhythms and
+  Information Seeking in Medical Work}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the ACM Conference on Computer Supported
-  Collaborative Work (CSCW '02)} {Proceedings of the acm conference on computer
-  supported collaborative work (cscw '02)}\ (\BPGS\ 344--353).
+\BIn{} \APACrefbtitle {{CSCW '02}} {{CSCW '02}}\ (\BPGS\ 344--353).
+\newblock
+\APACaddressPublisher{New Orleans, LA, USA}{}.
 \newblock
 \begin{APACrefURL} \url{http://portal.acm.org/citation.cfm?id=587078.587126}
   \end{APACrefURL}
@@ -3017,8 +3014,8 @@ Robertson, G.%
 \newblock
 \APACrefYearMonthDay{2005}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{The large-display user experience}} {{The large-display
-  user experience}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{The Large-Display User Experience}} {{The Large-Display
+  User Experience}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{IEEE Computer Graphics and
   Applications}{25}{4}{44--51}.
@@ -3050,7 +3047,7 @@ Rule, A.%
   Recordings that Cue Contextual Memory}} {{That Reminds Me: Identifying
   Elements of Screen Recordings that Cue Contextual Memory}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {COGS-230'13.} {Cogs-230'13.}
+\BIn{} \APACrefbtitle {{COGS-230 '13}.} {{COGS-230 '13}.}
 \newblock
 \APACaddressPublisher{San Diego, CA, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -3094,15 +3091,15 @@ Salthouse1986}
 \APACinsertmetastar {%
 Salthouse1986}%
 \begin{APACrefauthors}%
-Salthouse, T\BPBI a.%
+Salthouse, T\BPBI A.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{1986}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {{Perceptual, cognitive, and motoric aspects of
-  transcription typing.}} {{Perceptual, cognitive, and motoric aspects of
-  transcription typing.}}{\BBCQ}
+  transcription typing}} {{Perceptual, cognitive, and motoric aspects of
+  transcription typing}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Psychological bulletin}{99}{3}{303--319}.
 \newblock
@@ -3129,11 +3126,11 @@ Salvucci, D\BPBI D.%
 \newblock
 \APACrefYearMonthDay{2010}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Multitasking and Monotasking : The Effects of Mental
-  Workload on Deferred Task Interruptions}} {{Multitasking and Monotasking :
-  The Effects of Mental Workload on Deferred Task Interruptions}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Multitasking and Monotasking: The Effects of Mental
+  Workload on Deferred Task Interruptions}} {{Multitasking and Monotasking: The
+  Effects of Mental Workload on Deferred Task Interruptions}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI 2010} {Chi 2010}\ (\BPGS\ 85--88).
+\BIn{} \APACrefbtitle {{CHI '10}} {{CHI '10}}\ (\BPGS\ 85--88).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3156,8 +3153,8 @@ Sellberg, C.%
 \newblock
 \APACrefYearMonthDay{2014}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Technostress in the office: A distributed cognition
-  perspective on human-technology interaction}} {{Technostress in the office: A
+{\BBOQ}\APACrefatitle {{Technostress in the office: a distributed cognition
+  perspective on human-technology interaction}} {{Technostress in the office: a
   distributed cognition perspective on human-technology interaction}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Cognition, Technology and Work}{16}{}{187--201}.
@@ -3217,7 +3214,7 @@ Skatova, A.%
 {\BBOQ}\APACrefatitle {{The Role of ICT in Office Work Breaks}} {{The Role of
   ICT in Office Work Breaks}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'16} {Chi'16}\ (\BPGS\ 3049--3060).
+\BIn{} \APACrefbtitle {{CHI' 16}} {{CHI' 16}}\ (\BPGS\ 3049--3060).
 \newblock
 \APACaddressPublisher{San Jose, CA, USA}{}.
 \newblock
@@ -3255,10 +3252,10 @@ Smith, G.%
 {\BBOQ}\APACrefatitle {{GroupBar: The TaskBar Evolved}} {{GroupBar: The TaskBar
   Evolved}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {OZCHI 2003 Conference for the Computer-Human Interaction
-  Special Interest Group of the Human Factors Society of Australia.} {Ozchi
-  2003 conference for the computer-human interaction special interest group of
-  the human factors society of australia.}
+\BIn{} \APACrefbtitle {{The Conference for the Computer-Human Interaction
+  Special Interest Group of the Human Factors Society of Australia (OzCHI
+  '03)}.} {{The Conference for the Computer-Human Interaction Special Interest
+  Group of the Human Factors Society of Australia (OzCHI '03)}.}
 \newblock
 \begin{APACrefURL}
   \url{http://www.patrickbaudisch.com/publications/2003-Smith-OZCHI03-GroupBar.pdf}
@@ -3290,10 +3287,7 @@ Soboczenski, F.%
   in transcription tasks}} {{Increasing accuracy by decreasing presentation
   quality in transcription tasks}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of 14th IFIP TC13 Conference on
-  Human-Computer Interaction (INTERACT 2013), Part II} {Proceedings of 14th
-  ifip tc13 conference on human-computer interaction (interact 2013), part ii}\
-  (\BVOL\ 8118, \BPGS\ 380--394).
+\BIn{} \APACrefbtitle {{INTERACT '13}} {{INTERACT '13}}\ (\BPGS\ 380--394).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3319,10 +3313,12 @@ Sohn, T.%
 \newblock
 \APACrefYearMonthDay{2008}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{A diary study of mobile information needs}} {{A diary
-  study of mobile information needs}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{A Diary Study of Mobile Information Needs}} {{A Diary
+  Study of Mobile Information Needs}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI '08} {Chi '08}\ (\BPGS\ 433--442).
+\BIn{} \APACrefbtitle {{CHI '08}} {{CHI '08}}\ (\BPGS\ 433--442).
+\newblock
+\APACaddressPublisher{Florence, Italy}{}.
 \newblock
 \begin{APACrefURL}
   \url{http://portal.acm.org/citation.cfm?doid=1357054.1357125}
@@ -3382,13 +3378,12 @@ Thimbleby, H.%
 \newblock
 \APACrefYearMonthDay{2011}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Interactive Numbers : a Grand Challenge}} {{Interactive
-  Numbers : a Grand Challenge}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Interactive Numbers: a Grand Challenge}} {{Interactive
+  Numbers: a Grand Challenge}}.{\BBCQ}
 \newblock
-\BIn{} {Blashki, K.}\ (\BED), \APACrefbtitle {Proceedings of the IADIS
-  International Conference on Interfaces and Human Computer Interaction}
-  {Proceedings of the iadis international conference on interfaces and human
-  computer interaction}\ (\BPGS\ 1--9).
+\BIn{} \APACrefbtitle {{Proceedings of the IADIS International Conference on
+  Interfaces and Human Computer Interaction}.} {{Proceedings of the IADIS
+  International Conference on Interfaces and Human Computer Interaction}.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3416,12 +3411,14 @@ Vertanen, K.%
 \newblock
 \APACrefYearMonthDay{2015}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{VelociTap : Investigating Fast Mobile Text Entry using
-  Sentence-Based Decoding of Touchscreen Keyboard Input}} {{VelociTap :
+{\BBOQ}\APACrefatitle {{VelociTap: Investigating Fast Mobile Text Entry using
+  Sentence-Based Decoding of Touchscreen Keyboard Input}} {{VelociTap:
   Investigating Fast Mobile Text Entry using Sentence-Based Decoding of
   Touchscreen Keyboard Input}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI 2015} {Chi 2015}\ (\BPGS\ 659--668).
+\BIn{} \APACrefbtitle {{CHI '15}} {{CHI '15}}\ (\BPGS\ 659--668).
+\newblock
+\APACaddressPublisher{Seoul, Republic of Korea}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3476,11 +3473,11 @@ Waldron, S\BPBI M.%
 \newblock
 \APACrefYearMonthDay{2007}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {{Influencing cognitive strategy by manipulating
-  information access}} {{Influencing cognitive strategy by manipulating
-  information access}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{Influencing Cognitive Strategy by Manipulating
+  Information Access}} {{Influencing Cognitive Strategy by Manipulating
+  Information Access}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Computer Journal}{50}{}{694--702}.
+\APACjournalVolNumPages{The Computer Journal}{50}{6}{694--702}.
 \newblock
 \begin{APACrefDOI} \doi{10.1093/comjnl/bxm064} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -3582,7 +3579,7 @@ Whittaker, S.%
   Focus}} {{'Don't Waste My Time': Use of Time Information Improves
   Focus}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'16} {Chi'16}\ (\BPGS\ 1729--1738).
+\BIn{} \APACrefbtitle {{CHI' 16}} {{CHI' 16}}\ (\BPGS\ 1729--1738).
 \newblock
 \APACaddressPublisher{San Jose, CA, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -3592,7 +3589,7 @@ Wiseman%
 }{%
 Wiseman%
 }{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACyear {2014}}%
 }]{%
 Wiseman2014}
 \APACinsertmetastar {%
@@ -3602,7 +3599,7 @@ Wiseman, S\BPBI E\BPBI M.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{{\protect \bibnodate {}}}.
+\APACrefYear{2014}.
 \unskip\
 \newblock
 \APACrefbtitle {{Designing for Numerical Transcription Typing: Frequent Numbers
@@ -3642,10 +3639,10 @@ Wiseman, S\BPBI E\BPBI M.%
   Behavior}} {{The Effect Of Interface Type On Visual Error Checking
   Behavior}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Human Factors and Ergonomics Society.} {Human factors
-  and ergonomics society.}
+\BIn{} \APACrefbtitle {{Human Factors and Ergonomics Society Annual Meeting}}
+  {{Human Factors and Ergonomics Society Annual Meeting}}\ (\BPGS\ 436--439).
 \newblock
-\APACaddressPublisher{Los Angeles, CA}{}.
+\APACaddressPublisher{Los Angeles, CA, USA}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3676,9 +3673,9 @@ Wiseman, S\BPBI E\BPBI M.%
   Programming Medical Infusion Pumps}} {{Tailoring Number Entry Interfaces To
   The Task of Programming Medical Infusion Pumps}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the Human Factors and Ergonomics Society
-  (HFES '13)} {Proceedings of the human factors and ergonomics society (hfes
-  '13)}\ (\BPGS\ 683--687).
+\BIn{} \APACrefbtitle {{Proceedings of the Human Factors and Ergonomics Society
+  (HFES '13)}} {{Proceedings of the Human Factors and Ergonomics Society (HFES
+  '13)}}\ (\BPGS\ 683--687).
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3710,9 +3707,9 @@ Wiseman, S\BPBI E\BPBI M.%
 {\BBOQ}\APACrefatitle {{Using Checksums to Detect Number Entry Error}} {{Using
   Checksums to Detect Number Entry Error}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {Proceedings of the 2013 Conference on Human Factors in
-  Computing Systems (CHI-2013)} {Proceedings of the 2013 conference on human
-  factors in computing systems (chi-2013)}\ (\BPGS\ 2403--2406).
+\BIn{} \APACrefbtitle {{CHI '13}} {{CHI '13}}\ (\BPGS\ 2403--2406).
+\newblock
+\APACaddressPublisher{Paris, France}{}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

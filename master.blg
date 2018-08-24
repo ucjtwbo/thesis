@@ -26,58 +26,58 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated field_info (elt_size=4) to 10712 items from 5000.
 Database file #1: master.bib
-Repeated entry---line 4381 of file master.bib
+Repeated entry---line 1481 of file master.bib
  : @inproceedings{Wiseman2011
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4428 of file master.bib
- : @inproceedings{Olsen2008
- :                         ,
+Repeated entry---line 4495 of file master.bib
+ : @article{Olsen2008
+ :                   ,
 I'm skipping whatever remains of this entry
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--I didn't find a database entry for "Jokela2015"
+Warning--I didn't find a database entry for "Hanrahan2015"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No institution in Rzeszotarski2013
 Warning--No address in Rzeszotarski2013
 You've used 118 entries,
             6951 wiz_defined-function locations,
-            2172 strings with 82740 characters,
-and the built_in function-call counts, 263609 in all, are:
-= -- 33802
-> -- 2309
-< -- 12339
-+ -- 12999
-- -- 239
-* -- 16507
-:= -- 45363
-add.period$ -- 582
+            2156 strings with 81357 characters,
+and the built_in function-call counts, 265047 in all, are:
+= -- 34059
+> -- 2319
+< -- 12331
++ -- 12984
+- -- 237
+* -- 16550
+:= -- 45333
+add.period$ -- 590
 call.type$ -- 118
-change.case$ -- 2083
+change.case$ -- 2086
 chr.to.int$ -- 0
 cite$ -- 238
-duplicate$ -- 7281
-empty$ -- 9963
-format.name$ -- 3598
-if$ -- 50958
+duplicate$ -- 7348
+empty$ -- 10078
+format.name$ -- 3597
+if$ -- 51354
 int.to.chr$ -- 0
 int.to.str$ -- 366
 missing$ -- 0
-newline$ -- 3301
-num.names$ -- 936
-pop$ -- 5605
+newline$ -- 3330
+num.names$ -- 932
+pop$ -- 5716
 preamble$ -- 1
-purify$ -- 482
+purify$ -- 469
 quote$ -- 0
-skip$ -- 16657
+skip$ -- 16830
 stack$ -- 0
-substring$ -- 14568
-swap$ -- 4104
-text.length$ -- 547
+substring$ -- 14559
+swap$ -- 4143
+text.length$ -- 542
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 13160
+type$ -- 13416
 warning$ -- 2
-while$ -- 1290
+while$ -- 1276
 width$ -- 0
-write$ -- 4210
+write$ -- 4242
 (There were 2 error messages)
