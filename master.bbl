@@ -24,7 +24,7 @@ Adamczyk, P\BPBI D.%
   Different Moments Within Task Execution}} {{If Not Now, When?: The Effects of
   Interruption at Different Moments Within Task Execution}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI '04} {Chi '04}\ (\BPGS\ 271--278).
+\BIn{} \APACrefbtitle {{CHI '04}} {{CHI '04}}\ (\BPGS\ 271--278).
 \newblock
 \APACaddressPublisher{Vienna, Austria}{}.
 \PrintBackRefs{\CurrentBib}
@@ -394,7 +394,7 @@ Borghouts, J.%
   Durations Discourages Distractions} {Looking up information in email:
   Feedback on visit durations discourages distractions}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI'18 Extended Abstracts}.} {{CHI'18 Extended
+\BIn{} \APACrefbtitle {{CHI '18 Extended Abstracts}.} {{CHI '18 Extended
   Abstracts}.}
 \newblock
 \APACaddressPublisher{Montreal, Canada}{}.
@@ -834,7 +834,7 @@ Dabbish, L\BPBI A.%
   and Self-Interruption}} {{Why Do I Keep Interrupting Myself?: Environment,
   Habit and Self-Interruption}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI'11}} {{CHI'11}}\ (\BPGS\ 3127--3130).
+\BIn{} \APACrefbtitle {{CHI '11}} {{CHI '11}}\ (\BPGS\ 3127--3130).
 \newblock
 \APACaddressPublisher{{Vancouver, Canada}}{}.
 \PrintBackRefs{\CurrentBib}
@@ -1406,7 +1406,7 @@ Hanrahan, B\BPBI V.%
   Interaction}} {{Lost in Email: Pulling Users Down a Path of
   Interaction}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {CHI'15} {Chi'15}\ (\BPGS\ 3981--3984).
+\BIn{} \APACrefbtitle {{CHI '15}} {{CHI '15}}\ (\BPGS\ 3981--3984).
 \newblock
 \APACaddressPublisher{{Seoul, Republic of Korea}}{}.
 \PrintBackRefs{\CurrentBib}
@@ -1632,7 +1632,7 @@ Iqbal, S\BPBI T.%
   Usage and Preferences} {Notifications and awareness: A field study of alert
   usage and preferences}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CSCW'10}} {{CSCW'10}}\ (\BPGS\ 27--30).
+\BIn{} \APACrefbtitle {{CSCW '10}} {{CSCW '10}}\ (\BPGS\ 27--30).
 \newblock
 \APACaddressPublisher{Savannah, GA, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -1688,7 +1688,7 @@ Jin, J.%
   Discretionary Task Interleaving} {Self-interruption on the computer: A
   typology of discretionary task interleaving}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI'09}} {{CHI'09}}\ (\BPGS\ 1799--1808).
+\BIn{} \APACrefbtitle {{CHI '09}} {{CHI '09}}\ (\BPGS\ 1799--1808).
 \newblock
 \APACaddressPublisher{Boston, MA, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -1887,11 +1887,11 @@ Lyngs, U.%
 \newblock
 \APACrefYearMonthDay{2018}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {A Cognitive Design Space for Supporting Self-Regulation
-  of ICT Use} {A cognitive design space for supporting self-regulation of ict
-  use}.{\BBCQ}
+{\BBOQ}\APACrefatitle {{A Cognitive Design Space for Supporting Self-Regulation
+  of ICT Use}} {{A Cognitive Design Space for Supporting Self-Regulation of ICT
+  Use}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI'18 Extended Abstracts}.} {{CHI'18 Extended
+\BIn{} \APACrefbtitle {{CHI '18 Extended Abstracts}.} {{CHI '18 Extended
   Abstracts}.}
 \newblock
 \APACaddressPublisher{Montreal, Canada}{}.
@@ -2022,7 +2022,7 @@ Mark, G.%
   Distractions} {Effects of individual differences in blocking workplace
   distractions}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI' 18}.} {{CHI' 18}.}
+\BIn{} \APACrefbtitle {{CHI '18}.} {{CHI '18}.}
 \newblock
 \APACaddressPublisher{Montreal, Canada}{}.
 \PrintBackRefs{\CurrentBib}
@@ -2246,7 +2246,7 @@ Mark, G.%
   of Work Without Email}} {{"A Pace Not Dictated by Electrons": An Empirical
   Study of Work Without Email}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI' 12}} {{CHI' 12}}\ (\BPGS\ 555--564).
+\BIn{} \APACrefbtitle {{CHI '12}} {{CHI '12}}\ (\BPGS\ 555--564).
 \newblock
 \APACaddressPublisher{Austin, TX, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -2511,7 +2511,7 @@ Oladimeji, P.%
 {\BBOQ}\APACrefatitle {A Performance Review of Number Entry Interfaces} {A
   performance review of number entry interfaces}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{INTERACT '13)}} {{INTERACT '13)}}\ (\BPGS\ 365--382).
+\BIn{} \APACrefbtitle {{INTERACT '13}} {{INTERACT '13}}\ (\BPGS\ 365--382).
 \newblock
 \APACaddressPublisher{{Cape Town, South Africa}}{}.
 \PrintBackRefs{\CurrentBib}
@@ -3001,7 +3001,7 @@ Skatova, A.%
 {\BBOQ}\APACrefatitle {{The Role of ICT in Office Work Breaks}} {{The Role of
   ICT in Office Work Breaks}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI' 16}} {{CHI' 16}}\ (\BPGS\ 3049--3060).
+\BIn{} \APACrefbtitle {{CHI '16}} {{CHI '16}}\ (\BPGS\ 3049--3060).
 \newblock
 \APACaddressPublisher{San Jose, CA, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -3337,7 +3337,7 @@ Whittaker, S.%
   Focus}} {{'Don't Waste My Time': Use of Time Information Improves
   Focus}}.{\BBCQ}
 \newblock
-\BIn{} \APACrefbtitle {{CHI' 16}} {{CHI' 16}}\ (\BPGS\ 1729--1738).
+\BIn{} \APACrefbtitle {{CHI '16}} {{CHI '16}}\ (\BPGS\ 1729--1738).
 \newblock
 \APACaddressPublisher{San Jose, CA, USA}{}.
 \PrintBackRefs{\CurrentBib}
@@ -3430,7 +3430,7 @@ Wiseman, S\BPBI E\BPBI M.%
 \BIn{} \APACrefbtitle {{The 25th BCS Conference on Human-Computer Interaction}}
   {{The 25th BCS Conference on Human-Computer Interaction}}\ (\BPGS\ 187--196).
 \newblock
-\APACaddressPublisher{{Newcastle-upon-Tyne, UK }}{}.
+\APACaddressPublisher{{Newcastle-upon-Tyne, UK}}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
