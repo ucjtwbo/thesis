@@ -24,54 +24,54 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10760 items from 5000.
+Reallocated field_info (elt_size=4) to 10808 items from 5000.
 Database file #1: master.bib
-Repeated entry---line 5552 of file master.bib
+Repeated entry---line 5562 of file master.bib
  : @inproceedings{Olsen2008
  :                         ,
 I'm skipping whatever remains of this entry
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No institution in Rzeszotarski2013
 Warning--No address in Rzeszotarski2013
-You've used 120 entries,
+You've used 121 entries,
             6951 wiz_defined-function locations,
-            2042 strings with 32653 characters,
-and the built_in function-call counts, 266789 in all, are:
-= -- 34432
-> -- 2355
-< -- 12411
-+ -- 13082
-- -- 239
-* -- 16343
-:= -- 45768
-add.period$ -- 596
-call.type$ -- 120
-change.case$ -- 2143
+            2050 strings with 32857 characters,
+and the built_in function-call counts, 269104 in all, are:
+= -- 34748
+> -- 2373
+< -- 12515
++ -- 13184
+- -- 241
+* -- 16477
+:= -- 46149
+add.period$ -- 602
+call.type$ -- 121
+change.case$ -- 2161
 chr.to.int$ -- 0
-cite$ -- 242
-duplicate$ -- 7386
-empty$ -- 10025
-format.name$ -- 3645
-if$ -- 51783
+cite$ -- 244
+duplicate$ -- 7443
+empty$ -- 10110
+format.name$ -- 3669
+if$ -- 52248
 int.to.chr$ -- 0
-int.to.str$ -- 372
+int.to.str$ -- 375
 missing$ -- 0
-newline$ -- 3181
-num.names$ -- 940
-pop$ -- 5866
+newline$ -- 3208
+num.names$ -- 948
+pop$ -- 5926
 preamble$ -- 1
-purify$ -- 476
+purify$ -- 480
 quote$ -- 0
-skip$ -- 17046
+skip$ -- 17201
 stack$ -- 0
-substring$ -- 14691
-swap$ -- 4145
-text.length$ -- 555
+substring$ -- 14809
+swap$ -- 4178
+text.length$ -- 562
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 13536
+type$ -- 13680
 warning$ -- 2
-while$ -- 1296
+while$ -- 1304
 width$ -- 0
-write$ -- 4111
+write$ -- 4144
 (There was 1 error message)

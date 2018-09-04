@@ -548,6 +548,37 @@ Cangiano, G\BPBI R.%
 
 \bibitem [\protect \citeauthoryear {%
 Card%
+\ \BBA {} Henderson%
+}{%
+Card%
+\ \BBA {} Henderson%
+}{%
+{\protect \APACyear {1987}}%
+}]{%
+Card1987}
+\APACinsertmetastar {%
+Card1987}%
+\begin{APACrefauthors}%
+Card, S\BPBI K.%
+\BCBT {}\ \BBA {} Henderson, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1987}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Rooms: A Multiple, Virtual-Workspace Interface to
+  Support User Task Switching}} {{Rooms: A Multiple, Virtual-Workspace
+  Interface to Support User Task Switching}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {CHI '87} {Chi '87}\ (\BPGS\ 53--59).
+\newblock
+\begin{APACrefURL}
+  \url{http://rivcons.com/wp-content/uploads/1987/Rooms-CHI.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Card%
 , Moran%
 \BCBL {}\ \BBA {} Newell%
 }{%
