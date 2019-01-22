@@ -7,7 +7,7 @@
 \BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 7
 \BOOKMARK [1][-]{section.1.2}{Aim and scope}{chapter.1}% 8
 \BOOKMARK [1][-]{section.1.3}{Thesis outline}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.4}{Contribution}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.4}{Contributions}{chapter.1}% 10
 \BOOKMARK [0][-]{chapter.2}{Background}{}% 11
 \BOOKMARK [1][-]{section.2.1}{Terminology}{chapter.2}% 12
 \BOOKMARK [1][-]{section.2.2}{Interruptions and fragmentation of work}{chapter.2}% 13
@@ -91,55 +91,58 @@
 \BOOKMARK [2][-]{subsection.6.2.2}{Practical implications}{section.6.2}% 91
 \BOOKMARK [1][-]{section.6.3}{Future work}{chapter.6}% 92
 \BOOKMARK [2][-]{subsection.6.3.1}{Complementing with other solutions}{section.6.3}% 93
-\BOOKMARK [2][-]{subsection.6.3.2}{Predicting the type of interruption to advise length of interruption}{section.6.3}% 94
-\BOOKMARK [2][-]{subsection.6.3.3}{Tracking behaviour over time}{section.6.3}% 95
-\BOOKMARK [2][-]{subsection.6.3.4}{Cross-device time feedback}{section.6.3}% 96
-\BOOKMARK [2][-]{subsection.6.3.5}{Extending research findings to other settings}{section.6.3}% 97
-\BOOKMARK [2][-]{subsection.6.3.6}{Limitations}{section.6.3}% 98
-\BOOKMARK [1][-]{section.6.4}{Conclusion}{chapter.6}% 99
-\BOOKMARK [0][-]{chapter*.150}{References}{}% 100
-\BOOKMARK [0][-]{Appendix.a.A}{Appendix Study 1 Materials}{}% 101
-\BOOKMARK [1][-]{section.a.A.1}{Consent form}{Appendix.a.A}% 102
-\BOOKMARK [1][-]{section.a.A.2}{Information sheet}{Appendix.a.A}% 103
-\BOOKMARK [1][-]{section.a.A.3}{Interview script}{Appendix.a.A}% 104
-\BOOKMARK [2][-]{subsection.a.A.3.1}{Before the interview}{section.a.A.3}% 105
-\BOOKMARK [2][-]{subsection.a.A.3.2}{Work}{section.a.A.3}% 106
-\BOOKMARK [2][-]{subsection.a.A.3.3}{Number entry}{section.a.A.3}% 107
-\BOOKMARK [2][-]{subsection.a.A.3.4}{Environment}{section.a.A.3}% 108
-\BOOKMARK [2][-]{subsection.a.A.3.5}{Demonstration}{section.a.A.3}% 109
-\BOOKMARK [2][-]{subsection.a.A.3.6}{After the interview}{section.a.A.3}% 110
-\BOOKMARK [0][-]{Appendix.a.B}{Appendix Study 1 Diagrams of themes}{}% 111
-\BOOKMARK [1][-]{section.a.B.1}{Task}{Appendix.a.B}% 112
-\BOOKMARK [1][-]{section.a.B.2}{Checking}{Appendix.a.B}% 113
-\BOOKMARK [1][-]{section.a.B.3}{System}{Appendix.a.B}% 114
-\BOOKMARK [1][-]{section.a.B.4}{Environment}{Appendix.a.B}% 115
-\BOOKMARK [1][-]{section.a.B.5}{Data}{Appendix.a.B}% 116
-\BOOKMARK [1][-]{section.a.B.6}{Errors}{Appendix.a.B}% 117
-\BOOKMARK [1][-]{section.a.B.7}{Strategy}{Appendix.a.B}% 118
-\BOOKMARK [1][-]{section.a.B.8}{Importance of accuracy and paper trails}{Appendix.a.B}% 119
-\BOOKMARK [1][-]{section.a.B.9}{Other}{Appendix.a.B}% 120
-\BOOKMARK [0][-]{Appendix.a.C}{Appendix Study 2 Study protocol}{}% 121
-\BOOKMARK [1][-]{section.a.C.1}{Part 1: interview}{Appendix.a.C}% 122
-\BOOKMARK [2][-]{subsection.a.C.1.1}{General}{section.a.C.1}% 123
-\BOOKMARK [2][-]{subsection.a.C.1.2}{Information types}{section.a.C.1}% 124
-\BOOKMARK [2][-]{subsection.a.C.1.3}{Resources}{section.a.C.1}% 125
-\BOOKMARK [2][-]{subsection.a.C.1.4}{Tools}{section.a.C.1}% 126
-\BOOKMARK [2][-]{subsection.a.C.1.5}{System}{section.a.C.1}% 127
-\BOOKMARK [1][-]{section.a.C.2}{Part 2: think aloud}{Appendix.a.C}% 128
-\BOOKMARK [1][-]{section.a.C.3}{Part 3: observation}{Appendix.a.C}% 129
-\BOOKMARK [1][-]{section.a.C.4}{Part 4: summary}{Appendix.a.C}% 130
-\BOOKMARK [0][-]{Appendix.a.D}{Appendix Study 2 Distributed Cognition models}{}% 131
-\BOOKMARK [1][-]{section.a.D.1}{Physical model}{Appendix.a.D}% 132
-\BOOKMARK [1][-]{section.a.D.2}{Artefact model}{Appendix.a.D}% 133
-\BOOKMARK [1][-]{section.a.D.3}{Information flow model}{Appendix.a.D}% 134
-\BOOKMARK [0][-]{Appendix.a.E}{Appendix Study 4 Interleaving rates per participant}{}% 135
-\BOOKMARK [0][-]{Appendix.a.F}{Appendix Study 7 Materials}{}% 136
-\BOOKMARK [1][-]{section.a.F.1}{Study invite}{Appendix.a.F}% 137
-\BOOKMARK [1][-]{section.a.F.2}{Consent form}{Appendix.a.F}% 138
-\BOOKMARK [1][-]{section.a.F.3}{Information sheet}{Appendix.a.F}% 139
-\BOOKMARK [1][-]{section.a.F.4}{Installation instructions}{Appendix.a.F}% 140
-\BOOKMARK [1][-]{section.a.F.5}{ Interview script}{Appendix.a.F}% 141
-\BOOKMARK [2][-]{subsection.a.F.5.1}{General questions}{section.a.F.5}% 142
-\BOOKMARK [2][-]{subsection.a.F.5.2}{Use of ManicTime}{section.a.F.5}% 143
-\BOOKMARK [2][-]{subsection.a.F.5.3}{Use of extension}{section.a.F.5}% 144
-\BOOKMARK [2][-]{subsection.a.F.5.4}{Debriefing}{section.a.F.5}% 145
+\BOOKMARK [2][-]{subsection.6.3.2}{Time feedback to improve task performance}{section.6.3}% 94
+\BOOKMARK [2][-]{subsection.6.3.3}{Predicting the type of interruption to advise length of interruption}{section.6.3}% 95
+\BOOKMARK [2][-]{subsection.6.3.4}{Tracking behaviour over time}{section.6.3}% 96
+\BOOKMARK [2][-]{subsection.6.3.5}{Cross-device time feedback}{section.6.3}% 97
+\BOOKMARK [1][-]{section.6.4}{Generalisability of findings}{chapter.6}% 98
+\BOOKMARK [2][-]{subsection.6.4.1}{Generalising findings to other types of interruptions}{section.6.4}% 99
+\BOOKMARK [2][-]{subsection.6.4.2}{Extending research findings to other settings}{section.6.4}% 100
+\BOOKMARK [2][-]{subsection.6.4.3}{Limitations}{section.6.4}% 101
+\BOOKMARK [1][-]{section.6.5}{Conclusion}{chapter.6}% 102
+\BOOKMARK [0][-]{chapter*.150}{References}{}% 103
+\BOOKMARK [0][-]{Appendix.a.A}{Appendix Study 1 Materials}{}% 104
+\BOOKMARK [1][-]{section.a.A.1}{Consent form}{Appendix.a.A}% 105
+\BOOKMARK [1][-]{section.a.A.2}{Information sheet}{Appendix.a.A}% 106
+\BOOKMARK [1][-]{section.a.A.3}{Interview script}{Appendix.a.A}% 107
+\BOOKMARK [2][-]{subsection.a.A.3.1}{Before the interview}{section.a.A.3}% 108
+\BOOKMARK [2][-]{subsection.a.A.3.2}{Work}{section.a.A.3}% 109
+\BOOKMARK [2][-]{subsection.a.A.3.3}{Number entry}{section.a.A.3}% 110
+\BOOKMARK [2][-]{subsection.a.A.3.4}{Environment}{section.a.A.3}% 111
+\BOOKMARK [2][-]{subsection.a.A.3.5}{Demonstration}{section.a.A.3}% 112
+\BOOKMARK [2][-]{subsection.a.A.3.6}{After the interview}{section.a.A.3}% 113
+\BOOKMARK [0][-]{Appendix.a.B}{Appendix Study 1 Diagrams of themes}{}% 114
+\BOOKMARK [1][-]{section.a.B.1}{Task}{Appendix.a.B}% 115
+\BOOKMARK [1][-]{section.a.B.2}{Checking}{Appendix.a.B}% 116
+\BOOKMARK [1][-]{section.a.B.3}{System}{Appendix.a.B}% 117
+\BOOKMARK [1][-]{section.a.B.4}{Environment}{Appendix.a.B}% 118
+\BOOKMARK [1][-]{section.a.B.5}{Data}{Appendix.a.B}% 119
+\BOOKMARK [1][-]{section.a.B.6}{Errors}{Appendix.a.B}% 120
+\BOOKMARK [1][-]{section.a.B.7}{Strategy}{Appendix.a.B}% 121
+\BOOKMARK [1][-]{section.a.B.8}{Importance of accuracy and paper trails}{Appendix.a.B}% 122
+\BOOKMARK [1][-]{section.a.B.9}{Other}{Appendix.a.B}% 123
+\BOOKMARK [0][-]{Appendix.a.C}{Appendix Study 2 Study protocol}{}% 124
+\BOOKMARK [1][-]{section.a.C.1}{Part 1: interview}{Appendix.a.C}% 125
+\BOOKMARK [2][-]{subsection.a.C.1.1}{General}{section.a.C.1}% 126
+\BOOKMARK [2][-]{subsection.a.C.1.2}{Information types}{section.a.C.1}% 127
+\BOOKMARK [2][-]{subsection.a.C.1.3}{Resources}{section.a.C.1}% 128
+\BOOKMARK [2][-]{subsection.a.C.1.4}{Tools}{section.a.C.1}% 129
+\BOOKMARK [2][-]{subsection.a.C.1.5}{System}{section.a.C.1}% 130
+\BOOKMARK [1][-]{section.a.C.2}{Part 2: think aloud}{Appendix.a.C}% 131
+\BOOKMARK [1][-]{section.a.C.3}{Part 3: observation}{Appendix.a.C}% 132
+\BOOKMARK [1][-]{section.a.C.4}{Part 4: summary}{Appendix.a.C}% 133
+\BOOKMARK [0][-]{Appendix.a.D}{Appendix Study 2 Distributed Cognition models}{}% 134
+\BOOKMARK [1][-]{section.a.D.1}{Physical model}{Appendix.a.D}% 135
+\BOOKMARK [1][-]{section.a.D.2}{Artefact model}{Appendix.a.D}% 136
+\BOOKMARK [1][-]{section.a.D.3}{Information flow model}{Appendix.a.D}% 137
+\BOOKMARK [0][-]{Appendix.a.E}{Appendix Study 4 Interleaving rates per participant}{}% 138
+\BOOKMARK [0][-]{Appendix.a.F}{Appendix Study 7 Materials}{}% 139
+\BOOKMARK [1][-]{section.a.F.1}{Study invite}{Appendix.a.F}% 140
+\BOOKMARK [1][-]{section.a.F.2}{Consent form}{Appendix.a.F}% 141
+\BOOKMARK [1][-]{section.a.F.3}{Information sheet}{Appendix.a.F}% 142
+\BOOKMARK [1][-]{section.a.F.4}{Installation instructions}{Appendix.a.F}% 143
+\BOOKMARK [1][-]{section.a.F.5}{ Interview script}{Appendix.a.F}% 144
+\BOOKMARK [2][-]{subsection.a.F.5.1}{General questions}{section.a.F.5}% 145
+\BOOKMARK [2][-]{subsection.a.F.5.2}{Use of ManicTime}{section.a.F.5}% 146
+\BOOKMARK [2][-]{subsection.a.F.5.3}{Use of extension}{section.a.F.5}% 147
+\BOOKMARK [2][-]{subsection.a.F.5.4}{Debriefing}{section.a.F.5}% 148

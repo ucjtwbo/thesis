@@ -1,248 +1,251 @@
 \contentsline {chapter}{Abstract}{4}{section*.2}
 \contentsline {chapter}{Impact statement}{6}{section*.3}
 \contentsline {chapter}{Acknowledgements}{8}{section*.4}
-\contentsline {chapter}{List of Tables}{15}{chapter*.6}
-\contentsline {chapter}{List of Figures}{16}{chapter*.7}
-\contentsline {chapter}{\numberline {1}Introduction}{18}{chapter.1}
-\contentsline {subsubsection}{Chapter outline}{18}{section*.8}
-\contentsline {section}{\numberline {1.1}Motivation}{18}{section.1.1}
-\contentsline {section}{\numberline {1.2}Aim and scope}{20}{section.1.2}
-\contentsline {section}{\numberline {1.3}Thesis outline}{22}{section.1.3}
-\contentsline {section}{\numberline {1.4}Contribution}{24}{section.1.4}
-\contentsline {chapter}{\numberline {2}Background}{26}{chapter.2}
-\contentsline {subsubsection}{Chapter outline}{26}{section*.10}
-\contentsline {section}{\numberline {2.1}Terminology}{27}{section.2.1}
-\contentsline {section}{\numberline {2.2}Interruptions and fragmentation of work}{27}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Interruptions during computer work}{28}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Experimental investigations of interruptions}{30}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}The effect of information access costs on interruptions}{31}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Interruption management tools}{33}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Summary}{34}{subsection.2.2.5}
-\contentsline {section}{\numberline {2.3}Managing information needs}{34}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Managing inquiries for work}{35}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Factors influencing inquiries}{36}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Types of tasks}{36}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Information management tools}{37}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Summary}{39}{subsection.2.3.5}
-\contentsline {section}{\numberline {2.4}Data entry}{39}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}The perception stage}{40}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}The encoding stage}{41}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}The execution stage}{42}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}The checking stage}{43}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Summary}{44}{subsection.2.4.5}
-\contentsline {section}{\numberline {2.5}Conclusion}{45}{section.2.5}
-\contentsline {chapter}{\numberline {3}Understanding data entry in an office setting}{46}{chapter.3}
-\contentsline {subsubsection}{Chapter outline}{46}{section*.13}
-\contentsline {section}{\numberline {3.1}Introduction}{46}{section.3.1}
-\contentsline {section}{\numberline {3.2}Study 1: Understanding data entry work in a financial office}{47}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Introduction}{47}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Method}{48}{subsection.3.2.2}
-\contentsline {subsubsection}{Participants}{48}{section*.14}
-\contentsline {subsubsection}{Materials}{49}{section*.16}
-\contentsline {subsubsection}{Data recording}{50}{section*.18}
-\contentsline {subsubsection}{Interviewing procedure}{50}{section*.19}
-\contentsline {subsubsection}{Pilot interview}{51}{section*.20}
-\contentsline {subsubsection}{Research Ethics}{51}{section*.21}
-\contentsline {subsection}{\numberline {3.2.3}Results}{51}{subsection.3.2.3}
-\contentsline {subsubsection}{Data analysis}{51}{section*.22}
-\contentsline {subsubsection}{Themes}{52}{section*.23}
-\contentsline {subsubsection}{Type of data entry tasks}{54}{section*.25}
-\contentsline {subsubsection}{Scheduling data entry work}{54}{section*.26}
-\contentsline {subsubsection}{Interruptions}{55}{section*.27}
-\contentsline {subsubsection}{Information sources}{55}{section*.28}
-\contentsline {subsubsection}{Checking for data entry errors}{56}{section*.29}
-\contentsline {subsection}{\numberline {3.2.4}Discussion}{57}{subsection.3.2.4}
-\contentsline {subsubsection}{Batching data entry work}{58}{section*.30}
-\contentsline {subsubsection}{Fragmentation of work}{58}{section*.31}
-\contentsline {subsubsection}{Error checking}{59}{section*.32}
-\contentsline {subsubsection}{Summary}{60}{section*.33}
-\contentsline {section}{\numberline {3.3}Study 2: Managing inquiries for data entry}{61}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Introduction}{61}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Method}{62}{subsection.3.3.2}
-\contentsline {subsubsection}{Participants}{62}{section*.34}
-\contentsline {subsubsection}{Study setting}{62}{section*.36}
-\contentsline {subsubsection}{Procedure}{63}{section*.37}
-\contentsline {subsubsection}{Pilot study}{64}{section*.38}
-\contentsline {subsubsection}{Data collection}{64}{section*.39}
-\contentsline {subsubsection}{Data analysis}{65}{section*.40}
-\contentsline {subsection}{\numberline {3.3.3}Findings}{66}{subsection.3.3.3}
-\contentsline {subsubsection}{Paper information sources}{67}{section*.44}
-\contentsline {subsubsection}{Digital information sources}{70}{section*.45}
-\contentsline {subsection}{\numberline {3.3.4}Discussion}{72}{subsection.3.3.4}
-\contentsline {subsubsection}{Paper versus digital interruptions}{73}{section*.46}
-\contentsline {subsubsection}{Time spent on an interruption}{73}{section*.47}
-\contentsline {subsubsection}{Distracted by other information}{73}{section*.48}
-\contentsline {subsubsection}{Implications for interruption management tools}{74}{section*.49}
-\contentsline {section}{\numberline {3.4}Summary of Chapter 3}{75}{section.3.4}
-\contentsline {chapter}{\numberline {4}The effect of time costs on inquiry strategies}{77}{chapter.4}
-\contentsline {subsubsection}{Chapter outline}{77}{section*.50}
-\contentsline {section}{\numberline {4.1}Introduction}{77}{section.4.1}
-\contentsline {section}{\numberline {4.2}Study 3: Inquiries to a single source}{79}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Introduction}{79}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Method}{81}{subsection.4.2.2}
-\contentsline {subsubsection}{Participants}{81}{section*.51}
-\contentsline {subsubsection}{Materials}{81}{section*.52}
+\contentsline {chapter}{List of Tables}{16}{chapter*.6}
+\contentsline {chapter}{List of Figures}{17}{chapter*.7}
+\contentsline {chapter}{\numberline {1}Introduction}{19}{chapter.1}
+\contentsline {subsubsection}{Chapter outline}{19}{section*.8}
+\contentsline {section}{\numberline {1.1}Motivation}{19}{section.1.1}
+\contentsline {section}{\numberline {1.2}Aim and scope}{21}{section.1.2}
+\contentsline {section}{\numberline {1.3}Thesis outline}{23}{section.1.3}
+\contentsline {section}{\numberline {1.4}Contributions}{25}{section.1.4}
+\contentsline {chapter}{\numberline {2}Background}{27}{chapter.2}
+\contentsline {subsubsection}{Chapter outline}{27}{section*.10}
+\contentsline {section}{\numberline {2.1}Terminology}{28}{section.2.1}
+\contentsline {section}{\numberline {2.2}Interruptions and fragmentation of work}{28}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Interruptions during computer work}{29}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Experimental investigations of interruptions}{31}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}The effect of information access costs on interruptions}{32}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Interruption management tools}{34}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Summary}{35}{subsection.2.2.5}
+\contentsline {section}{\numberline {2.3}Managing information needs}{35}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Managing inquiries for work}{36}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Factors influencing inquiries}{37}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Types of tasks}{37}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Information management tools}{38}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Summary}{40}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Data entry}{40}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}The perception stage}{41}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}The encoding stage}{42}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}The execution stage}{43}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}The checking stage}{44}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Summary}{45}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Conclusion}{46}{section.2.5}
+\contentsline {chapter}{\numberline {3}Understanding data entry in an office setting}{47}{chapter.3}
+\contentsline {subsubsection}{Chapter outline}{47}{section*.13}
+\contentsline {section}{\numberline {3.1}Introduction}{47}{section.3.1}
+\contentsline {section}{\numberline {3.2}Study 1: Understanding data entry work in a financial office}{48}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Introduction}{48}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Method}{49}{subsection.3.2.2}
+\contentsline {subsubsection}{Participants}{49}{section*.14}
+\contentsline {subsubsection}{Materials}{50}{section*.16}
+\contentsline {subsubsection}{Data recording}{51}{section*.18}
+\contentsline {subsubsection}{Interviewing procedure}{51}{section*.19}
+\contentsline {subsubsection}{Pilot interview}{52}{section*.20}
+\contentsline {subsubsection}{Research Ethics}{52}{section*.21}
+\contentsline {subsection}{\numberline {3.2.3}Results}{52}{subsection.3.2.3}
+\contentsline {subsubsection}{Data analysis}{52}{section*.22}
+\contentsline {subsubsection}{Themes}{53}{section*.23}
+\contentsline {subsubsection}{Type of data entry tasks}{55}{section*.25}
+\contentsline {subsubsection}{Scheduling data entry work}{55}{section*.26}
+\contentsline {subsubsection}{Interruptions}{56}{section*.27}
+\contentsline {subsubsection}{Information sources}{56}{section*.28}
+\contentsline {subsubsection}{Checking for data entry errors}{57}{section*.29}
+\contentsline {subsection}{\numberline {3.2.4}Discussion}{58}{subsection.3.2.4}
+\contentsline {subsubsection}{Batching data entry work}{59}{section*.30}
+\contentsline {subsubsection}{Fragmentation of work}{59}{section*.31}
+\contentsline {subsubsection}{Error checking}{60}{section*.32}
+\contentsline {subsubsection}{Summary}{61}{section*.33}
+\contentsline {section}{\numberline {3.3}Study 2: Managing inquiries for data entry}{62}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Introduction}{62}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Method}{63}{subsection.3.3.2}
+\contentsline {subsubsection}{Participants}{63}{section*.34}
+\contentsline {subsubsection}{Study setting}{63}{section*.36}
+\contentsline {subsubsection}{Procedure}{64}{section*.37}
+\contentsline {subsubsection}{Pilot study}{65}{section*.38}
+\contentsline {subsubsection}{Data collection}{65}{section*.39}
+\contentsline {subsubsection}{Data analysis}{66}{section*.40}
+\contentsline {subsection}{\numberline {3.3.3}Findings}{67}{subsection.3.3.3}
+\contentsline {subsubsection}{Paper information sources}{68}{section*.44}
+\contentsline {subsubsection}{Digital information sources}{71}{section*.45}
+\contentsline {subsection}{\numberline {3.3.4}Discussion}{73}{subsection.3.3.4}
+\contentsline {subsubsection}{Paper versus digital interruptions}{74}{section*.46}
+\contentsline {subsubsection}{Time spent on an interruption}{74}{section*.47}
+\contentsline {subsubsection}{Distracted by other information}{75}{section*.48}
+\contentsline {subsubsection}{Implications for interruption management tools}{75}{section*.49}
+\contentsline {section}{\numberline {3.4}Summary of Chapter 3}{77}{section.3.4}
+\contentsline {chapter}{\numberline {4}The effect of time costs on inquiry strategies}{78}{chapter.4}
+\contentsline {subsubsection}{Chapter outline}{78}{section*.50}
+\contentsline {section}{\numberline {4.1}Introduction}{78}{section.4.1}
+\contentsline {section}{\numberline {4.2}Study 3: Inquiries to a single source}{80}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Introduction}{80}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Method}{82}{subsection.4.2.2}
+\contentsline {subsubsection}{Participants}{82}{section*.51}
+\contentsline {subsubsection}{Materials}{82}{section*.52}
 \contentsline {subsubsection}{Design}{83}{section*.54}
-\contentsline {subsubsection}{Procedure}{84}{section*.56}
-\contentsline {subsection}{\numberline {4.2.3}Results}{85}{subsection.4.2.3}
-\contentsline {subsubsection}{Cleaning the data}{85}{section*.57}
+\contentsline {subsubsection}{Procedure}{85}{section*.56}
+\contentsline {subsection}{\numberline {4.2.3}Results}{86}{subsection.4.2.3}
+\contentsline {subsubsection}{Cleaning the data}{86}{section*.57}
 \contentsline {subsubsection}{Number of visits to the target window}{86}{section*.59}
-\contentsline {subsubsection}{Duration of first visit to target window}{86}{section*.60}
-\contentsline {subsubsection}{Blocks placed after first visit}{86}{section*.61}
-\contentsline {subsubsection}{Trial completion time}{87}{section*.62}
-\contentsline {subsubsection}{Number of incorrectly placed blocks}{87}{section*.63}
-\contentsline {subsubsection}{Number of incorrectly submitted trials}{88}{section*.64}
-\contentsline {subsubsection}{Qualitative data}{88}{section*.65}
-\contentsline {subsection}{\numberline {4.2.4}Discussion}{89}{subsection.4.2.4}
-\contentsline {subsubsection}{Limitations}{90}{section*.67}
-\contentsline {subsection}{\numberline {4.2.5}Conclusion}{91}{subsection.4.2.5}
-\contentsline {section}{\numberline {4.3}Study 4: Inquiries to multiple sources}{91}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Introduction}{91}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Method}{93}{subsection.4.3.2}
-\contentsline {subsubsection}{Participants}{93}{section*.68}
-\contentsline {subsubsection}{Task}{93}{section*.69}
-\contentsline {subsubsection}{Materials}{95}{section*.71}
-\contentsline {subsubsection}{Design}{95}{section*.72}
-\contentsline {subsubsection}{Procedure}{96}{section*.73}
-\contentsline {subsubsection}{Pilot study}{97}{section*.74}
-\contentsline {subsubsection}{Data analysis of task strategies}{97}{section*.75}
-\contentsline {subsection}{\numberline {4.3.3}Results}{98}{subsection.4.3.3}
-\contentsline {subsubsection}{Interleaving strategies}{99}{section*.77}
-\contentsline {subsubsection}{Number and duration of visits}{101}{section*.80}
-\contentsline {subsubsection}{Most common order of actions}{101}{section*.81}
-\contentsline {subsubsection}{Task performance}{102}{section*.84}
-\contentsline {subsubsection}{Qualitative findings}{104}{section*.86}
-\contentsline {subsection}{\numberline {4.3.4}Discussion}{104}{subsection.4.3.4}
-\contentsline {subsubsection}{Timing of inquiries}{105}{section*.87}
-\contentsline {subsubsection}{Chunking of data items}{105}{section*.88}
-\contentsline {subsubsection}{Transfer of strategies}{106}{section*.89}
-\contentsline {subsubsection}{Limitations}{106}{section*.90}
-\contentsline {subsection}{\numberline {4.3.5}Conclusion}{106}{subsection.4.3.5}
-\contentsline {section}{\numberline {4.4}Study 5: Inquiries for multiple tasks}{107}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Introduction}{107}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Method}{108}{subsection.4.4.2}
-\contentsline {subsubsection}{Participants}{108}{section*.91}
-\contentsline {subsubsection}{Materials}{108}{section*.92}
+\contentsline {subsubsection}{Duration of first visit to target window}{87}{section*.60}
+\contentsline {subsubsection}{Blocks placed after first visit}{88}{section*.61}
+\contentsline {subsubsection}{Trial completion time}{88}{section*.62}
+\contentsline {subsubsection}{Number of incorrectly placed blocks}{89}{section*.63}
+\contentsline {subsubsection}{Number of incorrectly submitted trials}{89}{section*.64}
+\contentsline {subsubsection}{Qualitative data}{89}{section*.65}
+\contentsline {subsection}{\numberline {4.2.4}Discussion}{90}{subsection.4.2.4}
+\contentsline {subsubsection}{Limitations}{91}{section*.67}
+\contentsline {subsection}{\numberline {4.2.5}Conclusion}{92}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Study 4: Inquiries to multiple sources}{93}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Introduction}{93}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Method}{94}{subsection.4.3.2}
+\contentsline {subsubsection}{Participants}{94}{section*.68}
+\contentsline {subsubsection}{Task}{94}{section*.69}
+\contentsline {subsubsection}{Materials}{96}{section*.71}
+\contentsline {subsubsection}{Design}{96}{section*.72}
+\contentsline {subsubsection}{Procedure}{97}{section*.73}
+\contentsline {subsubsection}{Pilot study}{98}{section*.74}
+\contentsline {subsubsection}{Data analysis of task strategies}{98}{section*.75}
+\contentsline {subsection}{\numberline {4.3.3}Results}{99}{subsection.4.3.3}
+\contentsline {subsubsection}{Interleaving strategies}{100}{section*.77}
+\contentsline {subsubsection}{Number and duration of visits}{102}{section*.80}
+\contentsline {subsubsection}{Most common order of actions}{102}{section*.81}
+\contentsline {subsubsection}{Task performance}{103}{section*.84}
+\contentsline {subsubsection}{Qualitative findings}{105}{section*.86}
+\contentsline {subsection}{\numberline {4.3.4}Discussion}{105}{subsection.4.3.4}
+\contentsline {subsubsection}{Timing of inquiries}{106}{section*.87}
+\contentsline {subsubsection}{Chunking of data items}{106}{section*.88}
+\contentsline {subsubsection}{Transfer of strategies}{107}{section*.89}
+\contentsline {subsubsection}{Limitations}{107}{section*.90}
+\contentsline {subsection}{\numberline {4.3.5}Conclusion}{107}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Study 5: Inquiries for multiple tasks}{108}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Introduction}{108}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Method}{109}{subsection.4.4.2}
+\contentsline {subsubsection}{Participants}{109}{section*.91}
+\contentsline {subsubsection}{Materials}{109}{section*.92}
 \contentsline {subsubsection}{Design}{110}{section*.94}
-\contentsline {subsubsection}{Procedure}{110}{section*.95}
-\contentsline {subsubsection}{Data analysis}{110}{section*.96}
+\contentsline {subsubsection}{Procedure}{111}{section*.95}
+\contentsline {subsubsection}{Data analysis}{111}{section*.96}
 \contentsline {subsection}{\numberline {4.4.3}Results}{111}{subsection.4.4.3}
-\contentsline {subsubsection}{Cleaning up the data}{111}{section*.97}
+\contentsline {subsubsection}{Cleaning up the data}{112}{section*.97}
 \contentsline {subsubsection}{Interleaving strategies}{112}{section*.99}
-\contentsline {subsubsection}{Number and duration of visits}{112}{section*.102}
+\contentsline {subsubsection}{Number and duration of visits}{114}{section*.102}
 \contentsline {subsubsection}{Task performance}{114}{section*.103}
 \contentsline {subsection}{\numberline {4.4.4}Discussion}{115}{subsection.4.4.4}
-\contentsline {subsubsection}{Limitations}{116}{section*.105}
+\contentsline {subsubsection}{Limitations}{117}{section*.105}
 \contentsline {section}{\numberline {4.5}Summary of Chapter 4}{117}{section.4.5}
-\contentsline {chapter}{\numberline {5}Using time feedback to manage interruptions}{118}{chapter.5}
-\contentsline {subsubsection}{Chapter outline}{118}{section*.106}
-\contentsline {section}{\numberline {5.1}Introduction}{118}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Delaying the intention to interrupt}{119}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Shortening duration of inquiries}{120}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Preparing task information}{120}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Feedback to improve task performance}{121}{subsection.5.1.4}
-\contentsline {section}{\numberline {5.2}Developing the design intervention}{122}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}The moment of feedback}{123}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}The type of time feedback}{124}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Task sequence}{124}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Implementation}{124}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}Study 6: Looking up information in email during an online experiment}{126}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Introduction}{126}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Method}{127}{subsection.5.3.2}
-\contentsline {subsubsection}{Participants}{127}{section*.108}
-\contentsline {subsubsection}{Design}{127}{section*.109}
-\contentsline {subsubsection}{Materials}{128}{section*.110}
-\contentsline {subsubsection}{Procedure}{129}{section*.112}
-\contentsline {subsubsection}{Pilot study}{129}{section*.113}
-\contentsline {subsection}{\numberline {5.3.3}Results}{130}{subsection.5.3.3}
-\contentsline {subsubsection}{Cleaning the data}{130}{section*.115}
-\contentsline {subsubsection}{Task performance}{131}{section*.116}
-\contentsline {subsubsection}{Number and duration of switches}{131}{section*.117}
-\contentsline {subsubsection}{Interkey intervals}{133}{section*.120}
-\contentsline {subsubsection}{Effect of interruption duration on trial completion time}{135}{section*.123}
-\contentsline {subsection}{\numberline {5.3.4}Discussion}{135}{subsection.5.3.4}
-\contentsline {subsubsection}{Conclusion}{137}{section*.125}
-\contentsline {section}{\numberline {5.4}Study 7: Looking up information for expenses in an office setting}{138}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Introduction}{138}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Method}{138}{subsection.5.4.2}
-\contentsline {subsubsection}{Participants}{139}{section*.126}
-\contentsline {subsubsection}{Materials}{139}{section*.128}
-\contentsline {subsubsection}{Procedure}{141}{section*.129}
-\contentsline {subsubsection}{Pilot study}{142}{section*.130}
-\contentsline {subsubsection}{Data analysis}{143}{section*.131}
-\contentsline {subsection}{\numberline {5.4.3}Findings}{143}{subsection.5.4.3}
-\contentsline {subsubsection}{Switching behaviour}{143}{section*.132}
-\contentsline {subsubsection}{Awareness of interruption behaviour}{145}{section*.136}
-\contentsline {subsubsection}{Reflecting on actions during an interruption}{145}{section*.137}
-\contentsline {subsubsection}{Reflecting on the relevance of interruptions}{146}{section*.138}
-\contentsline {subsubsection}{Time information for task management and perceived productivity}{147}{section*.139}
-\contentsline {subsubsection}{Setting goals for time limits}{148}{section*.140}
-\contentsline {subsubsection}{Context of information}{149}{section*.141}
-\contentsline {subsubsection}{Different work environments}{149}{section*.142}
-\contentsline {subsection}{\numberline {5.4.4}Discussion}{151}{subsection.5.4.4}
-\contentsline {subsubsection}{Implications for design}{153}{section*.144}
-\contentsline {subsubsection}{Limitations}{154}{section*.145}
-\contentsline {section}{\numberline {5.5}Summary of Chapter 5}{155}{section.5.5}
-\contentsline {chapter}{\numberline {6}General Discussion}{156}{chapter.6}
-\contentsline {subsubsection}{Chapter outline}{156}{section*.146}
-\contentsline {section}{\numberline {6.1}Summary of findings}{156}{section.6.1}
-\contentsline {section}{\numberline {6.2}Contributions}{158}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Contribution to knowledge}{159}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Practical implications}{159}{subsection.6.2.2}
-\contentsline {section}{\numberline {6.3}Future work}{161}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Complementing with other solutions}{161}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Predicting the type of interruption to advise length of interruption}{162}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Tracking behaviour over time}{163}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Cross-device time feedback}{163}{subsection.6.3.4}
-\contentsline {subsection}{\numberline {6.3.5}Extending research findings to other settings}{163}{subsection.6.3.5}
-\contentsline {subsection}{\numberline {6.3.6}Limitations}{164}{subsection.6.3.6}
-\contentsline {subsubsection}{Manipulating a qualitative phenomenon in a quantitative way}{164}{section*.147}
-\contentsline {subsubsection}{Different participant populations}{165}{section*.148}
-\contentsline {subsubsection}{Focus on digital inquiries}{165}{section*.149}
-\contentsline {section}{\numberline {6.4}Conclusion}{166}{section.6.4}
-\contentsline {chapter}{References}{167}{chapter*.150}
-\contentsline {chapter}{Appendix \numberline {A}Study 1 Materials}{178}{Appendix.a.A}
-\contentsline {section}{\numberline {A.1}Consent form}{178}{section.a.A.1}
-\contentsline {section}{\numberline {A.2}Information sheet}{178}{section.a.A.2}
-\contentsline {section}{\numberline {A.3}Interview script}{181}{section.a.A.3}
-\contentsline {subsection}{\numberline {A.3.1}Before the interview}{181}{subsection.a.A.3.1}
-\contentsline {subsection}{\numberline {A.3.2}Work}{181}{subsection.a.A.3.2}
-\contentsline {subsection}{\numberline {A.3.3}Number entry}{181}{subsection.a.A.3.3}
-\contentsline {subsection}{\numberline {A.3.4}Environment}{182}{subsection.a.A.3.4}
-\contentsline {subsection}{\numberline {A.3.5}Demonstration}{183}{subsection.a.A.3.5}
-\contentsline {subsection}{\numberline {A.3.6}After the interview}{183}{subsection.a.A.3.6}
-\contentsline {chapter}{Appendix \numberline {B}Study 1 Diagrams of themes}{185}{Appendix.a.B}
-\contentsline {section}{\numberline {B.1}Task}{186}{section.a.B.1}
-\contentsline {section}{\numberline {B.2}Checking}{186}{section.a.B.2}
-\contentsline {section}{\numberline {B.3}System}{187}{section.a.B.3}
-\contentsline {section}{\numberline {B.4}Environment}{188}{section.a.B.4}
-\contentsline {section}{\numberline {B.5}Data}{189}{section.a.B.5}
-\contentsline {section}{\numberline {B.6}Errors}{190}{section.a.B.6}
-\contentsline {section}{\numberline {B.7}Strategy}{191}{section.a.B.7}
-\contentsline {section}{\numberline {B.8}Importance of accuracy and paper trails}{192}{section.a.B.8}
-\contentsline {section}{\numberline {B.9}Other}{193}{section.a.B.9}
-\contentsline {chapter}{Appendix \numberline {C}Study 2 Study protocol}{194}{Appendix.a.C}
-\contentsline {section}{\numberline {C.1}Part 1: interview}{194}{section.a.C.1}
-\contentsline {subsection}{\numberline {C.1.1}General}{194}{subsection.a.C.1.1}
-\contentsline {subsection}{\numberline {C.1.2}Information types}{194}{subsection.a.C.1.2}
-\contentsline {subsection}{\numberline {C.1.3}Resources}{195}{subsection.a.C.1.3}
-\contentsline {subsection}{\numberline {C.1.4}Tools}{196}{subsection.a.C.1.4}
-\contentsline {subsection}{\numberline {C.1.5}System}{196}{subsection.a.C.1.5}
-\contentsline {section}{\numberline {C.2}Part 2: think aloud}{196}{section.a.C.2}
-\contentsline {section}{\numberline {C.3}Part 3: observation}{197}{section.a.C.3}
-\contentsline {section}{\numberline {C.4}Part 4: summary}{197}{section.a.C.4}
-\contentsline {chapter}{Appendix \numberline {D}Study 2 Distributed Cognition models}{198}{Appendix.a.D}
-\contentsline {section}{\numberline {D.1}Physical model}{199}{section.a.D.1}
-\contentsline {section}{\numberline {D.2}Artefact model}{203}{section.a.D.2}
-\contentsline {section}{\numberline {D.3}Information flow model}{205}{section.a.D.3}
-\contentsline {chapter}{Appendix \numberline {E}Study 4 Interleaving rates per participant}{207}{Appendix.a.E}
-\contentsline {chapter}{Appendix \numberline {F}Study 7 Materials}{209}{Appendix.a.F}
-\contentsline {section}{\numberline {F.1}Study invite}{209}{section.a.F.1}
-\contentsline {section}{\numberline {F.2}Consent form}{209}{section.a.F.2}
-\contentsline {section}{\numberline {F.3}Information sheet}{209}{section.a.F.3}
-\contentsline {section}{\numberline {F.4}Installation instructions}{216}{section.a.F.4}
-\contentsline {section}{\numberline {F.5} Interview script}{217}{section.a.F.5}
-\contentsline {subsection}{\numberline {F.5.1}General questions}{217}{subsection.a.F.5.1}
-\contentsline {subsection}{\numberline {F.5.2}Use of ManicTime}{219}{subsection.a.F.5.2}
-\contentsline {subsection}{\numberline {F.5.3}Use of extension}{220}{subsection.a.F.5.3}
-\contentsline {subsection}{\numberline {F.5.4}Debriefing}{221}{subsection.a.F.5.4}
+\contentsline {chapter}{\numberline {5}Using time feedback to manage interruptions}{119}{chapter.5}
+\contentsline {subsubsection}{Chapter outline}{119}{section*.106}
+\contentsline {section}{\numberline {5.1}Introduction}{119}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Delaying the intention to interrupt}{120}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Shortening duration of inquiries}{121}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Preparing task information}{121}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Feedback to improve task performance}{122}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Developing the design intervention}{123}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}The moment of feedback}{124}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}The type of time feedback}{125}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Task sequence}{125}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Implementation}{125}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}Study 6: Looking up information in email during an online experiment}{127}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Introduction}{127}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Method}{128}{subsection.5.3.2}
+\contentsline {subsubsection}{Participants}{128}{section*.108}
+\contentsline {subsubsection}{Design}{128}{section*.109}
+\contentsline {subsubsection}{Materials}{129}{section*.110}
+\contentsline {subsubsection}{Procedure}{130}{section*.112}
+\contentsline {subsubsection}{Pilot study}{131}{section*.113}
+\contentsline {subsection}{\numberline {5.3.3}Results}{131}{subsection.5.3.3}
+\contentsline {subsubsection}{Cleaning the data}{132}{section*.115}
+\contentsline {subsubsection}{Task performance}{132}{section*.116}
+\contentsline {subsubsection}{Number and duration of switches}{132}{section*.117}
+\contentsline {subsubsection}{Interkey intervals}{134}{section*.120}
+\contentsline {subsubsection}{Effect of interruption duration on trial completion time}{136}{section*.123}
+\contentsline {subsection}{\numberline {5.3.4}Discussion}{136}{subsection.5.3.4}
+\contentsline {subsubsection}{Conclusion}{138}{section*.125}
+\contentsline {section}{\numberline {5.4}Study 7: Looking up information for expenses in an office setting}{139}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Introduction}{139}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Method}{140}{subsection.5.4.2}
+\contentsline {subsubsection}{Participants}{140}{section*.126}
+\contentsline {subsubsection}{Materials}{140}{section*.128}
+\contentsline {subsubsection}{Procedure}{143}{section*.129}
+\contentsline {subsubsection}{Pilot study}{144}{section*.130}
+\contentsline {subsubsection}{Data analysis}{144}{section*.131}
+\contentsline {subsection}{\numberline {5.4.3}Findings}{144}{subsection.5.4.3}
+\contentsline {subsubsection}{Switching behaviour}{145}{section*.132}
+\contentsline {subsubsection}{Awareness of interruption behaviour}{146}{section*.136}
+\contentsline {subsubsection}{Reflecting on actions during an interruption}{147}{section*.137}
+\contentsline {subsubsection}{Reflecting on the relevance of interruptions}{148}{section*.138}
+\contentsline {subsubsection}{Time information for task management and perceived productivity}{148}{section*.139}
+\contentsline {subsubsection}{Setting goals for time limits}{149}{section*.140}
+\contentsline {subsubsection}{Context of information}{150}{section*.141}
+\contentsline {subsubsection}{Different work environments}{151}{section*.142}
+\contentsline {subsection}{\numberline {5.4.4}Discussion}{152}{subsection.5.4.4}
+\contentsline {subsubsection}{Implications for design}{154}{section*.144}
+\contentsline {subsubsection}{Limitations}{156}{section*.145}
+\contentsline {section}{\numberline {5.5}Summary of Chapter 5}{156}{section.5.5}
+\contentsline {chapter}{\numberline {6}General Discussion}{158}{chapter.6}
+\contentsline {subsubsection}{Chapter outline}{158}{section*.146}
+\contentsline {section}{\numberline {6.1}Summary of findings}{158}{section.6.1}
+\contentsline {section}{\numberline {6.2}Contributions}{161}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Contribution to knowledge}{161}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Practical implications}{162}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Future work}{164}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Complementing with other solutions}{164}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Time feedback to improve task performance}{165}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Predicting the type of interruption to advise length of interruption}{165}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Tracking behaviour over time}{166}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}Cross-device time feedback}{166}{subsection.6.3.5}
+\contentsline {section}{\numberline {6.4}Generalisability of findings}{167}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Generalising findings to other types of interruptions}{167}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Extending research findings to other settings}{167}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Limitations}{168}{subsection.6.4.3}
+\contentsline {subsubsection}{Manipulating a qualitative phenomenon in a quantitative way}{168}{section*.147}
+\contentsline {subsubsection}{Different participant populations}{169}{section*.148}
+\contentsline {subsubsection}{Focus on digital inquiries}{169}{section*.149}
+\contentsline {section}{\numberline {6.5}Conclusion}{170}{section.6.5}
+\contentsline {chapter}{References}{171}{chapter*.150}
+\contentsline {chapter}{Appendix \numberline {A}Study 1 Materials}{182}{Appendix.a.A}
+\contentsline {section}{\numberline {A.1}Consent form}{182}{section.a.A.1}
+\contentsline {section}{\numberline {A.2}Information sheet}{182}{section.a.A.2}
+\contentsline {section}{\numberline {A.3}Interview script}{185}{section.a.A.3}
+\contentsline {subsection}{\numberline {A.3.1}Before the interview}{185}{subsection.a.A.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Work}{185}{subsection.a.A.3.2}
+\contentsline {subsection}{\numberline {A.3.3}Number entry}{185}{subsection.a.A.3.3}
+\contentsline {subsection}{\numberline {A.3.4}Environment}{186}{subsection.a.A.3.4}
+\contentsline {subsection}{\numberline {A.3.5}Demonstration}{187}{subsection.a.A.3.5}
+\contentsline {subsection}{\numberline {A.3.6}After the interview}{187}{subsection.a.A.3.6}
+\contentsline {chapter}{Appendix \numberline {B}Study 1 Diagrams of themes}{189}{Appendix.a.B}
+\contentsline {section}{\numberline {B.1}Task}{190}{section.a.B.1}
+\contentsline {section}{\numberline {B.2}Checking}{190}{section.a.B.2}
+\contentsline {section}{\numberline {B.3}System}{191}{section.a.B.3}
+\contentsline {section}{\numberline {B.4}Environment}{192}{section.a.B.4}
+\contentsline {section}{\numberline {B.5}Data}{193}{section.a.B.5}
+\contentsline {section}{\numberline {B.6}Errors}{194}{section.a.B.6}
+\contentsline {section}{\numberline {B.7}Strategy}{195}{section.a.B.7}
+\contentsline {section}{\numberline {B.8}Importance of accuracy and paper trails}{196}{section.a.B.8}
+\contentsline {section}{\numberline {B.9}Other}{197}{section.a.B.9}
+\contentsline {chapter}{Appendix \numberline {C}Study 2 Study protocol}{198}{Appendix.a.C}
+\contentsline {section}{\numberline {C.1}Part 1: interview}{198}{section.a.C.1}
+\contentsline {subsection}{\numberline {C.1.1}General}{198}{subsection.a.C.1.1}
+\contentsline {subsection}{\numberline {C.1.2}Information types}{198}{subsection.a.C.1.2}
+\contentsline {subsection}{\numberline {C.1.3}Resources}{199}{subsection.a.C.1.3}
+\contentsline {subsection}{\numberline {C.1.4}Tools}{200}{subsection.a.C.1.4}
+\contentsline {subsection}{\numberline {C.1.5}System}{200}{subsection.a.C.1.5}
+\contentsline {section}{\numberline {C.2}Part 2: think aloud}{200}{section.a.C.2}
+\contentsline {section}{\numberline {C.3}Part 3: observation}{201}{section.a.C.3}
+\contentsline {section}{\numberline {C.4}Part 4: summary}{201}{section.a.C.4}
+\contentsline {chapter}{Appendix \numberline {D}Study 2 Distributed Cognition models}{202}{Appendix.a.D}
+\contentsline {section}{\numberline {D.1}Physical model}{203}{section.a.D.1}
+\contentsline {section}{\numberline {D.2}Artefact model}{207}{section.a.D.2}
+\contentsline {section}{\numberline {D.3}Information flow model}{209}{section.a.D.3}
+\contentsline {chapter}{Appendix \numberline {E}Study 4 Interleaving rates per participant}{211}{Appendix.a.E}
+\contentsline {chapter}{Appendix \numberline {F}Study 7 Materials}{213}{Appendix.a.F}
+\contentsline {section}{\numberline {F.1}Study invite}{213}{section.a.F.1}
+\contentsline {section}{\numberline {F.2}Consent form}{213}{section.a.F.2}
+\contentsline {section}{\numberline {F.3}Information sheet}{213}{section.a.F.3}
+\contentsline {section}{\numberline {F.4}Installation instructions}{220}{section.a.F.4}
+\contentsline {section}{\numberline {F.5} Interview script}{221}{section.a.F.5}
+\contentsline {subsection}{\numberline {F.5.1}General questions}{221}{subsection.a.F.5.1}
+\contentsline {subsection}{\numberline {F.5.2}Use of ManicTime}{223}{subsection.a.F.5.2}
+\contentsline {subsection}{\numberline {F.5.3}Use of extension}{224}{subsection.a.F.5.3}
+\contentsline {subsection}{\numberline {F.5.4}Debriefing}{225}{subsection.a.F.5.4}
